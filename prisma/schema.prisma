@@ -1,0 +1,115 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum Role {
+  ADMIN
+  TEACHER
+  STUDENT
+}
+
+model User {
+  id        String   @id @default(uuid())
+  name      String
+  email     String   @unique
+  password  String
+  role      Role     @default(STUDENT)
+  createdAt DateTime @default(now())
+
+  // Relations
+  enrollments    Enrollment[]
+  examAttempts   ExamAttempt[]
+  createdExams   Exam[]           @relation("ExamCreator")
+  uploadedMaterials CourseMaterial[] @relation("MaterialUploader")
+}
+
+model Course {
+  id        String   @id @default(uuid())
+  name      String
+  description String?
+  createdAt DateTime @default(now())
+
+  enrollments Enrollment[]
+  exams       Exam[]
+  materials   CourseMaterial[]
+}
+
+model Enrollment {
+  id         String   @id @default(uuid())
+  userId     String
+  courseId    String
+  verified   Boolean  @default(false)
+  createdAt  DateTime @default(now())
+
+  user   User   @relation(fields: [userId], references: [id])
+  course Course @relation(fields: [courseId], references: [id])
+
+  @@unique([userId, courseId])
+}
+
+model Exam {
+  id        String   @id @default(uuid())
+  title     String
+  courseId   String
+  createdBy String
+  createdAt DateTime @default(now())
+
+  course    Course    @relation(fields: [courseId], references: [id])
+  creator   User      @relation("ExamCreator", fields: [createdBy], references: [id])
+  questions Question[]
+  attempts  ExamAttempt[]
+}
+
+model Question {
+  id            String @id @default(uuid())
+  examId        String
+  questionText  String
+  correctAnswer String
+  marks         Int
+
+  exam    Exam     @relation(fields: [examId], references: [id], onDelete: Cascade)
+  answers Answer[]
+}
+
+model ExamAttempt {
+  id        String   @id @default(uuid())
+  examId    String
+  studentId String
+  score     Int?
+  createdAt DateTime @default(now())
+
+  exam    Exam    @relation(fields: [examId], references: [id])
+  student User    @relation(fields: [studentId], references: [id])
+  answers Answer[]
+
+  @@unique([examId, studentId])
+}
+
+model Answer {
+  id            String @id @default(uuid())
+  attemptId     String
+  questionId    String
+  studentAnswer String
+
+  attempt  ExamAttempt @relation(fields: [attemptId], references: [id], onDelete: Cascade)
+  question Question    @relation(fields: [questionId], references: [id])
+}
+
+model CourseMaterial {
+  id         String   @id @default(uuid())
+  courseId    String
+  uploadedBy String
+  title      String
+  fileUrl    String
+  publicId   String
+  fileType   String
+  createdAt  DateTime @default(now())
+
+  course   Course @relation(fields: [courseId], references: [id])
+  uploader User   @relation("MaterialUploader", fields: [uploadedBy], references: [id])
+}
