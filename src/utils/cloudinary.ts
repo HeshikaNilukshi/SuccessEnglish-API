@@ -31,4 +31,9 @@ export const deleteFromCloudinary = (publicId: string): Promise<any> => {
   return cloudinary.uploader.destroy(publicId);
 };
 
+import multer from 'multer';
+
+const storage = multer.memoryStorage();
+export const upload = multer({ storage });
+
 export default cloudinary;
