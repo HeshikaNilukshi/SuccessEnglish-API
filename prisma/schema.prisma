@@ -40,11 +40,13 @@ model Course {
 }
 
 model Enrollment {
-  id         String   @id @default(uuid())
-  userId     String
-  courseId    String
-  verified   Boolean  @default(false)
-  createdAt  DateTime @default(now())
+  id              String   @id @default(uuid())
+  userId          String
+  courseId        String
+  receiptUrl      String
+  receiptPublicId String
+  verified        Boolean  @default(false)
+  createdAt       DateTime @default(now())
 
   user   User   @relation(fields: [userId], references: [id])
   course Course @relation(fields: [courseId], references: [id])
@@ -55,6 +57,7 @@ model Enrollment {
 model Exam {
   id        String   @id @default(uuid())
   title     String
+  duration  Int      @default(0)
   courseId   String
   createdBy String
   createdAt DateTime @default(now())

@@ -2,6 +2,9 @@ import { Request, Response } from 'express';
 import { validationResult } from 'express-validator';
 import prisma from '../config/db';
 
+// Allow 30 seconds extra after the deadline to account for network delays
+const GRACE_PERIOD_SECONDS = 60;
+
 export const createExam = async (req: Request, res: Response): Promise<void> => {
   if (!req.user) {
     res.status(401).json({ message: 'Unauthorized' });
@@ -14,7 +17,7 @@ export const createExam = async (req: Request, res: Response): Promise<void> => 
     return;
   }
 
-  const { title, courseId, questions } = req.body;
+  const { title, courseId, duration, questions } = req.body;
 
   try {
     // Check if course exists
@@ -32,6 +35,7 @@ export const createExam = async (req: Request, res: Response): Promise<void> => 
       data: {
         title,
         courseId,
+        duration: duration || 0,
         createdBy: req.user.id,
         questions: {
           create: questions.map((q: any) => ({
@@ -122,7 +126,7 @@ export const updateExam = async (req: Request, res: Response): Promise<void> => 
   }
 
   const id = req.params.id as string;
-  const { title, questions } = req.body;
+  const { title, duration, questions } = req.body;
 
   try {
     const examExists = await prisma.exam.findUnique({
@@ -149,6 +153,7 @@ export const updateExam = async (req: Request, res: Response): Promise<void> => 
           where: { id },
           data: {
             title: title || undefined,
+            duration: duration !== undefined ? duration : undefined,
             questions: {
               create: questions.map((q: any) => ({
                 questionText: q.questionText,
@@ -167,6 +172,7 @@ export const updateExam = async (req: Request, res: Response): Promise<void> => 
         where: { id },
         data: {
           title: title || undefined,
+          duration: duration !== undefined ? duration : undefined,
         },
         include: {
           questions: true,
@@ -205,6 +211,66 @@ export const deleteExam = async (req: Request, res: Response): Promise<void> => 
   }
 };
 
+export const startExam = async (req: Request, res: Response): Promise<void> => {
+  if (!req.user) {
+    res.status(401).json({ message: 'Unauthorized' });
+    return;
+  }
+
+  const id = req.params.id as string;
+
+  try {
+    // Check if exam exists
+    const exam = await prisma.exam.findUnique({
+      where: { id },
+    });
+
+    if (!exam) {
+      res.status(404).json({ message: 'Exam not found' });
+      return;
+    }
+
+    // Check if student already started this exam
+    const existingAttempt = await prisma.examAttempt.findUnique({
+      where: {
+        examId_studentId: {
+          examId: id,
+          studentId: req.user.id,
+        },
+      },
+    });
+
+    if (existingAttempt) {
+      res.status(409).json({ message: 'Already started this exam' });
+      return;
+    }
+
+    // Create attempt record — this marks the start time via createdAt
+    const attempt = await prisma.examAttempt.create({
+      data: {
+        examId: id,
+        studentId: req.user.id,
+        score: null,
+      },
+    });
+
+    // Calculate deadline for the frontend countdown timer
+    // If duration is 0, there is no time limit
+    const deadline = exam.duration > 0
+      ? new Date(attempt.createdAt.getTime() + exam.duration * 60 * 1000)
+      : null;
+
+    res.status(201).json({
+      attemptId: attempt.id,
+      startedAt: attempt.createdAt,
+      deadline,
+    });
+  } catch (error) {
+    console.error('Start exam error:', error);
+    res.status(500).json({ message: 'Internal server error' });
+  }
+};
+
 export const submitExam = async (req: Request, res: Response): Promise<void> => {
   if (!req.user) {
     res.status(401).json({ message: 'Unauthorized' });
@@ -224,7 +290,6 @@ export const submitExam = async (req: Request, res: Response): Promise<void> => 
     // Check if exam exists
     const exam = await prisma.exam.findUnique({
       where: { id },
-      include: { questions: true },
     });
 
     if (!exam) {
@@ -232,48 +297,44 @@ export const submitExam = async (req: Request, res: Response): Promise<void> => 
       return;
     }
 
-    // Check if student already attempted
-    const existingAttempt = await prisma.examAttempt.findUnique({
+    // Find the existing attempt (created by startExam)
+    const attempt = await prisma.examAttempt.findUnique({
       where: {
         examId_studentId: {
           examId: id,
           studentId: req.user.id,
         },
       },
+      include: { _count: { select: { answers: true } } },
     });
 
-    if (existingAttempt) {
-      res.status(409).json({ message: 'Already attempted this exam' });
+    if (!attempt) {
+      res.status(400).json({ message: 'Exam not started' });
       return;
     }
 
-    // Auto-score
-    let score = 0;
-    let totalMarks = 0;
-
-    const questionMap = new Map<string, typeof exam.questions[0]>();
-    for (const q of exam.questions) {
-      questionMap.set(q.id, q);
-      totalMarks += q.marks;
+    // Check if already submitted (has answers means already submitted)
+    if (attempt._count.answers > 0) {
+      res.status(409).json({ message: 'Already submitted this exam' });
+      return;
     }
 
-    for (const ans of answers) {
-      const q = questionMap.get(ans.questionId);
-      if (q) {
-        const studentAns = (ans.studentAnswer || '').trim().toLowerCase();
-        const correctAns = (q.correctAnswer || '').trim().toLowerCase();
-        if (studentAns === correctAns) {
-          score += q.marks;
-        }
+    // Enforce deadline: if duration > 0, check that we are within the allowed time + grace period
+    if (exam.duration > 0) {
+      const deadlineMs = attempt.createdAt.getTime() + exam.duration * 60 * 1000;
+      const graceMs = GRACE_PERIOD_SECONDS * 1000;
+      const now = Date.now();
+
+      if (now > deadlineMs + graceMs) {
+        res.status(403).json({ message: 'Time is up. Submission deadline has passed.' });
+        return;
       }
     }
 
-    // Create ExamAttempt with nested answers
-    const attempt = await prisma.examAttempt.create({
+    // Save answers
+    const updatedAttempt = await prisma.examAttempt.update({
+      where: { id: attempt.id },
       data: {
-        examId: id,
-        studentId: req.user.id,
-        score,
         answers: {
           create: answers.map((a: any) => ({
             questionId: a.questionId,
@@ -283,10 +344,9 @@ export const submitExam = async (req: Request, res: Response): Promise<void> => 
       },
     });
 
-    res.status(201).json({
-      attemptId: attempt.id,
-      score,
-      totalMarks,
+    res.status(200).json({
+      attemptId: updatedAttempt.id,
+      message: 'Exam submitted successfully',
     });
   } catch (error) {
     console.error('Submit exam error:', error);

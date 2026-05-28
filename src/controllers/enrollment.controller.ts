@@ -1,6 +1,7 @@
 import { Request, Response } from 'express';
 import { validationResult } from 'express-validator';
 import prisma from '../config/db';
+import { uploadToCloudinary } from '../utils/cloudinary';
 
 export const requestEnrollment = async (req: Request, res: Response): Promise<void> => {
   if (!req.user) {
@@ -11,6 +12,11 @@ export const requestEnrollment = async (req: Request, res: Response): Promise<vo
   const errors = validationResult(req);
   if (!errors.isEmpty()) {
     res.status(400).json({ errors: errors.array() });
+    return;
+  }
+
+  if (!req.file) {
+    res.status(400).json({ message: 'Payment receipt image is required' });
     return;
   }
 
@@ -42,11 +48,16 @@ export const requestEnrollment = async (req: Request, res: Response): Promise<vo
       return;
     }
 
+    // Upload payment receipt image to Cloudinary
+    const cloudinaryResult = await uploadToCloudinary(req.file.buffer, 'lms_receipts');
+
     // 4. Create enrollment with verified: false
     const enrollment = await prisma.enrollment.create({
       data: {
         userId: req.user.id,
         courseId,
+        receiptUrl: cloudinaryResult.secure_url,
+        receiptPublicId: cloudinaryResult.public_id,
         verified: false,
       },
     });
@@ -111,6 +122,13 @@ export const getMyEnrollments = async (req: Request, res: Response): Promise<voi
 
 export const verifyEnrollment = async (req: Request, res: Response): Promise<void> => {
   const id = req.params.id as string;
+  const errors = validationResult(req);
+  if (!errors.isEmpty()) {
+    res.status(400).json({ errors: errors.array() });
+    return;
+  }
+
+  const { verified } = req.body;
 
   try {
     const enrollment = await prisma.enrollment.findUnique({
@@ -124,7 +142,7 @@ export const verifyEnrollment = async (req: Request, res: Response): Promise<voi
 
     const updatedEnrollment = await prisma.enrollment.update({
       where: { id },
-      data: { verified: true },
+      data: { verified },
     });
 
     res.status(200).json(updatedEnrollment);
