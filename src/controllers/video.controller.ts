@@ -1,26 +1,26 @@
 import { Request, Response } from 'express';
 import { validationResult } from 'express-validator';
 import prisma from '../config/db';
-import { uploadToCloudinary, deleteFromCloudinary } from '../utils/cloudinary';
+import { generateSignedUploadParams, deleteFromCloudinary } from '../utils/cloudinary';
 
-export const uploadMaterial = async (req: Request, res: Response): Promise<void> => {
-  if (!req.user) {
-    res.status(401).json({ message: 'Unauthorized' });
-    return;
+export const getUploadSignature = async (req: Request, res: Response): Promise<void> => {
+  try {
+    const params = generateSignedUploadParams('lms_videos');
+    res.status(200).json(params);
+  } catch (error) {
+    console.error('Get upload signature error:', error);
+    res.status(500).json({ message: 'Internal server error' });
   }
+};
 
+export const saveVideo = async (req: Request, res: Response): Promise<void> => {
   const errors = validationResult(req);
   if (!errors.isEmpty()) {
     res.status(400).json({ errors: errors.array() });
     return;
   }
 
-  if (!req.file) {
-    res.status(400).json({ message: 'File is required' });
-    return;
-  }
-
-  const { courseId, title, fileType } = req.body;
+  const { courseId, title, videoUrl, publicId } = req.body;
 
   try {
     // Check if course exists
@@ -33,29 +33,23 @@ export const uploadMaterial = async (req: Request, res: Response): Promise<void>
       return;
     }
 
-    // Upload to Cloudinary
-    const cloudinaryResult = await uploadToCloudinary(req.file.buffer, 'lms_materials');
-
-    // Create DB record
-    const material = await prisma.courseMaterial.create({
+    const video = await prisma.video.create({
       data: {
         courseId,
-        uploadedBy: req.user.id,
         title,
-        fileUrl: cloudinaryResult.secure_url,
-        publicId: cloudinaryResult.public_id,
-        fileType,
+        videoUrl,
+        publicId,
       },
     });
 
-    res.status(201).json(material);
+    res.status(201).json(video);
   } catch (error) {
-    console.error('Upload material error:', error);
+    console.error('Save video error:', error);
     res.status(500).json({ message: 'Internal server error' });
   }
 };
 
-export const getMaterialsByCourse = async (req: Request, res: Response): Promise<void> => {
+export const getVideosByCourse = async (req: Request, res: Response): Promise<void> => {
   if (!req.user) {
     res.status(401).json({ message: 'Unauthorized' });
     return;
@@ -64,6 +58,16 @@ export const getMaterialsByCourse = async (req: Request, res: Response): Promise
   const courseId = req.params.courseId as string;
 
   try {
+    // Check if course exists
+    const course = await prisma.course.findUnique({
+      where: { id: courseId },
+    });
+
+    if (!course) {
+      res.status(404).json({ message: 'Course not found' });
+      return;
+    }
+
     // If student, check verified enrollment
     if (req.user.role === 'STUDENT') {
       const enrollment = await prisma.enrollment.findUnique({
@@ -81,18 +85,20 @@ export const getMaterialsByCourse = async (req: Request, res: Response): Promise
       }
     }
 
-    const materials = await prisma.courseMaterial.findMany({
+    // Latest videos need to be come to top (createdAt DESC)
+    const videos = await prisma.video.findMany({
       where: { courseId },
+      orderBy: { createdAt: 'desc' },
     });
 
-    res.status(200).json(materials);
+    res.status(200).json(videos);
   } catch (error) {
-    console.error('Get materials error:', error);
+    console.error('Get videos by course error:', error);
     res.status(500).json({ message: 'Internal server error' });
   }
 };
 
-export const downloadMaterial = async (req: Request, res: Response): Promise<void> => {
+export const getVideo = async (req: Request, res: Response): Promise<void> => {
   if (!req.user) {
     res.status(401).json({ message: 'Unauthorized' });
     return;
@@ -101,12 +107,12 @@ export const downloadMaterial = async (req: Request, res: Response): Promise<voi
   const id = req.params.id as string;
 
   try {
-    const material = await prisma.courseMaterial.findUnique({
+    const video = await prisma.video.findUnique({
       where: { id },
     });
 
-    if (!material) {
-      res.status(404).json({ message: 'Material not found' });
+    if (!video) {
+      res.status(404).json({ message: 'Video not found' });
       return;
     }
 
@@ -116,7 +122,7 @@ export const downloadMaterial = async (req: Request, res: Response): Promise<voi
         where: {
           userId_courseId: {
             userId: req.user.id,
-            courseId: material.courseId,
+            courseId: video.courseId,
           },
         },
       });
@@ -127,14 +133,14 @@ export const downloadMaterial = async (req: Request, res: Response): Promise<voi
       }
     }
 
-    res.redirect(material.fileUrl);
+    res.status(200).json(video);
   } catch (error) {
-    console.error('Download material error:', error);
+    console.error('Get video error:', error);
     res.status(500).json({ message: 'Internal server error' });
   }
 };
 
-export const updateMaterial = async (req: Request, res: Response): Promise<void> => {
+export const updateVideo = async (req: Request, res: Response): Promise<void> => {
   const errors = validationResult(req);
   if (!errors.isEmpty()) {
     res.status(400).json({ errors: errors.array() });
@@ -142,67 +148,64 @@ export const updateMaterial = async (req: Request, res: Response): Promise<void>
   }
 
   const id = req.params.id as string;
-  const { title } = req.body;
+  const { title, videoUrl, publicId } = req.body;
 
   try {
-    const material = await prisma.courseMaterial.findUnique({
+    const existingVideo = await prisma.video.findUnique({
       where: { id },
     });
 
-    if (!material) {
-      res.status(404).json({ message: 'Material not found' });
+    if (!existingVideo) {
+      res.status(404).json({ message: 'Video not found' });
       return;
     }
 
     const updateData: any = {};
-    if (title) updateData.title = title;
+    if (title !== undefined) updateData.title = title;
 
-    if (req.file) {
-      // Delete old file
-      await deleteFromCloudinary(material.publicId);
-
-      // Upload new file
-      const cloudinaryResult = await uploadToCloudinary(req.file.buffer, 'lms_materials');
-      updateData.fileUrl = cloudinaryResult.secure_url;
-      updateData.publicId = cloudinaryResult.public_id;
+    if (videoUrl && publicId) {
+      // Delete old video from Cloudinary
+      await deleteFromCloudinary(existingVideo.publicId);
+      updateData.videoUrl = videoUrl;
+      updateData.publicId = publicId;
     }
 
-    const updatedMaterial = await prisma.courseMaterial.update({
+    const updatedVideo = await prisma.video.update({
       where: { id },
       data: updateData,
     });
 
-    res.status(200).json(updatedMaterial);
+    res.status(200).json(updatedVideo);
   } catch (error) {
-    console.error('Update material error:', error);
+    console.error('Update video error:', error);
     res.status(500).json({ message: 'Internal server error' });
   }
 };
 
-export const deleteMaterial = async (req: Request, res: Response): Promise<void> => {
+export const deleteVideo = async (req: Request, res: Response): Promise<void> => {
   const id = req.params.id as string;
 
   try {
-    const material = await prisma.courseMaterial.findUnique({
+    const video = await prisma.video.findUnique({
       where: { id },
     });
 
-    if (!material) {
-      res.status(404).json({ message: 'Material not found' });
+    if (!video) {
+      res.status(404).json({ message: 'Video not found' });
       return;
     }
 
     // Delete from Cloudinary
-    await deleteFromCloudinary(material.publicId);
+    await deleteFromCloudinary(video.publicId);
 
     // Delete from DB
-    await prisma.courseMaterial.delete({
+    await prisma.video.delete({
       where: { id },
     });
 
-    res.status(200).json({ message: 'Material deleted successfully' });
+    res.status(200).json({ message: 'Video deleted successfully' });
   } catch (error) {
-    console.error('Delete material error:', error);
+    console.error('Delete video error:', error);
     res.status(500).json({ message: 'Internal server error' });
   }
 };

@@ -6,7 +6,8 @@
     "dev": "ts-node src/server.ts",
     "build": "tsc",
     "start": "node dist/server.js",
-    "db:push": "ts-node src/scripts/db-push.ts && npx prisma generate"
+    "db:push": "ts-node src/scripts/db-push.ts && npx prisma generate",
+    "db:seed": "ts-node src/scripts/seed-courses.ts"
   },
   "dependencies": {
     "@neondatabase/serverless": "^1.1.0",

@@ -47,7 +47,7 @@ export const getCourse = async (req: Request, res: Response): Promise<void> => {
           select: {
             enrollments: true,
             exams: true,
-            materials: true,
+            videos: true,
           },
         },
       },

@@ -25,7 +25,6 @@ model User {
   enrollments    Enrollment[]
   examAttempts   ExamAttempt[]
   createdExams   Exam[]           @relation("ExamCreator")
-  uploadedMaterials CourseMaterial[] @relation("MaterialUploader")
 }
 
 model Course {
@@ -36,7 +35,7 @@ model Course {
 
   enrollments Enrollment[]
   exams       Exam[]
-  materials   CourseMaterial[]
+  videos      Video[]
 }
 
 model Enrollment {
@@ -103,16 +102,13 @@ model Answer {
   question Question    @relation(fields: [questionId], references: [id])
 }
 
-model CourseMaterial {
-  id         String   @id @default(uuid())
-  courseId    String
-  uploadedBy String
-  title      String
-  fileUrl    String
-  publicId   String
-  fileType   String
-  createdAt  DateTime @default(now())
+model Video {
+  id        String   @id @default(uuid())
+  courseId   String
+  title     String
+  videoUrl  String
+  publicId  String
+  createdAt DateTime @default(now())
 
-  course   Course @relation(fields: [courseId], references: [id])
-  uploader User   @relation("MaterialUploader", fields: [uploadedBy], references: [id])
+  course Course @relation(fields: [courseId], references: [id], onDelete: Cascade)
 }

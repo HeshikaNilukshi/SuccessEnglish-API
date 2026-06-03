@@ -1,4 +1,5 @@
 import { v2 as cloudinary } from 'cloudinary';
+import multer from 'multer';
 import dotenv from 'dotenv';
 
 dotenv.config();
@@ -31,7 +32,22 @@ export const deleteFromCloudinary = (publicId: string): Promise<any> => {
   return cloudinary.uploader.destroy(publicId);
 };
 
-import multer from 'multer';
+// Generate signed upload params for client-side direct upload
+export const generateSignedUploadParams = (folder: string) => {
+  const timestamp = Math.round(Date.now() / 1000);
+  const paramsToSign = { timestamp, folder };
+  const signature = cloudinary.utils.api_sign_request(
+    paramsToSign,
+    cloudinary.config().api_secret!
+  );
+  return {
+    signature,
+    timestamp,
+    folder,
+    api_key: cloudinary.config().api_key!,
+    cloud_name: cloudinary.config().cloud_name!,
+  };
+};
 
 const storage = multer.memoryStorage();
 export const upload = multer({ storage });

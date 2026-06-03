@@ -16,9 +16,8 @@ router.post(
   courseController.createCourse
 );
 
-router.get('/', auth, courseController.getAllCourses);
-
-router.get('/:id', auth, courseController.getCourse);
+router.get('/', courseController.getAllCourses);
+router.get('/:id', courseController.getCourse);
 
 router.put(
   '/:id',
