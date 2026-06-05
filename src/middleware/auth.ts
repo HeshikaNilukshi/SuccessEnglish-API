@@ -4,7 +4,7 @@ import jwt from 'jsonwebtoken';
 declare global {
   namespace Express {
     interface Request {
-      user?: { id: string; role: string };
+      user?: { id: number; role: string };
     }
   }
 }
@@ -20,7 +20,7 @@ export const auth = (req: Request, res: Response, next: NextFunction): void => {
   const token = authHeader.split(' ')[1];
 
   try {
-    const decoded = jwt.verify(token, process.env.JWT_SECRET || 'secret') as { id: string; role: string };
+    const decoded = jwt.verify(token, process.env.JWT_SECRET || 'secret') as { id: number; role: string };
     req.user = decoded;
     next();
   } catch (error) {

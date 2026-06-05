@@ -146,7 +146,7 @@ export const updateUser = async (req: Request, res: Response): Promise<void> => 
     return;
   }
 
-  const id = req.params.id as string;
+  const id = parseInt(req.params.id as string, 10);
   const { name, email, password, role } = req.body;
 
   try {
@@ -195,7 +195,7 @@ export const updateUser = async (req: Request, res: Response): Promise<void> => 
 };
 
 export const deleteUser = async (req: Request, res: Response): Promise<void> => {
-  const id = req.params.id as string;
+  const id = parseInt(req.params.id as string, 10);
 
   try {
     const userExists = await prisma.user.findUnique({

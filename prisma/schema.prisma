@@ -14,7 +14,7 @@ enum Role {
 }
 
 model User {
-  id        String   @id @default(uuid())
+  id        Int      @id @default(autoincrement())
   name      String
   email     String   @unique
   password  String
@@ -40,7 +40,7 @@ model Course {
 
 model Enrollment {
   id              String   @id @default(uuid())
-  userId          String
+  userId          Int
   courseId        String
   receiptUrl      String
   receiptPublicId String
@@ -58,7 +58,7 @@ model Exam {
   title     String
   duration  Int      @default(0)
   courseId   String
-  createdBy String
+  createdBy Int
   createdAt DateTime @default(now())
 
   course    Course    @relation(fields: [courseId], references: [id])
@@ -81,7 +81,7 @@ model Question {
 model ExamAttempt {
   id        String   @id @default(uuid())
   examId    String
-  studentId String
+  studentId Int
   score     Int?
   createdAt DateTime @default(now())
 
