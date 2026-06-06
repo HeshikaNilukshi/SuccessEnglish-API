@@ -121,7 +121,7 @@ export const getMyEnrollments = async (req: Request, res: Response): Promise<voi
 };
 
 export const verifyEnrollment = async (req: Request, res: Response): Promise<void> => {
-  const id = req.params.id as string;
+  const id = parseInt(req.params.id as string, 10);
   const errors = validationResult(req);
   if (!errors.isEmpty()) {
     res.status(400).json({ errors: errors.array() });

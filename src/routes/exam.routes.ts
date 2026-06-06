@@ -12,7 +12,7 @@ router.post(
   role('ADMIN', 'TEACHER'),
   [
     body('title').notEmpty().withMessage('Exam title is required'),
-    body('courseId').notEmpty().withMessage('courseId is required'),
+    body('courseId').isInt().withMessage('courseId must be an integer'),
     body('duration').optional().isInt({ min: 0 }).withMessage('Duration must be 0 or a positive integer (minutes)'),
     body('questions').isArray({ min: 1 }).withMessage('Questions must be an array with at least one question'),
     body('questions.*.questionText').notEmpty().withMessage('Question text is required'),
@@ -51,7 +51,7 @@ router.post(
   role('STUDENT'),
   [
     body('answers').isArray().withMessage('Answers must be an array'),
-    body('answers.*.questionId').notEmpty().withMessage('questionId is required'),
+    body('answers.*.questionId').isInt().withMessage('questionId must be an integer'),
     body('answers.*.studentAnswer').notEmpty().withMessage('studentAnswer is required'),
   ],
   examController.submitExam

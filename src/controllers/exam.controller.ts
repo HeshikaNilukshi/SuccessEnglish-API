@@ -58,7 +58,7 @@ export const createExam = async (req: Request, res: Response): Promise<void> => 
 };
 
 export const getExamsByCourse = async (req: Request, res: Response): Promise<void> => {
-  const courseId = req.params.courseId as string;
+  const courseId = parseInt(req.params.courseId as string, 10);
 
   try {
     const exams = await prisma.exam.findMany({
@@ -83,7 +83,7 @@ export const getExam = async (req: Request, res: Response): Promise<void> => {
     return;
   }
 
-  const id = req.params.id as string;
+  const id = parseInt(req.params.id as string, 10);
 
   try {
     const exam = await prisma.exam.findUnique({
@@ -125,7 +125,7 @@ export const updateExam = async (req: Request, res: Response): Promise<void> => 
     return;
   }
 
-  const id = req.params.id as string;
+  const id = parseInt(req.params.id as string, 10);
   const { title, duration, questions } = req.body;
 
   try {
@@ -188,7 +188,7 @@ export const updateExam = async (req: Request, res: Response): Promise<void> => 
 };
 
 export const deleteExam = async (req: Request, res: Response): Promise<void> => {
-  const id = req.params.id as string;
+  const id = parseInt(req.params.id as string, 10);
 
   try {
     const examExists = await prisma.exam.findUnique({
@@ -217,7 +217,7 @@ export const startExam = async (req: Request, res: Response): Promise<void> => {
     return;
   }
 
-  const id = req.params.id as string;
+  const id = parseInt(req.params.id as string, 10);
 
   try {
     // Check if exam exists
@@ -283,7 +283,7 @@ export const submitExam = async (req: Request, res: Response): Promise<void> => 
     return;
   }
 
-  const id = req.params.id as string;
+  const id = parseInt(req.params.id as string, 10);
   const { answers } = req.body;
 
   try {
@@ -355,7 +355,7 @@ export const submitExam = async (req: Request, res: Response): Promise<void> => 
 };
 
 export const getExamResults = async (req: Request, res: Response): Promise<void> => {
-  const id = req.params.id as string;
+  const id = parseInt(req.params.id as string, 10);
 
   try {
     const attempts = await prisma.examAttempt.findMany({
@@ -383,7 +383,7 @@ export const getMyResult = async (req: Request, res: Response): Promise<void> =>
     return;
   }
 
-  const id = req.params.id as string;
+  const id = parseInt(req.params.id as string, 10);
 
   try {
     const attempt = await prisma.examAttempt.findUnique({

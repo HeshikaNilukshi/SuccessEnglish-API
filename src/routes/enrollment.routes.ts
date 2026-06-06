@@ -16,7 +16,7 @@ router.post(
   role('STUDENT'),
   upload.single('receipt'),
   [
-    body('courseId').notEmpty().withMessage('courseId is required'),
+    body('courseId').isInt().withMessage('courseId must be an integer'),
   ],
   enrollmentController.requestEnrollment
 );

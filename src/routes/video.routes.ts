@@ -13,7 +13,7 @@ router.post(
   auth,
   role('ADMIN', 'TEACHER'),
   [
-    body('courseId').notEmpty().withMessage('courseId is required'),
+    body('courseId').isInt().withMessage('courseId must be an integer'),
     body('title').notEmpty().withMessage('Title is required'),
     body('videoUrl').notEmpty().withMessage('videoUrl is required'),
     body('publicId').notEmpty().withMessage('publicId is required'),

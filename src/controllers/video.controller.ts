@@ -55,7 +55,7 @@ export const getVideosByCourse = async (req: Request, res: Response): Promise<vo
     return;
   }
 
-  const courseId = req.params.courseId as string;
+  const courseId = parseInt(req.params.courseId as string, 10);
 
   try {
     // Check if course exists
@@ -104,7 +104,7 @@ export const getVideo = async (req: Request, res: Response): Promise<void> => {
     return;
   }
 
-  const id = req.params.id as string;
+  const id = parseInt(req.params.id as string, 10);
 
   try {
     const video = await prisma.video.findUnique({
@@ -147,7 +147,7 @@ export const updateVideo = async (req: Request, res: Response): Promise<void> =>
     return;
   }
 
-  const id = req.params.id as string;
+  const id = parseInt(req.params.id as string, 10);
   const { title, videoUrl, publicId } = req.body;
 
   try {
@@ -183,7 +183,7 @@ export const updateVideo = async (req: Request, res: Response): Promise<void> =>
 };
 
 export const deleteVideo = async (req: Request, res: Response): Promise<void> => {
-  const id = req.params.id as string;
+  const id = parseInt(req.params.id as string, 10);
 
   try {
     const video = await prisma.video.findUnique({

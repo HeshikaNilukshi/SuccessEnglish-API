@@ -28,7 +28,7 @@ model User {
 }
 
 model Course {
-  id        String   @id @default(uuid())
+  id        Int      @id @default(autoincrement())
   name      String
   description String?
   createdAt DateTime @default(now())
@@ -39,9 +39,9 @@ model Course {
 }
 
 model Enrollment {
-  id              String   @id @default(uuid())
+  id              Int      @id @default(autoincrement())
   userId          Int
-  courseId        String
+  courseId        Int
   receiptUrl      String
   receiptPublicId String
   verified        Boolean  @default(false)
@@ -54,10 +54,10 @@ model Enrollment {
 }
 
 model Exam {
-  id        String   @id @default(uuid())
+  id        Int      @id @default(autoincrement())
   title     String
   duration  Int      @default(0)
-  courseId   String
+  courseId   Int
   createdBy Int
   createdAt DateTime @default(now())
 
@@ -68,8 +68,8 @@ model Exam {
 }
 
 model Question {
-  id            String @id @default(uuid())
-  examId        String
+  id            Int    @id @default(autoincrement())
+  examId        Int
   questionText  String
   correctAnswer String
   marks         Int
@@ -79,8 +79,8 @@ model Question {
 }
 
 model ExamAttempt {
-  id        String   @id @default(uuid())
-  examId    String
+  id        Int      @id @default(autoincrement())
+  examId    Int
   studentId Int
   score     Int?
   createdAt DateTime @default(now())
@@ -93,9 +93,9 @@ model ExamAttempt {
 }
 
 model Answer {
-  id            String @id @default(uuid())
-  attemptId     String
-  questionId    String
+  id            Int    @id @default(autoincrement())
+  attemptId     Int
+  questionId    Int
   studentAnswer String
 
   attempt  ExamAttempt @relation(fields: [attemptId], references: [id], onDelete: Cascade)
@@ -103,8 +103,8 @@ model Answer {
 }
 
 model Video {
-  id        String   @id @default(uuid())
-  courseId   String
+  id        Int      @id @default(autoincrement())
+  courseId   Int
   title     String
   videoUrl  String
   publicId  String
