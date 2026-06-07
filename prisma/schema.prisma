@@ -28,10 +28,11 @@ model User {
 }
 
 model Course {
-  id        Int      @id @default(autoincrement())
-  name      String
+  id          Int      @id @default(autoincrement())
+  name        String
   description String?
-  createdAt DateTime @default(now())
+  price       Decimal  @db.Decimal(10, 2)
+  createdAt   DateTime @default(now())
 
   enrollments Enrollment[]
   exams       Exam[]

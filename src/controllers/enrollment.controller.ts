@@ -20,7 +20,7 @@ export const requestEnrollment = async (req: Request, res: Response): Promise<vo
     return;
   }
 
-  const { courseId } = req.body;
+  const courseId = parseInt(req.body.courseId, 10);
 
   try {
     // 2. Check if course exists

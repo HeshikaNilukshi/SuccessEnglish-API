@@ -20,7 +20,8 @@ export const saveVideo = async (req: Request, res: Response): Promise<void> => {
     return;
   }
 
-  const { courseId, title, videoUrl, publicId } = req.body;
+  const { title, videoUrl, publicId } = req.body;
+  const courseId = parseInt(req.body.courseId, 10);
 
   try {
     // Check if course exists

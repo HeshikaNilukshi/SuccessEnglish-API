@@ -12,6 +12,7 @@ router.post(
   role('ADMIN'),
   [
     body('name').notEmpty().withMessage('Course name is required'),
+    body('price').isDecimal({ decimal_digits: '0,2' }).withMessage('Price must be a valid decimal number'),
   ],
   courseController.createCourse
 );
@@ -25,6 +26,7 @@ router.put(
   role('ADMIN'),
   [
     body('name').optional().notEmpty().withMessage('Course name cannot be empty'),
+    body('price').optional().isDecimal({ decimal_digits: '0,2' }).withMessage('Price must be a valid decimal number'),
   ],
   courseController.updateCourse
 );

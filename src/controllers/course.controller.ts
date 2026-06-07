@@ -9,13 +9,14 @@ export const createCourse = async (req: Request, res: Response): Promise<void> =
     return;
   }
 
-  const { name, description } = req.body;
+  const { name, description, price } = req.body;
 
   try {
     const course = await prisma.course.create({
       data: {
         name,
         description,
+        price,
       },
     });
 
@@ -73,7 +74,7 @@ export const updateCourse = async (req: Request, res: Response): Promise<void> =
   }
 
   const id = parseInt(req.params.id as string, 10);
-  const { name, description } = req.body;
+  const { name, description, price } = req.body;
 
   try {
     const courseExists = await prisma.course.findUnique({
@@ -90,6 +91,7 @@ export const updateCourse = async (req: Request, res: Response): Promise<void> =
       data: {
         name: name || undefined,
         description: description !== undefined ? description : undefined,
+        price: price !== undefined ? price : undefined,
       },
     });
 

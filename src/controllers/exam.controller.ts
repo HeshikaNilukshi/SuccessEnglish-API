@@ -17,7 +17,9 @@ export const createExam = async (req: Request, res: Response): Promise<void> => 
     return;
   }
 
-  const { title, courseId, duration, questions } = req.body;
+  const { title, questions } = req.body;
+  const courseId = parseInt(req.body.courseId, 10);
+  const duration = parseInt(req.body.duration, 10) || 0;
 
   try {
     // Check if course exists
@@ -41,7 +43,7 @@ export const createExam = async (req: Request, res: Response): Promise<void> => 
           create: questions.map((q: any) => ({
             questionText: q.questionText,
             correctAnswer: q.correctAnswer,
-            marks: q.marks,
+            marks: parseInt(q.marks, 10),
           })),
         },
       },
@@ -126,7 +128,8 @@ export const updateExam = async (req: Request, res: Response): Promise<void> => 
   }
 
   const id = parseInt(req.params.id as string, 10);
-  const { title, duration, questions } = req.body;
+  const { title, questions } = req.body;
+  const duration = req.body.duration !== undefined ? parseInt(req.body.duration, 10) : undefined;
 
   try {
     const examExists = await prisma.exam.findUnique({
@@ -158,7 +161,7 @@ export const updateExam = async (req: Request, res: Response): Promise<void> => 
               create: questions.map((q: any) => ({
                 questionText: q.questionText,
                 correctAnswer: q.correctAnswer,
-                marks: q.marks,
+                marks: parseInt(q.marks, 10),
               })),
             },
           },
@@ -337,7 +340,7 @@ export const submitExam = async (req: Request, res: Response): Promise<void> => 
       data: {
         answers: {
           create: answers.map((a: any) => ({
-            questionId: a.questionId,
+            questionId: parseInt(a.questionId, 10),
             studentAnswer: a.studentAnswer,
           })),
         },
