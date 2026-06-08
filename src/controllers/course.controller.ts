@@ -38,9 +38,16 @@ export const getAllCourses = async (req: Request, res: Response): Promise<void> 
 };
 
 export const getCourse = async (req: Request, res: Response): Promise<void> => {
+  if (!req.user) {
+    res.status(401).json({ message: 'Unauthorized' });
+    return;
+  }
+
   const id = parseInt(req.params.id as string, 10);
 
   try {
+    // If student, basic course details are readable. Check is bypassed for enrollment visibility.
+
     const course = await prisma.course.findUnique({
       where: { id },
       include: {

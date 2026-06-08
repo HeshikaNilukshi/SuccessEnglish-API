@@ -2,9 +2,6 @@ import { Request, Response } from 'express';
 import { validationResult } from 'express-validator';
 import prisma from '../config/db';
 
-// Allow 30 seconds extra after the deadline to account for network delays
-const GRACE_PERIOD_SECONDS = 60;
-
 export const createExam = async (req: Request, res: Response): Promise<void> => {
   if (!req.user) {
     res.status(401).json({ message: 'Unauthorized' });
@@ -60,9 +57,41 @@ export const createExam = async (req: Request, res: Response): Promise<void> => 
 };
 
 export const getExamsByCourse = async (req: Request, res: Response): Promise<void> => {
+  if (!req.user) {
+    res.status(401).json({ message: 'Unauthorized' });
+    return;
+  }
+
   const courseId = parseInt(req.params.courseId as string, 10);
 
   try {
+    // Check if course exists
+    const course = await prisma.course.findUnique({
+      where: { id: courseId },
+    });
+
+    if (!course) {
+      res.status(404).json({ message: 'Course not found' });
+      return;
+    }
+
+    // If student, check verified enrollment
+    if (req.user.role === 'STUDENT') {
+      const enrollment = await prisma.enrollment.findUnique({
+        where: {
+          userId_courseId: {
+            userId: req.user.id,
+            courseId,
+          },
+        },
+      });
+
+      if (!enrollment || !enrollment.verified) {
+        res.status(403).json({ message: 'Access denied: You must be a verified enrolled student' });
+        return;
+      }
+    }
+
     const exams = await prisma.exam.findMany({
       where: { courseId },
       include: {
@@ -100,8 +129,22 @@ export const getExam = async (req: Request, res: Response): Promise<void> => {
       return;
     }
 
-    // If student, strip correct answers
+    // If student, check verified enrollment
     if (req.user.role === 'STUDENT') {
+      const enrollment = await prisma.enrollment.findUnique({
+        where: {
+          userId_courseId: {
+            userId: req.user.id,
+            courseId: exam.courseId,
+          },
+        },
+      });
+
+      if (!enrollment || !enrollment.verified) {
+        res.status(403).json({ message: 'Access denied: You must be a verified enrolled student' });
+        return;
+      }
+
       const sanitizedQuestions = exam.questions.map((q) => {
         const { correctAnswer, ...rest } = q;
         return rest;
@@ -325,11 +368,11 @@ export const submitExam = async (req: Request, res: Response): Promise<void> => 
     // Enforce deadline: if duration > 0, check that we are within the allowed time + grace period
     if (exam.duration > 0) {
       const deadlineMs = attempt.createdAt.getTime() + exam.duration * 60 * 1000;
-      const graceMs = GRACE_PERIOD_SECONDS * 1000;
+      const graceMs = 60 * 1000;
       const now = Date.now();
 
       if (now > deadlineMs + graceMs) {
-        res.status(403).json({ message: 'Time is up. Submission deadline has passed.' });
+        res.status(403).json({ message: 'Submission deadline has passed.' });
         return;
       }
     }
