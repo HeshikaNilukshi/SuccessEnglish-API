@@ -1,6 +1,7 @@
 import dotenv from 'dotenv';
 dotenv.config();
 
+import bcrypt from 'bcrypt';
 import prisma from '../config/db';
 
 const coursesToSeed = [
@@ -27,47 +28,64 @@ const coursesToSeed = [
 async function main() {
   console.log("🌱 Starting course seeding...\n");
 
+  const hashedPassword = await bcrypt.hash("teacher123", 10);
+  const teacher = await prisma.user.upsert({
+    where: { email: "teacher@lms.com" },
+    update: {},
+    create: {
+      name: "Teacher John",
+      email: "teacher@lms.com",
+      password: hashedPassword,
+      role: "TEACHER",
+    },
+  });
+
+  const adminHashedPassword = await bcrypt.hash("admin123", 10);
+  await prisma.user.upsert({
+    where: { email: "admin@lms.com" },
+    update: {},
+    create: {
+      name: "Admin User",
+      email: "admin@lms.com",
+      password: adminHashedPassword,
+      role: "ADMIN",
+    },
+  });
+
   for (const course of coursesToSeed) {
     const existing = await prisma.course.findFirst({
       where: { name: course.name },
     });
 
     if (existing) {
-      // Update the existing record with the latest data
       const updated = await prisma.course.update({
         where: { id: existing.id },
         data: {
           description: course.description,
           price: course.price,
+          createdBy: teacher.id,
         },
       });
-      console.log(`🔄 Updated course   : "${updated.name}"`);
-      console.log(`   ID               : ${updated.id}`);
-      console.log(`   Price            : LKR ${Number(updated.price).toFixed(2)}`);
-      console.log(`   Description      : ${updated.description?.slice(0, 80)}...`);
-      console.log();
+      console.log(`Updated course: "${updated.name}"`);
     } else {
       const created = await prisma.course.create({
         data: {
           name: course.name,
           description: course.description,
           price: course.price,
+          createdBy: teacher.id,
         },
       });
-      console.log(`✅ Created course   : "${created.name}"`);
-      console.log(`   ID               : ${created.id}`);
-      console.log(`   Price            : LKR ${Number(created.price).toFixed(2)}`);
-      console.log(`   Description      : ${created.description?.slice(0, 80)}...`);
-      console.log();
+      console.log(`Created course: "${created.name}"`);
     }
   }
 
-  console.log("🏁 Seeding complete!");
+  console.log("Seeding complete!");
 }
 
 main()
   .catch((e) => {
-    console.error("❌ Seeding failed:", e);
+    console.error("Seeding failed:", e);
     process.exit(1);
   })
   .finally(async () => {

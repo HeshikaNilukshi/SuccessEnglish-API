@@ -14,6 +14,11 @@ export const getUploadSignature = async (req: Request, res: Response): Promise<v
 };
 
 export const saveVideo = async (req: Request, res: Response): Promise<void> => {
+  if (!req.user) {
+    res.status(401).json({ message: 'Unauthorized' });
+    return;
+  }
+
   const errors = validationResult(req);
   if (!errors.isEmpty()) {
     res.status(400).json({ errors: errors.array() });
@@ -24,13 +29,17 @@ export const saveVideo = async (req: Request, res: Response): Promise<void> => {
   const courseId = parseInt(req.body.courseId, 10);
 
   try {
-    // Check if course exists
     const course = await prisma.course.findUnique({
       where: { id: courseId },
     });
 
     if (!course) {
       res.status(404).json({ message: 'Course not found' });
+      return;
+    }
+
+    if (req.user.role === 'TEACHER' && course.createdBy !== req.user.id) {
+      res.status(403).json({ message: 'Forbidden' });
       return;
     }
 
@@ -106,6 +115,10 @@ export const getVideo = async (req: Request, res: Response): Promise<void> => {
   }
 
   const id = parseInt(req.params.id as string, 10);
+  if (isNaN(id)) {
+    res.status(400).json({ message: 'Invalid ID' });
+    return;
+  }
 
   try {
     const video = await prisma.video.findUnique({
@@ -142,6 +155,11 @@ export const getVideo = async (req: Request, res: Response): Promise<void> => {
 };
 
 export const updateVideo = async (req: Request, res: Response): Promise<void> => {
+  if (!req.user) {
+    res.status(401).json({ message: 'Unauthorized' });
+    return;
+  }
+
   const errors = validationResult(req);
   if (!errors.isEmpty()) {
     res.status(400).json({ errors: errors.array() });
@@ -149,11 +167,16 @@ export const updateVideo = async (req: Request, res: Response): Promise<void> =>
   }
 
   const id = parseInt(req.params.id as string, 10);
+  if (isNaN(id)) {
+    res.status(400).json({ message: 'Invalid ID' });
+    return;
+  }
   const { title, videoUrl, publicId } = req.body;
 
   try {
     const existingVideo = await prisma.video.findUnique({
       where: { id },
+      include: { course: true },
     });
 
     if (!existingVideo) {
@@ -161,11 +184,15 @@ export const updateVideo = async (req: Request, res: Response): Promise<void> =>
       return;
     }
 
+    if (req.user.role === 'TEACHER' && existingVideo.course.createdBy !== req.user.id) {
+      res.status(403).json({ message: 'Forbidden' });
+      return;
+    }
+
     const updateData: any = {};
     if (title !== undefined) updateData.title = title;
 
     if (videoUrl && publicId) {
-      // Delete old video from Cloudinary
       await deleteFromCloudinary(existingVideo.publicId);
       updateData.videoUrl = videoUrl;
       updateData.publicId = publicId;
@@ -184,11 +211,21 @@ export const updateVideo = async (req: Request, res: Response): Promise<void> =>
 };
 
 export const deleteVideo = async (req: Request, res: Response): Promise<void> => {
+  if (!req.user) {
+    res.status(401).json({ message: 'Unauthorized' });
+    return;
+  }
+
   const id = parseInt(req.params.id as string, 10);
+  if (isNaN(id)) {
+    res.status(400).json({ message: 'Invalid ID' });
+    return;
+  }
 
   try {
     const video = await prisma.video.findUnique({
       where: { id },
+      include: { course: true },
     });
 
     if (!video) {
@@ -196,10 +233,13 @@ export const deleteVideo = async (req: Request, res: Response): Promise<void> =>
       return;
     }
 
-    // Delete from Cloudinary
+    if (req.user.role === 'TEACHER' && video.course.createdBy !== req.user.id) {
+      res.status(403).json({ message: 'Forbidden' });
+      return;
+    }
+
     await deleteFromCloudinary(video.publicId);
 
-    // Delete from DB
     await prisma.video.delete({
       where: { id },
     });

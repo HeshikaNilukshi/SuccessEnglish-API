@@ -24,6 +24,21 @@ router.post(
 
 router.get('/course/:courseId', auth, examController.getExamsByCourse);
 
+router.get('/course/:courseId/results', auth, role('ADMIN', 'TEACHER'), examController.getAllResultsByCourse);
+router.get('/course/:courseId/student/:studentId/results', auth, role('ADMIN', 'TEACHER'), examController.getStudentResultsByCourse);
+router.get('/attempt/:attemptId', auth, role('ADMIN', 'TEACHER'), examController.getAttemptWithAnswers);
+router.put(
+  '/attempt/:attemptId',
+  auth,
+  role('ADMIN', 'TEACHER'),
+  [
+    body('answers').isArray().withMessage('Answers must be an array'),
+    body('answers.*.answerId').isInt().withMessage('answerId must be an integer'),
+    body('answers.*.awardedMarks').isInt({ min: 0 }).withMessage('awardedMarks must be 0 or a positive integer'),
+  ],
+  examController.updateAttemptMarks
+);
+
 router.get('/:id', auth, examController.getExam);
 
 router.put(

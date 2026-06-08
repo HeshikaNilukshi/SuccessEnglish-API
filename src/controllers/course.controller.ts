@@ -3,6 +3,11 @@ import { validationResult } from 'express-validator';
 import prisma from '../config/db';
 
 export const createCourse = async (req: Request, res: Response): Promise<void> => {
+  if (!req.user) {
+    res.status(401).json({ message: 'Unauthorized' });
+    return;
+  }
+
   const errors = validationResult(req);
   if (!errors.isEmpty()) {
     res.status(400).json({ errors: errors.array() });
@@ -17,6 +22,7 @@ export const createCourse = async (req: Request, res: Response): Promise<void> =
         name,
         description,
         price,
+        createdBy: req.user.id,
       },
     });
 
@@ -74,6 +80,11 @@ export const getCourse = async (req: Request, res: Response): Promise<void> => {
 };
 
 export const updateCourse = async (req: Request, res: Response): Promise<void> => {
+  if (!req.user) {
+    res.status(401).json({ message: 'Unauthorized' });
+    return;
+  }
+
   const errors = validationResult(req);
   if (!errors.isEmpty()) {
     res.status(400).json({ errors: errors.array() });
@@ -90,6 +101,11 @@ export const updateCourse = async (req: Request, res: Response): Promise<void> =
 
     if (!courseExists) {
       res.status(404).json({ message: 'Course not found' });
+      return;
+    }
+
+    if (req.user.role === 'TEACHER' && courseExists.createdBy !== req.user.id) {
+      res.status(403).json({ message: 'Forbidden' });
       return;
     }
 
@@ -110,6 +126,11 @@ export const updateCourse = async (req: Request, res: Response): Promise<void> =
 };
 
 export const deleteCourse = async (req: Request, res: Response): Promise<void> => {
+  if (!req.user) {
+    res.status(401).json({ message: 'Unauthorized' });
+    return;
+  }
+
   const id = parseInt(req.params.id as string, 10);
 
   try {
@@ -119,6 +140,11 @@ export const deleteCourse = async (req: Request, res: Response): Promise<void> =
 
     if (!courseExists) {
       res.status(404).json({ message: 'Course not found' });
+      return;
+    }
+
+    if (req.user.role === 'TEACHER' && courseExists.createdBy !== req.user.id) {
+      res.status(403).json({ message: 'Forbidden' });
       return;
     }
 
@@ -134,6 +160,49 @@ export const deleteCourse = async (req: Request, res: Response): Promise<void> =
     res.status(200).json({ message: 'Course deleted successfully' });
   } catch (error) {
     console.error('Delete course error:', error);
+    res.status(500).json({ message: 'Internal server error' });
+  }
+};
+
+export const getStudentsByCourse = async (req: Request, res: Response): Promise<void> => {
+  if (!req.user) {
+    res.status(401).json({ message: 'Unauthorized' });
+    return;
+  }
+
+  const courseId = parseInt(req.params.id as string, 10);
+
+  try {
+    const course = await prisma.course.findUnique({
+      where: { id: courseId },
+    });
+
+    if (!course) {
+      res.status(404).json({ message: 'Course not found' });
+      return;
+    }
+
+    if (req.user.role === 'TEACHER' && course.createdBy !== req.user.id) {
+      res.status(403).json({ message: 'Forbidden' });
+      return;
+    }
+
+    const enrollments = await prisma.enrollment.findMany({
+      where: { courseId },
+      include: {
+        user: {
+          select: {
+            id: true,
+            name: true,
+            email: true,
+          },
+        },
+      },
+    });
+
+    res.status(200).json(enrollments);
+  } catch (error) {
+    console.error('Get students by course error:', error);
     res.status(500).json({ message: 'Internal server error' });
   }
 };

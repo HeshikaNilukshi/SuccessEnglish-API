@@ -9,7 +9,7 @@ const router = Router();
 router.post(
   '/',
   auth,
-  role('ADMIN'),
+  role('ADMIN', 'TEACHER'),
   [
     body('name').notEmpty().withMessage('Course name is required'),
     body('price').isDecimal({ decimal_digits: '0,2' }).withMessage('Price must be a valid decimal number'),
@@ -19,11 +19,12 @@ router.post(
 
 router.get('/', courseController.getAllCourses);
 router.get('/:id', auth, courseController.getCourse);
+router.get('/:id/students', auth, role('ADMIN', 'TEACHER'), courseController.getStudentsByCourse);
 
 router.put(
   '/:id',
   auth,
-  role('ADMIN'),
+  role('ADMIN', 'TEACHER'),
   [
     body('name').optional().notEmpty().withMessage('Course name cannot be empty'),
     body('price').optional().isDecimal({ decimal_digits: '0,2' }).withMessage('Price must be a valid decimal number'),
@@ -31,6 +32,6 @@ router.put(
   courseController.updateCourse
 );
 
-router.delete('/:id', auth, role('ADMIN'), courseController.deleteCourse);
+router.delete('/:id', auth, role('ADMIN', 'TEACHER'), courseController.deleteCourse);
 
 export default router;

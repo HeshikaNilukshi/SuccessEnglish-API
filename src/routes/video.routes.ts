@@ -6,7 +6,7 @@ import { role } from '../middleware/role';
 
 const router = Router();
 
-router.get('/sign', auth, role('ADMIN', 'TEACHER'), videoController.getUploadSignature);
+router.get('/upload-signature', auth, role('ADMIN', 'TEACHER'), videoController.getUploadSignature);
 
 router.post(
   '/',

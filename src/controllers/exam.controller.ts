@@ -29,6 +29,11 @@ export const createExam = async (req: Request, res: Response): Promise<void> => 
       return;
     }
 
+    if (req.user.role === 'TEACHER' && course.createdBy !== req.user.id) {
+      res.status(403).json({ message: 'Forbidden' });
+      return;
+    }
+
     // Create exam with nested questions
     const exam = await prisma.exam.create({
       data: {
@@ -184,6 +189,16 @@ export const updateExam = async (req: Request, res: Response): Promise<void> => 
       return;
     }
 
+    if (!req.user) {
+      res.status(401).json({ message: 'Unauthorized' });
+      return;
+    }
+
+    if (req.user.role === 'TEACHER' && examExists.createdBy !== req.user.id) {
+      res.status(403).json({ message: 'Forbidden' });
+      return;
+    }
+
     let updatedExam;
 
     if (questions) {
@@ -243,6 +258,16 @@ export const deleteExam = async (req: Request, res: Response): Promise<void> => 
 
     if (!examExists) {
       res.status(404).json({ message: 'Exam not found' });
+      return;
+    }
+
+    if (!req.user) {
+      res.status(401).json({ message: 'Unauthorized' });
+      return;
+    }
+
+    if (req.user.role === 'TEACHER' && examExists.createdBy !== req.user.id) {
+      res.status(403).json({ message: 'Forbidden' });
       return;
     }
 
@@ -461,6 +486,230 @@ export const getMyResult = async (req: Request, res: Response): Promise<void> =>
     res.status(200).json(attempt);
   } catch (error) {
     console.error('Get my result error:', error);
+    res.status(500).json({ message: 'Internal server error' });
+  }
+};
+
+export const getAllResultsByCourse = async (req: Request, res: Response): Promise<void> => {
+  if (!req.user) {
+    res.status(401).json({ message: 'Unauthorized' });
+    return;
+  }
+
+  const courseId = parseInt(req.params.courseId as string, 10);
+
+  try {
+    const course = await prisma.course.findUnique({
+      where: { id: courseId },
+    });
+
+    if (!course) {
+      res.status(404).json({ message: 'Course not found' });
+      return;
+    }
+
+    if (req.user.role === 'TEACHER' && course.createdBy !== req.user.id) {
+      res.status(403).json({ message: 'Forbidden' });
+      return;
+    }
+
+    const attempts = await prisma.examAttempt.findMany({
+      where: {
+        exam: {
+          courseId,
+        },
+      },
+      include: {
+        student: {
+          select: {
+            id: true,
+            name: true,
+            email: true,
+          },
+        },
+        exam: {
+          select: {
+            id: true,
+            title: true,
+          },
+        },
+      },
+    });
+
+    res.status(200).json(attempts);
+  } catch (error) {
+    console.error('Get all results by course error:', error);
+    res.status(500).json({ message: 'Internal server error' });
+  }
+};
+
+export const getStudentResultsByCourse = async (req: Request, res: Response): Promise<void> => {
+  if (!req.user) {
+    res.status(401).json({ message: 'Unauthorized' });
+    return;
+  }
+
+  const courseId = parseInt(req.params.courseId as string, 10);
+  const studentId = parseInt(req.params.studentId as string, 10);
+
+  try {
+    const course = await prisma.course.findUnique({
+      where: { id: courseId },
+    });
+
+    if (!course) {
+      res.status(404).json({ message: 'Course not found' });
+      return;
+    }
+
+    if (req.user.role === 'TEACHER' && course.createdBy !== req.user.id) {
+      res.status(403).json({ message: 'Forbidden' });
+      return;
+    }
+
+    const attempts = await prisma.examAttempt.findMany({
+      where: {
+        studentId,
+        exam: {
+          courseId,
+        },
+      },
+      include: {
+        exam: {
+          select: {
+            id: true,
+            title: true,
+          },
+        },
+      },
+    });
+
+    res.status(200).json(attempts);
+  } catch (error) {
+    console.error('Get student results by course error:', error);
+    res.status(500).json({ message: 'Internal server error' });
+  }
+};
+
+export const getAttemptWithAnswers = async (req: Request, res: Response): Promise<void> => {
+  if (!req.user) {
+    res.status(401).json({ message: 'Unauthorized' });
+    return;
+  }
+
+  const attemptId = parseInt(req.params.attemptId as string, 10);
+
+  try {
+    const attempt = await prisma.examAttempt.findUnique({
+      where: { id: attemptId },
+      include: {
+        student: {
+          select: {
+            id: true,
+            name: true,
+            email: true,
+          },
+        },
+        exam: {
+          include: {
+            course: true,
+          },
+        },
+        answers: {
+          include: {
+            question: true,
+          },
+        },
+      },
+    });
+
+    if (!attempt) {
+      res.status(404).json({ message: 'Attempt not found' });
+      return;
+    }
+
+    if (req.user.role === 'TEACHER' && attempt.exam.course.createdBy !== req.user.id) {
+      res.status(403).json({ message: 'Forbidden' });
+      return;
+    }
+
+    res.status(200).json(attempt);
+  } catch (error) {
+    console.error('Get attempt error:', error);
+    res.status(500).json({ message: 'Internal server error' });
+  }
+};
+
+export const updateAttemptMarks = async (req: Request, res: Response): Promise<void> => {
+  if (!req.user) {
+    res.status(401).json({ message: 'Unauthorized' });
+    return;
+  }
+
+  const errors = validationResult(req);
+  if (!errors.isEmpty()) {
+    res.status(400).json({ errors: errors.array() });
+    return;
+  }
+
+  const attemptId = parseInt(req.params.attemptId as string, 10);
+  const { answers } = req.body;
+
+  try {
+    const attempt = await prisma.examAttempt.findUnique({
+      where: { id: attemptId },
+      include: {
+        exam: {
+          include: {
+            course: true,
+          },
+        },
+      },
+    });
+
+    if (!attempt) {
+      res.status(404).json({ message: 'Attempt not found' });
+      return;
+    }
+
+    if (req.user.role === 'TEACHER' && attempt.exam.course.createdBy !== req.user.id) {
+      res.status(403).json({ message: 'Forbidden' });
+      return;
+    }
+
+    await prisma.$transaction(async (tx) => {
+      for (const ans of answers) {
+        await tx.answer.update({
+          where: { id: ans.answerId },
+          data: {
+            awardedMarks: ans.awardedMarks,
+          },
+        });
+      }
+    });
+
+    const updatedAnswers = await prisma.answer.findMany({
+      where: { attemptId },
+    });
+
+    let totalScore = 0;
+    for (const ans of updatedAnswers) {
+      totalScore += ans.awardedMarks || 0;
+    }
+
+    const updatedAttempt = await prisma.examAttempt.update({
+      where: { id: attemptId },
+      data: {
+        score: totalScore,
+      },
+      include: {
+        answers: true,
+      },
+    });
+
+    res.status(200).json(updatedAttempt);
+  } catch (error) {
+    console.error('Update attempt marks error:', error);
     res.status(500).json({ message: 'Internal server error' });
   }
 };

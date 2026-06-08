@@ -25,6 +25,7 @@ model User {
   enrollments    Enrollment[]
   examAttempts   ExamAttempt[]
   createdExams   Exam[]           @relation("ExamCreator")
+  createdCourses Course[]         @relation("CourseCreator")
 }
 
 model Course {
@@ -32,8 +33,10 @@ model Course {
   name        String
   description String?
   price       Decimal  @db.Decimal(10, 2)
+  createdBy   Int
   createdAt   DateTime @default(now())
 
+  creator     User         @relation("CourseCreator", fields: [createdBy], references: [id])
   enrollments Enrollment[]
   exams       Exam[]
   videos      Video[]
@@ -98,6 +101,7 @@ model Answer {
   attemptId     Int
   questionId    Int
   studentAnswer String
+  awardedMarks  Int?
 
   attempt  ExamAttempt @relation(fields: [attemptId], references: [id], onDelete: Cascade)
   question Question    @relation(fields: [questionId], references: [id])
