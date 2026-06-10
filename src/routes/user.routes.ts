@@ -6,7 +6,6 @@ import { role } from '../middleware/role';
 
 const router = Router();
 
-// /me routes MUST be registered before /:id routes so "me" is not parsed as a parameter ID
 router.get('/me', auth, userController.getMe);
 
 router.put(
@@ -19,7 +18,6 @@ router.put(
   userController.updateMe
 );
 
-// Admin-only User CRUD
 router.post(
   '/',
   auth,
@@ -34,6 +32,8 @@ router.post(
 );
 
 router.get('/', auth, role('ADMIN'), userController.getAllUsers);
+
+router.get('/:id', auth, role('ADMIN', 'TEACHER'), userController.getUserById);
 
 router.put(
   '/:id',

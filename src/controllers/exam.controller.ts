@@ -17,6 +17,7 @@ export const createExam = async (req: Request, res: Response): Promise<void> => 
   const { title, questions } = req.body;
   const courseId = parseInt(req.body.courseId, 10);
   const duration = parseInt(req.body.duration, 10) || 0;
+  const passMark = parseInt(req.body.passMark, 10) || 0;
 
   try {
     // Check if course exists
@@ -40,6 +41,7 @@ export const createExam = async (req: Request, res: Response): Promise<void> => 
         title,
         courseId,
         duration: duration || 0,
+        passMark: passMark || 0,
         createdBy: req.user.id,
         questions: {
           create: questions.map((q: any) => ({
@@ -126,6 +128,11 @@ export const getExam = async (req: Request, res: Response): Promise<void> => {
       where: { id },
       include: {
         questions: true,
+        course: {
+          select: {
+            name: true,
+          },
+        },
       },
     });
 
@@ -154,14 +161,24 @@ export const getExam = async (req: Request, res: Response): Promise<void> => {
         const { correctAnswer, ...rest } = q;
         return rest;
       });
+      const studentInfo = await prisma.user.findUnique({
+        where: { id: req.user.id },
+        select: { name: true },
+      });
       res.status(200).json({
         ...exam,
         questions: sanitizedQuestions,
+        totalQuestions: exam.questions.length,
+        studentId: req.user.id,
+        studentName: studentInfo?.name || '',
       });
       return;
     }
 
-    res.status(200).json(exam);
+    res.status(200).json({
+      ...exam,
+      totalQuestions: exam.questions.length,
+    });
   } catch (error) {
     console.error('Get exam error:', error);
     res.status(500).json({ message: 'Internal server error' });
@@ -178,6 +195,7 @@ export const updateExam = async (req: Request, res: Response): Promise<void> => 
   const id = parseInt(req.params.id as string, 10);
   const { title, questions } = req.body;
   const duration = req.body.duration !== undefined ? parseInt(req.body.duration, 10) : undefined;
+  const passMark = req.body.passMark !== undefined ? parseInt(req.body.passMark, 10) : undefined;
 
   try {
     const examExists = await prisma.exam.findUnique({
@@ -215,6 +233,7 @@ export const updateExam = async (req: Request, res: Response): Promise<void> => 
           data: {
             title: title || undefined,
             duration: duration !== undefined ? duration : undefined,
+            passMark: passMark !== undefined ? passMark : undefined,
             questions: {
               create: questions.map((q: any) => ({
                 questionText: q.questionText,
@@ -234,6 +253,7 @@ export const updateExam = async (req: Request, res: Response): Promise<void> => 
         data: {
           title: title || undefined,
           duration: duration !== undefined ? duration : undefined,
+          passMark: passMark !== undefined ? passMark : undefined,
         },
         include: {
           questions: true,
@@ -309,10 +329,40 @@ export const startExam = async (req: Request, res: Response): Promise<void> => {
           studentId: req.user.id,
         },
       },
+      include: {
+        _count: {
+          select: { answers: true },
+        },
+      },
     });
 
     if (existingAttempt) {
-      res.status(409).json({ message: 'Already started this exam' });
+      // Check if already submitted
+      if (existingAttempt._count.answers > 0) {
+        res.status(409).json({ message: 'Already submitted this exam' });
+        return;
+      }
+
+      // Check if deadline has passed
+      if (exam.duration > 0) {
+        const deadlineMs = existingAttempt.createdAt.getTime() + exam.duration * 60 * 1000;
+        const now = Date.now();
+        if (now > deadlineMs) {
+          res.status(403).json({ message: 'Submission deadline has passed.' });
+          return;
+        }
+      }
+
+      // Allow resume by returning existing attempt details
+      const deadline = exam.duration > 0
+        ? new Date(existingAttempt.createdAt.getTime() + exam.duration * 60 * 1000)
+        : null;
+
+      res.status(200).json({
+        attemptId: existingAttempt.id,
+        startedAt: existingAttempt.createdAt,
+        deadline,
+      });
       return;
     }
 

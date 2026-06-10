@@ -53,8 +53,11 @@ export const createUser = async (req: Request, res: Response): Promise<void> => 
 };
 
 export const getAllUsers = async (req: Request, res: Response): Promise<void> => {
+  const role = req.query.role as string;
+
   try {
     const users = await prisma.user.findMany({
+      where: role ? { role: role as any } : undefined,
       select: userSelect,
     });
     res.status(200).json(users);
@@ -214,6 +217,88 @@ export const deleteUser = async (req: Request, res: Response): Promise<void> => 
     res.status(200).json({ message: 'User deleted successfully' });
   } catch (error) {
     console.error('Delete user error:', error);
+    res.status(500).json({ message: 'Internal server error' });
+  }
+};
+
+export const getUserById = async (req: Request, res: Response): Promise<void> => {
+  if (!req.user) {
+    res.status(401).json({ message: 'Unauthorized' });
+    return;
+  }
+
+  const id = parseInt(req.params.id as string, 10);
+  if (isNaN(id)) {
+    res.status(400).json({ message: 'Invalid ID' });
+    return;
+  }
+
+  try {
+    const targetUser = await prisma.user.findUnique({
+      where: { id },
+      select: {
+        id: true,
+        name: true,
+        email: true,
+        role: true,
+        createdAt: true,
+      },
+    });
+
+    if (!targetUser) {
+      res.status(404).json({ message: 'User not found' });
+      return;
+    }
+
+    if (req.user.role === 'TEACHER' && targetUser.role !== 'STUDENT') {
+      res.status(403).json({ message: 'Forbidden' });
+      return;
+    }
+
+    if (targetUser.role === 'TEACHER') {
+      const teacherWithCourses = await prisma.user.findUnique({
+        where: { id },
+        select: {
+          id: true,
+          name: true,
+          email: true,
+          role: true,
+          createdAt: true,
+          createdCourses: true,
+        },
+      });
+      res.status(200).json(teacherWithCourses);
+      return;
+    }
+
+    if (targetUser.role === 'STUDENT') {
+      const studentWithEnrollments = await prisma.user.findUnique({
+        where: { id },
+        select: {
+          id: true,
+          name: true,
+          email: true,
+          role: true,
+          createdAt: true,
+          enrollments: {
+            where: req.user.role === 'TEACHER' ? {
+              course: {
+                createdBy: req.user.id,
+              },
+            } : undefined,
+            include: {
+              course: true,
+            },
+          },
+        },
+      });
+      res.status(200).json(studentWithEnrollments);
+      return;
+    }
+
+    res.status(200).json(targetUser);
+  } catch (error) {
+    console.error('Get user by id error:', error);
     res.status(500).json({ message: 'Internal server error' });
   }
 };

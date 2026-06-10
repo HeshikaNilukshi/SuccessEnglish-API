@@ -75,13 +75,16 @@ export const getAllEnrollments = async (req: Request, res: Response): Promise<vo
       include: {
         user: {
           select: {
+            id: true,
             name: true,
             email: true,
           },
         },
         course: {
           select: {
+            id: true,
             name: true,
+            price: true,
           },
         },
       },

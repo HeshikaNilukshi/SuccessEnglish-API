@@ -9,7 +9,9 @@
     "db:push": "ts-node src/scripts/db-push.ts && npx prisma generate",
     "db:seed": "ts-node src/scripts/seed-courses.ts",
     "db:seed:students": "ts-node src/scripts/seed-students.ts",
-    "db:seed:teacher": "ts-node src/scripts/seed-teacher.ts"
+    "db:seed:teacher": "ts-node src/scripts/seed-teacher.ts",
+    "db:seed:admin": "ts-node src/scripts/seed-admin.ts",
+    "db:seed:all": "npm run db:seed:admin && npm run db:seed:teacher && npm run db:seed && npm run db:seed:students"
   },
   "dependencies": {
     "@neondatabase/serverless": "^1.1.0",

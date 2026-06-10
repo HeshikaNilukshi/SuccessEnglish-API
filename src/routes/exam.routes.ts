@@ -14,6 +14,7 @@ router.post(
     body('title').notEmpty().withMessage('Exam title is required'),
     body('courseId').isInt().withMessage('courseId must be an integer'),
     body('duration').optional().isInt({ min: 0 }).withMessage('Duration must be 0 or a positive integer (minutes)'),
+    body('passMark').optional().isInt({ min: 0 }).withMessage('Pass mark must be 0 or a positive integer'),
     body('questions').isArray({ min: 1 }).withMessage('Questions must be an array with at least one question'),
     body('questions.*.questionText').notEmpty().withMessage('Question text is required'),
     body('questions.*.correctAnswer').notEmpty().withMessage('Correct answer is required'),
@@ -48,6 +49,7 @@ router.put(
   [
     body('title').optional().notEmpty().withMessage('Exam title cannot be empty'),
     body('duration').optional().isInt({ min: 0 }).withMessage('Duration must be 0 or a positive integer (minutes)'),
+    body('passMark').optional().isInt({ min: 0 }).withMessage('Pass mark must be 0 or a positive integer'),
     body('questions').optional().isArray().withMessage('Questions must be an array'),
     body('questions.*.questionText').optional().notEmpty().withMessage('Question text is required'),
     body('questions.*.correctAnswer').optional().notEmpty().withMessage('Correct answer is required'),
