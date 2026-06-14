@@ -27,7 +27,8 @@ router.get('/course/:courseId', auth, examController.getExamsByCourse);
 
 router.get('/course/:courseId/results', auth, role('ADMIN', 'TEACHER'), examController.getAllResultsByCourse);
 router.get('/course/:courseId/student/:studentId/results', auth, role('ADMIN', 'TEACHER'), examController.getStudentResultsByCourse);
-router.get('/attempt/:attemptId', auth, role('ADMIN', 'TEACHER'), examController.getAttemptWithAnswers);
+router.get('/course/:courseId/my-results', auth, role('STUDENT'), examController.getMyResultsByCourse);
+router.get('/attempt/:attemptId', auth, role('ADMIN', 'TEACHER', 'STUDENT'), examController.getAttemptWithAnswers);
 router.put(
   '/attempt/:attemptId',
   auth,
@@ -35,7 +36,7 @@ router.put(
   [
     body('answers').isArray().withMessage('Answers must be an array'),
     body('answers.*.answerId').isInt().withMessage('answerId must be an integer'),
-    body('answers.*.awardedMarks').isInt({ min: 0 }).withMessage('awardedMarks must be 0 or a positive integer'),
+    body('answers.*.isCorrect').isBoolean().withMessage('isCorrect must be a boolean'),
   ],
   examController.updateAttemptMarks
 );

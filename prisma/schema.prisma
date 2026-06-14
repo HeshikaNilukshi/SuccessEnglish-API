@@ -89,6 +89,7 @@ model ExamAttempt {
   studentId Int
   score     Int?
   createdAt DateTime @default(now())
+  isGraded  Boolean  @default(false)
 
   exam    Exam    @relation(fields: [examId], references: [id])
   student User    @relation(fields: [studentId], references: [id])
@@ -102,7 +103,7 @@ model Answer {
   attemptId     Int
   questionId    Int
   studentAnswer String
-  awardedMarks  Int?
+  isCorrect     Boolean?
 
   attempt  ExamAttempt @relation(fields: [attemptId], references: [id], onDelete: Cascade)
   question Question    @relation(fields: [questionId], references: [id])

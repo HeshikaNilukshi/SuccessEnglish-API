@@ -157,6 +157,20 @@ export const getExam = async (req: Request, res: Response): Promise<void> => {
         return;
       }
 
+      const attempt = await prisma.examAttempt.findUnique({
+        where: {
+          examId_studentId: {
+            examId: id,
+            studentId: req.user.id,
+          },
+        },
+        include: {
+          _count: {
+            select: { answers: true },
+          },
+        },
+      });
+
       const sanitizedQuestions = exam.questions.map((q) => {
         const { correctAnswer, ...rest } = q;
         return rest;
@@ -171,6 +185,12 @@ export const getExam = async (req: Request, res: Response): Promise<void> => {
         totalQuestions: exam.questions.length,
         studentId: req.user.id,
         studentName: studentInfo?.name || '',
+        attempt: attempt ? {
+          id: attempt.id,
+          submitted: attempt._count.answers > 0,
+          deadlinePassed: exam.duration > 0 && (Date.now() > attempt.createdAt.getTime() + exam.duration * 60 * 1000),
+          isGraded: attempt.isGraded,
+        } : null
       });
       return;
     }
@@ -641,6 +661,49 @@ export const getStudentResultsByCourse = async (req: Request, res: Response): Pr
   }
 };
 
+export const getMyResultsByCourse = async (req: Request, res: Response): Promise<void> => {
+  if (!req.user) {
+    res.status(401).json({ message: 'Unauthorized' });
+    return;
+  }
+
+  const courseId = parseInt(req.params.courseId as string, 10);
+  const studentId = req.user.id;
+
+  try {
+    const course = await prisma.course.findUnique({
+      where: { id: courseId },
+    });
+
+    if (!course) {
+      res.status(404).json({ message: 'Course not found' });
+      return;
+    }
+
+    const attempts = await prisma.examAttempt.findMany({
+      where: {
+        studentId,
+        exam: {
+          courseId,
+        },
+      },
+      include: {
+        exam: {
+          select: {
+            id: true,
+            title: true,
+          },
+        },
+      },
+    });
+
+    res.status(200).json(attempts);
+  } catch (error) {
+    console.error('Get my results by course error:', error);
+    res.status(500).json({ message: 'Internal server error' });
+  }
+};
+
 export const getAttemptWithAnswers = async (req: Request, res: Response): Promise<void> => {
   if (!req.user) {
     res.status(401).json({ message: 'Unauthorized' });
@@ -675,6 +738,11 @@ export const getAttemptWithAnswers = async (req: Request, res: Response): Promis
 
     if (!attempt) {
       res.status(404).json({ message: 'Attempt not found' });
+      return;
+    }
+
+    if (req.user.role === 'STUDENT' && attempt.studentId !== req.user.id) {
+      res.status(403).json({ message: 'Forbidden' });
       return;
     }
 
@@ -732,7 +800,7 @@ export const updateAttemptMarks = async (req: Request, res: Response): Promise<v
         await tx.answer.update({
           where: { id: ans.answerId },
           data: {
-            awardedMarks: ans.awardedMarks,
+            isCorrect: ans.isCorrect,
           },
         });
       }
@@ -740,17 +808,23 @@ export const updateAttemptMarks = async (req: Request, res: Response): Promise<v
 
     const updatedAnswers = await prisma.answer.findMany({
       where: { attemptId },
+      include: {
+        question: true,
+      },
     });
 
     let totalScore = 0;
     for (const ans of updatedAnswers) {
-      totalScore += ans.awardedMarks || 0;
+      if (ans.isCorrect) {
+        totalScore += ans.question.marks;
+      }
     }
 
     const updatedAttempt = await prisma.examAttempt.update({
       where: { id: attemptId },
       data: {
         score: totalScore,
+        isGraded: true,
       },
       include: {
         answers: true,
