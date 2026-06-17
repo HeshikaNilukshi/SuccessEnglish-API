@@ -103,7 +103,9 @@ model Answer {
   attemptId     Int
   questionId    Int
   studentAnswer String
-  isCorrect     Boolean?
+  similarity    Float?
+  marksAwarded  Int?
+  feedback      String?
 
   attempt  ExamAttempt @relation(fields: [attemptId], references: [id], onDelete: Cascade)
   question Question    @relation(fields: [questionId], references: [id])

@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "attemptId": 1,
+    "questionId": 1,
+    "studentAnswer": "Doing well",
+    "similarity": null,
+    "marksAwarded": null,
+    "feedback": null
+  },
+  {
+    "id": 2,
+    "attemptId": 1,
+    "questionId": 2,
+    "studentAnswer": "don't need to be replaced with doesn't",
+    "similarity": null,
+    "marksAwarded": null,
+    "feedback": null
+  },
+  {
+    "id": 3,
+    "attemptId": 1,
+    "questionId": 3,
+    "studentAnswer": "I ddoo",
+    "similarity": null,
+    "marksAwarded": null,
+    "feedback": null
+  },
+  {
+    "id": 4,
+    "attemptId": 1,
+    "questionId": 4,
+    "studentAnswer": "mm,,m,m",
+    "similarity": null,
+    "marksAwarded": null,
+    "feedback": null
+  },
+  {
+    "id": 5,
+    "attemptId": 1,
+    "questionId": 5,
+    "studentAnswer": "kjkljjlkjn",
+    "similarity": null,
+    "marksAwarded": null,
+    "feedback": null
+  },
+  {
+    "id": 6,
+    "attemptId": 1,
+    "questionId": 6,
+    "studentAnswer": "nnmnmmnmhmhmhh",
+    "similarity": null,
+    "marksAwarded": null,
+    "feedback": null
+  },
+  {
+    "id": 7,
+    "attemptId": 1,
+    "questionId": 7,
+    "studentAnswer": "test Answer",
+    "similarity": null,
+    "marksAwarded": null,
+    "feedback": null
+  },
+  {
+    "id": 8,
+    "attemptId": 1,
+    "questionId": 8,
+    "studentAnswer": "nnnnnmjjhjhjhjhhjhjjh",
+    "similarity": null,
+    "marksAwarded": null,
+    "feedback": null
+  },
+  {
+    "id": 9,
+    "attemptId": 1,
+    "questionId": 9,
+    "studentAnswer": "nnnnnnnnnnnnnnnnnj",
+    "similarity": null,
+    "marksAwarded": null,
+    "feedback": null
+  },
+  {
+    "id": 10,
+    "attemptId": 1,
+    "questionId": 10,
+    "studentAnswer": "jjjjjjjjjjjjjjjjjjjjjj",
+    "similarity": null,
+    "marksAwarded": null,
+    "feedback": null
+  },
+  {
+    "id": 11,
+    "attemptId": 3,
+    "questionId": 1,
+    "studentAnswer": "I think the answer is how do you do? or pleasure to meet you.",
+    "similarity": null,
+    "marksAwarded": null,
+    "feedback": null
+  },
+  {
+    "id": 12,
+    "attemptId": 3,
+    "questionId": 2,
+    "studentAnswer": "I think the answer is he doesn't know the answer.",
+    "similarity": null,
+    "marksAwarded": null,
+    "feedback": null
+  },
+  {
+    "id": 13,
+    "attemptId": 3,
+    "questionId": 3,
+    "studentAnswer": "I think the answer is 'say' focuses on the words spoken, while 'tell' focuses on giving information to a person (e.g., 'say hello' vs. 'tell me a story').",
+    "similarity": null,
+    "marksAwarded": null,
+    "feedback": null
+  },
+  {
+    "id": 14,
+    "attemptId": 3,
+    "questionId": 4,
+    "studentAnswer": "I think the answer is both (b in climb, t in listen)",
+    "similarity": null,
+    "marksAwarded": null,
+    "feedback": null
+  },
+  {
+    "id": 15,
+    "attemptId": 3,
+    "questionId": 5,
+    "studentAnswer": "I think the answer is excuse me, may i add something here? or sorry to interrupt, but...",
+    "similarity": null,
+    "marksAwarded": null,
+    "feedback": null
+  },
+  {
+    "id": 16,
+    "attemptId": 3,
+    "questionId": 6,
+    "studentAnswer": "I think the answer is i won't",
+    "similarity": null,
+    "marksAwarded": null,
+    "feedback": null
+  },
+  {
+    "id": 17,
+    "attemptId": 3,
+    "questionId": 7,
+    "studentAnswer": "I think the answer is meeting",
+    "similarity": null,
+    "marksAwarded": null,
+    "feedback": null
+  },
+  {
+    "id": 18,
+    "attemptId": 3,
+    "questionId": 8,
+    "studentAnswer": "I think the answer is rising intonation",
+    "similarity": null,
+    "marksAwarded": null,
+    "feedback": null
+  },
+  {
+    "id": 19,
+    "attemptId": 3,
+    "questionId": 9,
+    "studentAnswer": "I think the answer is could you please pass the salt? or would you mind passing the salt?",
+    "similarity": null,
+    "marksAwarded": null,
+    "feedback": null
+  },
+  {
+    "id": 20,
+    "attemptId": 3,
+    "questionId": 10,
+    "studentAnswer": "I think the answer is good luck",
+    "similarity": null,
+    "marksAwarded": null,
+    "feedback": null
+  }
+]
