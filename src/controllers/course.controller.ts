@@ -52,8 +52,6 @@ export const getCourse = async (req: Request, res: Response): Promise<void> => {
   const id = parseInt(req.params.id as string, 10);
 
   try {
-    // If student, basic course details are readable. Check is bypassed for enrollment visibility.
-
     const course = await prisma.course.findUnique({
       where: { id },
       include: {
@@ -148,7 +146,6 @@ export const deleteCourse = async (req: Request, res: Response): Promise<void> =
       return;
     }
 
-    // Manually delete related enrollments first to satisfy foreign key constraints
     await prisma.enrollment.deleteMany({
       where: { courseId: id },
     });

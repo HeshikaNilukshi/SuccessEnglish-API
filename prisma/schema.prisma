@@ -1,10 +1,12 @@
 generator client {
   provider = "prisma-client"
-  output   = "../src/generated/prisma"
+  output     = "../src/generated/prisma"
+  engineType = "library"
 }
 
 datasource db {
-  provider = "postgresql"
+  provider = "mysql"
+  url      = env("DATABASE_URL")
 }
 
 enum Role {
@@ -21,7 +23,6 @@ model User {
   role      Role     @default(STUDENT)
   createdAt DateTime @default(now())
 
-  // Relations
   enrollments    Enrollment[]
   examAttempts   ExamAttempt[]
   createdExams   Exam[]           @relation("ExamCreator")
@@ -31,7 +32,7 @@ model User {
 model Course {
   id          Int      @id @default(autoincrement())
   name        String
-  description String?
+  description String?  @db.Text
   price       Decimal  @db.Decimal(10, 2)
   createdBy   Int
   createdAt   DateTime @default(now())
@@ -46,8 +47,8 @@ model Enrollment {
   id              Int      @id @default(autoincrement())
   userId          Int
   courseId        Int
-  receiptUrl      String
-  receiptPublicId String
+  receiptUrl      String   @db.Text
+  receiptPublicId String   @db.Text
   verified        Boolean  @default(false)
   createdAt       DateTime @default(now())
 
@@ -75,8 +76,8 @@ model Exam {
 model Question {
   id            Int    @id @default(autoincrement())
   examId        Int
-  questionText  String
-  correctAnswer String
+  questionText  String @db.Text
+  correctAnswer String @db.Text
   marks         Int
 
   exam    Exam     @relation(fields: [examId], references: [id], onDelete: Cascade)
@@ -102,10 +103,10 @@ model Answer {
   id            Int    @id @default(autoincrement())
   attemptId     Int
   questionId    Int
-  studentAnswer String
+  studentAnswer String @db.Text
   similarity    Float?
   marksAwarded  Int?
-  feedback      String?
+  feedback      String? @db.Text
 
   attempt  ExamAttempt @relation(fields: [attemptId], references: [id], onDelete: Cascade)
   question Question    @relation(fields: [questionId], references: [id])
@@ -115,8 +116,8 @@ model Video {
   id        Int      @id @default(autoincrement())
   courseId   Int
   title     String
-  videoUrl  String
-  publicId  String
+  videoUrl  String   @db.Text
+  publicId  String   @db.Text
   createdAt DateTime @default(now())
 
   course Course @relation(fields: [courseId], references: [id], onDelete: Cascade)

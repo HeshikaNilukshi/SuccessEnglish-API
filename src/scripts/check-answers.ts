@@ -1,22 +1,17 @@
-import { neonConfig, Client } from '@neondatabase/serverless';
-import ws from 'ws';
 import dotenv from 'dotenv';
-
 dotenv.config();
-
-// Configure WebSockets for Node.js
-neonConfig.webSocketConstructor = ws;
+import prisma from '../config/db';
 
 async function run() {
-  const client = new Client(process.env.DATABASE_URL);
   try {
-    await client.connect();
-    const res = await client.query('SELECT id, "studentAnswer", "isCorrect" FROM "Answer";');
-    console.log("Answers in DB:", JSON.stringify(res.rows, null, 2));
+    const answers = await prisma.answer.findMany({
+      select: { id: true, studentAnswer: true }
+    });
+    console.log("Answers in DB:", JSON.stringify(answers, null, 2));
   } catch (err) {
     console.error(err);
   } finally {
-    await client.end();
+    await prisma.$disconnect();
   }
 }
 

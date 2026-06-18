@@ -22,7 +22,6 @@ export const createExam = async (req: Request, res: Response): Promise<void> => 
   const passMark = parseInt(req.body.passMark, 10) || 0;
 
   try {
-    // Check if course exists
     const course = await prisma.course.findUnique({
       where: { id: courseId },
     });
@@ -37,7 +36,6 @@ export const createExam = async (req: Request, res: Response): Promise<void> => 
       return;
     }
 
-    // Create exam with nested questions
     const exam = await prisma.exam.create({
       data: {
         title,
@@ -74,7 +72,6 @@ export const getExamsByCourse = async (req: Request, res: Response): Promise<voi
   const courseId = parseInt(req.params.courseId as string, 10);
 
   try {
-    // Check if course exists
     const course = await prisma.course.findUnique({
       where: { id: courseId },
     });
@@ -84,7 +81,6 @@ export const getExamsByCourse = async (req: Request, res: Response): Promise<voi
       return;
     }
 
-    // If student, check verified enrollment
     if (req.user.role === 'STUDENT') {
       const enrollment = await prisma.enrollment.findUnique({
         where: {
@@ -143,7 +139,6 @@ export const getExam = async (req: Request, res: Response): Promise<void> => {
       return;
     }
 
-    // If student, check verified enrollment
     if (req.user.role === 'STUDENT') {
       const enrollment = await prisma.enrollment.findUnique({
         where: {
@@ -242,14 +237,11 @@ export const updateExam = async (req: Request, res: Response): Promise<void> => 
     let updatedExam;
 
     if (questions) {
-      // Use transaction to delete existing questions and create new ones
       updatedExam = await prisma.$transaction(async (tx) => {
-        // Delete all existing questions for this exam
         await tx.question.deleteMany({
           where: { examId: id },
         });
 
-        // Update exam details and create new questions
         return await tx.exam.update({
           where: { id },
           data: {
@@ -333,7 +325,6 @@ export const startExam = async (req: Request, res: Response): Promise<void> => {
   const id = parseInt(req.params.id as string, 10);
 
   try {
-    // Check if exam exists
     const exam = await prisma.exam.findUnique({
       where: { id },
     });
@@ -343,7 +334,6 @@ export const startExam = async (req: Request, res: Response): Promise<void> => {
       return;
     }
 
-    // Check if student already started this exam
     const existingAttempt = await prisma.examAttempt.findUnique({
       where: {
         examId_studentId: {
@@ -359,13 +349,11 @@ export const startExam = async (req: Request, res: Response): Promise<void> => {
     });
 
     if (existingAttempt) {
-      // Check if already submitted
       if (existingAttempt._count.answers > 0) {
         res.status(409).json({ message: 'Already submitted this exam' });
         return;
       }
 
-      // Check if deadline has passed
       if (exam.duration > 0) {
         const deadlineMs = existingAttempt.createdAt.getTime() + exam.duration * 60 * 1000;
         const now = Date.now();
@@ -375,7 +363,6 @@ export const startExam = async (req: Request, res: Response): Promise<void> => {
         }
       }
 
-      // Allow resume by returning existing attempt details
       const deadline = exam.duration > 0
         ? new Date(existingAttempt.createdAt.getTime() + exam.duration * 60 * 1000)
         : null;
@@ -388,7 +375,6 @@ export const startExam = async (req: Request, res: Response): Promise<void> => {
       return;
     }
 
-    // Create attempt record — this marks the start time via createdAt
     const attempt = await prisma.examAttempt.create({
       data: {
         examId: id,
@@ -397,8 +383,6 @@ export const startExam = async (req: Request, res: Response): Promise<void> => {
       },
     });
 
-    // Calculate deadline for the frontend countdown timer
-    // If duration is 0, there is no time limit
     const deadline = exam.duration > 0
       ? new Date(attempt.createdAt.getTime() + exam.duration * 60 * 1000)
       : null;
@@ -430,7 +414,6 @@ export const submitExam = async (req: Request, res: Response): Promise<void> => 
   const { answers } = req.body;
 
   try {
-    // Check if exam exists
     const exam = await prisma.exam.findUnique({
       where: { id },
     });
@@ -440,7 +423,6 @@ export const submitExam = async (req: Request, res: Response): Promise<void> => 
       return;
     }
 
-    // Find the existing attempt (created by startExam)
     const attempt = await prisma.examAttempt.findUnique({
       where: {
         examId_studentId: {
@@ -456,13 +438,11 @@ export const submitExam = async (req: Request, res: Response): Promise<void> => 
       return;
     }
 
-    // Check if already submitted (has answers means already submitted)
     if (attempt._count.answers > 0) {
       res.status(409).json({ message: 'Already submitted this exam' });
       return;
     }
 
-    // Enforce deadline: if duration > 0, check that we are within the allowed time + grace period
     if (exam.duration > 0) {
       const deadlineMs = attempt.createdAt.getTime() + exam.duration * 60 * 1000;
       const graceMs = 60 * 1000;
@@ -474,7 +454,6 @@ export const submitExam = async (req: Request, res: Response): Promise<void> => 
       }
     }
 
-    // Save answers
     const updatedAttempt = await prisma.examAttempt.update({
       where: { id: attempt.id },
       data: {
@@ -854,7 +833,6 @@ export const evaluateAnswerWithAI = async (req: Request, res: Response): Promise
   const answerId = parseInt(req.params.answerId as string, 10);
 
   try {
-    // 1. Fetch the 4 required data points
     const answer = await prisma.answer.findUnique({
       where: { id: answerId },
       include: {
@@ -870,7 +848,6 @@ export const evaluateAnswerWithAI = async (req: Request, res: Response): Promise
       return;
     }
 
-    // Security check: Only allow the teacher who created the course or admin
     if (req.user.role === 'TEACHER' && answer.attempt.exam.course.createdBy !== req.user.id) {
       res.status(403).json({ message: 'Forbidden' });
       return;
@@ -883,14 +860,11 @@ export const evaluateAnswerWithAI = async (req: Request, res: Response): Promise
       maxMarks: answer.question.marks
     };
 
-    // 2. Determine Python executable path (handle cross-platform venv)
     const isWindows = process.platform === 'win32';
-    // Prioritize ENV variable if set, otherwise fallback to local venv
+
     const pythonExecutable = process.env.PYTHON_VENV_PATH || path.join(__dirname, '..', '..', 'venv', isWindows ? 'Scripts' : 'bin', 'python');
     const scriptPath = path.join(__dirname, '..', 'scripts', 'evaluate.py');
 
-    // 3. Spawn child process securely
-    // We pass the data as a stringified JSON argument. We DO NOT use shell: true to prevent injection.
     const pythonProcess = spawn(pythonExecutable, [scriptPath, JSON.stringify(evaluationData)], {
       shell: false
     });
@@ -950,13 +924,11 @@ export const evaluateAttemptWithAI = async (req: Request, res: Response): Promis
       return;
     }
 
-    // Security check: Only allow the teacher who created the course or admin
     if (req.user.role === 'TEACHER' && attempt.exam.course.createdBy !== req.user.id) {
       res.status(403).json({ message: 'Forbidden' });
       return;
     }
 
-    // Prepare array of data for Python script
     const evaluationData = attempt.answers.map(ans => ({
       answerId: ans.id,
       questionText: ans.question.questionText,
@@ -998,7 +970,6 @@ export const evaluateAttemptWithAI = async (req: Request, res: Response): Promis
 
       try {
         const results = JSON.parse(outputData);
-        // Map the results back to the answer IDs so frontend can easily identify them
         const finalResults = results.map((result: any, index: number) => ({
           answerId: evaluationData[index].answerId,
           ...result

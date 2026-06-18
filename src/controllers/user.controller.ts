@@ -21,7 +21,6 @@ export const createUser = async (req: Request, res: Response): Promise<void> => 
   const { name, email, password, role } = req.body;
 
   try {
-    // Check if email already exists -> 409 Conflict
     const existingUser = await prisma.user.findUnique({
       where: { email },
     });
@@ -31,10 +30,8 @@ export const createUser = async (req: Request, res: Response): Promise<void> => 
       return;
     }
 
-    // Hash password with bcrypt
     const hashedPassword = await bcrypt.hash(password, 10);
 
-    // Create user
     const user = await prisma.user.create({
       data: {
         name,
@@ -110,7 +107,6 @@ export const updateMe = async (req: Request, res: Response): Promise<void> => {
     if (name) updateData.name = name;
     
     if (email) {
-      // Check if email already taken by someone else
       const existingUser = await prisma.user.findFirst({
         where: {
           email,
@@ -153,7 +149,6 @@ export const updateUser = async (req: Request, res: Response): Promise<void> => 
   const { name, email, password, role } = req.body;
 
   try {
-    // Check if user exists
     const userExists = await prisma.user.findUnique({
       where: { id },
     });

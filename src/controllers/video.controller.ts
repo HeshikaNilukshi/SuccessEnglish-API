@@ -68,7 +68,6 @@ export const getVideosByCourse = async (req: Request, res: Response): Promise<vo
   const courseId = parseInt(req.params.courseId as string, 10);
 
   try {
-    // Check if course exists
     const course = await prisma.course.findUnique({
       where: { id: courseId },
     });
@@ -78,7 +77,6 @@ export const getVideosByCourse = async (req: Request, res: Response): Promise<vo
       return;
     }
 
-    // If student, check verified enrollment
     if (req.user.role === 'STUDENT') {
       const enrollment = await prisma.enrollment.findUnique({
         where: {
@@ -95,7 +93,6 @@ export const getVideosByCourse = async (req: Request, res: Response): Promise<vo
       }
     }
 
-    // Latest videos need to be come to top (createdAt DESC)
     const videos = await prisma.video.findMany({
       where: { courseId },
       orderBy: { createdAt: 'desc' },
@@ -130,7 +127,6 @@ export const getVideo = async (req: Request, res: Response): Promise<void> => {
       return;
     }
 
-    // If student, check verified enrollment
     if (req.user.role === 'STUDENT') {
       const enrollment = await prisma.enrollment.findUnique({
         where: {

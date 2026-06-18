@@ -23,7 +23,6 @@ export const requestEnrollment = async (req: Request, res: Response): Promise<vo
   const courseId = parseInt(req.body.courseId, 10);
 
   try {
-    // 2. Check if course exists
     const course = await prisma.course.findUnique({
       where: { id: courseId },
     });
@@ -33,7 +32,6 @@ export const requestEnrollment = async (req: Request, res: Response): Promise<vo
       return;
     }
 
-    // 3. Check if already enrolled
     const existingEnrollment = await prisma.enrollment.findUnique({
       where: {
         userId_courseId: {
@@ -48,10 +46,8 @@ export const requestEnrollment = async (req: Request, res: Response): Promise<vo
       return;
     }
 
-    // Upload payment receipt image to Cloudinary
     const cloudinaryResult = await uploadToCloudinary(req.file.buffer, 'lms_receipts');
 
-    // 4. Create enrollment with verified: false
     const enrollment = await prisma.enrollment.create({
       data: {
         userId: req.user.id,
