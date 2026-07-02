@@ -7,7 +7,6 @@ import { upload } from '../utils/cloudinary';
 
 const router = Router();
 
-// /my MUST be registered before /:id paths
 router.get('/my', auth, role('STUDENT'), enrollmentController.getMyEnrollments);
 
 router.post(
