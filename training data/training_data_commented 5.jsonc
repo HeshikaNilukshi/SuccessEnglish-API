@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a classmate to borrow their science notes because you were absent?
+  {
+    "modelAnswer": "Could I please borrow your science notes from yesterday? I was absent from school.",
+    "studentAnswer": "Could I please borrow your science notes from yesterday? I was absent from school.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could I please borrow your science notes from yesterday? I was absent from school.",
+    "studentAnswer": "I was absent yesterday. Can you please give me your science notes?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could I please borrow your science notes from yesterday? I was absent from school.",
+    "studentAnswer": "Can I copy your science notes? I did not come to school yesterday.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could I please borrow your science notes from yesterday? I was absent from school.",
+    "studentAnswer": "Please give me science notes. I was absent.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could I please borrow your science notes from yesterday? I was absent from school.",
+    "studentAnswer": "Can I have science notes?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could I please borrow your science notes from yesterday? I was absent from school.",
+    "studentAnswer": "Science class is very interesting.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could I please borrow your science notes from yesterday? I was absent from school.",
+    "studentAnswer": "I don't like science subjects.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could I please borrow your science notes from yesterday? I was absent from school.",
+    "studentAnswer": "I missed yesterday's class, can I borrow your science book?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could I please borrow your science notes from yesterday? I was absent from school.",
+    "studentAnswer": "Science notes please?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could I please borrow your science notes from yesterday? I was absent from school.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you invite a teacher to the class exhibition?
+  {
+    "modelAnswer": "Excuse me teacher, we would like to invite you to our class exhibition this afternoon.",
+    "studentAnswer": "Excuse me teacher, we would like to invite you to our class exhibition this afternoon.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me teacher, we would like to invite you to our class exhibition this afternoon.",
+    "studentAnswer": "Teacher, please come to see our class exhibition this afternoon.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me teacher, we would like to invite you to our class exhibition this afternoon.",
+    "studentAnswer": "We are inviting you to our class exhibition today afternoon, teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me teacher, we would like to invite you to our class exhibition this afternoon.",
+    "studentAnswer": "Please come to our class exhibition today afternoon.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me teacher, we would like to invite you to our class exhibition this afternoon.",
+    "studentAnswer": "Come to class exhibition teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me teacher, we would like to invite you to our class exhibition this afternoon.",
+    "studentAnswer": "Our classroom is decorated nicely.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me teacher, we would like to invite you to our class exhibition this afternoon.",
+    "studentAnswer": "Exhibitions are held in the school hall.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me teacher, we would like to invite you to our class exhibition this afternoon.",
+    "studentAnswer": "Teacher, would you like to visit our class exhibition this afternoon?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me teacher, we would like to invite you to our class exhibition this afternoon.",
+    "studentAnswer": "Class exhibition please come.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me teacher, we would like to invite you to our class exhibition this afternoon.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you request a friend to speak louder because you cannot hear them?
+  {
+    "modelAnswer": "Could you please speak a little louder? I cannot hear you clearly.",
+    "studentAnswer": "Could you please speak a little louder? I cannot hear you clearly.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please speak a little louder? I cannot hear you clearly.",
+    "studentAnswer": "Can you please speak louder? I can't hear you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please speak a little louder? I cannot hear you clearly.",
+    "studentAnswer": "Speak a bit louder please, I cannot hear.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please speak a little louder? I cannot hear you clearly.",
+    "studentAnswer": "Please speak louder, I can't hear.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could you please speak a little louder? I cannot hear you clearly.",
+    "studentAnswer": "Speak loud please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could you please speak a little louder? I cannot hear you clearly.",
+    "studentAnswer": "I am listening to music.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please speak a little louder? I cannot hear you clearly.",
+    "studentAnswer": "The classroom is very noisy.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please speak a little louder? I cannot hear you clearly.",
+    "studentAnswer": "Could you speak louder please? I can't hear.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please speak a little louder? I cannot hear you clearly.",
+    "studentAnswer": "Talk louder please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could you please speak a little louder? I cannot hear you clearly.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you apologize to a friend for forgetting their textbook?
+  {
+    "modelAnswer": "I am really sorry, Nimal. I forgot to bring the textbook I borrowed from you.",
+    "studentAnswer": "I am really sorry, Nimal. I forgot to bring the textbook I borrowed from you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry, Nimal. I forgot to bring the textbook I borrowed from you.",
+    "studentAnswer": "Sorry Nimal, I forgot to bring your book today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry, Nimal. I forgot to bring the textbook I borrowed from you.",
+    "studentAnswer": "I am so sorry Nimal, I left your book at home.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry, Nimal. I forgot to bring the textbook I borrowed from you.",
+    "studentAnswer": "Sorry I forgot your book, Nimal.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am really sorry, Nimal. I forgot to bring the textbook I borrowed from you.",
+    "studentAnswer": "Forgot your book, sorry.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am really sorry, Nimal. I forgot to bring the textbook I borrowed from you.",
+    "studentAnswer": "I will buy a new book.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really sorry, Nimal. I forgot to bring the textbook I borrowed from you.",
+    "studentAnswer": "Nimal is my best friend.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really sorry, Nimal. I forgot to bring the textbook I borrowed from you.",
+    "studentAnswer": "Sorry Nimal, I forgot your textbook.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry, Nimal. I forgot to bring the textbook I borrowed from you.",
+    "studentAnswer": "Forgot book, sorry Nimal.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am really sorry, Nimal. I forgot to bring the textbook I borrowed from you.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you tell a parent you need money to buy a new drawing book?
+  {
+    "modelAnswer": "Father, could you please give me some money to buy a new drawing book for school?",
+    "studentAnswer": "Father, could you please give me some money to buy a new drawing book for school?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Father, could you please give me some money to buy a new drawing book for school?",
+    "studentAnswer": "Thatha, can you give me some money to buy a drawing book?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Father, could you please give me some money to buy a new drawing book for school?",
+    "studentAnswer": "Father, I need some money to buy a school drawing book.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Father, could you please give me some money to buy a new drawing book for school?",
+    "studentAnswer": "Please give me money for a drawing book, father.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Father, could you please give me some money to buy a new drawing book for school?",
+    "studentAnswer": "Need money for drawing book.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Father, could you please give me some money to buy a new drawing book for school?",
+    "studentAnswer": "I like drawing in school.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Father, could you please give me some money to buy a new drawing book for school?",
+    "studentAnswer": "My drawing book is full of pictures.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Father, could you please give me some money to buy a new drawing book for school?",
+    "studentAnswer": "Father, can you give me money to buy a drawing book?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Father, could you please give me some money to buy a new drawing book for school?",
+    "studentAnswer": "Money for drawing book please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Father, could you please give me some money to buy a new drawing book for school?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you complain to a shopkeeper about a damaged pen you bought?
+  {
+    "modelAnswer": "Excuse me, I bought this pen earlier today but it is not writing. Can you please replace it?",
+    "studentAnswer": "Excuse me, I bought this pen earlier today but it is not writing. Can you please replace it?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I bought this pen earlier today but it is not writing. Can you please replace it?",
+    "studentAnswer": "Excuse me, this pen I bought today is not writing. Can you give me a new one?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I bought this pen earlier today but it is not writing. Can you please replace it?",
+    "studentAnswer": "I bought this pen today but it is not working. Please change it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I bought this pen earlier today but it is not writing. Can you please replace it?",
+    "studentAnswer": "This pen is not writing. Give me another one please.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, I bought this pen earlier today but it is not writing. Can you please replace it?",
+    "studentAnswer": "Pen not working. Change it.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, I bought this pen earlier today but it is not writing. Can you please replace it?",
+    "studentAnswer": "I have many blue pens.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, I bought this pen earlier today but it is not writing. Can you please replace it?",
+    "studentAnswer": "The shop is close to my home.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, I bought this pen earlier today but it is not writing. Can you please replace it?",
+    "studentAnswer": "Excuse me, can you replace this pen? It is not working.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I bought this pen earlier today but it is not writing. Can you please replace it?",
+    "studentAnswer": "Change this pen please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, I bought this pen earlier today but it is not writing. Can you please replace it?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you tell a friend about your plans for the upcoming school holidays?
+  {
+    "modelAnswer": "I am planning to visit my grandparents in Anuradhapura during the upcoming school holidays.",
+    "studentAnswer": "I am planning to visit my grandparents in Anuradhapura during the upcoming school holidays.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "I am planning to visit my grandparents in Anuradhapura during the upcoming school holidays.",
+    "studentAnswer": "In the school holidays, I am going to visit my grandparents in Anuradhapura.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "I am planning to visit my grandparents in Anuradhapura during the upcoming school holidays.",
+    "studentAnswer": "I will go to Anuradhapura to see my grandparents in the holidays.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "I am planning to visit my grandparents in Anuradhapura during the upcoming school holidays.",
+    "studentAnswer": "I am visiting grandparents in Anuradhapura next holidays.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am planning to visit my grandparents in Anuradhapura during the upcoming school holidays.",
+    "studentAnswer": "Going to Anuradhapura in holidays.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am planning to visit my grandparents in Anuradhapura during the upcoming school holidays.",
+    "studentAnswer": "My grandparents are very old.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am planning to visit my grandparents in Anuradhapura during the upcoming school holidays.",
+    "studentAnswer": "Anuradhapura is an ancient city.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am planning to visit my grandparents in Anuradhapura during the upcoming school holidays.",
+    "studentAnswer": "I plan to go to Anuradhapura for the school holidays.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am planning to visit my grandparents in Anuradhapura during the upcoming school holidays.",
+    "studentAnswer": "Holiday plan is visiting grandparents.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am planning to visit my grandparents in Anuradhapura during the upcoming school holidays.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you ask a teacher for permission to drink some water?
+  {
+    "modelAnswer": "Excuse me teacher, may I please go out to drink some water?",
+    "studentAnswer": "Excuse me teacher, may I please go out to drink some water?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me teacher, may I please go out to drink some water?",
+    "studentAnswer": "Teacher, can I go to drink water please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me teacher, may I please go out to drink some water?",
+    "studentAnswer": "Excuse me teacher, may I go out and drink water?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me teacher, may I please go out to drink some water?",
+    "studentAnswer": "Teacher, can I go out to drink water?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me teacher, may I please go out to drink some water?",
+    "studentAnswer": "Go drink water teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Excuse me teacher, may I please go out to drink some water?",
+    "studentAnswer": "The water is cold.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me teacher, may I please go out to drink some water?",
+    "studentAnswer": "I have a water bottle.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me teacher, may I please go out to drink some water?",
+    "studentAnswer": "May I go out to drink water, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me teacher, may I please go out to drink some water?",
+    "studentAnswer": "Can I drink water?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me teacher, may I please go out to drink some water?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you congratulate a friend on passing their music exam?
+  {
+    "modelAnswer": "Congratulations on passing your music exam with a distinction! You played the violin beautifully.",
+    "studentAnswer": "Congratulations on passing your music exam with a distinction! You played the violin beautifully.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on passing your music exam with a distinction! You played the violin beautifully.",
+    "studentAnswer": "Well done on passing your music exam! You played the violin very well.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on passing your music exam with a distinction! You played the violin beautifully.",
+    "studentAnswer": "Congratulations on your music exam distinction!",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Congratulations on passing your music exam with a distinction! You played the violin beautifully.",
+    "studentAnswer": "Congrats for passing the music test, you played the violin nicely.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on passing your music exam with a distinction! You played the violin beautifully.",
+    "studentAnswer": "Happy for your music exam pass.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Congratulations on passing your music exam with a distinction! You played the violin beautifully.",
+    "studentAnswer": "I also want to learn the violin.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Congratulations on passing your music exam with a distinction! You played the violin beautifully.",
+    "studentAnswer": "Violins are expensive instruments.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Congratulations on passing your music exam with a distinction! You played the violin beautifully.",
+    "studentAnswer": "Congratulations, you passed the music exam with a distinction!",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on passing your music exam with a distinction! You played the violin beautifully.",
+    "studentAnswer": "Congrats on the music distinction.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Congratulations on passing your music exam with a distinction! You played the violin beautifully.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you describe a traditional festival (Vesak) to a foreigner?
+  {
+    "modelAnswer": "For Vesak, we hang colorful lanterns outside our houses, light clay lamps, and visit temples.",
+    "studentAnswer": "For Vesak, we hang colorful lanterns outside our houses, light clay lamps, and visit temples.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "For Vesak, we hang colorful lanterns outside our houses, light clay lamps, and visit temples.",
+    "studentAnswer": "We celebrate Vesak by hanging lanterns, lighting clay lamps, and going to temples.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "For Vesak, we hang colorful lanterns outside our houses, light clay lamps, and visit temples.",
+    "studentAnswer": "We light clay lamps and visit temples for Vesak festival.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "For Vesak, we hang colorful lanterns outside our houses, light clay lamps, and visit temples.",
+    "studentAnswer": "In Vesak we make lanterns and visit temple.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "For Vesak, we hang colorful lanterns outside our houses, light clay lamps, and visit temples.",
+    "studentAnswer": "We go to temple in Vesak.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "For Vesak, we hang colorful lanterns outside our houses, light clay lamps, and visit temples.",
+    "studentAnswer": "Vesak is in the month of May.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "For Vesak, we hang colorful lanterns outside our houses, light clay lamps, and visit temples.",
+    "studentAnswer": "I like Vesak holidays.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "For Vesak, we hang colorful lanterns outside our houses, light clay lamps, and visit temples.",
+    "studentAnswer": "We hang lanterns and light lamps for Vesak.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "For Vesak, we hang colorful lanterns outside our houses, light clay lamps, and visit temples.",
+    "studentAnswer": "Lanterns and clay lamps for Vesak.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "For Vesak, we hang colorful lanterns outside our houses, light clay lamps, and visit temples.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  }
+]

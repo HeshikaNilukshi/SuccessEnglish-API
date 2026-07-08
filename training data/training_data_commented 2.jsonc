@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you politely ask a shopkeeper for the price of a book?
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this English grammar book costs?",
+    "studentAnswer": "Excuse me, could you please tell me how much this English grammar book costs?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this English grammar book costs?",
+    "studentAnswer": "How much does this English grammar book cost?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this English grammar book costs?",
+    "studentAnswer": "Can you tell me the price of this English book?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this English grammar book costs?",
+    "studentAnswer": "What is the price of this book please?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this English grammar book costs?",
+    "studentAnswer": "How much for this book?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this English grammar book costs?",
+    "studentAnswer": "I want to buy a book.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this English grammar book costs?",
+    "studentAnswer": "This book is very good.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this English grammar book costs?",
+    "studentAnswer": "How many rupees is this book?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this English grammar book costs?",
+    "studentAnswer": "Price of book please?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this English grammar book costs?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you congratulate a classmate on passing their O/L exams?
+  {
+    "modelAnswer": "Congratulations on passing your O/L exams with excellent results! I am so proud of you.",
+    "studentAnswer": "Congratulations on passing your O/L exams with excellent results! I am so proud of you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on passing your O/L exams with excellent results! I am so proud of you.",
+    "studentAnswer": "Congratulations for passing your O/L exams with good results!",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on passing your O/L exams with excellent results! I am so proud of you.",
+    "studentAnswer": "Well done on passing the O/L exams!",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on passing your O/L exams with excellent results! I am so proud of you.",
+    "studentAnswer": "Happy for your O/L results.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Congratulations on passing your O/L exams with excellent results! I am so proud of you.",
+    "studentAnswer": "Good job on the exams.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Congratulations on passing your O/L exams with excellent results! I am so proud of you.",
+    "studentAnswer": "I also passed my exams.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Congratulations on passing your O/L exams with excellent results! I am so proud of you.",
+    "studentAnswer": "The O/L exam was very hard.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Congratulations on passing your O/L exams with excellent results! I am so proud of you.",
+    "studentAnswer": "Congrats on passing the O/L exam!",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Congratulations on passing your O/L exams with excellent results! I am so proud of you.",
+    "studentAnswer": "You did very well in O/L.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Congratulations on passing your O/L exams with excellent results! I am so proud of you.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  
+  // Question 3: How do you ask a friend for help with a difficult math problem?
+  {
+    "modelAnswer": "Could you please help me solve this difficult math problem? I don't understand it.",
+    "studentAnswer": "Could you please help me solve this difficult math problem? I don't understand it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please help me solve this difficult math problem? I don't understand it.",
+    "studentAnswer": "Can you help me with this math problem please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please help me solve this difficult math problem? I don't understand it.",
+    "studentAnswer": "Please help me to do this math sum.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could you please help me solve this difficult math problem? I don't understand it.",
+    "studentAnswer": "I cannot do this math sum, please help me.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could you please help me solve this difficult math problem? I don't understand it.",
+    "studentAnswer": "Help me with math sum.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Could you please help me solve this difficult math problem? I don't understand it.",
+    "studentAnswer": "Math is my favorite subject.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please help me solve this difficult math problem? I don't understand it.",
+    "studentAnswer": "I have a new math book.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please help me solve this difficult math problem? I don't understand it.",
+    "studentAnswer": "Do you know how to solve this math problem?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please help me solve this difficult math problem? I don't understand it.",
+    "studentAnswer": "I don't know this math sum.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could you please help me solve this difficult math problem? I don't understand it.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  
+  // Question 4: How do you suggest to friends to play cricket during the interval?
+  {
+    "modelAnswer": "Why don't we go and play a quick game of cricket during the interval?",
+    "studentAnswer": "Why don't we go and play a quick game of cricket during the interval?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Why don't we go and play a quick game of cricket during the interval?",
+    "studentAnswer": "Let's play cricket during the interval.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Why don't we go and play a quick game of cricket during the interval?",
+    "studentAnswer": "Shall we play a game of cricket in the interval?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Why don't we go and play a quick game of cricket during the interval?",
+    "studentAnswer": "We can play cricket now in interval.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Why don't we go and play a quick game of cricket during the interval?",
+    "studentAnswer": "Play cricket in interval?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Why don't we go and play a quick game of cricket during the interval?",
+    "studentAnswer": "I am eating my lunch.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Why don't we go and play a quick game of cricket during the interval?",
+    "studentAnswer": "The interval is very short.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Why don't we go and play a quick game of cricket during the interval?",
+    "studentAnswer": "Do you like to play cricket at the interval?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Why don't we go and play a quick game of cricket during the interval?",
+    "studentAnswer": "Come to play cricket.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Why don't we go and play a quick game of cricket during the interval?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you ask the school librarian to borrow a book?
+  {
+    "modelAnswer": "Excuse me madam, may I please borrow this storybook for one week?",
+    "studentAnswer": "Excuse me madam, may I please borrow this storybook for one week?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me madam, may I please borrow this storybook for one week?",
+    "studentAnswer": "Can I please borrow this storybook for a week, madam?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me madam, may I please borrow this storybook for one week?",
+    "studentAnswer": "Madam, I want to take this book home for a week.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me madam, may I please borrow this storybook for one week?",
+    "studentAnswer": "May I take this book, please?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me madam, may I please borrow this storybook for one week?",
+    "studentAnswer": "Can I have this book?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me madam, may I please borrow this storybook for one week?",
+    "studentAnswer": "I like reading storybooks.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me madam, may I please borrow this storybook for one week?",
+    "studentAnswer": "The library is very quiet.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me madam, may I please borrow this storybook for one week?",
+    "studentAnswer": "Please give me this book to read.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me madam, may I please borrow this storybook for one week?",
+    "studentAnswer": "Madam, can I borrow this book?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me madam, may I please borrow this storybook for one week?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  
+  // Question 6: How do you complain about a broken fan in the classroom to the class monitor?
+  {
+    "modelAnswer": "The ceiling fan in our classroom is not working. Could you please tell the teacher?",
+    "studentAnswer": "The ceiling fan in our classroom is not working. Could you please tell the teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "The ceiling fan in our classroom is not working. Could you please tell the teacher?",
+    "studentAnswer": "The fan in the class is broken. Please tell the teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "The ceiling fan in our classroom is not working. Could you please tell the teacher?",
+    "studentAnswer": "Our ceiling fan is not working, can you tell the teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "The ceiling fan in our classroom is not working. Could you please tell the teacher?",
+    "studentAnswer": "The fan is broken. Tell teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "The ceiling fan in our classroom is not working. Could you please tell the teacher?",
+    "studentAnswer": "Fan not working.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "The ceiling fan in our classroom is not working. Could you please tell the teacher?",
+    "studentAnswer": "It is very hot today.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "The ceiling fan in our classroom is not working. Could you please tell the teacher?",
+    "studentAnswer": "I am the class monitor.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "The ceiling fan in our classroom is not working. Could you please tell the teacher?",
+    "studentAnswer": "Classroom fan is broken, you tell teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "The ceiling fan in our classroom is not working. Could you please tell the teacher?",
+    "studentAnswer": "Fan is broke.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "The ceiling fan in our classroom is not working. Could you please tell the teacher?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you wish a teacher a Happy Teacher's Day?
+  {
+    "modelAnswer": "Happy Teacher's Day, sir! Thank you for teaching us so well and helping us learn.",
+    "studentAnswer": "Happy Teacher's Day, sir! Thank you for teaching us so well and helping us learn.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Happy Teacher's Day, sir! Thank you for teaching us so well and helping us learn.",
+    "studentAnswer": "Happy Teacher's Day! Thank you for everything you teach us.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Happy Teacher's Day, sir! Thank you for teaching us so well and helping us learn.",
+    "studentAnswer": "We wish you a Happy Teacher's Day, sir.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Happy Teacher's Day, sir! Thank you for teaching us so well and helping us learn.",
+    "studentAnswer": "Happy Teacher's Day sir, thank you.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Happy Teacher's Day, sir! Thank you for teaching us so well and helping us learn.",
+    "studentAnswer": "Happy Teacher's Day.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Happy Teacher's Day, sir! Thank you for teaching us so well and helping us learn.",
+    "studentAnswer": "I have a gift for you.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Happy Teacher's Day, sir! Thank you for teaching us so well and helping us learn.",
+    "studentAnswer": "Today is a holiday.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Happy Teacher's Day, sir! Thank you for teaching us so well and helping us learn.",
+    "studentAnswer": "Sir, happy teacher's day for you.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Happy Teacher's Day, sir! Thank you for teaching us so well and helping us learn.",
+    "studentAnswer": "Thank you for teaching us, sir.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Happy Teacher's Day, sir! Thank you for teaching us so well and helping us learn.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you tell a doctor about a bad stomach ache?
+  {
+    "modelAnswer": "Doctor, I have been having a very bad stomach ache since yesterday evening.",
+    "studentAnswer": "Doctor, I have been having a very bad stomach ache since yesterday evening.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Doctor, I have been having a very bad stomach ache since yesterday evening.",
+    "studentAnswer": "Doctor, my stomach is paining a lot since yesterday.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Doctor, I have been having a very bad stomach ache since yesterday evening.",
+    "studentAnswer": "I have a bad stomach ache doctor.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Doctor, I have been having a very bad stomach ache since yesterday evening.",
+    "studentAnswer": "My stomach hurts very much.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Doctor, I have been having a very bad stomach ache since yesterday evening.",
+    "studentAnswer": "Stomach paining.",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Doctor, I have been having a very bad stomach ache since yesterday evening.",
+    "studentAnswer": "I am at the hospital.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Doctor, I have been having a very bad stomach ache since yesterday evening.",
+    "studentAnswer": "The medicine is bitter.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Doctor, I have been having a very bad stomach ache since yesterday evening.",
+    "studentAnswer": "I have stomach pain since evening.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Doctor, I have been having a very bad stomach ache since yesterday evening.",
+    "studentAnswer": "Doctor, my stomach is very pain.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Doctor, I have been having a very bad stomach ache since yesterday evening.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you politely decline a friend's invitation to the cinema?
+  {
+    "modelAnswer": "I would love to go to the cinema, but I have to study for my exams tomorrow. Sorry!",
+    "studentAnswer": "I would love to go to the cinema, but I have to study for my exams tomorrow. Sorry!",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "I would love to go to the cinema, but I have to study for my exams tomorrow. Sorry!",
+    "studentAnswer": "Sorry, I cannot go to the cinema because I need to study for exams.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "I would love to go to the cinema, but I have to study for my exams tomorrow. Sorry!",
+    "studentAnswer": "I can't go to the cinema, I have to study.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I would love to go to the cinema, but I have to study for my exams tomorrow. Sorry!",
+    "studentAnswer": "Sorry, I have to study for my exams.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I would love to go to the cinema, but I have to study for my exams tomorrow. Sorry!",
+    "studentAnswer": "I cannot come to film.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I would love to go to the cinema, but I have to study for my exams tomorrow. Sorry!",
+    "studentAnswer": "I don't like movies.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I would love to go to the cinema, but I have to study for my exams tomorrow. Sorry!",
+    "studentAnswer": "What movie are we watching?",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I would love to go to the cinema, but I have to study for my exams tomorrow. Sorry!",
+    "studentAnswer": "I like to go but I am studying.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I would love to go to the cinema, but I have to study for my exams tomorrow. Sorry!",
+    "studentAnswer": "Cannot go. Have exam.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I would love to go to the cinema, but I have to study for my exams tomorrow. Sorry!",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you describe your favorite traditional Sri Lankan food to a foreigner?
+  {
+    "modelAnswer": "My favorite food is milk rice with lunumiris. It is very delicious and we eat it on special occasions.",
+    "studentAnswer": "My favorite food is milk rice with lunumiris. It is very delicious and we eat it on special occasions.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "My favorite food is milk rice with lunumiris. It is very delicious and we eat it on special occasions.",
+    "studentAnswer": "I love milk rice and lunumiris. It is a delicious food we eat for special events.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "My favorite food is milk rice with lunumiris. It is very delicious and we eat it on special occasions.",
+    "studentAnswer": "My favorite food is milk rice. It is very tasty.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "My favorite food is milk rice with lunumiris. It is very delicious and we eat it on special occasions.",
+    "studentAnswer": "I like to eat milk rice with lunumiris.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "My favorite food is milk rice with lunumiris. It is very delicious and we eat it on special occasions.",
+    "studentAnswer": "Milk rice is good.",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "My favorite food is milk rice with lunumiris. It is very delicious and we eat it on special occasions.",
+    "studentAnswer": "I eat rice every day.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "My favorite food is milk rice with lunumiris. It is very delicious and we eat it on special occasions.",
+    "studentAnswer": "Sri Lanka is a beautiful country.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "My favorite food is milk rice with lunumiris. It is very delicious and we eat it on special occasions.",
+    "studentAnswer": "My favorite traditional food is milk rice, it is very delicious.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "My favorite food is milk rice with lunumiris. It is very delicious and we eat it on special occasions.",
+    "studentAnswer": "I love milk rice.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "My favorite food is milk rice with lunumiris. It is very delicious and we eat it on special occasions.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  }
+]

@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a classmate to help find a lost calculator?
+  {
+    "modelAnswer": "Could you please help me find my calculator? I think I left it on my desk.",
+    "studentAnswer": "Could you please help me find my calculator? I think I left it on my desk.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please help me find my calculator? I think I left it on my desk.",
+    "studentAnswer": "Can you help me search for my calculator? I lost it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please help me find my calculator? I think I left it on my desk.",
+    "studentAnswer": "Please help me find my calculator, I think it is on the desk.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please help me find my calculator? I think I left it on my desk.",
+    "studentAnswer": "I lost my calculator, can you help me to find it?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please help me find my calculator? I think I left it on my desk.",
+    "studentAnswer": "Help me find my calculator.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could you please help me find my calculator? I think I left it on my desk.",
+    "studentAnswer": "Calculators are allowed for math class.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please help me find my calculator? I think I left it on my desk.",
+    "studentAnswer": "I have a new calculator.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please help me find my calculator? I think I left it on my desk.",
+    "studentAnswer": "Can you help me look for my calculator on the desk?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please help me find my calculator? I think I left it on my desk.",
+    "studentAnswer": "Find my calculator please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could you please help me find my calculator? I think I left it on my desk.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you welcome a visitor to your school?
+  {
+    "modelAnswer": "Welcome to our school! We are very happy to have you here today.",
+    "studentAnswer": "Welcome to our school! We are very happy to have you here today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Welcome to our school! We are very happy to have you here today.",
+    "studentAnswer": "A warm welcome to our school! We are glad you visited us today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Welcome to our school! We are very happy to have you here today.",
+    "studentAnswer": "Welcome to our school, we are happy to see you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Welcome to our school! We are very happy to have you here today.",
+    "studentAnswer": "Welcome! We are happy to have you at our school.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Welcome to our school! We are very happy to have you here today.",
+    "studentAnswer": "Welcome to school.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Welcome to our school! We are very happy to have you here today.",
+    "studentAnswer": "Our school has a big garden.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Welcome to our school! We are very happy to have you here today.",
+    "studentAnswer": "Visitors must sign the book.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Welcome to our school! We are very happy to have you here today.",
+    "studentAnswer": "Hello, welcome to our school today.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Welcome to our school! We are very happy to have you here today.",
+    "studentAnswer": "Welcome visitor to school.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Welcome to our school! We are very happy to have you here today.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you request a friend to pass a plate of food at a party?
+  {
+    "modelAnswer": "Could you please pass that plate of sandwiches to me?",
+    "studentAnswer": "Could you please pass that plate of sandwiches to me?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please pass that plate of sandwiches to me?",
+    "studentAnswer": "Can you please pass the sandwiches plate to me?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please pass that plate of sandwiches to me?",
+    "studentAnswer": "Please pass the plate of sandwiches.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could you please pass that plate of sandwiches to me?",
+    "studentAnswer": "Would you mind passing the sandwiches plate?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please pass that plate of sandwiches to me?",
+    "studentAnswer": "Pass the sandwiches please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could you please pass that plate of sandwiches to me?",
+    "studentAnswer": "I like eating sandwiches.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please pass that plate of sandwiches to me?",
+    "studentAnswer": "The party is very loud.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please pass that plate of sandwiches to me?",
+    "studentAnswer": "Can you pass me the sandwiches plate?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please pass that plate of sandwiches to me?",
+    "studentAnswer": "Sandwiches plate please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Could you please pass that plate of sandwiches to me?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you apologize to a teacher for not doing the homework?
+  {
+    "modelAnswer": "I am very sorry, teacher. I could not complete my homework because I was sick yesterday.",
+    "studentAnswer": "I am very sorry, teacher. I could not complete my homework because I was sick yesterday.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I could not complete my homework because I was sick yesterday.",
+    "studentAnswer": "Sorry teacher, I didn't do my homework because I was sick.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I could not complete my homework because I was sick yesterday.",
+    "studentAnswer": "Teacher, I am sorry. I couldn't complete the homework as I was unwell yesterday.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I could not complete my homework because I was sick yesterday.",
+    "studentAnswer": "I am sorry teacher, I could not do my homework yesterday.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I could not complete my homework because I was sick yesterday.",
+    "studentAnswer": "Sorry teacher, homework not done.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I could not complete my homework because I was sick yesterday.",
+    "studentAnswer": "I will do it tomorrow.",
+    "maxMarks": 5,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I could not complete my homework because I was sick yesterday.",
+    "studentAnswer": "Homework is very easy.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I could not complete my homework because I was sick yesterday.",
+    "studentAnswer": "I am sorry I didn't finish homework, I was sick yesterday.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I could not complete my homework because I was sick yesterday.",
+    "studentAnswer": "No homework today, sorry teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I could not complete my homework because I was sick yesterday.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you tell a friend you want to join the school drama club?
+  {
+    "modelAnswer": "I am planning to join the school drama club because I love acting in plays.",
+    "studentAnswer": "I am planning to join the school drama club because I love acting in plays.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am planning to join the school drama club because I love acting in plays.",
+    "studentAnswer": "I want to join the school drama club. I like acting.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am planning to join the school drama club because I love acting in plays.",
+    "studentAnswer": "I will join the drama club at school as I love acting.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am planning to join the school drama club because I love acting in plays.",
+    "studentAnswer": "I am going to join the drama club because I like plays.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am planning to join the school drama club because I love acting in plays.",
+    "studentAnswer": "I want to join school drama club.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am planning to join the school drama club because I love acting in plays.",
+    "studentAnswer": "The drama club has a new teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am planning to join the school drama club because I love acting in plays.",
+    "studentAnswer": "I watched a drama yesterday.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am planning to join the school drama club because I love acting in plays.",
+    "studentAnswer": "I plan to join the drama club because I love acting.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am planning to join the school drama club because I love acting in plays.",
+    "studentAnswer": "Drama club is good.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "I am planning to join the school drama club because I love acting in plays.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you ask a shopkeeper for a discount on a school bag?
+  {
+    "modelAnswer": "Excuse me, is it possible to get a small discount on this school bag?",
+    "studentAnswer": "Excuse me, is it possible to get a small discount on this school bag?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, is it possible to get a small discount on this school bag?",
+    "studentAnswer": "Excuse me, can you give a discount for this school bag?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, is it possible to get a small discount on this school bag?",
+    "studentAnswer": "Can I get a discount for this school bag, please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, is it possible to get a small discount on this school bag?",
+    "studentAnswer": "Is there any discount for this school bag?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, is it possible to get a small discount on this school bag?",
+    "studentAnswer": "Discount for this bag?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, is it possible to get a small discount on this school bag?",
+    "studentAnswer": "This school bag is blue.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, is it possible to get a small discount on this school bag?",
+    "studentAnswer": "I need to buy a new bag.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, is it possible to get a small discount on this school bag?",
+    "studentAnswer": "Excuse me, can I get a small discount on this bag?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, is it possible to get a small discount on this school bag?",
+    "studentAnswer": "Give a discount please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Excuse me, is it possible to get a small discount on this school bag?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you ask a parent for permission to watch a movie on TV tonight?
+  {
+    "modelAnswer": "Amma, may I please watch the English movie on TV tonight after doing my studies?",
+    "studentAnswer": "Amma, may I please watch the English movie on TV tonight after doing my studies?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Amma, may I please watch the English movie on TV tonight after doing my studies?",
+    "studentAnswer": "Mother, can I watch the movie on TV tonight after studying?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Amma, may I please watch the English movie on TV tonight after doing my studies?",
+    "studentAnswer": "Mother, please let me watch TV tonight after I finish studying.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Amma, may I please watch the English movie on TV tonight after doing my studies?",
+    "studentAnswer": "Can I watch the TV movie tonight after my homework?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Amma, may I please watch the English movie on TV tonight after doing my studies?",
+    "studentAnswer": "Can I watch TV movie tonight?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Amma, may I please watch the English movie on TV tonight after doing my studies?",
+    "studentAnswer": "The TV is in the living room.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Amma, may I please watch the English movie on TV tonight after doing my studies?",
+    "studentAnswer": "I have term test next week.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Amma, may I please watch the English movie on TV tonight after doing my studies?",
+    "studentAnswer": "Amma, can I watch the TV tonight after my lessons?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Amma, may I please watch the English movie on TV tonight after doing my studies?",
+    "studentAnswer": "Watch TV after studying?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Amma, may I please watch the English movie on TV tonight after doing my studies?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you tell a friend about your favorite pet?
+  {
+    "modelAnswer": "My favorite pet is my dog because he is very playful and guards our house.",
+    "studentAnswer": "My favorite pet is my dog because he is very playful and guards our house.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "My favorite pet is my dog because he is very playful and guards our house.",
+    "studentAnswer": "I love my pet dog. He plays with me and guards the house.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "My favorite pet is my dog because he is very playful and guards our house.",
+    "studentAnswer": "My favorite pet is a dog, he plays and protects our home.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "My favorite pet is my dog because he is very playful and guards our house.",
+    "studentAnswer": "My pet dog is very playful.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "My favorite pet is my dog because he is very playful and guards our house.",
+    "studentAnswer": "I have a pet dog.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "My favorite pet is my dog because he is very playful and guards our house.",
+    "studentAnswer": "Dogs eat meat and bones.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "My favorite pet is my dog because he is very playful and guards our house.",
+    "studentAnswer": "My house is big.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "My favorite pet is my dog because he is very playful and guards our house.",
+    "studentAnswer": "My favorite pet is my dog because he guards our house.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "My favorite pet is my dog because he is very playful and guards our house.",
+    "studentAnswer": "I like playful dogs.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "My favorite pet is my dog because he is very playful and guards our house.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you thank a teacher for helping you prepare for a speech competition?
+  {
+    "modelAnswer": "Thank you very much, teacher, for helping me practice my speech. I won second place!",
+    "studentAnswer": "Thank you very much, teacher, for helping me practice my speech. I won second place!",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for helping me practice my speech. I won second place!",
+    "studentAnswer": "Thank you so much teacher for helping with my speech. I got second place.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for helping me practice my speech. I won second place!",
+    "studentAnswer": "Teacher, thank you for helping me to practice. I won second place in the speech competition.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for helping me practice my speech. I won second place!",
+    "studentAnswer": "Thanks teacher for helping my speech, I won second place.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for helping me practice my speech. I won second place!",
+    "studentAnswer": "Thanks for speech help.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for helping me practice my speech. I won second place!",
+    "studentAnswer": "The speech competition was yesterday.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for helping me practice my speech. I won second place!",
+    "studentAnswer": "I was very nervous.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for helping me practice my speech. I won second place!",
+    "studentAnswer": "Thank you teacher for speech practice, I got a prize.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for helping me practice my speech. I won second place!",
+    "studentAnswer": "Won second place, thank you teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for helping me practice my speech. I won second place!",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you suggest to go for a bicycle ride in the evening?
+  {
+    "modelAnswer": "Shall we go for a bicycle ride around the village this evening when it is cool?",
+    "studentAnswer": "Shall we go for a bicycle ride around the village this evening when it is cool?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go for a bicycle ride around the village this evening when it is cool?",
+    "studentAnswer": "Can we go for a bicycle ride in the village this evening?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go for a bicycle ride around the village this evening when it is cool?",
+    "studentAnswer": "Let's go for a cycle ride around the village this evening.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go for a bicycle ride around the village this evening when it is cool?",
+    "studentAnswer": "Would you like to ride bicycles in the evening today?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Shall we go for a bicycle ride around the village this evening when it is cool?",
+    "studentAnswer": "Ride bicycles this evening?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall we go for a bicycle ride around the village this evening when it is cool?",
+    "studentAnswer": "My bicycle is red and black.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall we go for a bicycle ride around the village this evening when it is cool?",
+    "studentAnswer": "The evening weather is nice.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall we go for a bicycle ride around the village this evening when it is cool?",
+    "studentAnswer": "Shall we ride our bicycles around the village today evening?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go for a bicycle ride around the village this evening when it is cool?",
+    "studentAnswer": "Bicycle ride this evening?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall we go for a bicycle ride around the village this evening when it is cool?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]
