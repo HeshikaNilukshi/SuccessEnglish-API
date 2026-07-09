@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a classmate to borrow their stapler to staple some sheets of paper?
+  {
+    "modelAnswer": "Excuse me, could I please borrow your stapler to staple these sheets of paper?",
+    "studentAnswer": "Excuse me, could I please borrow your stapler to staple these sheets of paper?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could I please borrow your stapler to staple these sheets of paper?",
+    "studentAnswer": "Can I borrow your stapler to staple some sheets, please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could I please borrow your stapler to staple these sheets of paper?",
+    "studentAnswer": "Excuse me, can you lend me your stapler? I need to staple these sheets.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could I please borrow your stapler to staple some sheets of paper?",
+    "studentAnswer": "Please give me your stapler. I want to staple paper.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could I please borrow your stapler to staple some sheets of paper?",
+    "studentAnswer": "Can I take your stapler?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could I please borrow your stapler to staple some sheets of paper?",
+    "studentAnswer": "Staplers are very useful.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could I please borrow your stapler to staple some sheets of paper?",
+    "studentAnswer": "I have a new pencil box.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could I please borrow your stapler to staple some sheets of paper?",
+    "studentAnswer": "Excuse me, do you have a stapler to borrow for these papers?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could I please borrow your stapler to staple some sheets of paper?",
+    "studentAnswer": "Stapler please, to staple paper.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could I please borrow your stapler to staple some sheets of paper?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you welcome a new student who has just joined your school photography club?
+  {
+    "modelAnswer": "Welcome to our photography club! We are very glad to have you join us and look forward to taking beautiful photos together.",
+    "studentAnswer": "Welcome to our photography club! We are very glad to have you join us and look forward to taking beautiful photos together.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Welcome to our photography club! We are very glad to have you join us and look forward to taking beautiful photos together.",
+    "studentAnswer": "A warm welcome to our photography club! We are happy you joined us to take photos.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Welcome to our photography club! We are very glad to have you join us and look forward to taking beautiful photos together.",
+    "studentAnswer": "Welcome to our photography club! We are excited to work together on taking photos.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Welcome to our photography club! We are very glad to have you join us and look forward to taking beautiful photos together.",
+    "studentAnswer": "Welcome to the photography club, we are happy you are joining us.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Welcome to our photography club! We are very glad to have you join us and look forward to taking beautiful photos together.",
+    "studentAnswer": "Welcome to our photography club.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Welcome to our photography club! We are very glad to have you join us and look forward to taking beautiful photos together.",
+    "studentAnswer": "We take photos every Wednesday afternoon.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Welcome to our photography club! We are very glad to have you join us and look forward to taking beautiful photos together.",
+    "studentAnswer": "I am the leader of this club.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Welcome to our photography club! We are very glad to have you join us and look forward to taking beautiful photos together.",
+    "studentAnswer": "Hello, welcome to our photography club. Glad to have you.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Welcome to our photography club! We are very glad to have you join us and look forward to taking beautiful photos together.",
+    "studentAnswer": "Welcome new member to photography club.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Welcome to our photography club! We are very glad to have you join us and look forward to taking beautiful photos together.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you request a friend to pass the dictionary during an English class activity?
+  {
+    "modelAnswer": "Could you please pass that English dictionary to me? We need to look up the meaning of this word.",
+    "studentAnswer": "Could you please pass that English dictionary to me? We need to look up the meaning of this word.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please pass that English dictionary to me? We need to look up the meaning of this word.",
+    "studentAnswer": "Can you please pass the English dictionary? We must find the meaning of this word.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please pass that English dictionary to me? We need to look up the meaning of this word.",
+    "studentAnswer": "Please pass the English dictionary to check the meaning of this word.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please pass that English dictionary to me? We need to look up the meaning of this word.",
+    "studentAnswer": "Would you mind passing me the English dictionary from your table?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please pass that English dictionary to me? We need to look up the meaning of this word.",
+    "studentAnswer": "Pass the English dictionary please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could you please pass that English dictionary to me? We need to look up the meaning of this word.",
+    "studentAnswer": "The English room has thirty desks.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please pass that English dictionary to me? We need to look up the meaning of this word.",
+    "studentAnswer": "I have completed my dictionary writing.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please pass that English dictionary to me? We need to look up the meaning of this word.",
+    "studentAnswer": "Can you pass the dictionary to me please?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could you please pass that English dictionary to me? We need to look up the meaning of this word.",
+    "studentAnswer": "Dictionary please, to find meaning.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could you please pass that English dictionary to me? We need to look up the meaning of this word.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you apologize to a teacher for not bringing your history project notebook because you left it at home?
+  {
+    "modelAnswer": "I am very sorry, teacher. I finished my history project but accidentally left my notebook on my study table.",
+    "studentAnswer": "I am very sorry, teacher. I finished my history project but accidentally left my notebook on my study table.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I finished my history project but accidentally left my notebook on my study table.",
+    "studentAnswer": "Sorry teacher, I did the history project but left the book on my study table by mistake.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I finished my history project but accidentally left my notebook on my study table.",
+    "studentAnswer": "Teacher, I am sorry. I forgot to bring my history project notebook because it is at home.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I finished my history project but accidentally left my notebook on my study table.",
+    "studentAnswer": "I am sorry teacher, my history project book is on my study table.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I finished my history project but accidentally left my notebook on my study table.",
+    "studentAnswer": "Sorry teacher, history project book left at home.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I finished my history project but accidentally left my notebook on my study table.",
+    "studentAnswer": "The history class has many charts.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I finished my history project but accidentally left my notebook on my study table.",
+    "studentAnswer": "I did the history experiment yesterday.",
+    "maxMarks": 5,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I finished my history project but accidentally left my notebook on my study table.",
+    "studentAnswer": "I forgot my history project book at home, sorry teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I finished my history project but accidentally left my notebook on my study table.",
+    "studentAnswer": "History project book at home, sorry.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I finished my history project but accidentally left my notebook on my study table.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you tell a friend you want to join the school drama club?
+  {
+    "modelAnswer": "I am planning to join the school drama club because I want to perform in the annual school play.",
+    "studentAnswer": "I am planning to join the school drama club because I want to perform in the annual school play.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am planning to join the school drama club because I want to perform in the annual school play.",
+    "studentAnswer": "I want to join the school drama club. I want to act in the play.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am planning to join the school drama club because I want to perform in the annual school play.",
+    "studentAnswer": "I will join the drama club at school because I love acting on stage.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am planning to join the school drama club because I want to perform in the annual school play.",
+    "studentAnswer": "I am going to join the school drama club to act in the concert play.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am planning to join the school drama club because I want to perform in the annual school play.",
+    "studentAnswer": "I want to join school drama club.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am planning to join the school drama club because I want to perform in the annual school play.",
+    "studentAnswer": "The drama club office is near the library.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am planning to join the school drama club because I want to perform in the annual school play.",
+    "studentAnswer": "I have club badges at home.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am planning to join the school drama club because I want to perform in the annual school play.",
+    "studentAnswer": "I plan to join the drama club to perform in the play.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am planning to join the school drama club because I want to perform in the annual school play.",
+    "studentAnswer": "Drama club is good.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "I am planning to join the school drama club because I want to perform in the annual school play.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you ask a shopkeeper for the price of a blue gel pen?
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this blue gel pen costs?",
+    "studentAnswer": "Excuse me, could you please tell me how much this blue gel pen costs?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this blue gel pen costs?",
+    "studentAnswer": "Excuse me, how much is this blue gel pen?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this blue gel pen costs?",
+    "studentAnswer": "Can you tell me the price of this blue gel pen, please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this blue gel pen costs?",
+    "studentAnswer": "What is the price of this blue gel pen?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this blue gel pen costs?",
+    "studentAnswer": "How much for this blue gel pen?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this blue gel pen costs?",
+    "studentAnswer": "The gel pen is made of plastic.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this blue gel pen costs?",
+    "studentAnswer": "I want to buy some ink pens.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this blue gel pen costs?",
+    "studentAnswer": "Excuse me, can you tell me the price of this gel pen?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this blue gel pen costs?",
+    "studentAnswer": "Blue gel pen price please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this blue gel pen costs?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you ask a parent for permission to stay after school to practice for a badminton match?
+  {
+    "modelAnswer": "Amma, may I please stay back after school today to practice for the upcoming badminton tournament?",
+    "studentAnswer": "Amma, may I please stay back after school today to practice for the upcoming badminton tournament?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Amma, may I please stay back after school today to practice for the upcoming badminton tournament?",
+    "studentAnswer": "Mother, can I stay after school today to practice for the badminton tournament?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Amma, may I please stay back after school today to practice for the upcoming badminton tournament?",
+    "studentAnswer": "Mother, please let me stay after school today to practice for the badminton match.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Amma, may I please stay back after school today to practice for the upcoming badminton tournament?",
+    "studentAnswer": "Can I stay back to help practice badminton after school today?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Amma, may I please stay back after school today to practice for the upcoming badminton tournament?",
+    "studentAnswer": "Can I stay for badminton practice?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Amma, may I please stay back after school today to practice for the upcoming badminton tournament?",
+    "studentAnswer": "Badminton matches are held in the school hall.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Amma, may I please stay back after school today to practice for the upcoming badminton tournament?",
+    "studentAnswer": "I have to buy a new badminton racket.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Amma, may I please stay back after school today to practice for the upcoming badminton tournament?",
+    "studentAnswer": "Amma, can I stay back at school to practice badminton today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Amma, may I please stay back after school today to practice for the upcoming badminton tournament?",
+    "studentAnswer": "Stay back for badminton practice today?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Amma, may I please stay back after school today to practice for the upcoming badminton tournament?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you tell a friend about your favorite Sri Lankan waterfall?
+  {
+    "modelAnswer": "My favorite waterfall in Sri Lanka is Diyaluma Falls because of its height and beautiful surrounding pools.",
+    "studentAnswer": "My favorite waterfall in Sri Lanka is Diyaluma Falls because of its height and beautiful surrounding pools.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "My favorite waterfall in Sri Lanka is Diyaluma Falls because of its height and beautiful surrounding pools.",
+    "studentAnswer": "I like Diyaluma Falls most because of its height and beautiful pools.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "My favorite waterfall in Sri Lanka is Diyaluma Falls because of its height and beautiful surrounding pools.",
+    "studentAnswer": "Diyaluma Falls is my favorite waterfall. I like the pools there.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "My favorite waterfall in Sri Lanka is Diyaluma Falls because of its height and beautiful surrounding pools.",
+    "studentAnswer": "I like Diyaluma Falls because it has beautiful natural pools.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "My favorite waterfall in Sri Lanka is Diyaluma Falls because of its height and beautiful surrounding pools.",
+    "studentAnswer": "My favorite waterfall is Diyaluma.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "My favorite waterfall in Sri Lanka is Diyaluma Falls because of its height and beautiful surrounding pools.",
+    "studentAnswer": "Diyaluma Falls is located in Koslanda.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "My favorite waterfall in Sri Lanka is Diyaluma Falls because of its height and beautiful surrounding pools.",
+    "studentAnswer": "Sri Lanka has many waterfalls.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "My favorite waterfall in Sri Lanka is Diyaluma Falls because of its height and beautiful surrounding pools.",
+    "studentAnswer": "Diyaluma is my favorite waterfall in Sri Lanka.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "My favorite waterfall in Sri Lanka is Diyaluma Falls because of its height and beautiful surrounding pools.",
+    "studentAnswer": "I like high Diyaluma waterfall.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "My favorite waterfall in Sri Lanka is Diyaluma Falls because of its height and beautiful surrounding pools.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you thank a classmate for helping you study for a difficult science test?
+  {
+    "modelAnswer": "Thank you so much for explaining the physics formulas to me. I passed the science test with good marks!",
+    "studentAnswer": "Thank you so much for explaining the physics formulas to me. I passed the science test with good marks!",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the physics formulas to me. I passed the science test with good marks!",
+    "studentAnswer": "Thank you very much for explaining the physics formulas. I got good marks.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the physics formulas to me. I passed the science test with good marks!",
+    "studentAnswer": "Thanks a lot for helping me with physics study. I passed the test.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the physics formulas to me. I passed the science test with good marks!",
+    "studentAnswer": "Thanks for explaining physics formulas, I got good marks.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the physics formulas to me. I passed the science test with good marks!",
+    "studentAnswer": "Thanks for science study help.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the physics formulas to me. I passed the science test with good marks!",
+    "studentAnswer": "Science test was yesterday afternoon.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the physics formulas to me. I passed the science test with good marks!",
+    "studentAnswer": "I like drawing circuit diagrams.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the physics formulas to me. I passed the science test with good marks!",
+    "studentAnswer": "Thank you for explaining the physics formulas to me.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the physics formulas to me. I passed the science test with good marks!",
+    "studentAnswer": "Science test passed, thank you.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the physics formulas to me. I passed the science test with good marks!",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you suggest to go for a walk in the evening?
+  {
+    "modelAnswer": "Shall we go for a walk along the lake road this evening when the weather is pleasant?",
+    "studentAnswer": "Shall we go for a walk along the lake road this evening when the weather is pleasant?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go for a walk along the lake road this evening when the weather is pleasant?",
+    "studentAnswer": "Can we go for a walk along the lake road this evening?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go for a walk along the lake road this evening when the weather is pleasant?",
+    "studentAnswer": "Let's walk along the lake road this evening when the weather is cool.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go for a walk along the lake road this evening when the weather is pleasant?",
+    "studentAnswer": "Would you like to walk along the lake road this evening?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Shall we go for a walk along the lake road this evening when the weather is pleasant?",
+    "studentAnswer": "Walk along the lake road this evening?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall we go for a walk along the lake road this evening when the weather is pleasant?",
+    "studentAnswer": "The lake road is very dusty.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall we go for a walk along the lake road this evening when the weather is pleasant?",
+    "studentAnswer": "I have to walk home.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall we go for a walk along the lake road this evening when the weather is pleasant?",
+    "studentAnswer": "Shall we go to the lake road for a walk today evening?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go for a walk along the lake road this evening when the weather is pleasant?",
+    "studentAnswer": "Lake walk this evening?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall we go for a walk along the lake road this evening when the weather is pleasant?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

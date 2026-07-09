@@ -1,0 +1,621 @@
+[
+  // Question 1: Complete the sentence: 'The book is _______ the table.' (on / in)
+  {
+    "modelAnswer": "on",
+    "studentAnswer": "on",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "on",
+    "studentAnswer": "in",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "on",
+    "studentAnswer": "at",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "on",
+    "studentAnswer": "over",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "on",
+    "studentAnswer": "under",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "on",
+    "studentAnswer": "of",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "on",
+    "studentAnswer": "above",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "on",
+    "studentAnswer": "into",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "on",
+    "studentAnswer": "onn",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "on",
+    "studentAnswer": "On",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 2: Complete the sentence: 'I usually wake up _______ 7 o'clock.' (at / on)
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "at",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "on",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "in",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "by",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "around",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "for",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "to",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "of",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "att",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "At",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 3: Complete the sentence: 'She is interested _______ learning French.' (in / about)
+  {
+    "modelAnswer": "in",
+    "studentAnswer": "in",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "in",
+    "studentAnswer": "about",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "in",
+    "studentAnswer": "on",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "in",
+    "studentAnswer": "at",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "in",
+    "studentAnswer": "for",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "in",
+    "studentAnswer": "to",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "in",
+    "studentAnswer": "with",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "in",
+    "studentAnswer": "of",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "in",
+    "studentAnswer": "inn",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "in",
+    "studentAnswer": "In",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 4: Complete the sentence: 'He has been working here _______ three years.' (for / since)
+  {
+    "modelAnswer": "for",
+    "studentAnswer": "for",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "for",
+    "studentAnswer": "since",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "for",
+    "studentAnswer": "from",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "for",
+    "studentAnswer": "in",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "for",
+    "studentAnswer": "during",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "for",
+    "studentAnswer": "by",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "for",
+    "studentAnswer": "until",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "for",
+    "studentAnswer": "to",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "for",
+    "studentAnswer": "four",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "for",
+    "studentAnswer": "For",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 5: Complete the sentence: 'This is the _______ movie I have ever seen.' (worst / worse)
+  {
+    "modelAnswer": "worst",
+    "studentAnswer": "worst",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "worst",
+    "studentAnswer": "worse",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "worst",
+    "studentAnswer": "bad",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "worst",
+    "studentAnswer": "baddest",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "worst",
+    "studentAnswer": "most bad",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "worst",
+    "studentAnswer": "more worse",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "worst",
+    "studentAnswer": "worstest",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "worst",
+    "studentAnswer": "best",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "worst",
+    "studentAnswer": "wors",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "worst",
+    "studentAnswer": "Worst",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 6: Complete the sentence: '_______ you like a cup of tea?' (Would / Do)
+  {
+    "modelAnswer": "Would",
+    "studentAnswer": "Would",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "Would",
+    "studentAnswer": "Do",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Would",
+    "studentAnswer": "Does",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Would",
+    "studentAnswer": "Will",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Would",
+    "studentAnswer": "Can",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Would",
+    "studentAnswer": "Could",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Would",
+    "studentAnswer": "Should",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Would",
+    "studentAnswer": "Are",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Would",
+    "studentAnswer": "wood",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Would",
+    "studentAnswer": "would",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 7: Complete the sentence: 'They _______ to the cinema last night.' (went / go)
+  {
+    "modelAnswer": "went",
+    "studentAnswer": "went",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "went",
+    "studentAnswer": "go",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "went",
+    "studentAnswer": "goes",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "went",
+    "studentAnswer": "going",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "went",
+    "studentAnswer": "gone",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "went",
+    "studentAnswer": "was go",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "went",
+    "studentAnswer": "did go",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "went",
+    "studentAnswer": "walked",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "went",
+    "studentAnswer": "want",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "went",
+    "studentAnswer": "Went",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 8: Complete the sentence: 'I have _______ finished my homework.' (already / yet)
+  {
+    "modelAnswer": "already",
+    "studentAnswer": "already",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "already",
+    "studentAnswer": "yet",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "already",
+    "studentAnswer": "still",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "already",
+    "studentAnswer": "just",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "already",
+    "studentAnswer": "soon",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "already",
+    "studentAnswer": "early",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "already",
+    "studentAnswer": "never",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "already",
+    "studentAnswer": "ever",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "already",
+    "studentAnswer": "all ready",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "already",
+    "studentAnswer": "Already",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 9: Complete the sentence: 'He is taller _______ his brother.' (than / then)
+  {
+    "modelAnswer": "than",
+    "studentAnswer": "than",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "than",
+    "studentAnswer": "then",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "than",
+    "studentAnswer": "from",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "than",
+    "studentAnswer": "that",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "than",
+    "studentAnswer": "to",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "than",
+    "studentAnswer": "as",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "than",
+    "studentAnswer": "of",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "than",
+    "studentAnswer": "compared",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "than",
+    "studentAnswer": "thn",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "than",
+    "studentAnswer": "Than",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 10: Complete the sentence: 'She bought a _______ dress yesterday.' (new / newly)
+  {
+    "modelAnswer": "new",
+    "studentAnswer": "new",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "new",
+    "studentAnswer": "newly",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "new",
+    "studentAnswer": "news",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "new",
+    "studentAnswer": "newer",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "new",
+    "studentAnswer": "newest",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "new",
+    "studentAnswer": "fresh",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "new",
+    "studentAnswer": "young",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "new",
+    "studentAnswer": "old",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "new",
+    "studentAnswer": "knew",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "new",
+    "studentAnswer": "New",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  }
+]

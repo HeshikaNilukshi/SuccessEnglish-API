@@ -1,0 +1,621 @@
+[
+  // Question 1: Complete the sentence: 'We must submit our project _______ tomorrow.' (by / until)
+  {
+    "modelAnswer": "by",
+    "studentAnswer": "by",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "by",
+    "studentAnswer": "until",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "by",
+    "studentAnswer": "till",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "by",
+    "studentAnswer": "to",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "by",
+    "studentAnswer": "for",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "by",
+    "studentAnswer": "at",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "by",
+    "studentAnswer": "on",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "by",
+    "studentAnswer": "in",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "by",
+    "studentAnswer": "buy",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "by",
+    "studentAnswer": "By",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 2: Complete the sentence: 'She has _______ money to buy a car.' (enough / too)
+  {
+    "modelAnswer": "enough",
+    "studentAnswer": "enough",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "enough",
+    "studentAnswer": "too",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "enough",
+    "studentAnswer": "very",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "enough",
+    "studentAnswer": "much",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "enough",
+    "studentAnswer": "many",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "enough",
+    "studentAnswer": "plenty",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "enough",
+    "studentAnswer": "lot",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "enough",
+    "studentAnswer": "more",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "enough",
+    "studentAnswer": "enuf",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "enough",
+    "studentAnswer": "Enough",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 3: Complete the sentence: 'I am looking forward to _______ my exam results.' (getting / get)
+  {
+    "modelAnswer": "getting",
+    "studentAnswer": "getting",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "getting",
+    "studentAnswer": "get",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "getting",
+    "studentAnswer": "gets",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "getting",
+    "studentAnswer": "got",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "getting",
+    "studentAnswer": "gotten",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "getting",
+    "studentAnswer": "receive",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "getting",
+    "studentAnswer": "receiving",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "getting",
+    "studentAnswer": "obtain",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "getting",
+    "studentAnswer": "geting",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "getting",
+    "studentAnswer": "Getting",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 4: Complete the sentence: 'This is the most _______ book I have ever read.' (interesting / interest)
+  {
+    "modelAnswer": "interesting",
+    "studentAnswer": "interesting",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "interesting",
+    "studentAnswer": "interest",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "interesting",
+    "studentAnswer": "interested",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "interesting",
+    "studentAnswer": "exciting",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "interesting",
+    "studentAnswer": "bore",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "interesting",
+    "studentAnswer": "boring",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "interesting",
+    "studentAnswer": "read",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "interesting",
+    "studentAnswer": "good",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "interesting",
+    "studentAnswer": "interestin",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "interesting",
+    "studentAnswer": "Interesting",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 5: Complete the sentence: 'He speaks English very _______.' (well / good)
+  {
+    "modelAnswer": "well",
+    "studentAnswer": "well",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "well",
+    "studentAnswer": "good",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "well",
+    "studentAnswer": "nice",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "well",
+    "studentAnswer": "nicely",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "well",
+    "studentAnswer": "best",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "well",
+    "studentAnswer": "better",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "well",
+    "studentAnswer": "fine",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "well",
+    "studentAnswer": "clear",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "well",
+    "studentAnswer": "wel",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "well",
+    "studentAnswer": "Well",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 6: Complete the sentence: 'She runs _______ than her sister.' (faster / fast)
+  {
+    "modelAnswer": "faster",
+    "studentAnswer": "faster",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "faster",
+    "studentAnswer": "fast",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "faster",
+    "studentAnswer": "fastest",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "faster",
+    "studentAnswer": "more fast",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "faster",
+    "studentAnswer": "quick",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "faster",
+    "studentAnswer": "quicker",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "faster",
+    "studentAnswer": "slowly",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "faster",
+    "studentAnswer": "slower",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "faster",
+    "studentAnswer": "fastr",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "faster",
+    "studentAnswer": "Faster",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 7: Complete the sentence: 'She walks _______ school every day.' (to / at)
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "to",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "at",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "in",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "on",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "for",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "by",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "through",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "into",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "too",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "To",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 8: Complete the sentence: 'There are _______ students in the classroom today.' (many / much)
+  {
+    "modelAnswer": "many",
+    "studentAnswer": "many",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "many",
+    "studentAnswer": "much",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "many",
+    "studentAnswer": "lot",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "many",
+    "studentAnswer": "some",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "many",
+    "studentAnswer": "few",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "many",
+    "studentAnswer": "any",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "many",
+    "studentAnswer": "several",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "many",
+    "studentAnswer": "more",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "many",
+    "studentAnswer": "meny",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "many",
+    "studentAnswer": "Many",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 9: Complete the sentence: 'I don't have _______ money left in my pocket.' (any / some)
+  {
+    "modelAnswer": "any",
+    "studentAnswer": "any",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "any",
+    "studentAnswer": "some",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "any",
+    "studentAnswer": "much",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "any",
+    "studentAnswer": "many",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "any",
+    "studentAnswer": "no",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "any",
+    "studentAnswer": "more",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "any",
+    "studentAnswer": "few",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "any",
+    "studentAnswer": "little",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "any",
+    "studentAnswer": "eny",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "any",
+    "studentAnswer": "Any",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 10: Complete the sentence: 'She has been studying _______ morning.' (since / for)
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "since",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "for",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "from",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "in",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "during",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "at",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "on",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "by",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "sinc",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "Since",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  }
+]

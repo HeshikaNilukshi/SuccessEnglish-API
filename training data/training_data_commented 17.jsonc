@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a senior student for directions to the playground from the main hall?
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the playground from the main hall?",
+    "studentAnswer": "Excuse me, could you please tell me how to get to the playground from the main hall?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the playground from the main hall?",
+    "studentAnswer": "Excuse me, can you show me the way to the playground from here?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the playground from the main hall?",
+    "studentAnswer": "Senior, where is the playground from the main hall?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the playground from the main hall?",
+    "studentAnswer": "Which way is playground from main hall, please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the playground from the main hall?",
+    "studentAnswer": "Playground way from main hall please?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the playground from the main hall?",
+    "studentAnswer": "The main hall is very big and has a stage.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the playground from the main hall?",
+    "studentAnswer": "I want to play cricket today.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the playground from the main hall?",
+    "studentAnswer": "Excuse me, can you tell me the directions to the playground from the main hall?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the playground from the main hall?",
+    "studentAnswer": "Directions to playground from main hall?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the playground from the main hall?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you ask a classmate sitting next to you what time the science test ends?
+  {
+    "modelAnswer": "Do you know what time our science test ends?",
+    "studentAnswer": "Do you know what time our science test ends?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what time our science test ends?",
+    "studentAnswer": "What time is the science test ending today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what time our science test ends?",
+    "studentAnswer": "Can you tell me when the science test will finish?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what time our science test ends?",
+    "studentAnswer": "What is the end time for the science test?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what time our science test ends?",
+    "studentAnswer": "Science test end time?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you know what time our science test ends?",
+    "studentAnswer": "Science has many hard questions.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you know what time our science test ends?",
+    "studentAnswer": "I have a watch on my wrist.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you know what time our science test ends?",
+    "studentAnswer": "Do you know when the science test ends?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what time our science test ends?",
+    "studentAnswer": "Test end time science?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you know what time our science test ends?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you offer to arrange and clean the teacher's table before the teacher enters the class?
+  {
+    "modelAnswer": "Shall I help organize and clean the teacher's table before the lesson starts?",
+    "studentAnswer": "Shall I help organize and clean the teacher's table before the lesson starts?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall I help organize and clean the teacher's table before the lesson starts?",
+    "studentAnswer": "Can I arrange and wipe the teacher's desk before the teacher comes?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall I help organize and clean the teacher's table before the lesson starts?",
+    "studentAnswer": "Let me organize and clean the teacher's table before the class starts.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall I help organize and clean the teacher's table before the lesson starts?",
+    "studentAnswer": "I will clean and arrange the teacher's desk now.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall I help organize and clean the teacher's table before the lesson starts?",
+    "studentAnswer": "Clean teacher table please?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall I help organize and clean the teacher's table before the lesson starts?",
+    "studentAnswer": "The teacher has a big wooden chair.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall I help organize and clean the teacher's table before the lesson starts?",
+    "studentAnswer": "There is a red pen on the floor.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall I help organize and clean the teacher's table before the lesson starts?",
+    "studentAnswer": "Shall I clean the teacher's table before the class starts?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall I help organize and clean the teacher's table before the lesson starts?",
+    "studentAnswer": "Arrange teacher's table please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Shall I help organize and clean the teacher's table before the lesson starts?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you ask a friend for their opinion on the new chicken buns sold at the school canteen?
+  {
+    "modelAnswer": "What do you think of the new chicken buns at the canteen? Are they tasty?",
+    "studentAnswer": "What do you think of the new chicken buns at the canteen? Are they tasty?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new chicken buns at the canteen? Are they tasty?",
+    "studentAnswer": "How are the new chicken buns at the canteen? Do you like them?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new chicken buns at the canteen? Are they tasty?",
+    "studentAnswer": "What is your opinion on the chicken buns in the canteen? Are they good?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new chicken buns at the canteen? Are they tasty?",
+    "studentAnswer": "Do you like the new canteen chicken buns?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "What do you think of the new chicken buns at the canteen? Are they tasty?",
+    "studentAnswer": "Chicken buns taste, good or bad?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you think of the new chicken buns at the canteen? Are they tasty?",
+    "studentAnswer": "Canteen sells tea and soft drinks too.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you think of the new chicken buns at the canteen? Are they tasty?",
+    "studentAnswer": "Chicken is a white meat.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you think of the new chicken buns at the canteen? Are they tasty?",
+    "studentAnswer": "Do you think the new chicken buns are delicious?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new chicken buns at the canteen? Are they tasty?",
+    "studentAnswer": "Canteen chicken buns opinion?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you think of the new chicken buns at the canteen? Are they tasty?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you suggest to a classmate to share your umbrella because it is raining heavily and they do not have one?
+  {
+    "modelAnswer": "Would you like to share my umbrella? It is raining heavily and you don't have one.",
+    "studentAnswer": "Would you like to share my umbrella? It is raining heavily and you don't have one.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to share my umbrella? It is raining heavily and you don't have one.",
+    "studentAnswer": "Shall we share my umbrella since you don't have one and it's raining?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to share my umbrella? It is raining heavily and you don't have one.",
+    "studentAnswer": "I have an umbrella. Can we share it because it is raining heavily?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to share my umbrella? It is raining heavily and you don't have one.",
+    "studentAnswer": "You can share my umbrella today as it is raining.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to share my umbrella? It is raining heavily and you don't have one.",
+    "studentAnswer": "Share my umbrella in the rain?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Would you like to share my umbrella? It is raining heavily and you don't have one.",
+    "studentAnswer": "The rain started five minutes ago.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Would you like to share my umbrella? It is raining heavily and you don't have one.",
+    "studentAnswer": "My umbrella is black and big.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Would you like to share my umbrella? It is raining heavily and you don't have one.",
+    "studentAnswer": "Shall we walk together under my umbrella?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to share my umbrella? It is raining heavily and you don't have one.",
+    "studentAnswer": "Share umbrella in rain please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Would you like to share my umbrella? It is raining heavily and you don't have one.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you describe how to play the Sri Lankan game of Elle to a foreign visitor?
+  {
+    "modelAnswer": "Elle is a traditional bat-and-ball game in Sri Lanka where one team hits the ball and runs around a circular boundary.",
+    "studentAnswer": "Elle is a traditional bat-and-ball game in Sri Lanka where one team hits the ball and runs around a circular boundary.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Elle is a traditional bat-and-ball game in Sri Lanka where one team hits the ball and runs around a circular boundary.",
+    "studentAnswer": "Elle is a Sri Lankan game. You hit the ball with a bat and run in a circle.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Elle is a traditional bat-and-ball game in Sri Lanka where one team hits the ball and runs around a circular boundary.",
+    "studentAnswer": "It is a popular local bat and ball game where players hit the ball and run around the field.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Elle is a traditional bat-and-ball game in Sri Lanka where one team hits the ball and runs around a circular boundary.",
+    "studentAnswer": "Elle is a traditional game with bat and ball.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Elle is a traditional bat-and-ball game in Sri Lanka where one team hits the ball and runs around a circular boundary.",
+    "studentAnswer": "I love playing Elle in school.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Elle is a traditional bat-and-ball game in Sri Lanka where one team hits the ball and runs around a circular boundary.",
+    "studentAnswer": "Elle is played on a big grass ground.",
+    "maxMarks": 6,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Elle is a traditional bat-and-ball game in Sri Lanka where one team hits the ball and runs around a circular boundary.",
+    "studentAnswer": "It is a local game where you hit the ball and run.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Elle is a traditional bat-and-ball game in Sri Lanka where one team hits the ball and runs around a circular boundary.",
+    "studentAnswer": "Bat and ball local game Elle.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Elle is a traditional bat-and-ball game in Sri Lanka where one team hits the ball and runs around a circular boundary.",
+    "studentAnswer": "Elle is a sport.",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Elle is a traditional bat-and-ball game in Sri Lanka where one team hits the ball and runs around a circular boundary.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you warn a classmate to duck their head because there is a low tree branch ahead on the path?
+  {
+    "modelAnswer": "Duck your head! There is a very low branch on the tree just ahead of you.",
+    "studentAnswer": "Duck your head! There is a very low branch on the tree just ahead of you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Duck your head! There is a very low branch on the tree just ahead of you.",
+    "studentAnswer": "Watch out, bend down! There is a low branch ahead.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Duck your head! There is a very low branch on the tree just ahead of you.",
+    "studentAnswer": "Duck! There is a low tree branch in front of you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Duck your head! There is a very low branch on the tree just ahead of you.",
+    "studentAnswer": "Be careful, low tree branch ahead.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Duck your head! There is a very low branch on the tree just ahead of you.",
+    "studentAnswer": "Duck head, branch ahead.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Duck your head! There is a very low branch on the tree just ahead of you.",
+    "studentAnswer": "The tree has green mangoes.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Duck your head! There is a very low branch on the tree just ahead of you.",
+    "studentAnswer": "I am walking on the playground path.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Duck your head! There is a very low branch on the tree just ahead of you.",
+    "studentAnswer": "Watch out for the low branch in front of you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Duck your head! There is a very low branch on the tree just ahead of you.",
+    "studentAnswer": "Low branch ahead, duck.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Duck your head! There is a very low branch on the tree just ahead of you.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you ask a friend what they and their family usually do on Sunday evenings?
+  {
+    "modelAnswer": "What do you and your family usually do on Sunday evenings? Do you go out for dinner?",
+    "studentAnswer": "What do you and your family usually do on Sunday evenings? Do you go out for dinner?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you and your family usually do on Sunday evenings? Do you go out for dinner?",
+    "studentAnswer": "What is your family plan on Sunday evenings? Do you go out?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you and your family usually do on Sunday evenings? Do you go out for dinner?",
+    "studentAnswer": "How do you spend Sunday evenings with your family?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you and your family usually do on Sunday evenings? Do you go out for dinner?",
+    "studentAnswer": "What do your family do on Sunday evenings?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "What do you and your family usually do on Sunday evenings? Do you go out for dinner?",
+    "studentAnswer": "Sunday evening family activities?",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "What do you and your family usually do on Sunday evenings? Do you go out for dinner?",
+    "studentAnswer": "Sunday is the day before school starts on Monday.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you and your family usually do on Sunday evenings? Do you go out for dinner?",
+    "studentAnswer": "My mother cooks delicious food.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you and your family usually do on Sunday evenings? Do you go out for dinner?",
+    "studentAnswer": "What do you do with your family on Sunday evening?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you and your family usually do on Sunday evenings? Do you go out for dinner?",
+    "studentAnswer": "Sunday family dinner?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you and your family usually do on Sunday evenings? Do you go out for dinner?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you thank the class teacher who nominated you to become a school prefect?
+  {
+    "modelAnswer": "Thank you so much, teacher, for nominating me to be a prefect. I will do my best to fulfill my duties.",
+    "studentAnswer": "Thank you so much, teacher, for nominating me to be a prefect. I will do my best to fulfill my duties.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for nominating me to be a prefect. I will do my best to fulfill my duties.",
+    "studentAnswer": "Thank you teacher for nominating me as a prefect. I will work hard.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for nominating me to be a prefect. I will do my best to fulfill my duties.",
+    "studentAnswer": "I am very grateful to you teacher for nominating me for the prefect post.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for nominating me to be a prefect. I will do my best to fulfill my duties.",
+    "studentAnswer": "Thanks teacher for selection to prefect.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for nominating me to be a prefect. I will do my best to fulfill my duties.",
+    "studentAnswer": "Thank you for the prefect post.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for nominating me to be a prefect. I will do my best to fulfill my duties.",
+    "studentAnswer": "Prefects have many meetings in school.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for nominating me to be a prefect. I will do my best to fulfill my duties.",
+    "studentAnswer": "I like to wear a metal badge.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for nominating me to be a prefect. I will do my best to fulfill my duties.",
+    "studentAnswer": "Thank you teacher, I will do my best as a prefect.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for nominating me to be a prefect. I will do my best to fulfill my duties.",
+    "studentAnswer": "Prefect nomination thank you.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for nominating me to be a prefect. I will do my best to fulfill my duties.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you apologize to a classmate after accidentally knocking over and dropping their pencil box on the floor?
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking over your pencil box. Let me help you pick up all the pencils.",
+    "studentAnswer": "I am so sorry for accidentally knocking over your pencil box. Let me help you pick up all the pencils.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking over your pencil box. Let me help you pick up all the pencils.",
+    "studentAnswer": "Sorry, I dropped your pencil box by accident. Let me help pick them up.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking over your pencil box. Let me help you pick up all the pencils.",
+    "studentAnswer": "I am very sorry for dropping your pencil box. I will collect all the pencils.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking over your pencil box. Let me help you pick up all the pencils.",
+    "studentAnswer": "Sorry I knocked your pencil box to the floor.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking over your pencil box. Let me help you pick up all the pencils.",
+    "studentAnswer": "Sorry, pencil box drop.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking over your pencil box. Let me help you pick up all the pencils.",
+    "studentAnswer": "Pencil box contains colored pencils.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking over your pencil box. Let me help you pick up all the pencils.",
+    "studentAnswer": "I have a metal pencil box.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking over your pencil box. Let me help you pick up all the pencils.",
+    "studentAnswer": "I am sorry for dropping your pencil box, let me help you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking over your pencil box. Let me help you pick up all the pencils.",
+    "studentAnswer": "Sorry pencil box fell.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking over your pencil box. Let me help you pick up all the pencils.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

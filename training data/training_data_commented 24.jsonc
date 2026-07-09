@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a classmate to borrow their color pencils because you forgot yours?
+  {
+    "modelAnswer": "Excuse me, I forgot my color pencils at home. Could I please borrow yours for the art class?",
+    "studentAnswer": "Excuse me, I forgot my color pencils at home. Could I please borrow yours for the art class?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my color pencils at home. Could I please borrow yours for the art class?",
+    "studentAnswer": "I forgot my color pencils. Can you lend me yours for the art class, please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my color pencils at home. Could I please borrow yours for the art class?",
+    "studentAnswer": "Excuse me, can I borrow your color pencils? I left mine at home today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my color pencils at home. Could I please borrow yours for the art class?",
+    "studentAnswer": "Please give me your color pencils. I forgot mine.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my color pencils at home. Could I please borrow yours for the art class?",
+    "studentAnswer": "Can I take your color pencils?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my color pencils at home. Could I please borrow yours for the art class?",
+    "studentAnswer": "Art class is very fun to attend.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my color pencils at home. Could I please borrow yours for the art class?",
+    "studentAnswer": "I have a new sharpener.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my color pencils at home. Could I please borrow yours for the art class?",
+    "studentAnswer": "Excuse me, do you have color pencils to borrow for today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my color pencils at home. Could I please borrow yours for the art class?",
+    "studentAnswer": "Color pencils please, forgot mine.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my color pencils at home. Could I please borrow yours for the art class?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you welcome a new student who has just joined your sports team?
+  {
+    "modelAnswer": "Welcome to our team! We are very glad to have you play with us and hope we win many matches together.",
+    "studentAnswer": "Welcome to our team! We are very glad to have you play with us and hope we win many matches together.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Welcome to our team! We are very glad to have you play with us and hope we win many matches together.",
+    "studentAnswer": "A warm welcome to our team! We are happy to play with you and win matches.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Welcome to our team! We are very glad to have you play with us and hope we win many matches together.",
+    "studentAnswer": "Welcome to our team! We are excited to play together and win.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Welcome to our team! We are very glad to have you play with us and hope we win many matches together.",
+    "studentAnswer": "Welcome to the team, we are happy you are playing with us.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Welcome to our team! We are very glad to have you play with us and hope we win many matches together.",
+    "studentAnswer": "Welcome to our sports team.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Welcome to our team! We are very glad to have you play with us and hope we win many matches together.",
+    "studentAnswer": "We practice every Wednesday evening.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Welcome to our team! We are very glad to have you play with us and hope we win many matches together.",
+    "studentAnswer": "I am the captain of this team.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Welcome to our team! We are very glad to have you play with us and hope we win many matches together.",
+    "studentAnswer": "Hello, welcome to our team. Glad to have you.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Welcome to our team! We are very glad to have you play with us and hope we win many matches together.",
+    "studentAnswer": "Welcome new player to team.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Welcome to our team! We are very glad to have you play with us and hope we win many matches together.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you request a friend to pass the water bottle during a football match interval?
+  {
+    "modelAnswer": "Could you please pass that water bottle to me? I am very tired and thirsty.",
+    "studentAnswer": "Could you please pass that water bottle to me? I am very tired and thirsty.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please pass that water bottle to me? I am very tired and thirsty.",
+    "studentAnswer": "Can you please pass the water bottle? I'm tired and thirsty after playing.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please pass that water bottle to me? I am very tired and thirsty.",
+    "studentAnswer": "Please pass the water bottle. I am very thirsty.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please pass that water bottle to me? I am very tired and thirsty.",
+    "studentAnswer": "Would you mind passing me the water bottle from the bench?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please pass that water bottle to me? I am very tired and thirsty.",
+    "studentAnswer": "Pass the water bottle please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could you please pass that water bottle to me? I am very tired and thirsty.",
+    "studentAnswer": "The football ground is very large.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please pass that water bottle to me? I am very tired and thirsty.",
+    "studentAnswer": "I scored a goal today.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please pass that water bottle to me? I am very tired and thirsty.",
+    "studentAnswer": "Can you pass the water bottle to me please?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could you please pass that water bottle to me? I am very tired and thirsty.",
+    "studentAnswer": "Water bottle please, I am thirsty.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could you please pass that water bottle to me? I am very tired and thirsty.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you apologize to a teacher for not bringing your homework book because your little brother tore it?
+  {
+    "modelAnswer": "I am very sorry, teacher. I completed my homework but my little brother tore the pages of my notebook.",
+    "studentAnswer": "I am very sorry, teacher. I completed my homework but my little brother tore the pages of my notebook.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I completed my homework but my little brother tore the pages of my notebook.",
+    "studentAnswer": "Sorry teacher, I did the homework but my little brother tore the book pages by mistake.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I completed my homework but my little brother tore the pages of my notebook.",
+    "studentAnswer": "Teacher, I am sorry. My little brother tore my homework notebook page at home.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I completed my homework but my little brother tore the pages of my notebook.",
+    "studentAnswer": "I am sorry teacher, my little brother tore my homework book.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I completed my homework but my little brother tore the pages of my notebook.",
+    "studentAnswer": "Sorry teacher, homework book tore by brother.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I completed my homework but my little brother tore the pages of my notebook.",
+    "studentAnswer": "My brother is three years old.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I completed my homework but my little brother tore the pages of my notebook.",
+    "studentAnswer": "I have to buy a new book.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I completed my homework but my little brother tore the pages of my notebook.",
+    "studentAnswer": "My little brother tore my homework notebook, sorry teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I completed my homework but my little brother tore the pages of my notebook.",
+    "studentAnswer": "Homework book torn by brother, sorry.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I completed my homework but my little brother tore the pages of my notebook.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you tell a friend you want to join the school photography club?
+  {
+    "modelAnswer": "I am planning to join the school photography club because I want to learn how to take beautiful wildlife photos.",
+    "studentAnswer": "I am planning to join the school photography club because I want to learn how to take beautiful wildlife photos.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am planning to join the school photography club because I want to learn how to take beautiful wildlife photos.",
+    "studentAnswer": "I want to join the school photography club. I want to take wildlife photos.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am planning to join the school photography club because I want to learn how to take beautiful wildlife photos.",
+    "studentAnswer": "I will join the photography club at school to take beautiful wildlife pictures.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am planning to join the school photography club because I want to learn how to take beautiful wildlife photos.",
+    "studentAnswer": "I am going to join the school photography club because I like taking photos.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am planning to join the school photography club because I want to learn how to take beautiful wildlife photos.",
+    "studentAnswer": "I want to join school photography club.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am planning to join the school photography club because I want to learn how to take beautiful wildlife photos.",
+    "studentAnswer": "Cameras are very expensive.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am planning to join the school photography club because I want to learn how to take beautiful wildlife photos.",
+    "studentAnswer": "I have many photos in my gallery.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am planning to join the school photography club because I want to learn how to take beautiful wildlife photos.",
+    "studentAnswer": "I plan to join the photography club to learn how to take photos.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am planning to join the school photography club because I want to learn how to take beautiful wildlife photos.",
+    "studentAnswer": "Photography club is good.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "I am planning to join the school photography club because I want to learn how to take beautiful wildlife photos.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you ask a shopkeeper for the price of a pencil sharpener?
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this small pencil sharpener costs?",
+    "studentAnswer": "Excuse me, could you please tell me how much this small pencil sharpener costs?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this small pencil sharpener costs?",
+    "studentAnswer": "Excuse me, how much is this pencil sharpener?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this small pencil sharpener costs?",
+    "studentAnswer": "Can you tell me the price of this sharpener, please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this small pencil sharpener costs?",
+    "studentAnswer": "What is the price of this sharpener?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this small pencil sharpener costs?",
+    "studentAnswer": "How much for this sharpener?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this small pencil sharpener costs?",
+    "studentAnswer": "The sharpener has a small metal blade.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this small pencil sharpener costs?",
+    "studentAnswer": "I like drawing lessons in class.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this small pencil sharpener costs?",
+    "studentAnswer": "Excuse me, can you tell me the price of this sharpener?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this small pencil sharpener costs?",
+    "studentAnswer": "Price of sharpener please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this small pencil sharpener costs?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you ask a parent for permission to stay after school to help decorate the classroom?
+  {
+    "modelAnswer": "Mother, may I please stay back after school today to help my classmates decorate our classroom for the exhibition?",
+    "studentAnswer": "Mother, may I please stay back after school today to help my classmates decorate our classroom for the exhibition?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Mother, may I please stay back after school today to help my classmates decorate our classroom for the exhibition?",
+    "studentAnswer": "Amma, can I stay after school today to help decorate our classroom for the exhibition?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Mother, may I please stay back after school today to help my classmates decorate our classroom for the exhibition?",
+    "studentAnswer": "Mother, please let me stay after school today to help decorate our classroom.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Mother, may I please stay back after school today to help my classmates decorate our classroom for the exhibition?",
+    "studentAnswer": "Can I stay back to help decorate the classroom after school today?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Mother, may I please stay back after school today to help my classmates decorate our classroom for the exhibition?",
+    "studentAnswer": "Can I stay for classroom decoration?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Mother, may I please stay back after school today to help my classmates decorate our classroom for the exhibition?",
+    "studentAnswer": "Exhibitions are very common in schools.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Mother, may I please stay back after school today to help my classmates decorate our classroom for the exhibition?",
+    "studentAnswer": "I have to buy a new poster color.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Mother, may I please stay back after school today to help my classmates decorate our classroom for the exhibition?",
+    "studentAnswer": "Amma, can I stay back at school to decorate the classroom today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Mother, may I please stay back after school today to help my classmates decorate our classroom for the exhibition?",
+    "studentAnswer": "Stay back for decoration today?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Mother, may I please stay back after school today to help my classmates decorate our classroom for the exhibition?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you tell a friend about your favorite Sri Lankan fruit?
+  {
+    "modelAnswer": "My favorite Sri Lankan fruit is the mango because it is extremely sweet and juicy when ripe.",
+    "studentAnswer": "My favorite Sri Lankan fruit is the mango because it is extremely sweet and juicy when ripe.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "My favorite Sri Lankan fruit is the mango because it is extremely sweet and juicy when ripe.",
+    "studentAnswer": "I like the mango most. It is a sweet and juicy fruit when it is ripe.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "My favorite Sri Lankan fruit is the mango because it is extremely sweet and juicy when ripe.",
+    "studentAnswer": "My favorite fruit is the mango because of its sweet taste.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "My favorite Sri Lankan fruit is the mango because it is extremely sweet and juicy when ripe.",
+    "studentAnswer": "I like mango because it is juicy and sweet.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "My favorite Sri Lankan fruit is the mango because it is extremely sweet and juicy when ripe.",
+    "studentAnswer": "My favorite fruit is the mango.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "My favorite Sri Lankan fruit is the mango because it is extremely sweet and juicy when ripe.",
+    "studentAnswer": "Mango trees grow in the home garden.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "My favorite Sri Lankan fruit is the mango because it is extremely sweet and juicy when ripe.",
+    "studentAnswer": "Fruit juice is good for health.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "My favorite Sri Lankan fruit is the mango because it is extremely sweet and juicy when ripe.",
+    "studentAnswer": "The mango is my favorite Sri Lankan fruit.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "My favorite Sri Lankan fruit is the mango because it is extremely sweet and juicy when ripe.",
+    "studentAnswer": "I like sweet ripe mangoes.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "My favorite Sri Lankan fruit is the mango because it is extremely sweet and juicy when ripe.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you thank a classmate for helping you study for a difficult geography test?
+  {
+    "modelAnswer": "Thank you so much for explaining the map marking lessons to me. I passed the geography test with good marks!",
+    "studentAnswer": "Thank you so much for explaining the map marking lessons to me. I passed the geography test with good marks!",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the map marking lessons to me. I passed the geography test with good marks!",
+    "studentAnswer": "Thank you very much for explaining the map marking lessons. I got good marks.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the map marking lessons to me. I passed the geography test with good marks!",
+    "studentAnswer": "Thanks a lot for helping me with geography study. I passed the test.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the map marking lessons to me. I passed the geography test with good marks!",
+    "studentAnswer": "Thanks for explaining map marking, I got good marks.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the map marking lessons to me. I passed the geography test with good marks!",
+    "studentAnswer": "Thanks for geography help.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the map marking lessons to me. I passed the geography test with good marks!",
+    "studentAnswer": "Geography test was yesterday morning.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the map marking lessons to me. I passed the geography test with good marks!",
+    "studentAnswer": "I like drawing maps.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the map marking lessons to me. I passed the geography test with good marks!",
+    "studentAnswer": "Thank you for explaining the map lessons to me.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the map marking lessons to me. I passed the geography test with good marks!",
+    "studentAnswer": "High marks in geography, thank you.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the map marking lessons to me. I passed the geography test with good marks!",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you suggest to go for a walk on the school sports field in the evening?
+  {
+    "modelAnswer": "Shall we go for a walk on the school sports field this evening when the weather is pleasant?",
+    "studentAnswer": "Shall we go for a walk on the school sports field this evening when the weather is pleasant?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go for a walk on the school sports field this evening when the weather is pleasant?",
+    "studentAnswer": "Can we go for a walk on the school field this evening?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go for a walk on the school sports field this evening when the weather is pleasant?",
+    "studentAnswer": "Let's walk on the school ground this evening when the weather is cool.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go for a walk on the school sports field this evening when the weather is pleasant?",
+    "studentAnswer": "Would you like to walk in the sports field this evening?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Shall we go for a walk on the school sports field this evening when the weather is pleasant?",
+    "studentAnswer": "Walk in the sports field this evening?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall we go for a walk on the school sports field this evening when the weather is pleasant?",
+    "studentAnswer": "The school sports field is very dry.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall we go for a walk on the school sports field this evening when the weather is pleasant?",
+    "studentAnswer": "I have white running shoes.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall we go for a walk on the school sports field this evening when the weather is pleasant?",
+    "studentAnswer": "Shall we go to the sports field for a walk today evening?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go for a walk on the school sports field this evening when the weather is pleasant?",
+    "studentAnswer": "Field walk this evening?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall we go for a walk on the school sports field this evening when the weather is pleasant?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a classmate if they are planning to go to Kandy to see the Esala Perahera this weekend?
+  {
+    "modelAnswer": "Are you planning to go to Kandy to see the Esala Perahera with your family this weekend?",
+    "studentAnswer": "Are you planning to go to Kandy to see the Esala Perahera with your family this weekend?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Are you planning to go to Kandy to see the Esala Perahera with your family this weekend?",
+    "studentAnswer": "Are you going to Kandy to watch the Esala Perahera this weekend with your family?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Are you planning to go to Kandy to see the Esala Perahera with your family this weekend?",
+    "studentAnswer": "Will you go to Kandy to see the Esala Perahera this weekend?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Are you planning to go to Kandy to see the Esala Perahera with your family this weekend?",
+    "studentAnswer": "Are you going to see Kandy Perahera this weekend?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Are you planning to go to Kandy to see the Esala Perahera with your family this weekend?",
+    "studentAnswer": "Going to Kandy Perahera?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Are you planning to go to Kandy to see the Esala Perahera with your family this weekend?",
+    "studentAnswer": "Kandy is a very cold city.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Are you planning to go to Kandy to see the Esala Perahera with your family this weekend?",
+    "studentAnswer": "I like eating sweet meats.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Are you planning to go to Kandy to see the Esala Perahera with your family this weekend?",
+    "studentAnswer": "Do you plan to watch the Kandy Perahera this weekend?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Are you planning to go to Kandy to see the Esala Perahera with your family this weekend?",
+    "studentAnswer": "Kandy Perahera this weekend?",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Are you planning to go to Kandy to see the Esala Perahera with your family this weekend?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you respond to a classmate who invited you to their birthday party next Sunday?
+  {
+    "modelAnswer": "Thank you so much for the invitation! I would love to come to your birthday party next Sunday.",
+    "studentAnswer": "Thank you so much for the invitation! I would love to come to your birthday party next Sunday.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for the invitation! I would love to come to your birthday party next Sunday.",
+    "studentAnswer": "Thanks for inviting me! I would love to join your birthday party next Sunday.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for the invitation! I would love to come to your birthday party next Sunday.",
+    "studentAnswer": "Thank you for the invite, I will definitely come to your birthday party next Sunday.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for the invitation! I would love to come to your birthday party next Sunday.",
+    "studentAnswer": "Thanks for invitation, I will come next Sunday.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you so much for the invitation! I would love to come to your birthday party next Sunday.",
+    "studentAnswer": "Thanks, I will come.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much for the invitation! I would love to come to your birthday party next Sunday.",
+    "studentAnswer": "Birthday cake is very delicious.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much for the invitation! I would love to come to your birthday party next Sunday.",
+    "studentAnswer": "I am fourteen years old.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much for the invitation! I would love to come to your birthday party next Sunday.",
+    "studentAnswer": "Thank you for inviting me to your birthday party, I will come.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for the invitation! I would love to come to your birthday party next Sunday.",
+    "studentAnswer": "Will come next Sunday thank you.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much for the invitation! I would love to come to your birthday party next Sunday.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you tell a friend how much you enjoyed the pol roti and lunu miris your grandmother prepared?
+  {
+    "modelAnswer": "The pol roti and lunu miris my grandmother prepared this morning was very delicious and spicy.",
+    "studentAnswer": "The pol roti and lunu miris my grandmother prepared this morning was very delicious and spicy.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "The pol roti and lunu miris my grandmother prepared this morning was very delicious and spicy.",
+    "studentAnswer": "I enjoyed the delicious and spicy pol roti and lunu miris my grandmother made today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "The pol roti and lunu miris my grandmother prepared this morning was very delicious and spicy.",
+    "studentAnswer": "My grandmother prepared pol roti and lunu miris today, it was so tasty and spicy.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "The pol roti and lunu miris my grandmother prepared this morning was very delicious and spicy.",
+    "studentAnswer": "Pol roti and lunu miris made by grandmother was very delicious.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "The pol roti and lunu miris my grandmother prepared this morning was very delicious and spicy.",
+    "studentAnswer": "Pol roti was very tasty.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "The pol roti and lunu miris my grandmother prepared this morning was very delicious and spicy.",
+    "studentAnswer": "My grandmother lives in Galle.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "The pol roti and lunu miris my grandmother prepared this morning was very delicious and spicy.",
+    "studentAnswer": "Lunu miris is red in color.",
+    "maxMarks": 5,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "The pol roti and lunu miris my grandmother prepared this morning was very delicious and spicy.",
+    "studentAnswer": "Grandmother made pol roti, it was very delicious and spicy.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "The pol roti and lunu miris my grandmother prepared this morning was very delicious and spicy.",
+    "studentAnswer": "Tasty pol roti and lunu miris.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "The pol roti and lunu miris my grandmother prepared this morning was very delicious and spicy.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you ask your English teacher for the spelling of the word 'accommodation' during a writing task?
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how to spell the word 'accommodation'?",
+    "studentAnswer": "Excuse me, teacher. Could you please tell me how to spell the word 'accommodation'?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how to spell the word 'accommodation'?",
+    "studentAnswer": "Teacher, can you please tell me the spelling of 'accommodation'?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how to spell the word 'accommodation'?",
+    "studentAnswer": "Excuse me, how do you spell 'accommodation', teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how to spell the word 'accommodation'?",
+    "studentAnswer": "Teacher, spelling of 'accommodation' please.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how to spell the word 'accommodation'?",
+    "studentAnswer": "How to spell accommodation?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how to spell the word 'accommodation'?",
+    "studentAnswer": "I have to write an essay now.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how to spell the word 'accommodation'?",
+    "studentAnswer": "The spelling is very long.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how to spell the word 'accommodation'?",
+    "studentAnswer": "Excuse me teacher, what is the spelling of 'accommodation'?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how to spell the word 'accommodation'?",
+    "studentAnswer": "Spelling of accommodation please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how to spell the word 'accommodation'?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you apologize to your class teacher when you arrive late because you missed the morning school bus?
+  {
+    "modelAnswer": "I am very sorry I am late, teacher. I missed the usual morning bus and had to wait for the next one.",
+    "studentAnswer": "I am very sorry I am late, teacher. I missed the usual morning bus and had to wait for the next one.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry I am late, teacher. I missed the usual morning bus and had to wait for the next one.",
+    "studentAnswer": "Sorry I'm late teacher, I missed the school bus and had to wait for the next bus.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry I am late, teacher. I missed the usual morning bus and had to wait for the next one.",
+    "studentAnswer": "Teacher, I am sorry. I missed my morning bus, that is why I am late.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry I am late, teacher. I missed the usual morning bus and had to wait for the next one.",
+    "studentAnswer": "I am sorry teacher, missed the morning bus and got late.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am very sorry I am late, teacher. I missed the usual morning bus and had to wait for the next one.",
+    "studentAnswer": "Sorry late, missed the bus today.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am very sorry I am late, teacher. I missed the usual morning bus and had to wait for the next one.",
+    "studentAnswer": "The bus stand is very crowded.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am very sorry I am late, teacher. I missed the usual morning bus and had to wait for the next one.",
+    "studentAnswer": "I walk to school sometimes.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am very sorry I am late, teacher. I missed the usual morning bus and had to wait for the next one.",
+    "studentAnswer": "I missed my bus today morning, sorry teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry I am late, teacher. I missed the usual morning bus and had to wait for the next one.",
+    "studentAnswer": "Missed bus, sorry late teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am very sorry I am late, teacher. I missed the usual morning bus and had to wait for the next one.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you explain to a classmate why you prefer studying science over history?
+  {
+    "modelAnswer": "I prefer studying science because I enjoy doing laboratory experiments and learning about how things work.",
+    "studentAnswer": "I prefer studying science because I enjoy doing laboratory experiments and learning about how things work.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I prefer studying science because I enjoy doing laboratory experiments and learning about how things work.",
+    "studentAnswer": "I like science more than history because I enjoy doing lab experiments.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I prefer studying science because I enjoy doing laboratory experiments and learning about how things work.",
+    "studentAnswer": "I prefer science because we can do laboratory experiments and learn how things work.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I prefer studying science because I enjoy doing laboratory experiments and learning about how things work.",
+    "studentAnswer": "I like science over history because I enjoy science experiments.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I prefer studying science because I enjoy doing laboratory experiments and learning about how things work.",
+    "studentAnswer": "I prefer studying science.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I prefer studying science because I enjoy doing laboratory experiments and learning about how things work.",
+    "studentAnswer": "History is about kings and queens.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I prefer studying science because I enjoy doing laboratory experiments and learning about how things work.",
+    "studentAnswer": "The science lab has many chemicals.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I prefer studying science because I enjoy doing laboratory experiments and learning about how things work.",
+    "studentAnswer": "I like science because of the experiments we do.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I prefer studying science because I enjoy doing laboratory experiments and learning about how things work.",
+    "studentAnswer": "Science over history is good.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "I prefer studying science because I enjoy doing laboratory experiments and learning about how things work.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you praise a classmate after looking at their neatly written English essay?
+  {
+    "modelAnswer": "Your handwriting is extremely neat and beautiful! It is very easy to read your essay.",
+    "studentAnswer": "Your handwriting is extremely neat and beautiful! It is very easy to read your essay.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Your handwriting is extremely neat and beautiful! It is very easy to read your essay.",
+    "studentAnswer": "Your handwriting is very neat and beautiful. I can read the essay easily.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Your handwriting is extremely neat and beautiful! It is very easy to read your essay.",
+    "studentAnswer": "How beautiful your handwriting is! The essay is very neat.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Your handwriting is extremely neat and beautiful! It is very easy to read your essay.",
+    "studentAnswer": "Your essay writing is very neat and beautiful.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Your handwriting is extremely neat and beautiful! It is very easy to read your essay.",
+    "studentAnswer": "Neat handwriting in essay.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Your handwriting is extremely neat and beautiful! It is very easy to read your essay.",
+    "studentAnswer": "The essay is about environment protection.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Your handwriting is extremely neat and beautiful! It is very easy to read your essay.",
+    "studentAnswer": "I write with a blue gel pen.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Your handwriting is extremely neat and beautiful! It is very easy to read your essay.",
+    "studentAnswer": "Your handwriting is very beautiful and easy to read.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Your handwriting is extremely neat and beautiful! It is very easy to read your essay.",
+    "studentAnswer": "Beautiful handwriting, well done.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Your handwriting is extremely neat and beautiful! It is very easy to read your essay.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you ask a classmate which bus you should take to reach the public library from school?
+  {
+    "modelAnswer": "Could you please tell me which bus number I should take to get to the public library from here?",
+    "studentAnswer": "Could you please tell me which bus number I should take to get to the public library from here?",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Could you please tell me which bus number I should take to get to the public library from here?",
+    "studentAnswer": "Do you know which bus goes to the public library from school?",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Could you please tell me which bus number I should take to get to the public library from here?",
+    "studentAnswer": "Which bus should I take to go to the public library from here?",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Could you please tell me which bus number I should take to get to the public library from here?",
+    "studentAnswer": "Can you tell me the bus to the public library?",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could you please tell me which bus number I should take to get to the public library from here?",
+    "studentAnswer": "Bus to library please?",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could you please tell me which bus number I should take to get to the public library from here?",
+    "studentAnswer": "The library has many English books.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please tell me which bus number I should take to get to the public library from here?",
+    "studentAnswer": "I have to read a book today.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please tell me which bus number I should take to get to the public library from here?",
+    "studentAnswer": "Can you tell me which bus goes to the library from school?",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Could you please tell me which bus number I should take to get to the public library from here?",
+    "studentAnswer": "Library bus number please?",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could you please tell me which bus number I should take to get to the public library from here?",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you tell a classmate about where your grade is going for the annual school excursion next month?
+  {
+    "modelAnswer": "Our grade is going to the National Zoological Gardens in Dehiwala for the annual school trip next month.",
+    "studentAnswer": "Our grade is going to the National Zoological Gardens in Dehiwala for the annual school trip next month.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Our grade is going to the National Zoological Gardens in Dehiwala for the annual school trip next month.",
+    "studentAnswer": "We are visiting the Dehiwala Zoo for our annual school excursion next month.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Our grade is going to the National Zoological Gardens in Dehiwala for the annual school trip next month.",
+    "studentAnswer": "Our school trip next month is to the Dehiwala Zoo, our grade is going.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Our grade is going to the National Zoological Gardens in Dehiwala for the annual school trip next month.",
+    "studentAnswer": "Our grade is going to the Dehiwala Zoo for the school trip next month.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Our grade is going to the National Zoological Gardens in Dehiwala for the annual school trip next month.",
+    "studentAnswer": "We are going to Dehiwala Zoo.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Our grade is going to the National Zoological Gardens in Dehiwala for the annual school trip next month.",
+    "studentAnswer": "Dehiwala Zoo has many wild animals.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Our grade is going to the National Zoological Gardens in Dehiwala for the annual school trip next month.",
+    "studentAnswer": "I have to buy new clothes.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Our grade is going to the National Zoological Gardens in Dehiwala for the annual school trip next month.",
+    "studentAnswer": "Our grade's annual school trip next month is to Dehiwala Zoo.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Our grade is going to the National Zoological Gardens in Dehiwala for the annual school trip next month.",
+    "studentAnswer": "School trip to zoo next month.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Our grade is going to the National Zoological Gardens in Dehiwala for the annual school trip next month.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you offer to share your lunch packet with a friend who left their lunchbox at home?
+  {
+    "modelAnswer": "Since you forgot your lunch today, would you like to share my lunch packet? I have plenty of rice and curry.",
+    "studentAnswer": "Since you forgot your lunch today, would you like to share my lunch packet? I have plenty of rice and curry.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Since you forgot your lunch today, would you like to share my lunch packet? I have plenty of rice and curry.",
+    "studentAnswer": "You forgot your lunch? Let's share my lunch packet. I have enough rice and curry.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Since you forgot your lunch today, would you like to share my lunch packet? I have plenty of rice and curry.",
+    "studentAnswer": "Would you like to share my lunch packet today? I have enough food.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Since you forgot your lunch today, would you like to share my lunch packet? I have plenty of rice and curry.",
+    "studentAnswer": "Share my lunch packet, you forgot your lunchbox today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Since you forgot your lunch today, would you like to share my lunch packet? I have plenty of rice and curry.",
+    "studentAnswer": "Share my lunch packet with you.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Since you forgot your lunch today, would you like to share my lunch packet? I have plenty of rice and curry.",
+    "studentAnswer": "My mother makes delicious dhal curry.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Since you forgot your lunch today, would you like to share my lunch packet? I have plenty of rice and curry.",
+    "studentAnswer": "Lunch time is at 11:30 AM.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Since you forgot your lunch today, would you like to share my lunch packet? I have plenty of rice and curry.",
+    "studentAnswer": "Please share my lunch box, I have plenty of rice.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Since you forgot your lunch today, would you like to share my lunch packet? I have plenty of rice and curry.",
+    "studentAnswer": "Share lunch today please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Since you forgot your lunch today, would you like to share my lunch packet? I have plenty of rice and curry.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

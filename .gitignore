@@ -60,7 +60,9 @@ typings/
 # TypeScript compiled output
 dist/
 
-# next.js build output
-.next
-
 /src/generated/prisma
+
+# Python
+__pycache__/
+*.pyc
+venv/

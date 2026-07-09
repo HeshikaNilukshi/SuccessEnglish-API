@@ -1,0 +1,621 @@
+[
+  // Question 1: Complete the sentence: 'This is the _______ house in the street.' (oldest / older)
+  {
+    "modelAnswer": "oldest",
+    "studentAnswer": "oldest",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "oldest",
+    "studentAnswer": "older",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "oldest",
+    "studentAnswer": "old",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "oldest",
+    "studentAnswer": "most old",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "oldest",
+    "studentAnswer": "more old",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "oldest",
+    "studentAnswer": "ancient",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "oldest",
+    "studentAnswer": "best",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "oldest",
+    "studentAnswer": "biggest",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "oldest",
+    "studentAnswer": "oldes",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "oldest",
+    "studentAnswer": "Oldest",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 2: Complete the sentence: 'They decided _______ a new car.' (to buy / buying)
+  {
+    "modelAnswer": "to buy",
+    "studentAnswer": "to buy",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "to buy",
+    "studentAnswer": "buying",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to buy",
+    "studentAnswer": "buy",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to buy",
+    "studentAnswer": "bought",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to buy",
+    "studentAnswer": "buys",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to buy",
+    "studentAnswer": "to buying",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to buy",
+    "studentAnswer": "purchase",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to buy",
+    "studentAnswer": "purchasing",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to buy",
+    "studentAnswer": "to buyy",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to buy",
+    "studentAnswer": "To buy",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 3: Complete the sentence: 'He is bad _______ remembering names.' (at / in)
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "at",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "in",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "with",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "on",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "for",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "about",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "by",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "of",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "att",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "At",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 4: Complete the sentence: 'We arrived _______ Colombo at noon.' (in / at)
+  {
+    "modelAnswer": "in",
+    "studentAnswer": "in",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "in",
+    "studentAnswer": "at",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "in",
+    "studentAnswer": "on",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "in",
+    "studentAnswer": "to",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "in",
+    "studentAnswer": "into",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "in",
+    "studentAnswer": "from",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "in",
+    "studentAnswer": "by",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "in",
+    "studentAnswer": "through",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "in",
+    "studentAnswer": "inn",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "in",
+    "studentAnswer": "In",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 5: Complete the sentence: 'I am used _______ drinking hot tea.' (to / with)
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "to",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "with",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "in",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "on",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "at",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "for",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "by",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "about",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "too",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "To",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 6: Complete the sentence: 'The meeting was postponed _______ next week.' (until / to)
+  {
+    "modelAnswer": "until",
+    "studentAnswer": "until",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "until",
+    "studentAnswer": "to",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "until",
+    "studentAnswer": "till",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "until",
+    "studentAnswer": "for",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "until",
+    "studentAnswer": "by",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "until",
+    "studentAnswer": "on",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "until",
+    "studentAnswer": "in",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "until",
+    "studentAnswer": "at",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "until",
+    "studentAnswer": "untill",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "until",
+    "studentAnswer": "Until",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 7: Complete the sentence: 'He had to choose _______ many options.' (among / between)
+  {
+    "modelAnswer": "among",
+    "studentAnswer": "among",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "among",
+    "studentAnswer": "between",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "among",
+    "studentAnswer": "in",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "among",
+    "studentAnswer": "from",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "among",
+    "studentAnswer": "with",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "among",
+    "studentAnswer": "through",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "among",
+    "studentAnswer": "for",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "among",
+    "studentAnswer": "about",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "among",
+    "studentAnswer": "amoung",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "among",
+    "studentAnswer": "Among",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 8: Complete the sentence: 'She left _______ saying goodbye.' (without / not)
+  {
+    "modelAnswer": "without",
+    "studentAnswer": "without",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "without",
+    "studentAnswer": "not",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "without",
+    "studentAnswer": "no",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "without",
+    "studentAnswer": "with",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "without",
+    "studentAnswer": "before",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "without",
+    "studentAnswer": "after",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "without",
+    "studentAnswer": "instead",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "without",
+    "studentAnswer": "but",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "without",
+    "studentAnswer": "with out",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "without",
+    "studentAnswer": "Without",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 9: Complete the sentence: 'I don't know _______ book this is.' (whose / who)
+  {
+    "modelAnswer": "whose",
+    "studentAnswer": "whose",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "whose",
+    "studentAnswer": "who",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "whose",
+    "studentAnswer": "whom",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "whose",
+    "studentAnswer": "which",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "whose",
+    "studentAnswer": "what",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "whose",
+    "studentAnswer": "where",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "whose",
+    "studentAnswer": "who's",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "whose",
+    "studentAnswer": "that",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "whose",
+    "studentAnswer": "whosee",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "whose",
+    "studentAnswer": "Whose",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 10: Complete the sentence: 'He runs very _______.' (fast / fastly)
+  {
+    "modelAnswer": "fast",
+    "studentAnswer": "fast",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "fast",
+    "studentAnswer": "fastly",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "fast",
+    "studentAnswer": "quickly",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "fast",
+    "studentAnswer": "slowly",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "fast",
+    "studentAnswer": "well",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "fast",
+    "studentAnswer": "good",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "fast",
+    "studentAnswer": "hard",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "fast",
+    "studentAnswer": "strong",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "fast",
+    "studentAnswer": "fastt",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "fast",
+    "studentAnswer": "Fast",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  }
+]

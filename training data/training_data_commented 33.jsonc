@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a teacher for directions to the main school gate from the library?
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please direct me to the main school gate from the library?",
+    "studentAnswer": "Excuse me, teacher. Could you please direct me to the main school gate from the library?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please direct me to the main school gate from the library?",
+    "studentAnswer": "Excuse me, teacher. Can you show me the way to the main gate from here?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please direct me to the main school gate from the library?",
+    "studentAnswer": "Teacher, where is the main school gate from the library?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please direct me to the main school gate from the library?",
+    "studentAnswer": "Which way is the main gate from the library, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please direct me to the main school gate from the library?",
+    "studentAnswer": "Main gate way from library, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please direct me to the main school gate from the library?",
+    "studentAnswer": "The library is closed during assembly.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please direct me to the main school gate from the library?",
+    "studentAnswer": "I have a heavy bag to carry.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please direct me to the main school gate from the library?",
+    "studentAnswer": "Excuse me, can you show me the directions to the main gate?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please direct me to the main school gate from the library?",
+    "studentAnswer": "Directions to school gate from library?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please direct me to the main school gate from the library?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you ask a classmate what time the school concert begins this evening?
+  {
+    "modelAnswer": "Do you know what time the school concert begins this evening?",
+    "studentAnswer": "Do you know what time the school concert begins this evening?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what time the school concert begins this evening?",
+    "studentAnswer": "What time is the school concert starting tonight?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what time the school concert begins this evening?",
+    "studentAnswer": "Can you tell me when the school concert starts this evening?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what time the school concert begins this evening?",
+    "studentAnswer": "What is the starting time of the school concert tonight?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what time the school concert begins this evening?",
+    "studentAnswer": "Concert starting time tonight?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you know what time the school concert begins this evening?",
+    "studentAnswer": "The concert has many dances and songs.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you know what time the school concert begins this evening?",
+    "studentAnswer": "I am playing the violin in the concert.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you know what time the school concert begins this evening?",
+    "studentAnswer": "Do you know when the concert starts?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what time the school concert begins this evening?",
+    "studentAnswer": "School concert time tonight?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you know what time the school concert begins this evening?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you offer to pick up a classmate's drawing book which fell off their desk?
+  {
+    "modelAnswer": "Let me help you pick up your drawing book from the floor.",
+    "studentAnswer": "Let me help you pick up your drawing book from the floor.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Let me help you pick up your drawing book from the floor.",
+    "studentAnswer": "Can I help you pick up the drawing book from the floor?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Let me help you pick up your drawing book from the floor.",
+    "studentAnswer": "Shall I lift your drawing book from the floor for you?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Let me help you pick up your drawing book from the floor.",
+    "studentAnswer": "I will pick up your drawing book for you, friend.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Let me help you pick up your drawing book from the floor.",
+    "studentAnswer": "Pick up drawing book please?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Let me help you pick up your drawing book from the floor.",
+    "studentAnswer": "The drawing book has many colorful pictures.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Let me help you pick up your drawing book from the floor.",
+    "studentAnswer": "I have many colored pencils in my bag.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Let me help you pick up your drawing book from the floor.",
+    "studentAnswer": "Shall I pick up your drawing book?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Let me help you pick up your drawing book from the floor.",
+    "studentAnswer": "Lift drawing book please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Let me help you pick up your drawing book from the floor.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you ask your classmate for their opinion on the new class badge design?
+  {
+    "modelAnswer": "What do you think of our new class badge design? Does it look nice?",
+    "studentAnswer": "What do you think of our new class badge design? Does it look nice?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of our new class badge design? Does it look nice?",
+    "studentAnswer": "How is the new class badge design? Do you like it?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of our new class badge design? Does it look nice?",
+    "studentAnswer": "What is your opinion on our new class badge design?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of our new class badge design? Does it look nice?",
+    "studentAnswer": "Do you like the new badge design?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "What do you think of our new class badge design? Does it look nice?",
+    "studentAnswer": "Badge design opinion?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you think of our new class badge design? Does it look nice?",
+    "studentAnswer": "The badge has our school crest in the middle.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you think of our new class badge design? Does it look nice?",
+    "studentAnswer": "I wear my metal badge every day.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you think of our new class badge design? Does it look nice?",
+    "studentAnswer": "Do you think the new class badge is beautiful?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of our new class badge design? Does it look nice?",
+    "studentAnswer": "Class badge beautiful?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you think of our new class badge design? Does it look nice?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you suggest to a classmate to share their math compass because you forgot yours today?
+  {
+    "modelAnswer": "Could we please share your compass box today? I forgot mine for the geometry lesson.",
+    "studentAnswer": "Could we please share your compass box today? I forgot mine for the geometry lesson.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your compass box today? I forgot mine for the geometry lesson.",
+    "studentAnswer": "Can I borrow your geometry compass to draw circles today because I forgot mine?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your compass box today? I forgot mine for the geometry lesson.",
+    "studentAnswer": "Can we share this compass box today? I forgot mine at home.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your compass box today? I forgot mine for the geometry lesson.",
+    "studentAnswer": "Please share your math compass with me today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your compass box today? I forgot mine for the geometry lesson.",
+    "studentAnswer": "Share compass box today please, forgot mine.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could we please share your compass box today? I forgot mine for the geometry lesson.",
+    "studentAnswer": "Geometry has many figures and shapes.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could we please share your compass box today? I forgot mine for the geometry lesson.",
+    "studentAnswer": "The instrument box has a metal ruler.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could we please share your compass box today? I forgot mine for the geometry lesson.",
+    "studentAnswer": "Can we share the compass box today?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could we please share your compass box today? I forgot mine for the geometry lesson.",
+    "studentAnswer": "Share compass, forgot mine.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Could we please share your compass box today? I forgot mine for the geometry lesson.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you describe how to make a traditional Sri Lankan milk tea to a foreign visitor?
+  {
+    "modelAnswer": "To make Sri Lankan milk tea, you brew black tea leaves in boiling water, then mix it with condensed milk or fresh milk and sugar.",
+    "studentAnswer": "To make Sri Lankan milk tea, you brew black tea leaves in boiling water, then mix it with condensed milk or fresh milk and sugar.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "To make Sri Lankan milk tea, you brew black tea leaves in boiling water, then mix it with condensed milk or fresh milk and sugar.",
+    "studentAnswer": "It is a sweet hot drink. You boil tea leaves, add milk and sugar, and mix it well.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "To make Sri Lankan milk tea, you brew black tea leaves in boiling water, then mix it with condensed milk or fresh milk and sugar.",
+    "studentAnswer": "You boil water with black tea dust and mix it with condensed milk and sugar.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "To make Sri Lankan milk tea, you brew black tea leaves in boiling water, then mix it with condensed milk or fresh milk and sugar.",
+    "studentAnswer": "Milk tea has black tea and condensed milk.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "To make Sri Lankan milk tea, you brew black tea leaves in boiling water, then mix it with condensed milk or fresh milk and sugar.",
+    "studentAnswer": "I drink milk tea with my biscuits.",
+    "maxMarks": 6,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "To make Sri Lankan milk tea, you brew black tea leaves in boiling water, then mix it with condensed milk or fresh milk and sugar.",
+    "studentAnswer": "Sri Lanka is famous for Ceylon Tea.",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "To make Sri Lankan milk tea, you brew black tea leaves in boiling water, then mix it with condensed milk or fresh milk and sugar.",
+    "studentAnswer": "You boil tea powder in water and add milk and sugar.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "To make Sri Lankan milk tea, you brew black tea leaves in boiling water, then mix it with condensed milk or fresh milk and sugar.",
+    "studentAnswer": "Tea leaves boiled in water with milk.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "To make Sri Lankan milk tea, you brew black tea leaves in boiling water, then mix it with condensed milk or fresh milk and sugar.",
+    "studentAnswer": "Milk tea is sweet.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "To make Sri Lankan milk tea, you brew black tea leaves in boiling water, then mix it with condensed milk or fresh milk and sugar.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you warn a classmate not to touch the bush in the school garden because it has sharp thorns?
+  {
+    "modelAnswer": "Don't touch that bush! It has very sharp thorns and you might prick your hand.",
+    "studentAnswer": "Don't touch that bush! It has very sharp thorns and you might prick your hand.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't touch that bush! It has very sharp thorns and you might prick your hand.",
+    "studentAnswer": "Please keep away from that bush. It has sharp thorns.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't touch that bush! It has very sharp thorns and you might prick your hand.",
+    "studentAnswer": "Be careful, the garden bush has thorns, do not touch it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't touch that bush! It has very sharp thorns and you might prick your hand.",
+    "studentAnswer": "Do not touch, the bush has sharp thorns.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Don't touch that bush! It has very sharp thorns and you might prick your hand.",
+    "studentAnswer": "Thorny bush, stay away.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Don't touch that bush! It has very sharp thorns and you might prick your hand.",
+    "studentAnswer": "The bush has red rose flowers.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Don't touch that bush! It has very sharp thorns and you might prick your hand.",
+    "studentAnswer": "I have to water the flowers.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Don't touch that bush! It has very sharp thorns and you might prick your hand.",
+    "studentAnswer": "Watch out for the sharp thorns of the bush.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't touch that bush! It has very sharp thorns and you might prick your hand.",
+    "studentAnswer": "Sharp thorns don't touch.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Don't touch that bush! It has very sharp thorns and you might prick your hand.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you ask a classmate what they usually like to do with their family on Saturdays?
+  {
+    "modelAnswer": "What do you usually like to do with your family on Saturdays?",
+    "studentAnswer": "What do you usually like to do with your family on Saturdays?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you usually like to do with your family on Saturdays?",
+    "studentAnswer": "What do you do on Saturdays with your family?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you usually like to do with your family on Saturdays?",
+    "studentAnswer": "How do you spend Saturday with your family?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you usually like to do with your family on Saturdays?",
+    "studentAnswer": "What do your family do on Saturdays?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "What do you usually like to do with your family on Saturdays?",
+    "studentAnswer": "Saturday family activities?",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "What do you usually like to do with your family on Saturdays?",
+    "studentAnswer": "Saturday is a holiday for our school.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you usually like to do with your family on Saturdays?",
+    "studentAnswer": "My mother makes milk rice on holidays.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you usually like to do with your family on Saturdays?",
+    "studentAnswer": "What do you do with your family on Saturday?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you usually like to do with your family on Saturdays?",
+    "studentAnswer": "Saturday family trip?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you usually like to do with your family on Saturdays?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you thank the principal who awarded you the school grade scholarship?
+  {
+    "modelAnswer": "Thank you very much, teacher, for awarding me the school scholarship. I am very grateful and will continue to study hard.",
+    "studentAnswer": "Thank you very much, teacher, for awarding me the school scholarship. I am very grateful and will continue to study hard.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for awarding me the school scholarship. I am very grateful and will continue to study hard.",
+    "studentAnswer": "Thank you teacher for the school scholarship. I will keep studying well.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for awarding me the school scholarship. I am very grateful and will continue to study hard.",
+    "studentAnswer": "I am very grateful to you teacher for awarding me with the grade scholarship today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for awarding me the school scholarship. I am very grateful and will continue to study hard.",
+    "studentAnswer": "Thanks teacher for the grade scholarship.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for awarding me the school scholarship. I am very grateful and will continue to study hard.",
+    "studentAnswer": "Thank you for the scholarship.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for awarding me the school scholarship. I am very grateful and will continue to study hard.",
+    "studentAnswer": "The scholarship has a certificate and cash prize.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for awarding me the school scholarship. I am very grateful and will continue to study hard.",
+    "studentAnswer": "I study three hours every night.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for awarding me the school scholarship. I am very grateful and will continue to study hard.",
+    "studentAnswer": "Thank you teacher, I will study hard.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for awarding me the school scholarship. I am very grateful and will continue to study hard.",
+    "studentAnswer": "School scholarship thank you.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for awarding me the school scholarship. I am very grateful and will continue to study hard.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you apologize to a classmate after accidentally knocking their lunch tin off the desk?
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking your lunch tin off the desk. Let me pick it up and clean any spill.",
+    "studentAnswer": "I am so sorry for accidentally knocking your lunch tin off the desk. Let me pick it up and clean any spill.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking your lunch tin off the desk. Let me pick it up and clean any spill.",
+    "studentAnswer": "Sorry, I knocked your lunch tin off the desk by mistake. Let me pick it up.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking your lunch tin off the desk. Let me pick it up and clean any spill.",
+    "studentAnswer": "I am very sorry for dropping your lunch tin. Let me clean the floor if food spilled.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking your lunch tin off the desk. Let me pick it up and clean any spill.",
+    "studentAnswer": "Sorry I knocked your lunch tin down.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking your lunch tin off the desk. Let me pick it up and clean any spill.",
+    "studentAnswer": "Sorry, lunch tin drop.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking your lunch tin off the desk. Let me pick it up and clean any spill.",
+    "studentAnswer": "Lunch tin has steel spoons.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking your lunch tin off the desk. Let me pick it up and clean any spill.",
+    "studentAnswer": "I eat bread and jam.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking your lunch tin off the desk. Let me pick it up and clean any spill.",
+    "studentAnswer": "I am sorry for dropping your lunch tin, let me help you pick it up.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking your lunch tin off the desk. Let me pick it up and clean any spill.",
+    "studentAnswer": "Sorry lunch tin fell.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking your lunch tin off the desk. Let me pick it up and clean any spill.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

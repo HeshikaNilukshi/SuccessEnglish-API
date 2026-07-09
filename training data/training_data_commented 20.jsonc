@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a teacher for directions to the school playground from the staff room?
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please show me how to get to the playground from the staff room?",
+    "studentAnswer": "Excuse me, teacher. Could you please show me how to get to the playground from the staff room?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please show me how to get to the playground from the staff room?",
+    "studentAnswer": "Excuse me, teacher. Can you direct me to the playground from here?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please show me how to get to the playground from the staff room?",
+    "studentAnswer": "Teacher, where is the playground from the staff room?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please show me how to get to the playground from the staff room?",
+    "studentAnswer": "How to go to playground from staff room, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please show me how to get to the playground from the staff room?",
+    "studentAnswer": "Playground way from staff room, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please show me how to get to the playground from the staff room?",
+    "studentAnswer": "The staff room has air conditioning.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please show me how to get to the playground from the staff room?",
+    "studentAnswer": "I like to run on the grass.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please show me how to get to the playground from the staff room?",
+    "studentAnswer": "Excuse me, can you show me the way to the playground?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please show me how to get to the playground from the staff room?",
+    "studentAnswer": "Directions to playground, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please show me how to get to the playground from the staff room?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you ask a classmate sitting next to you what time the school library closes today?
+  {
+    "modelAnswer": "Do you know what time the school library closes today?",
+    "studentAnswer": "Do you know what time the school library closes today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what time the school library closes today?",
+    "studentAnswer": "What time is the library closing today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what time the school library closes today?",
+    "studentAnswer": "Can you tell me when the library closes today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what time the school library closes today?",
+    "studentAnswer": "What is the closing time of the library today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what time the school library closes today?",
+    "studentAnswer": "Library closing time today?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you know what time the school library closes today?",
+    "studentAnswer": "The library has many books about history.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you know what time the school library closes today?",
+    "studentAnswer": "I want to borrow a science book.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you know what time the school library closes today?",
+    "studentAnswer": "Do you know when the library closes?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what time the school library closes today?",
+    "studentAnswer": "Library closing time?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you know what time the school library closes today?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you offer to erase the whiteboard for a teacher who has just finished writing the lesson?
+  {
+    "modelAnswer": "Shall I erase the whiteboard for you, teacher?",
+    "studentAnswer": "Shall I erase the whiteboard for you, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall I erase the whiteboard for you, teacher?",
+    "studentAnswer": "Can I wipe the whiteboard today for you, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall I erase the whiteboard for you, teacher?",
+    "studentAnswer": "Teacher, let me clean the whiteboard for the next lesson.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall I erase the whiteboard for you, teacher?",
+    "studentAnswer": "I will clean the whiteboard for you, teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall I erase the whiteboard for you, teacher?",
+    "studentAnswer": "Clean whiteboard today, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall I erase the whiteboard for you, teacher?",
+    "studentAnswer": "The whiteboard is white and large.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall I erase the whiteboard for you, teacher?",
+    "studentAnswer": "I have two blue whiteboard markers.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall I erase the whiteboard for you, teacher?",
+    "studentAnswer": "Teacher, shall I clean the whiteboard?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall I erase the whiteboard for you, teacher?",
+    "studentAnswer": "Erase whiteboard please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Shall I erase the whiteboard for you, teacher?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you ask a friend for their opinion on our new class debate topic about banning mobile phones?
+  {
+    "modelAnswer": "What do you think of our new class debate topic? Is it a good topic to debate?",
+    "studentAnswer": "What do you think of our new class debate topic? Is it a good topic to debate?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of our new class debate topic? Is it a good topic to debate?",
+    "studentAnswer": "How is the new class debate topic about mobile phones? Do you like it?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of our new class debate topic? Is it a good topic to debate?",
+    "studentAnswer": "What is your opinion on the mobile phone ban debate topic?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of our new class debate topic? Is it a good topic to debate?",
+    "studentAnswer": "Do you like the new mobile phone debate topic?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "What do you think of our new class debate topic? Is it a good topic to debate?",
+    "studentAnswer": "Debate topic opinion?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you think of our new class debate topic? Is it a good topic to debate?",
+    "studentAnswer": "Mobile phones are very useful for internet.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you think of our new class debate topic? Is it a good topic to debate?",
+    "studentAnswer": "The debate is on next Monday morning.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you think of our new class debate topic? Is it a good topic to debate?",
+    "studentAnswer": "Do you think the new debate topic is interesting?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of our new class debate topic? Is it a good topic to debate?",
+    "studentAnswer": "Debate mobile phone topic?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you think of our new class debate topic? Is it a good topic to debate?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you suggest to a classmate to share your large raincoat because it is raining heavily and they do not have one?
+  {
+    "modelAnswer": "Would you like to share my raincoat? It is big enough for both of us and it's raining heavily.",
+    "studentAnswer": "Would you like to share my raincoat? It is big enough for both of us and it's raining heavily.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to share my raincoat? It is big enough for both of us and it's raining heavily.",
+    "studentAnswer": "Shall we share my large raincoat since it's raining and you don't have one?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to share my raincoat? It is big enough for both of us and it's raining heavily.",
+    "studentAnswer": "I have a big raincoat. We can share it in the heavy rain today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to share my raincoat? It is big enough for both of us and it's raining heavily.",
+    "studentAnswer": "You can share my raincoat today since it is raining heavily.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to share my raincoat? It is big enough for both of us and it's raining heavily.",
+    "studentAnswer": "Share my raincoat in the rain?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Would you like to share my raincoat? It is big enough for both of us and it's raining heavily.",
+    "studentAnswer": "The raincoat is blue color.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Would you like to share my raincoat? It is big enough for both of us and it's raining heavily.",
+    "studentAnswer": "I forgot my umbrella at home.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Would you like to share my raincoat? It is big enough for both of us and it's raining heavily.",
+    "studentAnswer": "Shall we walk together in my big raincoat?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to share my raincoat? It is big enough for both of us and it's raining heavily.",
+    "studentAnswer": "Share raincoat in rain please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Would you like to share my raincoat? It is big enough for both of us and it's raining heavily.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you describe the taste and ingredients of Pol Roti to a foreign visitor?
+  {
+    "modelAnswer": "Pol Roti is a traditional Sri Lankan flatbread made with wheat flour, scraped coconut, and onions, having a savory taste.",
+    "studentAnswer": "Pol Roti is a traditional Sri Lankan flatbread made with wheat flour, scraped coconut, and onions, having a savory taste.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Pol Roti is a traditional Sri Lankan flatbread made with wheat flour, scraped coconut, and onions, having a savory taste.",
+    "studentAnswer": "Pol Roti is flatbread made from flour and coconut. It tastes very delicious.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Pol Roti is a traditional Sri Lankan flatbread made with wheat flour, scraped coconut, and onions, having a savory taste.",
+    "studentAnswer": "It is a local food made of wheat flour, scraped coconut, and onions. It is round and tasty.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Pol Roti is a traditional Sri Lankan flatbread made with wheat flour, scraped coconut, and onions, having a savory taste.",
+    "studentAnswer": "Pol Roti is made of flour and coconut.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Pol Roti is a traditional Sri Lankan flatbread made with wheat flour, scraped coconut, and onions, having a savory taste.",
+    "studentAnswer": "I eat Pol Roti with Lunu Miris.",
+    "maxMarks": 6,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Pol Roti is a traditional Sri Lankan flatbread made with wheat flour, scraped coconut, and onions, having a savory taste.",
+    "studentAnswer": "Pol Roti is cooked on a flat pan.",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Pol Roti is a traditional Sri Lankan flatbread made with wheat flour, scraped coconut, and onions, having a savory taste.",
+    "studentAnswer": "It is a round flatbread made of coconut and flour with a savory taste.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Pol Roti is a traditional Sri Lankan flatbread made with wheat flour, scraped coconut, and onions, having a savory taste.",
+    "studentAnswer": "Coconut flatbread Sri Lankan Pol Roti.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Pol Roti is a traditional Sri Lankan flatbread made with wheat flour, scraped coconut, and onions, having a savory taste.",
+    "studentAnswer": "Pol Roti is delicious flatbread.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Pol Roti is a traditional Sri Lankan flatbread made with wheat flour, scraped coconut, and onions, having a savory taste.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you warn a classmate to watch their head because the doorway to the store room is very low?
+  {
+    "modelAnswer": "Watch your head! The doorway to the store room is very low, so bend down when entering.",
+    "studentAnswer": "Watch your head! The doorway to the store room is very low, so bend down when entering.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Watch your head! The doorway to the store room is very low, so bend down when entering.",
+    "studentAnswer": "Watch out, the doorway is low. Bend your head down when you enter.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Watch your head! The doorway to the store room is very low, so bend down when entering.",
+    "studentAnswer": "Be careful, the store room door is very low. Duck your head.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Watch your head! The doorway to the store room is very low, so bend down when entering.",
+    "studentAnswer": "Watch your head, low door in store room.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Watch your head! The doorway to the store room is very low, so bend down when entering.",
+    "studentAnswer": "Low doorway, watch head.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Watch your head! The doorway to the store room is very low, so bend down when entering.",
+    "studentAnswer": "The store room has many old desks and chairs.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Watch your head! The doorway to the store room is very low, so bend down when entering.",
+    "studentAnswer": "I have to get a new duster.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Watch your head! The doorway to the store room is very low, so bend down when entering.",
+    "studentAnswer": "Watch out for the low doorway of the store room.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Watch your head! The doorway to the store room is very low, so bend down when entering.",
+    "studentAnswer": "Low doorway store room duck.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Watch your head! The doorway to the store room is very low, so bend down when entering.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you ask a classmate what kind of books they enjoy reading the most and why?
+  {
+    "modelAnswer": "What kind of books do you enjoy reading the most? Why do you prefer that genre?",
+    "studentAnswer": "What kind of books do you enjoy reading the most? Why do you prefer that genre?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What kind of books do you enjoy reading the most? Why do you prefer that genre?",
+    "studentAnswer": "Which type of books do you like to read best? What is the reason?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What kind of books do you enjoy reading the most? Why do you prefer that genre?",
+    "studentAnswer": "What is your favorite book genre and why do you like it?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What kind of books do you enjoy reading the most? Why do you prefer that genre?",
+    "studentAnswer": "What kind of books do you like to read?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "What kind of books do you enjoy reading the most? Why do you prefer that genre?",
+    "studentAnswer": "Favorite book type and why?",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "What kind of books do you enjoy reading the most? Why do you prefer that genre?",
+    "studentAnswer": "I enjoy reading detective stories.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What kind of books do you enjoy reading the most? Why do you prefer that genre?",
+    "studentAnswer": "Reading books is a very good habit.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What kind of books do you enjoy reading the most? Why do you prefer that genre?",
+    "studentAnswer": "What kind of books do you enjoy most and why?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What kind of books do you enjoy reading the most? Why do you prefer that genre?",
+    "studentAnswer": "Favorite book genre?",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "What kind of books do you enjoy reading the most? Why do you prefer that genre?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you thank the sports coach who presented you with the best player trophy?
+  {
+    "modelAnswer": "Thank you so much, coach, for presenting me with this trophy. I will continue to practice hard.",
+    "studentAnswer": "Thank you so much, coach, for presenting me with this trophy. I will continue to practice hard.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, coach, for presenting me with this trophy. I will continue to practice hard.",
+    "studentAnswer": "Thank you coach for the best player trophy. I will practice well.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, coach, for presenting me with this trophy. I will continue to practice hard.",
+    "studentAnswer": "I am very grateful to you coach for presenting me with the best player award today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, coach, for presenting me with this trophy. I will continue to practice hard.",
+    "studentAnswer": "Thanks coach for the best player prize.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you so much, coach, for presenting me with this trophy. I will continue to practice hard.",
+    "studentAnswer": "Thank you for the best player trophy.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much, coach, for presenting me with this trophy. I will continue to practice hard.",
+    "studentAnswer": "The trophy is gold color and very heavy.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much, coach, for presenting me with this trophy. I will continue to practice hard.",
+    "studentAnswer": "I practice cricket three times a week.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much, coach, for presenting me with this trophy. I will continue to practice hard.",
+    "studentAnswer": "Thank you coach, I will practice hard.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you so much, coach, for presenting me with this trophy. I will continue to practice hard.",
+    "studentAnswer": "Best player trophy thank you.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much, coach, for presenting me with this trophy. I will continue to practice hard.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you apologize to a classmate after accidentally knocking their water bottle off the desk?
+  {
+    "modelAnswer": "I am really sorry. I accidentally knocked your water bottle off the desk. Let me pick it up for you.",
+    "studentAnswer": "I am really sorry. I accidentally knocked your water bottle off the desk. Let me pick it up for you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally knocked your water bottle off the desk. Let me pick it up for you.",
+    "studentAnswer": "Sorry, I knocked your water bottle off the desk by mistake. Let me pick it up.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally knocked your water bottle off the desk. Let me pick it up for you.",
+    "studentAnswer": "I am very sorry for dropping your water bottle. Let me get it for you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally knocked your water bottle off the desk. Let me pick it up for you.",
+    "studentAnswer": "Sorry I knocked your water bottle down from the desk.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally knocked your water bottle off the desk. Let me pick it up for you.",
+    "studentAnswer": "Sorry, water bottle drop.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally knocked your water bottle off the desk. Let me pick it up for you.",
+    "studentAnswer": "Water bottle is made of pink plastic.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally knocked your water bottle off the desk. Let me pick it up for you.",
+    "studentAnswer": "I drink cold water from the tap.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally knocked your water bottle off the desk. Let me pick it up for you.",
+    "studentAnswer": "I am sorry for dropping your water bottle, let me help you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally knocked your water bottle off the desk. Let me pick it up for you.",
+    "studentAnswer": "Sorry water bottle fell.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally knocked your water bottle off the desk. Let me pick it up for you.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

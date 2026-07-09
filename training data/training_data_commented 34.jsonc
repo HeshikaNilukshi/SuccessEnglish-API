@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a school prefect when the medical officer will visit the school for the health checkup?
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school health checkup will take place?",
+    "studentAnswer": "Excuse me, could you please tell me which day the school health checkup will take place?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school health checkup will take place?",
+    "studentAnswer": "Excuse me, do you know when the medical officer is coming for our health checkup?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school health checkup will take place?",
+    "studentAnswer": "Prefect, can you tell me the date of the school medical checkup?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school health checkup will take place?",
+    "studentAnswer": "When is the school health checkup happening?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school health checkup will take place?",
+    "studentAnswer": "Health checkup date school please?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school health checkup will take place?",
+    "studentAnswer": "The medical officer is very kind.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school health checkup will take place?",
+    "studentAnswer": "I don't like getting injections.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school health checkup will take place?",
+    "studentAnswer": "Excuse me, when will the health checkup start?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school health checkup will take place?",
+    "studentAnswer": "Medical checkup date?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school health checkup will take place?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you ask a classmate sitting next to you what lunch they have brought today?
+  {
+    "modelAnswer": "What have you brought for lunch today? Did your mother make noodles?",
+    "studentAnswer": "What have you brought for lunch today? Did your mother make noodles?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What have you brought for lunch today? Did your mother make noodles?",
+    "studentAnswer": "What is your lunch today? Did you bring noodles?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What have you brought for lunch today? Did your mother make noodles?",
+    "studentAnswer": "What did you bring to eat for lunch today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What have you brought for lunch today? Did your mother make noodles?",
+    "studentAnswer": "What lunch you brought today?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "What have you brought for lunch today? Did your mother make noodles?",
+    "studentAnswer": "Lunch today noodles?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What have you brought for lunch today? Did your mother make noodles?",
+    "studentAnswer": "Noodles are yellow and long.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What have you brought for lunch today? Did your mother make noodles?",
+    "studentAnswer": "I eat lunch at 1:30 pm at home.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What have you brought for lunch today? Did your mother make noodles?",
+    "studentAnswer": "What food did you bring for lunch today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What have you brought for lunch today? Did your mother make noodles?",
+    "studentAnswer": "Lunch box food today?",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "What have you brought for lunch today? Did your mother make noodles?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you volunteer to empty and clean the classroom dustbin before the interval ends?
+  {
+    "modelAnswer": "Teacher, may I take the classroom dustbin and empty it at the main school bin now?",
+    "studentAnswer": "Teacher, may I take the classroom dustbin and empty it at the main school bin now?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I take the classroom dustbin and empty it at the main school bin now?",
+    "studentAnswer": "Can I volunteer to empty the classroom dustbin today, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I take the classroom dustbin and empty it at the main school bin now?",
+    "studentAnswer": "Teacher, let me empty the trash bin before interval ends.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I take the classroom dustbin and empty it at the main school bin now?",
+    "studentAnswer": "I will clean the classroom dustbin now, teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I take the classroom dustbin and empty it at the main school bin now?",
+    "studentAnswer": "Clean dustbin before interval, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Teacher, may I take the classroom dustbin and empty it at the main school bin now?",
+    "studentAnswer": "The dustbin is red color plastic.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Teacher, may I take the classroom dustbin and empty it at the main school bin now?",
+    "studentAnswer": "We should not throw papers on the floor.",
+    "maxMarks": 5,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Teacher, may I take the classroom dustbin and empty it at the main school bin now?",
+    "studentAnswer": "Teacher, I want to empty the classroom dustbin.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Teacher, may I take the classroom dustbin and empty it at the main school bin now?",
+    "studentAnswer": "Empty dustbin please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Teacher, may I take the classroom dustbin and empty it at the main school bin now?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you ask a friend for their opinion on the school's new stripe design on the tie?
+  {
+    "modelAnswer": "What is your opinion on the new striped tie design? Do you prefer it over the plain one?",
+    "studentAnswer": "What is your opinion on the new striped tie design? Do you prefer it over the plain one?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What is your opinion on the new striped tie design? Do you prefer it over the plain one?",
+    "studentAnswer": "What do you think of the new striped school tie? Is it better than the plain one?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What is your opinion on the new striped tie design? Do you prefer it over the plain one?",
+    "studentAnswer": "Do you like the new striped design on our school tie?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What is your opinion on the new striped tie design? Do you prefer it over the plain one?",
+    "studentAnswer": "How do you feel about the new striped tie?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What is your opinion on the new striped tie design? Do you prefer it over the plain one?",
+    "studentAnswer": "Striped tie design, good or bad?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What is your opinion on the new striped tie design? Do you prefer it over the plain one?",
+    "studentAnswer": "The school tie is compulsory for boys.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What is your opinion on the new striped tie design? Do you prefer it over the plain one?",
+    "studentAnswer": "I washed my tie yesterday.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What is your opinion on the new striped tie design? Do you prefer it over the plain one?",
+    "studentAnswer": "What do you think about the new striped school tie?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What is your opinion on the new striped tie design? Do you prefer it over the plain one?",
+    "studentAnswer": "Striped tie opinion?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What is your opinion on the new striped tie design? Do you prefer it over the plain one?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you suggest to a classmate to pull their chair closer so you can both work on the science poster together?
+  {
+    "modelAnswer": "Shall we sit together at this desk so we can write the science poster together?",
+    "studentAnswer": "Shall we sit together at this desk so we can write the science poster together?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we sit together at this desk so we can write the science poster together?",
+    "studentAnswer": "Can you pull your chair closer so we can make the science poster together?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we sit together at this desk so we can write the science poster together?",
+    "studentAnswer": "Let's share this desk to draw the science poster.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we sit together at this desk so we can write the science poster together?",
+    "studentAnswer": "Move your chair closer so we can work on the poster.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Shall we sit together at this desk so we can write the science poster together?",
+    "studentAnswer": "Sit closer for poster work?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall we sit together at this desk so we can write the science poster together?",
+    "studentAnswer": "Science poster is about water cycle.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall we sit together at this desk so we can write the science poster together?",
+    "studentAnswer": "The poster sheet is white color.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall we sit together at this desk so we can write the science poster together?",
+    "studentAnswer": "Shall we sit closer to make the science poster?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we sit together at this desk so we can write the science poster together?",
+    "studentAnswer": "Sit together science poster?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall we sit together at this desk so we can write the science poster together?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you describe how a fruit Achcharu tastes to a foreign visitor?
+  {
+    "modelAnswer": "Sri Lankan Achcharu is a spicy, sweet, and sour pickled fruit mixture made with mango, amberella, mustard, and chili powder.",
+    "studentAnswer": "Sri Lankan Achcharu is a spicy, sweet, and sour pickled fruit mixture made with mango, amberella, mustard, and chili powder.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Sri Lankan Achcharu is a spicy, sweet, and sour pickled fruit mixture made with mango, amberella, mustard, and chili powder.",
+    "studentAnswer": "Achcharu is a mixed fruit pickle. It is very spicy, sour, and sweet with chili powder.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Sri Lankan Achcharu is a spicy, sweet, and sour pickled fruit mixture made with mango, amberella, mustard, and chili powder.",
+    "studentAnswer": "It is a spicy and sour pickled fruit dish made of mango, amberella, and chili.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Sri Lankan Achcharu is a spicy, sweet, and sour pickled fruit mixture made with mango, amberella, mustard, and chili powder.",
+    "studentAnswer": "Achcharu is spicy and sour pickled fruit.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Sri Lankan Achcharu is a spicy, sweet, and sour pickled fruit mixture made with mango, amberella, mustard, and chili powder.",
+    "studentAnswer": "I buy achcharu from the street vendor.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Sri Lankan Achcharu is a spicy, sweet, and sour pickled fruit mixture made with mango, amberella, mustard, and chili powder.",
+    "studentAnswer": "Achcharu has yellow mango pieces.",
+    "maxMarks": 6,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Sri Lankan Achcharu is a spicy, sweet, and sour pickled fruit mixture made with mango, amberella, mustard, and chili powder.",
+    "studentAnswer": "It is a traditional local street food made of spicy and sour pickled fruits.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Sri Lankan Achcharu is a spicy, sweet, and sour pickled fruit mixture made with mango, amberella, mustard, and chili powder.",
+    "studentAnswer": "Spicy sour pickled mango food.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Sri Lankan Achcharu is a spicy, sweet, and sour pickled fruit mixture made with mango, amberella, mustard, and chili powder.",
+    "studentAnswer": "Achcharu is tasty and spicy.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Sri Lankan Achcharu is a spicy, sweet, and sour pickled fruit mixture made with mango, amberella, mustard, and chili powder.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you warn a classmate not to walk on the main hall stage because it was just polished and is very sticky?
+  {
+    "modelAnswer": "Don't go up onto the stage! It was just polished this morning and the varnish is still sticky.",
+    "studentAnswer": "Don't go up onto the stage! It was just polished this morning and the varnish is still sticky.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't go up onto the stage! It was just polished this morning and the varnish is still sticky.",
+    "studentAnswer": "Please don't walk on the stage. The polish is wet and sticky.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't go up onto the stage! It was just polished this morning and the varnish is still sticky.",
+    "studentAnswer": "Be careful, the hall stage is polished and sticky, do not walk there.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't go up onto the stage! It was just polished this morning and the varnish is still sticky.",
+    "studentAnswer": "Do not walk, the stage is newly polished.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Don't go up onto the stage! It was just polished this morning and the varnish is still sticky.",
+    "studentAnswer": "Sticky polished stage, stay away.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Don't go up onto the stage! It was just polished this morning and the varnish is still sticky.",
+    "studentAnswer": "The stage has heavy red curtains.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Don't go up onto the stage! It was just polished this morning and the varnish is still sticky.",
+    "studentAnswer": "I have to practice my drama speech.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Don't go up onto the stage! It was just polished this morning and the varnish is still sticky.",
+    "studentAnswer": "Watch out, the stage floor is sticky from polish.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't go up onto the stage! It was just polished this morning and the varnish is still sticky.",
+    "studentAnswer": "Polished stage don't touch.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Don't go up onto the stage! It was just polished this morning and the varnish is still sticky.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you ask a classmate how they are preparing for the upcoming school spelling bee contest?
+  {
+    "modelAnswer": "How are you preparing for the spelling bee next week? Are you studying new word lists?",
+    "studentAnswer": "How are you preparing for the spelling bee next week? Are you studying new word lists?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "How are you preparing for the spelling bee next week? Are you studying new word lists?",
+    "studentAnswer": "What is your preparation for the school spelling bee contest?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "How are you preparing for the spelling bee next week? Are you studying new word lists?",
+    "studentAnswer": "How do you study for the upcoming spelling bee competition?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "How are you preparing for the spelling bee next week? Are you studying new word lists?",
+    "studentAnswer": "How are you studying for the spelling bee?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "How are you preparing for the spelling bee next week? Are you studying new word lists?",
+    "studentAnswer": "Spelling bee preparation methods?",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "How are you preparing for the spelling bee next week? Are you studying new word lists?",
+    "studentAnswer": "Spelling bee is held in the library.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "How are you preparing for the spelling bee next week? Are you studying new word lists?",
+    "studentAnswer": "English dictionary has many pages.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "How are you preparing for the spelling bee next week? Are you studying new word lists?",
+    "studentAnswer": "What are you doing to prepare for spelling bee?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "How are you preparing for the spelling bee next week? Are you studying new word lists?",
+    "studentAnswer": "Spelling bee study plans?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "How are you preparing for the spelling bee next week? Are you studying new word lists?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you thank the art teacher who guided you to win the all-island painting competition?
+  {
+    "modelAnswer": "Thank you so much, teacher, for your guidance. I couldn't have won the all-island painting prize without your advice.",
+    "studentAnswer": "Thank you so much, teacher, for your guidance. I couldn't have won the all-island painting prize without your advice.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for your guidance. I couldn't have won the all-island painting prize without your advice.",
+    "studentAnswer": "Thank you art teacher for guiding me to win the all-island competition.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for your guidance. I couldn't have won the all-island painting prize without your advice.",
+    "studentAnswer": "I am very grateful to you teacher for your guidance in the painting competition.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for your guidance. I couldn't have won the all-island painting prize without your advice.",
+    "studentAnswer": "Thanks teacher for guiding me to win the art prize.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for your guidance. I couldn't have won the all-island painting prize without your advice.",
+    "studentAnswer": "Thank you for the painting guidance.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for your guidance. I couldn't have won the all-island painting prize without your advice.",
+    "studentAnswer": "The painting depicts a village scene.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for your guidance. I couldn't have won the all-island painting prize without your advice.",
+    "studentAnswer": "I used water colors for my drawing.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for your guidance. I couldn't have won the all-island painting prize without your advice.",
+    "studentAnswer": "Thank you teacher, your advice helped me win the painting competition.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for your guidance. I couldn't have won the all-island painting prize without your advice.",
+    "studentAnswer": "Painting competition selection thank you.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for your guidance. I couldn't have won the all-island painting prize without your advice.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you apologize to a classmate after accidentally tearing a page of their science book while borrowing it?
+  {
+    "modelAnswer": "I am really sorry. I accidentally tore a page of your science book while turning it. Let me tape it back neatly for you.",
+    "studentAnswer": "I am really sorry. I accidentally tore a page of your science book while turning it. Let me tape it back neatly for you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally tore a page of your science book while turning it. Let me tape it back neatly for you.",
+    "studentAnswer": "Sorry, I accidentally tore your science book page. Let me fix it with tape.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally tore a page of your science book while turning it. Let me tape it back neatly for you.",
+    "studentAnswer": "I am very sorry for tearing a page in your science notebook. Let me repair it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally tore a page of your science book while turning it. Let me tape it back neatly for you.",
+    "studentAnswer": "Sorry I damaged your science book by tearing a page.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally tore a page of your science book while turning it. Let me tape it back neatly for you.",
+    "studentAnswer": "Sorry, science book torn.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally tore a page of your science book while turning it. Let me tape it back neatly for you.",
+    "studentAnswer": "Science is a very interesting subject.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally tore a page of your science book while turning it. Let me tape it back neatly for you.",
+    "studentAnswer": "I have sticky tape in my pencil case.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally tore a page of your science book while turning it. Let me tape it back neatly for you.",
+    "studentAnswer": "I am sorry for tearing the page of your science book, let me tape it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally tore a page of your science book while turning it. Let me tape it back neatly for you.",
+    "studentAnswer": "Sorry book page torn.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally tore a page of your science book while turning it. Let me tape it back neatly for you.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a school prefect when the dentist will visit the school for the dental checkup?
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school dental checkup will take place?",
+    "studentAnswer": "Excuse me, could you please tell me which day the school dental checkup will take place?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school dental checkup will take place?",
+    "studentAnswer": "Excuse me, do you know when the dentist is coming for our dental checkup?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school dental checkup will take place?",
+    "studentAnswer": "Prefect, can you tell me the date for the dental checkup program?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school dental checkup will take place?",
+    "studentAnswer": "When is the school dental checkup happening?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school dental checkup will take place?",
+    "studentAnswer": "Dental checkup date school please?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school dental checkup will take place?",
+    "studentAnswer": "Brushing teeth twice a day is very important.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school dental checkup will take place?",
+    "studentAnswer": "I have a toothache today.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school dental checkup will take place?",
+    "studentAnswer": "Excuse me, when will the dental checkup start?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school dental checkup will take place?",
+    "studentAnswer": "Dental checkup date?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school dental checkup will take place?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you ask a classmate sitting next to you how many kilometers they travel on the train to get to school?
+  {
+    "modelAnswer": "Do you know how many kilometers your train journey to school is?",
+    "studentAnswer": "Do you know how many kilometers your train journey to school is?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many kilometers your train journey to school is?",
+    "studentAnswer": "How many kilometers away is the school by train from your station?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many kilometers your train journey to school is?",
+    "studentAnswer": "Can you tell me the distance of your train journey to school?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many kilometers your train journey to school is?",
+    "studentAnswer": "How far do you travel by train to reach school?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many kilometers your train journey to school is?",
+    "studentAnswer": "Train travel distance in kilometers?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you know how many kilometers your train journey to school is?",
+    "studentAnswer": "The train is colored red and blue.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you know how many kilometers your train journey to school is?",
+    "studentAnswer": "I get off at the Colombo Fort station.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you know how many kilometers your train journey to school is?",
+    "studentAnswer": "Do you know the distance of your train ride?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many kilometers your train journey to school is?",
+    "studentAnswer": "Train distance kilometers?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you know how many kilometers your train journey to school is?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you volunteer to sort and arrange the balls and bats in the classroom sports cupboard?
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the sports equipment in the classroom cupboard today?",
+    "studentAnswer": "Teacher, may I help you sort and organize the sports equipment in the classroom cupboard today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the sports equipment in the classroom cupboard today?",
+    "studentAnswer": "Can I volunteer to arrange the sports items today, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the sports equipment in the classroom cupboard today?",
+    "studentAnswer": "Teacher, let me organize the cricket bats and balls in the sports cupboard.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the sports equipment in the classroom cupboard today?",
+    "studentAnswer": "I will organize the sports cupboard items now, teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the sports equipment in the classroom cupboard today?",
+    "studentAnswer": "Arrange sports equipment today in cupboard, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the sports equipment in the classroom cupboard today?",
+    "studentAnswer": "The cupboard has cricket balls and footballs.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the sports equipment in the classroom cupboard today?",
+    "studentAnswer": "We should play sports to keep our body fit.",
+    "maxMarks": 5,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the sports equipment in the classroom cupboard today?",
+    "studentAnswer": "Teacher, I want to arrange the cricket gear.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the sports equipment in the classroom cupboard today?",
+    "studentAnswer": "Sort sports equipment please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the sports equipment in the classroom cupboard today?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you ask a friend for their opinion on the school's new glass-covered notice board design in the main lobby?
+  {
+    "modelAnswer": "What do you think of the new glass-covered notice board design in the main lobby? Is it better than the old open one?",
+    "studentAnswer": "What do you think of the new glass-covered notice board design in the main lobby? Is it better than the old open one?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new glass-covered notice board design in the main lobby? Is it better than the old open one?",
+    "studentAnswer": "How is the new glass notice board in the lobby? Do you prefer it?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new glass-covered notice board design in the main lobby? Is it better than the old open one?",
+    "studentAnswer": "What is your opinion on the school's new glass-covered notice board in the lobby?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new glass-covered notice board design in the main lobby? Is it better than the old open one?",
+    "studentAnswer": "Do you like the new glass-covered notice board design?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "What do you think of the new glass-covered notice board design in the main lobby? Is it better than the old open one?",
+    "studentAnswer": "Glass notice board design, good or bad?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you think of the new glass-covered notice board design in the main lobby? Is it better than the old open one?",
+    "studentAnswer": "The lobby has white tiled floor.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you think of the new glass-covered notice board design in the main lobby? Is it better than the old open one?",
+    "studentAnswer": "I pinned my drawing on the board yesterday.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you think of the new glass-covered notice board design in the main lobby? Is it better than the old open one?",
+    "studentAnswer": "Do you think the new glass notice board is beautiful?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new glass-covered notice board design in the main lobby? Is it better than the old open one?",
+    "studentAnswer": "Glass board design opinion?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you think of the new glass-covered notice board design in the main lobby? Is it better than the old open one?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you suggest to a classmate to share your large drawing sheet because they forgot theirs at home?
+  {
+    "modelAnswer": "Would you like to share my large drawing sheet today since we are doing the poster project together?",
+    "studentAnswer": "Would you like to share my large drawing sheet today since we are doing the poster project together?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to share my large drawing sheet today since we are doing the poster project together?",
+    "studentAnswer": "Can we share my drawing paper today since you forgot yours?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to share my large drawing sheet today since we are doing the poster project together?",
+    "studentAnswer": "Let's share this drawing sheet to make our poster project.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to share my large drawing sheet today since we are doing the poster project together?",
+    "studentAnswer": "Use my drawing sheet today since we are drawing a poster.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to share my large drawing sheet today since we are doing the poster project together?",
+    "studentAnswer": "Share drawing sheet for poster?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Would you like to share my large drawing sheet today since we are doing the poster project together?",
+    "studentAnswer": "The drawing sheet is white card paper.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Would you like to share my large drawing sheet today since we are doing the poster project together?",
+    "studentAnswer": "I have colorful wax crayons.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Would you like to share my large drawing sheet today since we are doing the poster project together?",
+    "studentAnswer": "Shall we draw together on my drawing sheet?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to share my large drawing sheet today since we are doing the poster project together?",
+    "studentAnswer": "Share drawing sheet today?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Would you like to share my large drawing sheet today since we are doing the poster project together?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you describe how Gotukola Sambol is made and tastes to a foreign visitor?
+  {
+    "modelAnswer": "Gotukola Sambol is a healthy Sri Lankan salad made with finely shredded pennywort leaves, grated coconut, green chilies, onions, and lime juice.",
+    "studentAnswer": "Gotukola Sambol is a healthy Sri Lankan salad made with finely shredded pennywort leaves, grated coconut, green chilies, onions, and lime juice.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Gotukola Sambol is a healthy Sri Lankan salad made with finely shredded pennywort leaves, grated coconut, green chilies, onions, and lime juice.",
+    "studentAnswer": "Gotukola Sambol is a green salad. It has shredded gotukola leaves, grated coconut, onions, and lime.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Gotukola Sambol is a healthy Sri Lankan salad made with finely shredded pennywort leaves, grated coconut, green chilies, onions, and lime juice.",
+    "studentAnswer": "It is a fresh leaf salad made with pennywort leaves, grated coconut, green chili, and lime juice.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Gotukola Sambol is a healthy Sri Lankan salad made with finely shredded pennywort leaves, grated coconut, green chilies, onions, and lime juice.",
+    "studentAnswer": "Gotukola Sambol is made of pennywort leaves and coconut.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Gotukola Sambol is a healthy Sri Lankan salad made with finely shredded pennywort leaves, grated coconut, green chilies, onions, and lime juice.",
+    "studentAnswer": "I eat Gotukola Sambol with white rice.",
+    "maxMarks": 6,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Gotukola Sambol is a healthy Sri Lankan salad made with finely shredded pennywort leaves, grated coconut, green chilies, onions, and lime juice.",
+    "studentAnswer": "Gotukola is a green leafy vegetable.",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Gotukola Sambol is a healthy Sri Lankan salad made with finely shredded pennywort leaves, grated coconut, green chilies, onions, and lime juice.",
+    "studentAnswer": "It is a fresh local salad made of chopped pennywort leaves and grated coconut.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Gotukola Sambol is a healthy Sri Lankan salad made with finely shredded pennywort leaves, grated coconut, green chilies, onions, and lime juice.",
+    "studentAnswer": "Fresh green leafy coconut salad.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Gotukola Sambol is a healthy Sri Lankan salad made with finely shredded pennywort leaves, grated coconut, green chilies, onions, and lime juice.",
+    "studentAnswer": "Gotukola Sambol is tasty and fresh.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Gotukola Sambol is a healthy Sri Lankan salad made with finely shredded pennywort leaves, grated coconut, green chilies, onions, and lime juice.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you warn a classmate not to lean against the wall because it was painted blue this morning?
+  {
+    "modelAnswer": "Don't lean against that wall! It was painted blue just this morning and the paint is still wet.",
+    "studentAnswer": "Don't lean against that wall! It was painted blue just this morning and the paint is still wet.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't lean against that wall! It was painted blue just this morning and the paint is still wet.",
+    "studentAnswer": "Please don't touch the wall. The blue paint is wet.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't lean against that wall! It was painted blue just this morning and the paint is still wet.",
+    "studentAnswer": "Be careful, the wall has wet blue paint, do not lean there.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't lean against that wall! It was painted blue just this morning and the paint is still wet.",
+    "studentAnswer": "Do not lean, the wall paint is wet.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Don't lean against that wall! It was painted blue just this morning and the paint is still wet.",
+    "studentAnswer": "Wet paint wall, stay away.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Don't lean against that wall! It was painted blue just this morning and the paint is still wet.",
+    "studentAnswer": "The wall is painted blue color.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Don't lean against that wall! It was painted blue just this morning and the paint is still wet.",
+    "studentAnswer": "I have blue paint stains on my shirt.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Don't lean against that wall! It was painted blue just this morning and the paint is still wet.",
+    "studentAnswer": "Watch out, the wall is wet from new blue paint.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't lean against that wall! It was painted blue just this morning and the paint is still wet.",
+    "studentAnswer": "Wet wall paint don't lean.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Don't lean against that wall! It was painted blue just this morning and the paint is still wet.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you ask a classmate how they are preparing for the poem recitation competition?
+  {
+    "modelAnswer": "How are you preparing for the poem recitation competition next week? Have you memorized all the stanzas?",
+    "studentAnswer": "How are you preparing for the poem recitation competition next week? Have you memorized all the stanzas?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "How are you preparing for the poem recitation competition next week? Have you memorized all the stanzas?",
+    "studentAnswer": "What is your preparation for the school poem recitation contest?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "How are you preparing for the poem recitation competition next week? Have you memorized all the stanzas?",
+    "studentAnswer": "How do you practice your poem for the upcoming recitation?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "How are you preparing for the poem recitation competition next week? Have you memorized all the stanzas?",
+    "studentAnswer": "How are you studying your poem for the recitation?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "How are you preparing for the poem recitation competition next week? Have you memorized all the stanzas?",
+    "studentAnswer": "Poem recitation practice details?",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "How are you preparing for the poem recitation competition next week? Have you memorized all the stanzas?",
+    "studentAnswer": "The recitation is held in the library.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "How are you preparing for the poem recitation competition next week? Have you memorized all the stanzas?",
+    "studentAnswer": "I have the printed poem sheets.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "How are you preparing for the poem recitation competition next week? Have you memorized all the stanzas?",
+    "studentAnswer": "What are you doing to practice for the recitation?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "How are you preparing for the poem recitation competition next week? Have you memorized all the stanzas?",
+    "studentAnswer": "Poem recitation practice plans?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "How are you preparing for the poem recitation competition next week? Have you memorized all the stanzas?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you thank the primary teacher who helped you improve your cursive handwriting?
+  {
+    "modelAnswer": "Thank you so much, teacher, for helping me practice my handwriting. Your patience helped me win the cursive writing contest.",
+    "studentAnswer": "Thank you so much, teacher, for helping me practice my handwriting. Your patience helped me win the cursive writing contest.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for helping me practice my handwriting. Your patience helped me win the cursive writing contest.",
+    "studentAnswer": "Thank you teacher for helping me improve my cursive handwriting. I won the competition.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for helping me practice my handwriting. Your patience helped me win the cursive writing contest.",
+    "studentAnswer": "I am very grateful to you teacher for your guidance in cursive handwriting.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for helping me practice my handwriting. Your patience helped me win the cursive writing contest.",
+    "studentAnswer": "Thanks teacher for helping me win the cursive writing prize.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for helping me practice my handwriting. Your patience helped me win the cursive writing contest.",
+    "studentAnswer": "Thank you for the handwriting guidance.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for helping me practice my handwriting. Your patience helped me win the cursive writing contest.",
+    "studentAnswer": "Cursive writing has connected letters.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for helping me practice my handwriting. Your patience helped me win the cursive writing contest.",
+    "studentAnswer": "I use an ink pen for writing.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for helping me practice my handwriting. Your patience helped me win the cursive writing contest.",
+    "studentAnswer": "Thank you teacher, your lessons helped me win the handwriting competition.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for helping me practice my handwriting. Your patience helped me win the cursive writing contest.",
+    "studentAnswer": "Cursive handwriting training thank you.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for helping me practice my handwriting. Your patience helped me win the cursive writing contest.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you apologize to a classmate after accidentally scratching their wooden desk with the metal edge of your lunchbox?
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your wooden desk with my lunchbox edge. I will be more careful next time.",
+    "studentAnswer": "I am really sorry. I accidentally scratched your wooden desk with my lunchbox edge. I will be more careful next time.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your wooden desk with my lunchbox edge. I will be more careful next time.",
+    "studentAnswer": "Sorry, I scratched your wooden desk by mistake with my metal lunchbox. Apologies.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your wooden desk with my lunchbox edge. I will be more careful next time.",
+    "studentAnswer": "I am very sorry for scratching your desk. I didn't do it on purpose.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your wooden desk with my lunchbox edge. I will be more careful next time.",
+    "studentAnswer": "Sorry I scratched your desk with my lunchbox metal edge.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your wooden desk with my lunchbox edge. I will be more careful next time.",
+    "studentAnswer": "Sorry, wooden desk scratch.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your wooden desk with my lunchbox edge. I will be more careful next time.",
+    "studentAnswer": "The wooden desk is brown teak wood.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your wooden desk with my lunchbox edge. I will be more careful next time.",
+    "studentAnswer": "The lunchbox is made of stainless steel.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your wooden desk with my lunchbox edge. I will be more careful next time.",
+    "studentAnswer": "I am sorry for scratching your desk, I will be careful.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your wooden desk with my lunchbox edge. I will be more careful next time.",
+    "studentAnswer": "Sorry desk scratched.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your wooden desk with my lunchbox edge. I will be more careful next time.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

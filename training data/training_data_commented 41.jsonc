@@ -1,0 +1,621 @@
+[
+  // Question 1: Complete the phrase: 'Looking forward to _______ you soon.' (meet / meeting)
+  {
+    "modelAnswer": "meeting",
+    "studentAnswer": "meeting",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "meeting",
+    "studentAnswer": "meet",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "meeting",
+    "studentAnswer": "meets",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "meeting",
+    "studentAnswer": "met",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "meeting",
+    "studentAnswer": "see",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "meeting",
+    "studentAnswer": "seeing",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "meeting",
+    "studentAnswer": "to meet",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "meeting",
+    "studentAnswer": "meating",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "meeting",
+    "studentAnswer": "have met",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "meeting",
+    "studentAnswer": "Meeting",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 2: Complete the sentence: 'She is good _______ playing tennis.' (at / in)
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "at",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "in",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "on",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "with",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "of",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "about",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "for",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "to",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "att",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "at",
+    "studentAnswer": "At",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 3: Complete the sentence: 'I have been living here _______ 2010.' (since / for)
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "since",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "for",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "from",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "until",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "in",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "at",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "on",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "by",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "sinc",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "Since",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 4: Complete the sentence: 'He is the _______ boy in the class.' (tall / tallest)
+  {
+    "modelAnswer": "tallest",
+    "studentAnswer": "tallest",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "tallest",
+    "studentAnswer": "tall",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "tallest",
+    "studentAnswer": "taller",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "tallest",
+    "studentAnswer": "most tall",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "tallest",
+    "studentAnswer": "more tall",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "tallest",
+    "studentAnswer": "highest",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "tallest",
+    "studentAnswer": "high",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "tallest",
+    "studentAnswer": "longest",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "tallest",
+    "studentAnswer": "talest",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "tallest",
+    "studentAnswer": "Tallest",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 5: Complete the sentence: 'Neither John _______ Mary came to the party.' (or / nor)
+  {
+    "modelAnswer": "nor",
+    "studentAnswer": "nor",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "nor",
+    "studentAnswer": "or",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "nor",
+    "studentAnswer": "and",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "nor",
+    "studentAnswer": "but",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "nor",
+    "studentAnswer": "also",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "nor",
+    "studentAnswer": "neither",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "nor",
+    "studentAnswer": "with",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "nor",
+    "studentAnswer": "not",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "nor",
+    "studentAnswer": "so",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "nor",
+    "studentAnswer": "Nor",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 6: Complete the sentence: 'She _______ to the market yesterday.' (go / went)
+  {
+    "modelAnswer": "went",
+    "studentAnswer": "went",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "went",
+    "studentAnswer": "go",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "went",
+    "studentAnswer": "goes",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "went",
+    "studentAnswer": "going",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "went",
+    "studentAnswer": "gone",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "went",
+    "studentAnswer": "walked",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "went",
+    "studentAnswer": "drive",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "went",
+    "studentAnswer": "has gone",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "went",
+    "studentAnswer": "want",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "went",
+    "studentAnswer": "Went",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 7: Complete the sentence: 'I am not used to _______ up so early.' (wake / waking)
+  {
+    "modelAnswer": "waking",
+    "studentAnswer": "waking",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "waking",
+    "studentAnswer": "wake",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "waking",
+    "studentAnswer": "wakes",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "waking",
+    "studentAnswer": "woke",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "waking",
+    "studentAnswer": "get",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "waking",
+    "studentAnswer": "getting",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "waking",
+    "studentAnswer": "to wake",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "waking",
+    "studentAnswer": "waken",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "waking",
+    "studentAnswer": "awake",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "waking",
+    "studentAnswer": "Waking",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 8: Complete the sentence: 'You had better _______ a doctor.' (consult / to consult)
+  {
+    "modelAnswer": "consult",
+    "studentAnswer": "consult",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "consult",
+    "studentAnswer": "to consult",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "consult",
+    "studentAnswer": "consulting",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "consult",
+    "studentAnswer": "consulted",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "consult",
+    "studentAnswer": "see",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "consult",
+    "studentAnswer": "to see",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "consult",
+    "studentAnswer": "visit",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "consult",
+    "studentAnswer": "to visit",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "consult",
+    "studentAnswer": "go",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "consult",
+    "studentAnswer": "Consult",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 9: Complete the sentence: 'If I _______ a bird, I would fly.' (was / were)
+  {
+    "modelAnswer": "were",
+    "studentAnswer": "were",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "were",
+    "studentAnswer": "was",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "were",
+    "studentAnswer": "am",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "were",
+    "studentAnswer": "is",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "were",
+    "studentAnswer": "are",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "were",
+    "studentAnswer": "be",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "were",
+    "studentAnswer": "been",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "were",
+    "studentAnswer": "being",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "were",
+    "studentAnswer": "had been",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "were",
+    "studentAnswer": "Were",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 10: Complete the sentence: 'She enjoys _______ books in her free time.' (read / reading)
+  {
+    "modelAnswer": "reading",
+    "studentAnswer": "reading",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "reading",
+    "studentAnswer": "read",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "reading",
+    "studentAnswer": "reads",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "reading",
+    "studentAnswer": "to read",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "reading",
+    "studentAnswer": "write",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "reading",
+    "studentAnswer": "writing",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "reading",
+    "studentAnswer": "look",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "reading",
+    "studentAnswer": "looking",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "reading",
+    "studentAnswer": "study",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "reading",
+    "studentAnswer": "Reading",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  }
+]

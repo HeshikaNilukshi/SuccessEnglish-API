@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you give directions to a guest trying to find the computer lab from the school main gate?
+  {
+    "modelAnswer": "Go straight from the gate, turn left at the playground, and the computer lab is the second building on your right.",
+    "studentAnswer": "Go straight from the gate, turn left at the playground, and the computer lab is the second building on your right.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Go straight from the gate, turn left at the playground, and the computer lab is the second building on your right.",
+    "studentAnswer": "Walk straight from the main gate, turn left near the playground. The computer lab is the second room on the right.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Go straight from the gate, turn left at the playground, and the computer lab is the second building on your right.",
+    "studentAnswer": "From main gate go straight, then turn left at playground. Computer lab is second building on right.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Go straight from the gate, turn left at the playground, and the computer lab is the second building on your right.",
+    "studentAnswer": "Go straight and turn left at playground. Computer lab is there.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Go straight from the gate, turn left at the playground, and the computer lab is the second building on your right.",
+    "studentAnswer": "Turn left at playground.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Go straight from the gate, turn left at the playground, and the computer lab is the second building on your right.",
+    "studentAnswer": "We have new computers in our lab.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Go straight from the gate, turn left at the playground, and the computer lab is the second building on your right.",
+    "studentAnswer": "I like computer class.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Go straight from the gate, turn left at the playground, and the computer lab is the second building on your right.",
+    "studentAnswer": "Walk straight, turn left, computer lab is there on right side.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Go straight from the gate, turn left at the playground, and the computer lab is the second building on your right.",
+    "studentAnswer": "Go straight and turn left please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Go straight from the gate, turn left at the playground, and the computer lab is the second building on your right.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you ask the teacher to explain a difficult science concept again because you did not understand it?
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please explain that scientific process again? I did not quite understand it.",
+    "studentAnswer": "Excuse me, teacher. Could you please explain that scientific process again? I did not quite understand it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please explain that scientific process again? I did not quite understand it.",
+    "studentAnswer": "Teacher, can you please explain that science lesson again? I did not understand.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please explain that scientific process again? I did not quite understand it.",
+    "studentAnswer": "Excuse me, could you explain that science part again, teacher? I'm not clear.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please explain that scientific process again? I did not quite understand it.",
+    "studentAnswer": "Please explain that lesson again, teacher. I don't understand.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please explain that scientific process again? I did not quite understand it.",
+    "studentAnswer": "Explain again please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please explain that scientific process again? I did not quite understand it.",
+    "studentAnswer": "Science has many interesting lessons.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please explain that scientific process again? I did not quite understand it.",
+    "studentAnswer": "I got low marks for science test.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please explain that scientific process again? I did not quite understand it.",
+    "studentAnswer": "Excuse me teacher, can you show that experiment again? I didn't understand.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please explain that scientific process again? I did not quite understand it.",
+    "studentAnswer": "Explain that process again teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please explain that scientific process again? I did not quite understand it.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you politely decline a sweet offered by a classmate because you have a toothache?
+  {
+    "modelAnswer": "Thank you for offering, but I cannot eat sweets today because I have a toothache.",
+    "studentAnswer": "Thank you for offering, but I cannot eat sweets today because I have a toothache.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you for offering, but I cannot eat sweets today because I have a toothache.",
+    "studentAnswer": "Thanks for the sweet, but I can't eat it today. My tooth is hurting.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you for offering, but I cannot eat sweets today because I have a toothache.",
+    "studentAnswer": "Thank you, but I have a toothache, so I cannot eat sweets.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you for offering, but I cannot eat sweets today because I have a toothache.",
+    "studentAnswer": "I can't eat sweets, I have a toothache. Thanks anyway.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you for offering, but I cannot eat sweets today because I have a toothache.",
+    "studentAnswer": "No thanks, toothache today.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you for offering, but I cannot eat sweets today because I have a toothache.",
+    "studentAnswer": "Sweets are very sweet and tasty.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you for offering, but I cannot eat sweets today because I have a toothache.",
+    "studentAnswer": "I brush my teeth twice a day.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you for offering, but I cannot eat sweets today because I have a toothache.",
+    "studentAnswer": "Thank you, but I have a pain in my tooth, no sweets today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you for offering, but I cannot eat sweets today because I have a toothache.",
+    "studentAnswer": "No sweets please, toothache.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you for offering, but I cannot eat sweets today because I have a toothache.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you express agreement with a classmate's suggestion to decorate the class for the English day?
+  {
+    "modelAnswer": "I completely agree with you. Decorating our classroom will make it look very beautiful and welcoming for the English day.",
+    "studentAnswer": "I completely agree with you. Decorating our classroom will make it look very beautiful and welcoming for the English day.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I completely agree with you. Decorating our classroom will make it look very beautiful and welcoming for the English day.",
+    "studentAnswer": "That is a great idea! I agree we should decorate our class for the English day.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I completely agree with you. Decorating our classroom will make it look very beautiful and welcoming for the English day.",
+    "studentAnswer": "I agree with your suggestion. Decorating will make our class beautiful for the English day.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I completely agree with you. Decorating our classroom will make it look very beautiful and welcoming for the English day.",
+    "studentAnswer": "I agree. Decorating the class is a good idea for English day.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I completely agree with you. Decorating our classroom will make it look very beautiful and welcoming for the English day.",
+    "studentAnswer": "I agree with class decoration.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I completely agree with you. Decorating our classroom will make it look very beautiful and welcoming for the English day.",
+    "studentAnswer": "English day is next month.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I completely agree with you. Decorating our classroom will make it look very beautiful and welcoming for the English day.",
+    "studentAnswer": "I got the first place in English speech.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I completely agree with you. Decorating our classroom will make it look very beautiful and welcoming for the English day.",
+    "studentAnswer": "I agree with your idea to decorate our classroom for the English day.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I completely agree with you. Decorating our classroom will make it look very beautiful and welcoming for the English day.",
+    "studentAnswer": "Good idea, I agree.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I completely agree with you. Decorating our classroom will make it look very beautiful and welcoming for the English day.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you introduce your mother to your class teacher during the parent-teacher meeting?
+  {
+    "modelAnswer": "Teacher, this is my mother. Mother, this is my class teacher, Mr. Perera.",
+    "studentAnswer": "Teacher, this is my mother. Mother, this is my class teacher, Mr. Perera.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, this is my mother. Mother, this is my class teacher, Mr. Perera.",
+    "studentAnswer": "Mr. Perera, this is my mother. Amma, this is my class teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, this is my mother. Mother, this is my class teacher, Mr. Perera.",
+    "studentAnswer": "Teacher, please meet my mother. Mother, this is my class teacher, Mr. Perera.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, this is my mother. Mother, this is my class teacher, Mr. Perera.",
+    "studentAnswer": "This is my mother, teacher. And this is my class teacher, mother.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Teacher, this is my mother. Mother, this is my class teacher, Mr. Perera.",
+    "studentAnswer": "Teacher, my mother.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Teacher, this is my mother. Mother, this is my class teacher, Mr. Perera.",
+    "studentAnswer": "My mother makes tasty rice and curry.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Teacher, this is my mother. Mother, this is my class teacher, Mr. Perera.",
+    "studentAnswer": "Mr. Perera is a good teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Teacher, this is my mother. Mother, this is my class teacher, Mr. Perera.",
+    "studentAnswer": "Amma, this is Mr. Perera, my teacher. Teacher, this is my mother.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, this is my mother. Mother, this is my class teacher, Mr. Perera.",
+    "studentAnswer": "Meet my mother, teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Teacher, this is my mother. Mother, this is my class teacher, Mr. Perera.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you tell the sports coach which event you want to participate in at the inter-house sports meet?
+  {
+    "modelAnswer": "Excuse me, sir. I would like to participate in the high jump event because I have practiced it a lot.",
+    "studentAnswer": "Excuse me, sir. I would like to participate in the high jump event because I have practiced it a lot.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, sir. I would like to participate in the high jump event because I have practiced it a lot.",
+    "studentAnswer": "Sir, I want to take part in high jump. I practiced it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, sir. I would like to participate in the high jump event because I have practiced it a lot.",
+    "studentAnswer": "Excuse me sir, I would like to choose high jump because I have practiced.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, sir. I would like to participate in the high jump event because I have practiced it a lot.",
+    "studentAnswer": "I want to participate in high jump, sir.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, sir. I would like to participate in the high jump event because I have practiced it a lot.",
+    "studentAnswer": "High jump, sir.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Excuse me, sir. I would like to participate in the high jump event because I have practiced it a lot.",
+    "studentAnswer": "The sports meet is next Friday.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, sir. I would like to participate in the high jump event because I have practiced it a lot.",
+    "studentAnswer": "I have new running shoes.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, sir. I would like to participate in the high jump event because I have practiced it a lot.",
+    "studentAnswer": "Sir, I want to do high jump event because I practiced.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, sir. I would like to participate in the high jump event because I have practiced it a lot.",
+    "studentAnswer": "Choose high jump please sir.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, sir. I would like to participate in the high jump event because I have practiced it a lot.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you report a leaking roof in the classroom to the school principal?
+  {
+    "modelAnswer": "Excuse me, sir. I want to report that the roof of our classroom is leaking and water is dripping on our desks.",
+    "studentAnswer": "Excuse me, sir. I want to report that the roof of our classroom is leaking and water is dripping on our desks.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, sir. I want to report that the roof of our classroom is leaking and water is dripping on our desks.",
+    "studentAnswer": "Excuse me sir, our classroom roof is leaking. Water is coming onto the desks.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, sir. I want to report that the roof of our classroom is leaking and water is dripping on our desks.",
+    "studentAnswer": "Sir, water is leaking from the roof of our classroom and dripping on desks.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, sir. I want to report that the roof of our classroom is leaking and water is dripping on our desks.",
+    "studentAnswer": "Classroom roof is leaking, sir. Desks are getting wet.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, sir. I want to report that the roof of our classroom is leaking and water is dripping on our desks.",
+    "studentAnswer": "Roof is leaking in class.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, sir. I want to report that the roof of our classroom is leaking and water is dripping on our desks.",
+    "studentAnswer": "It is raining heavily outside today.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, sir. I want to report that the roof of our classroom is leaking and water is dripping on our desks.",
+    "studentAnswer": "I have an umbrella in my bag.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, sir. I want to report that the roof of our classroom is leaking and water is dripping on our desks.",
+    "studentAnswer": "Sir, our classroom roof is leaking water.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, sir. I want to report that the roof of our classroom is leaking and water is dripping on our desks.",
+    "studentAnswer": "Leaking roof in class, sir.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, sir. I want to report that the roof of our classroom is leaking and water is dripping on our desks.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you ask a classmate who is shivering if they are feeling cold and if they need your sweater?
+  {
+    "modelAnswer": "Are you feeling cold? If you want, you can borrow my sweater.",
+    "studentAnswer": "Are you feeling cold? If you want, you can borrow my sweater.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Are you feeling cold? If you want, you can borrow my sweater.",
+    "studentAnswer": "You are shivering. Do you feel cold? You can take my sweater.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Are you feeling cold? If you want, you can borrow my sweater.",
+    "studentAnswer": "Are you cold? You can use my sweater if you need.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Are you feeling cold? If you want, you can borrow my sweater.",
+    "studentAnswer": "Do you need a sweater? You look cold.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Are you feeling cold? If you want, you can borrow my sweater.",
+    "studentAnswer": "Cold? Take my sweater.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Are you feeling cold? If you want, you can borrow my sweater.",
+    "studentAnswer": "My sweater is blue color.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Are you feeling cold? If you want, you can borrow my sweater.",
+    "studentAnswer": "It is a rainy day.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Are you feeling cold? If you want, you can borrow my sweater.",
+    "studentAnswer": "Are you feeling cold? Borrow my sweater.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Are you feeling cold? If you want, you can borrow my sweater.",
+    "studentAnswer": "Need sweater today?",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Are you feeling cold? If you want, you can borrow my sweater.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you explain to a classmate how to draw a clean margin in their notebook?
+  {
+    "modelAnswer": "Place your ruler one centimeter away from the edge of the page, hold it firmly, and draw a straight line with your pencil.",
+    "studentAnswer": "Place your ruler one centimeter away from the edge of the page, hold it firmly, and draw a straight line with your pencil.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Place your ruler one centimeter away from the edge of the page, hold it firmly, and draw a straight line with your pencil.",
+    "studentAnswer": "Keep the ruler one cm from the page edge, hold it tight, and draw a line with your pencil.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Place your ruler one centimeter away from the edge of the page, hold it firmly, and draw a straight line with your pencil.",
+    "studentAnswer": "Place ruler near the edge, hold it, and draw a straight line with pencil.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Place your ruler one centimeter away from the edge of the page, hold it firmly, and draw a straight line with your pencil.",
+    "studentAnswer": "Draw a line using ruler and pencil near page edge.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Place your ruler one centimeter away from the edge of the page, hold it firmly, and draw a straight line with your pencil.",
+    "studentAnswer": "Draw margin with ruler.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Place your ruler one centimeter away from the edge of the page, hold it firmly, and draw a straight line with your pencil.",
+    "studentAnswer": "Rulers are made of wood or plastic.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Place your ruler one centimeter away from the edge of the page, hold it firmly, and draw a straight line with your pencil.",
+    "studentAnswer": "I have many pages in my book.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Place your ruler one centimeter away from the edge of the page, hold it firmly, and draw a straight line with your pencil.",
+    "studentAnswer": "Hold your ruler near the edge and draw a line.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Place your ruler one centimeter away from the edge of the page, hold it firmly, and draw a straight line with your pencil.",
+    "studentAnswer": "Draw straight line with ruler.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Place your ruler one centimeter away from the edge of the page, hold it firmly, and draw a straight line with your pencil.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you offer to carry a heavy bucket of water for a teacher cleaning the laboratory?
+  {
+    "modelAnswer": "Excuse me, teacher. That bucket looks very heavy. May I help you carry it to the lab?",
+    "studentAnswer": "Excuse me, teacher. That bucket looks very heavy. May I help you carry it to the lab?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. That bucket looks very heavy. May I help you carry it to the lab?",
+    "studentAnswer": "Excuse me teacher, can I help you carry that heavy water bucket?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. That bucket looks very heavy. May I help you carry it to the lab?",
+    "studentAnswer": "Teacher, let me help you carry that heavy bucket to the laboratory.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. That bucket looks very heavy. May I help you carry it to the lab?",
+    "studentAnswer": "Can I carry that heavy bucket for you, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. That bucket looks very heavy. May I help you carry it to the lab?",
+    "studentAnswer": "Help to carry bucket, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. That bucket looks very heavy. May I help you carry it to the lab?",
+    "studentAnswer": "The laboratory has many chemicals.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. That bucket looks very heavy. May I help you carry it to the lab?",
+    "studentAnswer": "Water is clean.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. That bucket looks very heavy. May I help you carry it to the lab?",
+    "studentAnswer": "Teacher, that bucket is heavy, can I carry it?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. That bucket looks very heavy. May I help you carry it to the lab?",
+    "studentAnswer": "Carry heavy bucket please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. That bucket looks very heavy. May I help you carry it to the lab?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

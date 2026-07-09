@@ -1,0 +1,621 @@
+[
+  // Question 1: Complete the sentence: 'She is married _______ a doctor.' (to / with)
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "to",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "with",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "at",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "in",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "for",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "by",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "on",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "about",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "too",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "To",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 2: Complete the sentence: 'I have not seen him _______ last week.' (since / for)
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "since",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "for",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "from",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "in",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "during",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "at",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "on",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "by",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "sinc",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "since",
+    "studentAnswer": "Since",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 3: Complete the sentence: 'He is looking forward _______ meeting you.' (to / for)
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "to",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "for",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "at",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "in",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "by",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "with",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "from",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "too",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "of",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "To",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 4: Complete the sentence: 'This is the book _______ I bought yesterday.' (which / who)
+  {
+    "modelAnswer": "which",
+    "studentAnswer": "which",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "which",
+    "studentAnswer": "who",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "which",
+    "studentAnswer": "whom",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "which",
+    "studentAnswer": "whose",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "which",
+    "studentAnswer": "what",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "which",
+    "studentAnswer": "where",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "which",
+    "studentAnswer": "when",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "which",
+    "studentAnswer": "how",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "which",
+    "studentAnswer": "wich",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "which",
+    "studentAnswer": "Which",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 5: Complete the sentence: 'He is the man _______ helped me yesterday.' (who / which)
+  {
+    "modelAnswer": "who",
+    "studentAnswer": "who",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "who",
+    "studentAnswer": "which",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "who",
+    "studentAnswer": "whom",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "who",
+    "studentAnswer": "whose",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "who",
+    "studentAnswer": "what",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "who",
+    "studentAnswer": "where",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "who",
+    "studentAnswer": "when",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "who",
+    "studentAnswer": "how",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "who",
+    "studentAnswer": "hoo",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "who",
+    "studentAnswer": "Who",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 6: Complete the sentence: 'If it _______ tomorrow, we will stay at home.' (rains / rain)
+  {
+    "modelAnswer": "rains",
+    "studentAnswer": "rains",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "rains",
+    "studentAnswer": "rain",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "rains",
+    "studentAnswer": "raining",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "rains",
+    "studentAnswer": "rained",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "rains",
+    "studentAnswer": "will rain",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "rains",
+    "studentAnswer": "to rain",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "rains",
+    "studentAnswer": "fall",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "rains",
+    "studentAnswer": "fell",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "rains",
+    "studentAnswer": "ranes",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "rains",
+    "studentAnswer": "Rains",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 7: Complete the sentence: 'She prefers tea _______ coffee.' (to / than)
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "to",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "than",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "then",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "for",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "over",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "from",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "rather",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "with",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "too",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "to",
+    "studentAnswer": "To",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 8: Complete the sentence: 'I am _______ tired to study tonight.' (too / enough)
+  {
+    "modelAnswer": "too",
+    "studentAnswer": "too",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "too",
+    "studentAnswer": "enough",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "too",
+    "studentAnswer": "very",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "too",
+    "studentAnswer": "so",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "too",
+    "studentAnswer": "much",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "too",
+    "studentAnswer": "more",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "too",
+    "studentAnswer": "to",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "too",
+    "studentAnswer": "two",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "too",
+    "studentAnswer": "toomuch",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "too",
+    "studentAnswer": "Too",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 9: Complete the sentence: 'He does not have _______ friends in this city.' (many / much)
+  {
+    "modelAnswer": "many",
+    "studentAnswer": "many",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "many",
+    "studentAnswer": "much",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "many",
+    "studentAnswer": "lot",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "many",
+    "studentAnswer": "some",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "many",
+    "studentAnswer": "few",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "many",
+    "studentAnswer": "any",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "many",
+    "studentAnswer": "several",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "many",
+    "studentAnswer": "more",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "many",
+    "studentAnswer": "meny",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "many",
+    "studentAnswer": "Many",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+
+  // Question 10: Complete the sentence: 'The house was built _______ brick.' (with / of)
+  {
+    "modelAnswer": "of",
+    "studentAnswer": "of",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  },
+  {
+    "modelAnswer": "of",
+    "studentAnswer": "with",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "of",
+    "studentAnswer": "by",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "of",
+    "studentAnswer": "from",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "of",
+    "studentAnswer": "in",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "of",
+    "studentAnswer": "to",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "of",
+    "studentAnswer": "at",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "of",
+    "studentAnswer": "off",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "of",
+    "studentAnswer": "oof",
+    "maxMarks": 10,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "of",
+    "studentAnswer": "Of",
+    "maxMarks": 10,
+    "teacherMarks": 10
+  }
+]

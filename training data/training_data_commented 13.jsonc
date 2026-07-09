@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you advise a classmate to wash their hands before eating lunch?
+  {
+    "modelAnswer": "You should wash your hands with soap at the tap before eating your lunch to avoid getting sick.",
+    "studentAnswer": "You should wash your hands with soap at the tap before eating your lunch to avoid getting sick.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "You should wash your hands with soap at the tap before eating your lunch to avoid getting sick.",
+    "studentAnswer": "Please wash your hands with soap before you eat your lunch. It is healthy.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "You should wash your hands with soap at the tap before eating your lunch to avoid getting sick.",
+    "studentAnswer": "Wash your hands with soap before eating lunch to stay clean.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "You should wash your hands with soap at the tap before eating your lunch to avoid getting sick.",
+    "studentAnswer": "Go and wash your hands before eating lunch.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "You should wash your hands with soap at the tap before eating your lunch to avoid getting sick.",
+    "studentAnswer": "Wash hands with soap please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "You should wash your hands with soap at the tap before eating your lunch to avoid getting sick.",
+    "studentAnswer": "I have a clean lunchbox.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "You should wash your hands with soap at the tap before eating your lunch to avoid getting sick.",
+    "studentAnswer": "Soap is green color.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "You should wash your hands with soap at the tap before eating your lunch to avoid getting sick.",
+    "studentAnswer": "You must wash your hands before eating lunch, otherwise you will get sick.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "You should wash your hands with soap at the tap before eating your lunch to avoid getting sick.",
+    "studentAnswer": "Wash hands before eating lunch.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "You should wash your hands with soap at the tap before eating your lunch to avoid getting sick.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you ask the librarian how many books you are allowed to borrow at one time?
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many books I can borrow from the library at one time?",
+    "studentAnswer": "Excuse me, teacher. Could you please tell me how many books I can borrow from the library at one time?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many books I can borrow from the library at one time?",
+    "studentAnswer": "Excuse me, how many books am I allowed to borrow at once from the library?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many books I can borrow from the library at one time?",
+    "studentAnswer": "Teacher, can you tell me the limit of books I can borrow from library?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many books I can borrow from the library at one time?",
+    "studentAnswer": "How many books can I take from library, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many books I can borrow from the library at one time?",
+    "studentAnswer": "How many books to borrow?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many books I can borrow from the library at one time?",
+    "studentAnswer": "I like reading storybooks.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many books I can borrow from the library at one time?",
+    "studentAnswer": "The library is closed on Sundays.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many books I can borrow from the library at one time?",
+    "studentAnswer": "Excuse me teacher, what is the maximum books I can borrow?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many books I can borrow from the library at one time?",
+    "studentAnswer": "How many books borrow limit?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many books I can borrow from the library at one time?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you congratulate a classmate who won first place in the school English speech competition?
+  {
+    "modelAnswer": "Congratulations on winning the speech competition! Your speech was very inspiring and well delivered.",
+    "studentAnswer": "Congratulations on winning the speech competition! Your speech was very inspiring and well delivered.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on winning the speech competition! Your speech was very inspiring and well delivered.",
+    "studentAnswer": "Congrats on winning first place in English speech! You spoke very well.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on winning the speech competition! Your speech was very inspiring and well delivered.",
+    "studentAnswer": "Congratulations! Your English speech was really excellent today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on winning the speech competition! Your speech was very inspiring and well delivered.",
+    "studentAnswer": "Congratulations for the English speech competition win.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Congratulations on winning the speech competition! Your speech was very inspiring and well delivered.",
+    "studentAnswer": "Congratulations on speech win.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Congratulations on winning the speech competition! Your speech was very inspiring and well delivered.",
+    "studentAnswer": "English day is next Friday.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Congratulations on winning the speech competition! Your speech was very inspiring and well delivered.",
+    "studentAnswer": "I have to read a loud speech.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Congratulations on winning the speech competition! Your speech was very inspiring and well delivered.",
+    "studentAnswer": "Congratulations, you spoke so beautifully in the speech competition.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on winning the speech competition! Your speech was very inspiring and well delivered.",
+    "studentAnswer": "Good speech and congrats.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Congratulations on winning the speech competition! Your speech was very inspiring and well delivered.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you ask a friend what they are planning to do this Sunday morning?
+  {
+    "modelAnswer": "What are you planning to do this Sunday morning? Would you like to go to the park?",
+    "studentAnswer": "What are you planning to do this Sunday morning? Would you like to go to the park?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What are you planning to do this Sunday morning? Would you like to go to the park?",
+    "studentAnswer": "Do you have any plans for this Sunday morning? Shall we go to the park?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What are you planning to do this Sunday morning? Would you like to go to the park?",
+    "studentAnswer": "What is your plan for Sunday morning? Do you want to go to the park?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What are you planning to do this Sunday morning? Would you like to go to the park?",
+    "studentAnswer": "What are you doing this Sunday morning?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "What are you planning to do this Sunday morning? Would you like to go to the park?",
+    "studentAnswer": "Any plans for Sunday morning?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What are you planning to do this Sunday morning? Would you like to go to the park?",
+    "studentAnswer": "Sunday is a holiday for school.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What are you planning to do this Sunday morning? Would you like to go to the park?",
+    "studentAnswer": "The park has many swings.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What are you planning to do this Sunday morning? Would you like to go to the park?",
+    "studentAnswer": "What are you doing on Sunday morning? Shall we go to the park?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What are you planning to do this Sunday morning? Would you like to go to the park?",
+    "studentAnswer": "Going park Sunday morning?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What are you planning to do this Sunday morning? Would you like to go to the park?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you suggest to a classmate that you both clean the blackboard before the next teacher arrives?
+  {
+    "modelAnswer": "Shall we clean the blackboard before the English teacher arrives for the next lesson?",
+    "studentAnswer": "Shall we clean the blackboard before the English teacher arrives for the next lesson?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we clean the blackboard before the English teacher arrives for the next lesson?",
+    "studentAnswer": "Let's clean the blackboard before the next teacher comes to class.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we clean the blackboard before the English teacher arrives for the next lesson?",
+    "studentAnswer": "Can we clean the blackboard before the next teacher arrives?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we clean the blackboard before the English teacher arrives for the next lesson?",
+    "studentAnswer": "We should clean the blackboard now before the teacher comes.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we clean the blackboard before the English teacher arrives for the next lesson?",
+    "studentAnswer": "Clean the blackboard before teacher comes.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall we clean the blackboard before the English teacher arrives for the next lesson?",
+    "studentAnswer": "The duster is on the table.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall we clean the blackboard before the English teacher arrives for the next lesson?",
+    "studentAnswer": "I have white chalk pieces.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall we clean the blackboard before the English teacher arrives for the next lesson?",
+    "studentAnswer": "Shall we wipe the blackboard before the next lesson starts?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we clean the blackboard before the English teacher arrives for the next lesson?",
+    "studentAnswer": "Clean blackboard please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Shall we clean the blackboard before the English teacher arrives for the next lesson?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you tell a friend why you prefer playing football instead of video games?
+  {
+    "modelAnswer": "I prefer playing football because it is a good physical exercise and I like playing with my friends outdoors.",
+    "studentAnswer": "I prefer playing football because it is a good physical exercise and I like playing with my friends outdoors.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I prefer playing football because it is a good physical exercise and I like playing with my friends outdoors.",
+    "studentAnswer": "I like football more than video games because it's good exercise and we can play outside.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I prefer playing football because it is a good physical exercise and I like playing with my friends outdoors.",
+    "studentAnswer": "I prefer football because we get exercise and play together outdoors.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I prefer playing football because it is a good physical exercise and I like playing with my friends outdoors.",
+    "studentAnswer": "I like playing football outdoors instead of playing video games.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I prefer playing football because it is a good physical exercise and I like playing with my friends outdoors.",
+    "studentAnswer": "I like football because of exercise.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I prefer playing football because it is a good physical exercise and I like playing with my friends outdoors.",
+    "studentAnswer": "Video games are played on mobile phones.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I prefer playing football because it is a good physical exercise and I like playing with my friends outdoors.",
+    "studentAnswer": "Football is black and white.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I prefer playing football because it is a good physical exercise and I like playing with my friends outdoors.",
+    "studentAnswer": "I prefer playing football outdoors with my friends.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I prefer playing football because it is a good physical exercise and I like playing with my friends outdoors.",
+    "studentAnswer": "Football is better than video games.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I prefer playing football because it is a good physical exercise and I like playing with my friends outdoors.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you ask a prefect for directions to the school sick room because you are feeling unwell?
+  {
+    "modelAnswer": "Excuse me, I am feeling very unwell. Could you please direct me to the school sick room?",
+    "studentAnswer": "Excuse me, I am feeling very unwell. Could you please direct me to the school sick room?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I am feeling very unwell. Could you please direct me to the school sick room?",
+    "studentAnswer": "Excuse me, I feel sick. Can you show me the way to the sick room?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I am feeling very unwell. Could you please direct me to the school sick room?",
+    "studentAnswer": "I am feeling unwell. Could you please tell me where the sick room is?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I am feeling very unwell. Could you please direct me to the school sick room?",
+    "studentAnswer": "I am sick. Where is the sick room, prefect?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, I am feeling very unwell. Could you please direct me to the school sick room?",
+    "studentAnswer": "Show sick room, I am unwell.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, I am feeling very unwell. Could you please direct me to the school sick room?",
+    "studentAnswer": "The sick room has a bed and medicine.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, I am feeling very unwell. Could you please direct me to the school sick room?",
+    "studentAnswer": "Prefects wear blue ties.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, I am feeling very unwell. Could you please direct me to the school sick room?",
+    "studentAnswer": "Excuse me, where is the school sick room? I feel sick.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I am feeling very unwell. Could you please direct me to the school sick room?",
+    "studentAnswer": "Directions to sick room please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, I am feeling very unwell. Could you please direct me to the school sick room?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you ask a teacher politely to repeat their question because you did not hear it clearly?
+  {
+    "modelAnswer": "I am sorry, teacher. I did not hear the question clearly. Could you please repeat it?",
+    "studentAnswer": "I am sorry, teacher. I did not hear the question clearly. Could you please repeat it?",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "I am sorry, teacher. I did not hear the question clearly. Could you please repeat it?",
+    "studentAnswer": "Excuse me teacher, I didn't hear you clearly. Can you please repeat the question?",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "I am sorry, teacher. I did not hear the question clearly. Could you please repeat it?",
+    "studentAnswer": "Sorry teacher, could you please repeat that question? I did not hear clearly.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "I am sorry, teacher. I did not hear the question clearly. Could you please repeat it?",
+    "studentAnswer": "Pardon teacher, please repeat the question.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am sorry, teacher. I did not hear the question clearly. Could you please repeat it?",
+    "studentAnswer": "Repeat the question, teacher.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am sorry, teacher. I did not hear the question clearly. Could you please repeat it?",
+    "studentAnswer": "Your voice is very sweet.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am sorry, teacher. I did not hear the question clearly. Could you please repeat it?",
+    "studentAnswer": "The classroom has many benches.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am sorry, teacher. I did not hear the question clearly. Could you please repeat it?",
+    "studentAnswer": "Sorry teacher, can you repeat the question please?",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "I am sorry, teacher. I did not hear the question clearly. Could you please repeat it?",
+    "studentAnswer": "Please repeat, teacher.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am sorry, teacher. I did not hear the question clearly. Could you please repeat it?",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you invite a classmate to join the classroom cricket team for the inter-class match?
+  {
+    "modelAnswer": "We are organizing a cricket team for the inter-class match. Would you like to join our team?",
+    "studentAnswer": "We are organizing a cricket team for the inter-class match. Would you like to join our team?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "We are organizing a cricket team for the inter-class match. Would you like to join our team?",
+    "studentAnswer": "Would you like to join our classroom cricket team for the inter-class match?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "We are organizing a cricket team for the inter-class match. Would you like to join our team?",
+    "studentAnswer": "We need players for the inter-class cricket match. Do you want to join our team?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "We are organizing a cricket team for the inter-class match. Would you like to join our team?",
+    "studentAnswer": "Join our cricket team for the inter-class match next week.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "We are organizing a cricket team for the inter-class match. Would you like to join our team?",
+    "studentAnswer": "Do you want to join our cricket team?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "We are organizing a cricket team for the inter-class match. Would you like to join our team?",
+    "studentAnswer": "Cricket is played with eleven players.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "We are organizing a cricket team for the inter-class match. Would you like to join our team?",
+    "studentAnswer": "I have a leather cricket ball.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "We are organizing a cricket team for the inter-class match. Would you like to join our team?",
+    "studentAnswer": "Would you like to play cricket in our team for the inter-class match?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "We are organizing a cricket team for the inter-class match. Would you like to join our team?",
+    "studentAnswer": "Join our cricket team please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "We are organizing a cricket team for the inter-class match. Would you like to join our team?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you apologize to a classmate after accidentally spilling water on their drawing book?
+  {
+    "modelAnswer": "I am so sorry for accidentally spilling water on your drawing book. Let me help you dry it with my handkerchief.",
+    "studentAnswer": "I am so sorry for accidentally spilling water on your drawing book. Let me help you dry it with my handkerchief.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally spilling water on your drawing book. Let me help you dry it with my handkerchief.",
+    "studentAnswer": "Sorry I spilled water on your drawing book by accident. I will dry it with my handkerchief.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally spilling water on your drawing book. Let me help you dry it with my handkerchief.",
+    "studentAnswer": "I am very sorry for spilling water on your drawing book. Let me wipe it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally spilling water on your drawing book. Let me help you dry it with my handkerchief.",
+    "studentAnswer": "Sorry I spilled water on your drawing book. I will buy a new one for you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally spilling water on your drawing book. Let me help you dry it with my handkerchief.",
+    "studentAnswer": "Sorry about spilling water on book.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally spilling water on your drawing book. Let me help you dry it with my handkerchief.",
+    "studentAnswer": "Drawing is a very creative subject.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally spilling water on your drawing book. Let me help you dry it with my handkerchief.",
+    "studentAnswer": "I drink water from my plastic bottle.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally spilling water on your drawing book. Let me help you dry it with my handkerchief.",
+    "studentAnswer": "I am sorry for spilling water, let me help you clean it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally spilling water on your drawing book. Let me help you dry it with my handkerchief.",
+    "studentAnswer": "Sorry I wet your drawing book.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally spilling water on your drawing book. Let me help you dry it with my handkerchief.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

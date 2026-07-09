@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a senior student for directions to the main gate from the school playground?
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the main gate from the playground?",
+    "studentAnswer": "Excuse me, could you please tell me how to get to the main gate from the playground?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the main gate from the playground?",
+    "studentAnswer": "Excuse me, can you show me the way to the main gate from the playground?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the main gate from the playground?",
+    "studentAnswer": "Senior, where is the main gate from the playground?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the main gate from the playground?",
+    "studentAnswer": "Which way is the main gate from the playground?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the main gate from the playground?",
+    "studentAnswer": "Main gate way from playground please?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the main gate from the playground?",
+    "studentAnswer": "The playground has green grass.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the main gate from the playground?",
+    "studentAnswer": "I want to go home now.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the main gate from the playground?",
+    "studentAnswer": "Excuse me, can you tell me the directions to the main gate from here?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the main gate from the playground?",
+    "studentAnswer": "Directions to main gate from playground?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the main gate from the playground?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you ask a classmate sitting next to you what time the school sports meet starts tomorrow?
+  {
+    "modelAnswer": "Do you know what time the school sports meet starts tomorrow?",
+    "studentAnswer": "Do you know what time the school sports meet starts tomorrow?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what time the school sports meet starts tomorrow?",
+    "studentAnswer": "What time is the sports meet starting tomorrow?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what time the school sports meet starts tomorrow?",
+    "studentAnswer": "Can you tell me when the sports meet starts tomorrow?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what time the school sports meet starts tomorrow?",
+    "studentAnswer": "What is the starting time of the sports meet tomorrow?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what time the school sports meet starts tomorrow?",
+    "studentAnswer": "Sports meet starting time tomorrow?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you know what time the school sports meet starts tomorrow?",
+    "studentAnswer": "Sports meet has running events.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you know what time the school sports meet starts tomorrow?",
+    "studentAnswer": "I am in the green house.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you know what time the school sports meet starts tomorrow?",
+    "studentAnswer": "Do you know when the sports meet starts?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what time the school sports meet starts tomorrow?",
+    "studentAnswer": "Sports meet time tomorrow?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you know what time the school sports meet starts tomorrow?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you offer to arrange the teacher's chair before the lesson starts?
+  {
+    "modelAnswer": "Shall I help organize the teacher's chair before the lesson starts?",
+    "studentAnswer": "Shall I help organize the teacher's chair before the lesson starts?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall I help organize the teacher's chair before the lesson starts?",
+    "studentAnswer": "Can I arrange the teacher's chair before the class starts?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall I help organize the teacher's chair before the lesson starts?",
+    "studentAnswer": "Teacher, let me arrange your chair for the class.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall I help organize the teacher's chair before the lesson starts?",
+    "studentAnswer": "I will arrange the teacher's chair now.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall I help organize the teacher's chair before the lesson starts?",
+    "studentAnswer": "Arrange teacher's chair please?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall I help organize the teacher's chair before the lesson starts?",
+    "studentAnswer": "The chair is made of brown wood.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall I help organize the teacher's chair before the lesson starts?",
+    "studentAnswer": "I have a blue pen on my table.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall I help organize the teacher's chair before the lesson starts?",
+    "studentAnswer": "Shall I arrange the teacher's chair before the class starts?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall I help organize the teacher's chair before the lesson starts?",
+    "studentAnswer": "Organize teacher's chair please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Shall I help organize the teacher's chair before the lesson starts?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you ask a friend for their opinion on the new egg roti sold at the school canteen?
+  {
+    "modelAnswer": "What do you think of the new egg roti at the canteen? Is it tasty?",
+    "studentAnswer": "What do you think of the new egg roti at the canteen? Is it tasty?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new egg roti at the canteen? Is it tasty?",
+    "studentAnswer": "How is the new egg roti at the canteen? Do you like it?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new egg roti at the canteen? Is it tasty?",
+    "studentAnswer": "What is your opinion on the egg roti in the canteen? Are they good?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new egg roti at the canteen? Is it tasty?",
+    "studentAnswer": "Do you like the new canteen egg roti?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "What do you think of the new egg roti at the canteen? Is it tasty?",
+    "studentAnswer": "Egg roti taste, good or bad?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you think of the new egg roti at the canteen? Is it tasty?",
+    "studentAnswer": "The canteen has many items to buy.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you think of the new egg roti at the canteen? Is it tasty?",
+    "studentAnswer": "Egg is a protein source.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you think of the new egg roti at the canteen? Is it tasty?",
+    "studentAnswer": "Do you think the new egg roti is delicious?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new egg roti at the canteen? Is it tasty?",
+    "studentAnswer": "Canteen egg roti opinion?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you think of the new egg roti at the canteen? Is it tasty?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you suggest to a classmate to share their math textbook because you forgot yours today?
+  {
+    "modelAnswer": "Could we please share your math textbook today? I forgot to bring mine to school.",
+    "studentAnswer": "Could we please share your math textbook today? I forgot to bring mine to school.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your math textbook today? I forgot to bring mine to school.",
+    "studentAnswer": "Can I share your math textbook today because I forgot mine?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your math textbook today? I forgot to bring mine to school.",
+    "studentAnswer": "Can we share this math textbook today? I forgot mine at home.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your math textbook today? I forgot to bring mine to school.",
+    "studentAnswer": "Please share your math textbook with me today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your math textbook today? I forgot to bring mine to school.",
+    "studentAnswer": "Share math textbook today please, forgot mine.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could we please share your math textbook today? I forgot to bring mine to school.",
+    "studentAnswer": "Math is a very useful subject.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could we please share your math textbook today? I forgot to bring mine to school.",
+    "studentAnswer": "The textbook has three hundred pages.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could we please share your math textbook today? I forgot to bring mine to school.",
+    "studentAnswer": "Can we share the math textbook today?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could we please share your math textbook today? I forgot to bring mine to school.",
+    "studentAnswer": "Share textbook, forgot mine.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Could we please share your math textbook today? I forgot to bring mine to school.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you describe String Hoppers and how they are eaten to a foreign visitor?
+  {
+    "modelAnswer": "String hoppers are steamed nests of rice flour noodles, typically eaten with coconut sambol and potato curry.",
+    "studentAnswer": "String hoppers are steamed nests of rice flour noodles, typically eaten with coconut sambol and potato curry.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "String hoppers are steamed nests of rice flour noodles, typically eaten with coconut sambol and potato curry.",
+    "studentAnswer": "It is a Sri Lankan breakfast. They are steamed noodles eaten with pol sambola and curry.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "String hoppers are steamed nests of rice flour noodles, typically eaten with coconut sambol and potato curry.",
+    "studentAnswer": "String hoppers are noodle nests. We eat them with coconut sambol and potato curry.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "String hoppers are steamed nests of rice flour noodles, typically eaten with coconut sambol and potato curry.",
+    "studentAnswer": "String hoppers are noodles with curry.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "String hoppers are steamed nests of rice flour noodles, typically eaten with coconut sambol and potato curry.",
+    "studentAnswer": "I eat string hoppers for breakfast.",
+    "maxMarks": 6,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "String hoppers are steamed nests of rice flour noodles, typically eaten with coconut sambol and potato curry.",
+    "studentAnswer": "String hoppers are made using a mold.",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "String hoppers are steamed nests of rice flour noodles, typically eaten with coconut sambol and potato curry.",
+    "studentAnswer": "It is a steamed noodles food eaten with dhal curry and coconut sambol.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "String hoppers are steamed nests of rice flour noodles, typically eaten with coconut sambol and potato curry.",
+    "studentAnswer": "Noodle nests eaten with pol sambol.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "String hoppers are steamed nests of rice flour noodles, typically eaten with coconut sambol and potato curry.",
+    "studentAnswer": "String hoppers are tasty.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "String hoppers are steamed nests of rice flour noodles, typically eaten with coconut sambol and potato curry.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you warn a classmate to duck their head because there is a low mango tree branch ahead on the path?
+  {
+    "modelAnswer": "Duck your head! There is a very low mango tree branch just ahead of you on the path.",
+    "studentAnswer": "Duck your head! There is a very low mango tree branch just ahead of you on the path.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Duck your head! There is a very low mango tree branch just ahead of you on the path.",
+    "studentAnswer": "Watch out, bend down! There is a low branch ahead on the path.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Duck your head! There is a very low mango tree branch just ahead of you on the path.",
+    "studentAnswer": "Duck! There is a low mango tree branch in front of you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Duck your head! There is a very low mango tree branch just ahead of you on the path.",
+    "studentAnswer": "Be careful, low mango branch ahead on the path.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Duck your head! There is a very low mango tree branch just ahead of you on the path.",
+    "studentAnswer": "Duck head, mango branch ahead.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Duck your head! There is a very low mango tree branch just ahead of you on the path.",
+    "studentAnswer": "The mango tree has green mangoes.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Duck your head! There is a very low mango tree branch just ahead of you on the path.",
+    "studentAnswer": "I am walking on the playground path.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Duck your head! There is a very low mango tree branch just ahead of you on the path.",
+    "studentAnswer": "Watch out for the low branch in front of you on the path.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Duck your head! There is a very low mango tree branch just ahead of you on the path.",
+    "studentAnswer": "Low branch ahead, duck.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Duck your head! There is a very low mango tree branch just ahead of you on the path.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you ask a classmate what hobby they want to start learning during the school holidays and why?
+  {
+    "modelAnswer": "What new hobby are you planning to learn during the upcoming school holidays? Why did you choose that?",
+    "studentAnswer": "What new hobby are you planning to learn during the upcoming school holidays? Why did you choose that?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What new hobby are you planning to learn during the upcoming school holidays? Why did you choose that?",
+    "studentAnswer": "Which hobby do you want to learn in school holidays? What is the reason?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What new hobby are you planning to learn during the upcoming school holidays? Why did you choose that?",
+    "studentAnswer": "What hobby do you want to start during the vacation and why?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What new hobby are you planning to learn during the upcoming school holidays? Why did you choose that?",
+    "studentAnswer": "What hobby do you want to learn in the school holidays?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "What new hobby are you planning to learn during the upcoming school holidays? Why did you choose that?",
+    "studentAnswer": "Hobby to learn and why?",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "What new hobby are you planning to learn during the upcoming school holidays? Why did you choose that?",
+    "studentAnswer": "I want to learn playing guitar.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What new hobby are you planning to learn during the upcoming school holidays? Why did you choose that?",
+    "studentAnswer": "Holidays are very long.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What new hobby are you planning to learn during the upcoming school holidays? Why did you choose that?",
+    "studentAnswer": "What hobby do you want to start during the upcoming school holidays?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What new hobby are you planning to learn during the upcoming school holidays? Why did you choose that?",
+    "studentAnswer": "Hobby selection holidays?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What new hobby are you planning to learn during the upcoming school holidays? Why did you choose that?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you thank the sports teacher who selected you to be the cricket team captain for the class match?
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me as the cricket team captain. I will do my best to lead our team to victory.",
+    "studentAnswer": "Thank you so much, teacher, for choosing me as the cricket team captain. I will do my best to lead our team to victory.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me as the cricket team captain. I will do my best to lead our team to victory.",
+    "studentAnswer": "Thank you teacher for making me cricket team captain. I will try my best to win.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me as the cricket team captain. I will do my best to lead our team to victory.",
+    "studentAnswer": "I am very grateful to you teacher for choosing me as the captain for the class match.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me as the cricket team captain. I will do my best to lead our team to victory.",
+    "studentAnswer": "Thanks teacher for selection to cricket captain.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me as the cricket team captain. I will do my best to lead our team to victory.",
+    "studentAnswer": "Thank you for the captain post.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me as the cricket team captain. I will do my best to lead our team to victory.",
+    "studentAnswer": "The cricket team has eleven players.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me as the cricket team captain. I will do my best to lead our team to victory.",
+    "studentAnswer": "I have a leather cricket ball.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me as the cricket team captain. I will do my best to lead our team to victory.",
+    "studentAnswer": "Thank you teacher, I will do my best as cricket captain.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me as the cricket team captain. I will do my best to lead our team to victory.",
+    "studentAnswer": "Cricket captain selection thank you.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me as the cricket team captain. I will do my best to lead our team to victory.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you apologize to a classmate after accidentally knocking their pencil off the desk?
+  {
+    "modelAnswer": "I am really sorry. I accidentally knocked your pencil off the desk. Let me pick it up for you.",
+    "studentAnswer": "I am really sorry. I accidentally knocked your pencil off the desk. Let me pick it up for you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally knocked your pencil off the desk. Let me pick it up for you.",
+    "studentAnswer": "Sorry, I knocked your pencil off the desk by mistake. Let me pick it up.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally knocked your pencil off the desk. Let me pick it up for you.",
+    "studentAnswer": "I am very sorry for dropping your pencil. Let me pick it up.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally knocked your pencil off the desk. Let me pick it up for you.",
+    "studentAnswer": "Sorry I knocked your pencil down from the desk.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally knocked your pencil off the desk. Let me pick it up for you.",
+    "studentAnswer": "Sorry, pencil drop.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally knocked your pencil off the desk. Let me pick it up for you.",
+    "studentAnswer": "The pencil is yellow color.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally knocked your pencil off the desk. Let me pick it up for you.",
+    "studentAnswer": "I write my exam using blue pen.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally knocked your pencil off the desk. Let me pick it up for you.",
+    "studentAnswer": "I am sorry for dropping your pencil, let me help you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally knocked your pencil off the desk. Let me pick it up for you.",
+    "studentAnswer": "Sorry pencil fell.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally knocked your pencil off the desk. Let me pick it up for you.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

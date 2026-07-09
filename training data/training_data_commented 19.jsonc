@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a senior student for directions to the music room from the main gate?
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the music room from the main gate?",
+    "studentAnswer": "Excuse me, could you please tell me how to get to the music room from the main gate?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the music room from the main gate?",
+    "studentAnswer": "Excuse me, can you show me the way to the music room from the gate?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the music room from the main gate?",
+    "studentAnswer": "Senior, where is the music room from the main gate?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the music room from the main gate?",
+    "studentAnswer": "Which way is the music room from the main gate?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the music room from the main gate?",
+    "studentAnswer": "Music room way from main gate please?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the music room from the main gate?",
+    "studentAnswer": "The main gate is painted black.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the music room from the main gate?",
+    "studentAnswer": "I can play the piano very well.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the music room from the main gate?",
+    "studentAnswer": "Excuse me, can you tell me the directions to the music room?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the music room from the main gate?",
+    "studentAnswer": "Directions to music room from gate?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the music room from the main gate?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you ask a classmate how long the school interval lasts?
+  {
+    "modelAnswer": "Do you know how many minutes the school interval lasts?",
+    "studentAnswer": "Do you know how many minutes the school interval lasts?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many minutes the school interval lasts?",
+    "studentAnswer": "How long is our school interval?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many minutes the school interval lasts?",
+    "studentAnswer": "Can you tell me the duration of the school interval?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many minutes the school interval lasts?",
+    "studentAnswer": "How many minutes do we get for interval?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many minutes the school interval lasts?",
+    "studentAnswer": "Interval time duration?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you know how many minutes the school interval lasts?",
+    "studentAnswer": "I eat rice and curry during interval.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you know how many minutes the school interval lasts?",
+    "studentAnswer": "The interval bell rings at 10:30 am.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you know how many minutes the school interval lasts?",
+    "studentAnswer": "Do you know the length of the school interval?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many minutes the school interval lasts?",
+    "studentAnswer": "Interval length in minutes?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you know how many minutes the school interval lasts?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you offer to pick up the chalk pieces that the teacher dropped on the floor?
+  {
+    "modelAnswer": "Let me help you pick up those chalk pieces from the floor, teacher.",
+    "studentAnswer": "Let me help you pick up those chalk pieces from the floor, teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Let me help you pick up those chalk pieces from the floor, teacher.",
+    "studentAnswer": "Teacher, can I help you pick up the chalk pieces?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Let me help you pick up those chalk pieces from the floor, teacher.",
+    "studentAnswer": "Shall I collect the chalk pieces that fell down, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Let me help you pick up those chalk pieces from the floor, teacher.",
+    "studentAnswer": "I will pick up the chalk pieces for you, teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Let me help you pick up those chalk pieces from the floor, teacher.",
+    "studentAnswer": "Pick up chalk pieces, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Let me help you pick up those chalk pieces from the floor, teacher.",
+    "studentAnswer": "Chalk pieces are white and dusty.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Let me help you pick up those chalk pieces from the floor, teacher.",
+    "studentAnswer": "I have a plastic duster.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Let me help you pick up those chalk pieces from the floor, teacher.",
+    "studentAnswer": "Teacher, shall I pick up the dropped chalk pieces?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Let me help you pick up those chalk pieces from the floor, teacher.",
+    "studentAnswer": "Collect chalk please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Let me help you pick up those chalk pieces from the floor, teacher.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you ask a friend for their opinion on the new adventure book they borrowed yesterday?
+  {
+    "modelAnswer": "What do you think of that adventure book you borrowed yesterday? Is it exciting?",
+    "studentAnswer": "What do you think of that adventure book you borrowed yesterday? Is it exciting?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of that adventure book you borrowed yesterday? Is it exciting?",
+    "studentAnswer": "How is the new adventure book you took yesterday? Do you like it?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of that adventure book you borrowed yesterday? Is it exciting?",
+    "studentAnswer": "What is your opinion on the adventure book you borrowed from library?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of that adventure book you borrowed yesterday? Is it exciting?",
+    "studentAnswer": "Do you like the adventure book you got yesterday?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "What do you think of that adventure book you borrowed yesterday? Is it exciting?",
+    "studentAnswer": "Adventure book opinion?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you think of that adventure book you borrowed yesterday? Is it exciting?",
+    "studentAnswer": "Adventure stories are about treasures and islands.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you think of that adventure book you borrowed yesterday? Is it exciting?",
+    "studentAnswer": "The library has many books.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you think of that adventure book you borrowed yesterday? Is it exciting?",
+    "studentAnswer": "Do you think the adventure book you borrowed is good?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of that adventure book you borrowed yesterday? Is it exciting?",
+    "studentAnswer": "Adventure book, exciting?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you think of that adventure book you borrowed yesterday? Is it exciting?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you suggest to a classmate to share a lunch sheet because they forgot theirs for lunch?
+  {
+    "modelAnswer": "Would you like to have one of my lunch sheets? I brought an extra one today.",
+    "studentAnswer": "Would you like to have one of my lunch sheets? I brought an extra one today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to have one of my lunch sheets? I brought an extra one today.",
+    "studentAnswer": "Shall we share my lunch sheet as you forgot to bring yours today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to have one of my lunch sheets? I brought an extra one today.",
+    "studentAnswer": "I have an extra lunch sheet. You can use it today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to have one of my lunch sheets? I brought an extra one today.",
+    "studentAnswer": "You can take my extra lunch sheet today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to have one of my lunch sheets? I brought an extra one today.",
+    "studentAnswer": "Use my lunch sheet please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Would you like to have one of my lunch sheets? I brought an extra one today.",
+    "studentAnswer": "I brought rice and dhal curry for lunch.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Would you like to have one of my lunch sheets? I brought an extra one today.",
+    "studentAnswer": "Lunch sheets are transparent plastic.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Would you like to have one of my lunch sheets? I brought an extra one today.",
+    "studentAnswer": "Do you want an extra lunch sheet from me?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to have one of my lunch sheets? I brought an extra one today.",
+    "studentAnswer": "Lunch sheet share today?",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Would you like to have one of my lunch sheets? I brought an extra one today.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you describe how to play Kabaddi to a foreign visitor?
+  {
+    "modelAnswer": "Kabaddi is a team sport where a player runs into the opponent's court to tag players and returns without being tackled.",
+    "studentAnswer": "Kabaddi is a team sport where a player runs into the opponent's court to tag players and returns without being tackled.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Kabaddi is a team sport where a player runs into the opponent's court to tag players and returns without being tackled.",
+    "studentAnswer": "Kabaddi is a game where you run to opponent side, touch players, and run back without getting caught.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Kabaddi is a team sport where a player runs into the opponent's court to tag players and returns without being tackled.",
+    "studentAnswer": "It is a team game where a raider enters the other team's side to touch opponents and return safely.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Kabaddi is a team sport where a player runs into the opponent's court to tag players and returns without being tackled.",
+    "studentAnswer": "Kabaddi is a popular team game in South Asia.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Kabaddi is a team sport where a player runs into the opponent's court to tag players and returns without being tackled.",
+    "studentAnswer": "I play Kabaddi with my friends in the evening.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Kabaddi is a team sport where a player runs into the opponent's court to tag players and returns without being tackled.",
+    "studentAnswer": "Kabaddi is played on a sand court.",
+    "maxMarks": 6,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Kabaddi is a team sport where a player runs into the opponent's court to tag players and returns without being tackled.",
+    "studentAnswer": "It is a sport where you touch opponents and return without being caught.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Kabaddi is a team sport where a player runs into the opponent's court to tag players and returns without being tackled.",
+    "studentAnswer": "Touch opponents and return team game.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Kabaddi is a team sport where a player runs into the opponent's court to tag players and returns without being tackled.",
+    "studentAnswer": "Kabaddi is a game.",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Kabaddi is a team sport where a player runs into the opponent's court to tag players and returns without being tackled.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you warn a classmate to step carefully because there is a loose wooden floorboard ahead?
+  {
+    "modelAnswer": "Be careful! There is a loose wooden floorboard just ahead, so don't step on it.",
+    "studentAnswer": "Be careful! There is a loose wooden floorboard just ahead, so don't step on it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Be careful! There is a loose wooden floorboard just ahead, so don't step on it.",
+    "studentAnswer": "Watch out, there is a loose board on the floor ahead, step carefully.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Be careful! There is a loose wooden floorboard just ahead, so don't step on it.",
+    "studentAnswer": "Step carefully! There is a loose floorboard in front of you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Be careful! There is a loose wooden floorboard just ahead, so don't step on it.",
+    "studentAnswer": "Be careful, loose floorboard ahead.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Be careful! There is a loose wooden floorboard just ahead, so don't step on it.",
+    "studentAnswer": "Loose floorboard ahead, watch out.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Be careful! There is a loose wooden floorboard just ahead, so don't step on it.",
+    "studentAnswer": "The floor is made of teak wood.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Be careful! There is a loose wooden floorboard just ahead, so don't step on it.",
+    "studentAnswer": "I wear clean black shoes.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Be careful! There is a loose wooden floorboard just ahead, so don't step on it.",
+    "studentAnswer": "Watch out for the loose floorboard in front of you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Be careful! There is a loose wooden floorboard just ahead, so don't step on it.",
+    "studentAnswer": "Loose board ahead step carefully.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Be careful! There is a loose wooden floorboard just ahead, so don't step on it.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you ask a classmate what they want to become when they grow up and why?
+  {
+    "modelAnswer": "What do you want to become when you grow up? Why did you choose that career?",
+    "studentAnswer": "What do you want to become when you grow up? Why did you choose that career?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you want to become when you grow up? Why did you choose that career?",
+    "studentAnswer": "What is your ambition when you grow up? What is the reason?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you want to become when you grow up? Why did you choose that career?",
+    "studentAnswer": "What do you want to be in the future and why?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you want to become when you grow up? Why did you choose that career?",
+    "studentAnswer": "What is your future ambition?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "What do you want to become when you grow up? Why did you choose that career?",
+    "studentAnswer": "Ambition and reason?",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "What do you want to become when you grow up? Why did you choose that career?",
+    "studentAnswer": "I want to become a doctor.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you want to become when you grow up? Why did you choose that career?",
+    "studentAnswer": "Growing up is a natural process.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you want to become when you grow up? Why did you choose that career?",
+    "studentAnswer": "What do you want to be when you grow up and why?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you want to become when you grow up? Why did you choose that career?",
+    "studentAnswer": "Future ambition why?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you want to become when you grow up? Why did you choose that career?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you thank the class teacher who presented you with the best student award?
+  {
+    "modelAnswer": "Thank you very much, teacher, for presenting me with this award. I will continue to work hard in class.",
+    "studentAnswer": "Thank you very much, teacher, for presenting me with this award. I will continue to work hard in class.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for presenting me with this award. I will continue to work hard in class.",
+    "studentAnswer": "Thank you teacher for the best student award. I will keep studying well.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for presenting me with this award. I will continue to work hard in class.",
+    "studentAnswer": "I am very grateful to you teacher for presenting me with the award today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for presenting me with this award. I will continue to work hard in class.",
+    "studentAnswer": "Thanks teacher for the best student prize.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for presenting me with this award. I will continue to work hard in class.",
+    "studentAnswer": "Thank you for the award.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for presenting me with this award. I will continue to work hard in class.",
+    "studentAnswer": "The award has a gold star and my name.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for presenting me with this award. I will continue to work hard in class.",
+    "studentAnswer": "I study three hours every night.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for presenting me with this award. I will continue to work hard in class.",
+    "studentAnswer": "Thank you teacher, I will study hard.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for presenting me with this award. I will continue to work hard in class.",
+    "studentAnswer": "Best student award thank you.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for presenting me with this award. I will continue to work hard in class.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you apologize to a classmate after accidentally staining their school uniform shirt with ink?
+  {
+    "modelAnswer": "I am so sorry for accidentally staining your shirt with my pen ink. Let me help you wash it off with water.",
+    "studentAnswer": "I am so sorry for accidentally staining your shirt with my pen ink. Let me help you wash it off with water.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally staining your shirt with my pen ink. Let me help you wash it off with water.",
+    "studentAnswer": "Sorry, I stained your uniform shirt with ink by mistake. Let me wash it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally staining your shirt with my pen ink. Let me help you wash it off with water.",
+    "studentAnswer": "I am very sorry for the ink stain on your shirt. I will help you clean it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally staining your shirt with my pen ink. Let me help you wash it off with water.",
+    "studentAnswer": "Sorry I put ink on your white uniform shirt.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally staining your shirt with my pen ink. Let me help you wash it off with water.",
+    "studentAnswer": "Sorry, ink stain on shirt.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally staining your shirt with my pen ink. Let me help you wash it off with water.",
+    "studentAnswer": "The school uniform is white color.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally staining your shirt with my pen ink. Let me help you wash it off with water.",
+    "studentAnswer": "My pen is a blue ballpoint pen.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally staining your shirt with my pen ink. Let me help you wash it off with water.",
+    "studentAnswer": "I am sorry for the ink stain, let me help you wash it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally staining your shirt with my pen ink. Let me help you wash it off with water.",
+    "studentAnswer": "Sorry ink stain fell.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally staining your shirt with my pen ink. Let me help you wash it off with water.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

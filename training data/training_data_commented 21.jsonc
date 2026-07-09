@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a classmate to borrow their pencil because your lead broke and you don't have a sharpener?
+  {
+    "modelAnswer": "Excuse me, my pencil lead broke and I do not have a sharpener. Could I please borrow one of your pencils?",
+    "studentAnswer": "Excuse me, my pencil lead broke and I do not have a sharpener. Could I please borrow one of your pencils?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, my pencil lead broke and I do not have a sharpener. Could I please borrow one of your pencils?",
+    "studentAnswer": "My pencil is broken and I don't have a sharpener. Can you lend me a pencil?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, my pencil lead broke and I do not have a sharpener. Could I please borrow one of your pencils?",
+    "studentAnswer": "Excuse me, can I borrow a pencil? My lead broke and I have no sharpener.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, my pencil lead broke and I do not have a sharpener. Could I please borrow one of your pencils?",
+    "studentAnswer": "Please give me a pencil. My pencil lead broke.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, my pencil lead broke and I do not have a sharpener. Could I please borrow one of your pencils?",
+    "studentAnswer": "Can I take one pencil?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, my pencil lead broke and I do not have a sharpener. Could I please borrow one of your pencils?",
+    "studentAnswer": "Pencils are cheap.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, my pencil lead broke and I do not have a sharpener. Could I please borrow one of your pencils?",
+    "studentAnswer": "I have two pens.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, my pencil lead broke and I do not have a sharpener. Could I please borrow one of your pencils?",
+    "studentAnswer": "Excuse me, do you have a spare pencil? My pencil broke.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, my pencil lead broke and I do not have a sharpener. Could I please borrow one of your pencils?",
+    "studentAnswer": "Borrow pencil please, broke lead.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, my pencil lead broke and I do not have a sharpener. Could I please borrow one of your pencils?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you congratulate a classmate on being selected as the school prefect?
+  {
+    "modelAnswer": "Congratulations on being selected as a school prefect! I am sure you will do a wonderful job.",
+    "studentAnswer": "Congratulations on being selected as a school prefect! I am sure you will do a wonderful job.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on being selected as a school prefect! I am sure you will do a wonderful job.",
+    "studentAnswer": "Well done on becoming a school prefect! I know you will do a great job.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on being selected as a school prefect! I am sure you will do a wonderful job.",
+    "studentAnswer": "Congrats on being selected as a prefect!",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Congratulations on being selected as a school prefect! I am sure you will do a wonderful job.",
+    "studentAnswer": "I am so happy you are a prefect now. Congratulations!",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on being selected as a school prefect! I am sure you will do a wonderful job.",
+    "studentAnswer": "You are a school prefect now, congratulations.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Congratulations on being selected as a school prefect! I am sure you will do a wonderful job.",
+    "studentAnswer": "Prefects wear a special badge.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Congratulations on being selected as a school prefect! I am sure you will do a wonderful job.",
+    "studentAnswer": "The prefects room is near the office.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Congratulations on being selected as a school prefect! I am sure you will do a wonderful job.",
+    "studentAnswer": "Congratulations, you are selected as a school prefect!",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on being selected as a school prefect! I am sure you will do a wonderful job.",
+    "studentAnswer": "Congrats on the prefect post.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Congratulations on being selected as a school prefect! I am sure you will do a wonderful job.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you ask a friend for help with a difficult science project step?
+  {
+    "modelAnswer": "Could you please help me with this step of our science project? I am not sure how to connect the wires.",
+    "studentAnswer": "Could you please help me with this step of our science project? I am not sure how to connect the wires.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please help me with this step of our science project? I am not sure how to connect the wires.",
+    "studentAnswer": "Can you help me with our science project? I don't know how to connect the wires.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please help me with this step of our science project? I am not sure how to connect the wires.",
+    "studentAnswer": "Please help me connect these wires for the science project.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please help me with this step of our science project? I am not sure how to connect the wires.",
+    "studentAnswer": "Help me with this science project step.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could you please help me with this step of our science project? I am not sure how to connect the wires.",
+    "studentAnswer": "Science is my favorite subject.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please help me with this step of our science project? I am not sure how to connect the wires.",
+    "studentAnswer": "The wire is red and long.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please help me with this step of our science project? I am not sure how to connect the wires.",
+    "studentAnswer": "Can you show me how to connect the wires for the science project?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please help me with this step of our science project? I am not sure how to connect the wires.",
+    "studentAnswer": "Science project help please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could you please help me with this step of our science project? I am not sure how to connect the wires.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please help me with this step of our science project? I am not sure how to connect the wires.",
+    "studentAnswer": "I am not doing the project.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you suggest to friends to play badminton during the weekend?
+  {
+    "modelAnswer": "Shall we play a game of badminton this Saturday afternoon at the school playground?",
+    "studentAnswer": "Shall we play a game of badminton this Saturday afternoon at the school playground?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we play a game of badminton this Saturday afternoon at the school playground?",
+    "studentAnswer": "Can we play badminton this Saturday afternoon in the school playground?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we play a game of badminton this Saturday afternoon at the school playground?",
+    "studentAnswer": "Let's play badminton this Saturday at the school ground.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we play a game of badminton this Saturday afternoon at the school playground?",
+    "studentAnswer": "Would you like to play badminton this Saturday afternoon?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Shall we play a game of badminton this Saturday afternoon at the school playground?",
+    "studentAnswer": "Play badminton this Saturday?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall we play a game of badminton this Saturday afternoon at the school playground?",
+    "studentAnswer": "Badminton rackets are in the room.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall we play a game of badminton this Saturday afternoon at the school playground?",
+    "studentAnswer": "The playground is closed.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall we play a game of badminton this Saturday afternoon at the school playground?",
+    "studentAnswer": "Shall we play badminton at the school playground this Saturday?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we play a game of badminton this Saturday afternoon at the school playground?",
+    "studentAnswer": "Badminton game this Saturday?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall we play a game of badminton this Saturday afternoon at the school playground?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you ask the school librarian where the history section is?
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me where the history books are located?",
+    "studentAnswer": "Excuse me, teacher. Could you please tell me where the history books are located?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me where the history books are located?",
+    "studentAnswer": "Excuse me, where can I find the history books in the library?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me where the history books are located?",
+    "studentAnswer": "Excuse me teacher, could you tell me where the history section is?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me where the history books are located?",
+    "studentAnswer": "Where are the history books, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me where the history books are located?",
+    "studentAnswer": "Show me history books.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me where the history books are located?",
+    "studentAnswer": "History is a very good subject.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me where the history books are located?",
+    "studentAnswer": "I have to return this book.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me where the history books are located?",
+    "studentAnswer": "Excuse me teacher, can you show me the history section?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me where the history books are located?",
+    "studentAnswer": "History section please?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me where the history books are located?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you complain to a shopkeeper about a notebook with missing pages?
+  {
+    "modelAnswer": "Excuse me, I bought this notebook yesterday but some pages are missing. Can you please replace it?",
+    "studentAnswer": "Excuse me, I bought this notebook yesterday but some pages are missing. Can you please replace it?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I bought this notebook yesterday but some pages are missing. Can you please replace it?",
+    "studentAnswer": "Excuse me, this notebook I bought yesterday has missing pages. Can I get a new one?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I bought this notebook yesterday but some pages are missing. Can you please replace it?",
+    "studentAnswer": "I bought this notebook yesterday but some pages are not there. Please replace it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I bought this notebook yesterday but some pages are missing. Can you please replace it?",
+    "studentAnswer": "This notebook has missing pages. Give me another one please.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, I bought this notebook yesterday but some pages are missing. Can you please replace it?",
+    "studentAnswer": "Pages missing in notebook. Change it.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, I bought this notebook yesterday but some pages are missing. Can you please replace it?",
+    "studentAnswer": "My notebook has eighty pages.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, I bought this notebook yesterday but some pages are missing. Can you please replace it?",
+    "studentAnswer": "The shop is near my school.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, I bought this notebook yesterday but some pages are missing. Can you please replace it?",
+    "studentAnswer": "Excuse me, can you replace this book? Some pages are missing.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I bought this notebook yesterday but some pages are missing. Can you please replace it?",
+    "studentAnswer": "Replace this notebook please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, I bought this notebook yesterday but some pages are missing. Can you please replace it?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you wish a friend a Happy Sinhala and Tamil New Year?
+  {
+    "modelAnswer": "Wishing you and your family a very happy and prosperous Sinhala and Tamil New Year!",
+    "studentAnswer": "Wishing you and your family a very happy and prosperous Sinhala and Tamil New Year!",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Wishing you and your family a very happy and prosperous Sinhala and Tamil New Year!",
+    "studentAnswer": "Subha Aluth Avuruddak Wewa! Wish you a happy Sinhala and Tamil New Year!",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Wishing you and your family a very happy and prosperous Sinhala and Tamil New Year!",
+    "studentAnswer": "Happy Sinhala and Tamil New Year to you and your family!",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Wishing you and your family a very happy and prosperous Sinhala and Tamil New Year!",
+    "studentAnswer": "Wish you a happy Sinhala and Tamil New Year.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Wishing you and your family a very happy and prosperous Sinhala and Tamil New Year!",
+    "studentAnswer": "Happy New Year!",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Wishing you and your family a very happy and prosperous Sinhala and Tamil New Year!",
+    "studentAnswer": "We make milk rice for the New Year.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Wishing you and your family a very happy and prosperous Sinhala and Tamil New Year!",
+    "studentAnswer": "The New Year festival is in April.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Wishing you and your family a very happy and prosperous Sinhala and Tamil New Year!",
+    "studentAnswer": "Wishing you a happy and prosperous Sinhala and Tamil New Year!",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Wishing you and your family a very happy and prosperous Sinhala and Tamil New Year!",
+    "studentAnswer": "Happy Avurudu to you.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Wishing you and your family a very happy and prosperous Sinhala and Tamil New Year!",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you explain to a teacher why you cannot participate in physical training (PT) today?
+  {
+    "modelAnswer": "Excuse me, teacher. I have a sprained ankle, so I cannot participate in physical training today.",
+    "studentAnswer": "Excuse me, teacher. I have a sprained ankle, so I cannot participate in physical training today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I have a sprained ankle, so I cannot participate in physical training today.",
+    "studentAnswer": "Teacher, I sprained my ankle. So I cannot do PT today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I have a sprained ankle, so I cannot participate in physical training today.",
+    "studentAnswer": "Excuse me teacher, I cannot participate in PT because my ankle is sprained.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I have a sprained ankle, so I cannot participate in physical training today.",
+    "studentAnswer": "I have an ankle injury, teacher. Can I skip PT today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I have a sprained ankle, so I cannot participate in physical training today.",
+    "studentAnswer": "Sprained ankle, cannot do PT.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I have a sprained ankle, so I cannot participate in physical training today.",
+    "studentAnswer": "PT class is in the sports field.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I have a sprained ankle, so I cannot participate in physical training today.",
+    "studentAnswer": "I have sports shoes.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I have a sprained ankle, so I cannot participate in physical training today.",
+    "studentAnswer": "Teacher, I can't participate in PT today. I have a sprained ankle.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I have a sprained ankle, so I cannot participate in physical training today.",
+    "studentAnswer": "Cannot do PT today, sorry teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I have a sprained ankle, so I cannot participate in physical training today.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you politely decline a classmate's invitation to play games because you have homework?
+  {
+    "modelAnswer": "Thank you for the invitation, but I cannot join you today as I have to finish my English homework.",
+    "studentAnswer": "Thank you for the invitation, but I cannot join you today as I have to finish my English homework.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you for the invitation, but I cannot join you today as I have to finish my English homework.",
+    "studentAnswer": "Thanks for inviting me, but I have to do my English homework today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you for the invitation, but I cannot join you today as I have to finish my English homework.",
+    "studentAnswer": "I would love to play, but I must finish my English homework first. Thank you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you for the invitation, but I cannot join you today as I have to finish my English homework.",
+    "studentAnswer": "I can't play today, I have English homework. Thanks.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you for the invitation, but I cannot join you today as I have to finish my English homework.",
+    "studentAnswer": "Cannot play, have homework.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you for the invitation, but I cannot join you today as I have to finish my English homework.",
+    "studentAnswer": "Playing games is fun.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you for the invitation, but I cannot join you today as I have to finish my English homework.",
+    "studentAnswer": "I have a new game on my phone.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you for the invitation, but I cannot join you today as I have to finish my English homework.",
+    "studentAnswer": "Thank you, but I have English homework to do today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you for the invitation, but I cannot join you today as I have to finish my English homework.",
+    "studentAnswer": "No time to play today.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Thank you for the invitation, but I cannot join you today as I have to finish my English homework.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you describe a traditional Sri Lankan food (String Hoppers) to a foreigner?
+  {
+    "modelAnswer": "String hoppers are steamed nest-like noodles made of rice flour, usually eaten with dhal curry and coconut sambol.",
+    "studentAnswer": "String hoppers are steamed nest-like noodles made of rice flour, usually eaten with dhal curry and coconut sambol.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "String hoppers are steamed nest-like noodles made of rice flour, usually eaten with dhal curry and coconut sambol.",
+    "studentAnswer": "String hoppers are a Sri Lankan food made of steamed rice flour noodles, eaten with coconut sambol and dhal.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "String hoppers are steamed nest-like noodles made of rice flour, usually eaten with dhal curry and coconut sambol.",
+    "studentAnswer": "String hoppers are steamed noodles from rice flour with dhal curry and pol sambol.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "String hoppers are steamed nest-like noodles made of rice flour, usually eaten with dhal curry and coconut sambol.",
+    "studentAnswer": "String hoppers are Sri Lankan noodles eaten with dhal curry.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "String hoppers are steamed nest-like noodles made of rice flour, usually eaten with dhal curry and coconut sambol.",
+    "studentAnswer": "I like eating string hoppers.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "String hoppers are steamed nest-like noodles made of rice flour, usually eaten with dhal curry and coconut sambol.",
+    "studentAnswer": "String hoppers are white or red.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "String hoppers are steamed nest-like noodles made of rice flour, usually eaten with dhal curry and coconut sambol.",
+    "studentAnswer": "Sri Lankan food is very spicy.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "String hoppers are steamed nest-like noodles made of rice flour, usually eaten with dhal curry and coconut sambol.",
+    "studentAnswer": "It is a steamed rice flour food eaten with coconut sambol.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "String hoppers are steamed nest-like noodles made of rice flour, usually eaten with dhal curry and coconut sambol.",
+    "studentAnswer": "String hoppers with dhal curry.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "String hoppers are steamed nest-like noodles made of rice flour, usually eaten with dhal curry and coconut sambol.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  }
+]

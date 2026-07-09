@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a teacher for directions to the school main office from the library?
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how to get to the main office from the library?",
+    "studentAnswer": "Excuse me, teacher. Could you please tell me how to get to the main office from the library?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how to get to the main office from the library?",
+    "studentAnswer": "Excuse me, teacher. Can you show me the way to the main office from here?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how to get to the main office from the library?",
+    "studentAnswer": "Teacher, where is the main office from the library?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how to get to the main office from the library?",
+    "studentAnswer": "Which way is the main office from library, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how to get to the main office from the library?",
+    "studentAnswer": "Main office way from library please?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how to get to the main office from the library?",
+    "studentAnswer": "The library has many English storybooks.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how to get to the main office from the library?",
+    "studentAnswer": "I want to borrow a math book.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how to get to the main office from the library?",
+    "studentAnswer": "Excuse me, can you show me the directions to the main office, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how to get to the main office from the library?",
+    "studentAnswer": "Directions to main office from library?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how to get to the main office from the library?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you ask a prefect what time the school assembly starts today?
+  {
+    "modelAnswer": "Excuse me, could you please tell me what time the school assembly starts today?",
+    "studentAnswer": "Excuse me, could you please tell me what time the school assembly starts today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what time the school assembly starts today?",
+    "studentAnswer": "Prefect, what time is the school assembly today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what time the school assembly starts today?",
+    "studentAnswer": "Excuse me, do you know when the school assembly starts today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what time the school assembly starts today?",
+    "studentAnswer": "What is the time for school assembly today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what time the school assembly starts today?",
+    "studentAnswer": "Time of school assembly?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what time the school assembly starts today?",
+    "studentAnswer": "Prefects have a badge.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what time the school assembly starts today?",
+    "studentAnswer": "I wear a white school uniform.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what time the school assembly starts today?",
+    "studentAnswer": "Do you know what time assembly starts today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what time the school assembly starts today?",
+    "studentAnswer": "Assembly start time please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what time the school assembly starts today?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you volunteer to water the potted plants in the classroom balcony during the interval?
+  {
+    "modelAnswer": "Teacher, may I water the potted plants in our classroom balcony during the interval?",
+    "studentAnswer": "Teacher, may I water the potted plants in our classroom balcony during the interval?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I water the potted plants in our classroom balcony during the interval?",
+    "studentAnswer": "Can I water the classroom balcony plants during interval today, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I water the potted plants in our classroom balcony during the interval?",
+    "studentAnswer": "Teacher, let me water the potted plants in the balcony during interval.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I water the potted plants in our classroom balcony during the interval?",
+    "studentAnswer": "I will water the balcony plants during interval today, teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I water the potted plants in our classroom balcony during the interval?",
+    "studentAnswer": "Water plants during interval, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Teacher, may I water the potted plants in our classroom balcony during the interval?",
+    "studentAnswer": "The plants have red flowers.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Teacher, may I water the potted plants in our classroom balcony during the interval?",
+    "studentAnswer": "Interval starts at 10:30 am.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Teacher, may I water the potted plants in our classroom balcony during the interval?",
+    "studentAnswer": "Teacher, I want to water the potted plants in the balcony.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Teacher, may I water the potted plants in our classroom balcony during the interval?",
+    "studentAnswer": "Water the potted plants please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Teacher, may I water the potted plants in our classroom balcony during the interval?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you ask your science partner if they think building a mini water filter is a good project idea?
+  {
+    "modelAnswer": "Do you think building a mini water filter is a good idea for our science project?",
+    "studentAnswer": "Do you think building a mini water filter is a good idea for our science project?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you think building a mini water filter is a good idea for our science project?",
+    "studentAnswer": "Is it a good idea to build a mini water filter for our science project?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you think building a mini water filter is a good idea for our science project?",
+    "studentAnswer": "What do you think of building a water filter for the science project?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you think building a mini water filter is a good idea for our science project?",
+    "studentAnswer": "Do you like water filter science project idea?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Do you think building a mini water filter is a good idea for our science project?",
+    "studentAnswer": "Water filter project, good idea?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you think building a mini water filter is a good idea for our science project?",
+    "studentAnswer": "Water is colorless and odorless.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you think building a mini water filter is a good idea for our science project?",
+    "studentAnswer": "I have sand and charcoal.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you think building a mini water filter is a good idea for our science project?",
+    "studentAnswer": "Do you think building a mini water filter is good for our science project?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you think building a mini water filter is a good idea for our science project?",
+    "studentAnswer": "Science project water filter?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you think building a mini water filter is a good idea for our science project?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you suggest to a classmate to share their desk because there are not enough seats for the English test?
+  {
+    "modelAnswer": "Could we please share your desk today? There are not enough seats in the classroom for the English test.",
+    "studentAnswer": "Could we please share your desk today? There are not enough seats in the classroom for the English test.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your desk today? There are not enough seats in the classroom for the English test.",
+    "studentAnswer": "Can I share your desk today because there are not enough chairs for the English test?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your desk today? There are not enough seats in the classroom for the English test.",
+    "studentAnswer": "Can we share this desk? There are not enough seats for the English test.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your desk today? There are not enough seats in the classroom for the English test.",
+    "studentAnswer": "Let's share your desk today because there are no seats.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could we please share your desk today? There are not enough seats in the classroom for the English test.",
+    "studentAnswer": "Share desk today please, no seats.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could we please share your desk today? There are not enough seats in the classroom for the English test.",
+    "studentAnswer": "The test is very long.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could we please share your desk today? There are not enough seats in the classroom for the English test.",
+    "studentAnswer": "My desk is made of wood.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could we please share your desk today? There are not enough seats in the classroom for the English test.",
+    "studentAnswer": "Can we share the desk for the test today?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could we please share your desk today? There are not enough seats in the classroom for the English test.",
+    "studentAnswer": "Share desk, no seats.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Could we please share your desk today? There are not enough seats in the classroom for the English test.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you tell a foreign friend what they can see at Yala National Park?
+  {
+    "modelAnswer": "At Yala National Park, you can go on a safari to see wild elephants, leopards, and many species of colorful birds.",
+    "studentAnswer": "At Yala National Park, you can go on a safari to see wild elephants, leopards, and many species of colorful birds.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "At Yala National Park, you can go on a safari to see wild elephants, leopards, and many species of colorful birds.",
+    "studentAnswer": "You can see wild elephants, leopards, and birds on a safari at Yala National park.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "At Yala National Park, you can go on a safari to see wild elephants, leopards, and many species of colorful birds.",
+    "studentAnswer": "If you go to Yala Park, you can see elephants, leopards, and colorful birds.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "At Yala National Park, you can go on a safari to see wild elephants, leopards, and many species of colorful birds.",
+    "studentAnswer": "You can see elephants and leopards in Yala National Park.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "At Yala National Park, you can go on a safari to see wild elephants, leopards, and many species of colorful birds.",
+    "studentAnswer": "See elephants in Yala.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "At Yala National Park, you can go on a safari to see wild elephants, leopards, and many species of colorful birds.",
+    "studentAnswer": "Yala is in the Southern Province of Sri Lanka.",
+    "maxMarks": 6,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "At Yala National Park, you can go on a safari to see wild elephants, leopards, and many species of colorful birds.",
+    "studentAnswer": "I went there by a big jeep.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "At Yala National Park, you can go on a safari to see wild elephants, leopards, and many species of colorful birds.",
+    "studentAnswer": "At Yala Park, you can watch elephants, leopards, and birds.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "At Yala National Park, you can go on a safari to see wild elephants, leopards, and many species of colorful birds.",
+    "studentAnswer": "Elephants and leopards safari Yala.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "At Yala National Park, you can go on a safari to see wild elephants, leopards, and many species of colorful birds.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you warn a classmate to be careful when using a cutter to cut cardboard?
+  {
+    "modelAnswer": "Be careful when using that cutter. The blade is very sharp and you might cut your finger.",
+    "studentAnswer": "Be careful when using that cutter. The blade is very sharp and you might cut your finger.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Be careful when using that cutter. The blade is very sharp and you might cut your finger.",
+    "studentAnswer": "Watch out, that cutter is sharp. You might cut your finger.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Be careful when using that cutter. The blade is very sharp and you might cut your finger.",
+    "studentAnswer": "Be careful with the cutter, it is very sharp.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Be careful when using that cutter. The blade is very sharp and you might cut your finger.",
+    "studentAnswer": "Use the cutter carefully, it's sharp.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Be careful when using that cutter. The blade is very sharp and you might cut your finger.",
+    "studentAnswer": "Sharp cutter, be careful.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Be careful when using that cutter. The blade is very sharp and you might cut your finger.",
+    "studentAnswer": "This cardboard is thick and brown.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Be careful when using that cutter. The blade is very sharp and you might cut your finger.",
+    "studentAnswer": "I have a green ruler.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Be careful when using that cutter. The blade is very sharp and you might cut your finger.",
+    "studentAnswer": "Be careful when cutting cardboard, the blade is sharp.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Be careful when using that cutter. The blade is very sharp and you might cut your finger.",
+    "studentAnswer": "Cutter is sharp watch out.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Be careful when using that cutter. The blade is very sharp and you might cut your finger.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you ask a friend if they played cricket at the playground yesterday evening?
+  {
+    "modelAnswer": "Did you go to play cricket at the playground yesterday evening?",
+    "studentAnswer": "Did you go to play cricket at the playground yesterday evening?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Did you go to play cricket at the playground yesterday evening?",
+    "studentAnswer": "Did you play cricket yesterday evening in the playground?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Did you go to play cricket at the playground yesterday evening?",
+    "studentAnswer": "Were you playing cricket at the playground yesterday evening?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Did you go to play cricket at the playground yesterday evening?",
+    "studentAnswer": "Did you play cricket at the playground yesterday?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Did you go to play cricket at the playground yesterday evening?",
+    "studentAnswer": "Play cricket yesterday evening?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Did you go to play cricket at the playground yesterday evening?",
+    "studentAnswer": "Cricket is a nice game to watch.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Did you go to play cricket at the playground yesterday evening?",
+    "studentAnswer": "I played badminton today morning.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Did you go to play cricket at the playground yesterday evening?",
+    "studentAnswer": "Did you go to the playground to play cricket yesterday?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Did you go to play cricket at the playground yesterday evening?",
+    "studentAnswer": "Play cricket playground yesterday?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Did you go to play cricket at the playground yesterday evening?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you thank a classmate for lending you their English notes when you were absent?
+  {
+    "modelAnswer": "Thank you so much for lending me your English notebook. It helped me copy all the notes I missed when I was sick.",
+    "studentAnswer": "Thank you so much for lending me your English notebook. It helped me copy all the notes I missed when I was sick.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for lending me your English notebook. It helped me copy all the notes I missed when I was sick.",
+    "studentAnswer": "Thanks for lending your English notes when I was absent. I copied them all.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for lending me your English notebook. It helped me copy all the notes I missed when I was sick.",
+    "studentAnswer": "Thank you very much for giving me your English notes. It was very useful.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for lending me your English notebook. It helped me copy all the notes I missed when I was sick.",
+    "studentAnswer": "Thanks for the English notes, it helped me copy the lesson.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you so much for lending me your English notebook. It helped me copy all the notes I missed when I was sick.",
+    "studentAnswer": "Thanks for English notes.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Thank you so much for lending me your English notebook. It helped me copy all the notes I missed when I was sick.",
+    "studentAnswer": "I was absent because of fever.",
+    "maxMarks": 5,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Thank you so much for lending me your English notebook. It helped me copy all the notes I missed when I was sick.",
+    "studentAnswer": "English notes are very long.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much for lending me your English notebook. It helped me copy all the notes I missed when I was sick.",
+    "studentAnswer": "Thank you for lending me your English notes to copy.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for lending me your English notebook. It helped me copy all the notes I missed when I was sick.",
+    "studentAnswer": "Notes help copy lesson, thank you.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much for lending me your English notebook. It helped me copy all the notes I missed when I was sick.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you apologize to a classmate after accidentally picking up and using their eraser?
+  {
+    "modelAnswer": "I am sorry. I accidentally picked up your eraser thinking it was mine. Let me return it to you.",
+    "studentAnswer": "I am sorry. I accidentally picked up your eraser thinking it was mine. Let me return it to you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am sorry. I accidentally picked up your eraser thinking it was mine. Let me return it to you.",
+    "studentAnswer": "Sorry, I took your eraser by mistake. Here is your eraser.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am sorry. I accidentally picked up your eraser thinking it was mine. Let me return it to you.",
+    "studentAnswer": "I am sorry I used your eraser thinking it was mine. Let me give it back.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am sorry. I accidentally picked up your eraser thinking it was mine. Let me return it to you.",
+    "studentAnswer": "Sorry I used your eraser by mistake.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am sorry. I accidentally picked up your eraser thinking it was mine. Let me return it to you.",
+    "studentAnswer": "Sorry, took your eraser.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am sorry. I accidentally picked up your eraser thinking it was mine. Let me return it to you.",
+    "studentAnswer": "Erasers are white or dust-free.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am sorry. I accidentally picked up your eraser thinking it was mine. Let me return it to you.",
+    "studentAnswer": "I have two pencils in my pencil box.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am sorry. I accidentally picked up your eraser thinking it was mine. Let me return it to you.",
+    "studentAnswer": "Sorry, I picked up your eraser and used it. Here you go.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am sorry. I accidentally picked up your eraser thinking it was mine. Let me return it to you.",
+    "studentAnswer": "Sorry, eraser by mistake.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am sorry. I accidentally picked up your eraser thinking it was mine. Let me return it to you.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a teacher for directions to the science laboratory from the computer room?
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please show me the way to the science laboratory from the computer room?",
+    "studentAnswer": "Excuse me, teacher. Could you please show me the way to the science laboratory from the computer room?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please show me the way to the science laboratory from the computer room?",
+    "studentAnswer": "Excuse me, teacher. Can you direct me to the science lab from here?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please show me the way to the science laboratory from the computer room?",
+    "studentAnswer": "Teacher, where is the science lab from the computer room?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please show me the way to the science laboratory from the computer room?",
+    "studentAnswer": "How do I go to science lab from computer room, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please show me the way to the science laboratory from the computer room?",
+    "studentAnswer": "Science laboratory way from computer room?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please show me the way to the science laboratory from the computer room?",
+    "studentAnswer": "The computer room has twenty new computers.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please show me the way to the science laboratory from the computer room?",
+    "studentAnswer": "I have to do a science experiment.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please show me the way to the science laboratory from the computer room?",
+    "studentAnswer": "Excuse me, where is the science lab from here?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please show me the way to the science laboratory from the computer room?",
+    "studentAnswer": "Directions to science laboratory?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please show me the way to the science laboratory from the computer room?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you ask a prefect when our end-of-term English test will begin next week?
+  {
+    "modelAnswer": "Excuse me, could you please tell me what date and time our end-of-term English test starts next week?",
+    "studentAnswer": "Excuse me, could you please tell me what date and time our end-of-term English test starts next week?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what date and time our end-of-term English test starts next week?",
+    "studentAnswer": "Prefect, do you know when the end-of-term English test starts next week?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what date and time our end-of-term English test starts next week?",
+    "studentAnswer": "Excuse me, can you tell me the date for the English term test next week?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what date and time our end-of-term English test starts next week?",
+    "studentAnswer": "What is the time for the English term test next week?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what date and time our end-of-term English test starts next week?",
+    "studentAnswer": "English term test start time next week?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what date and time our end-of-term English test starts next week?",
+    "studentAnswer": "I am studying English grammar now.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what date and time our end-of-term English test starts next week?",
+    "studentAnswer": "Term test has three parts.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what date and time our end-of-term English test starts next week?",
+    "studentAnswer": "Excuse me, when is the English term test next week?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what date and time our end-of-term English test starts next week?",
+    "studentAnswer": "English test starting time?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what date and time our end-of-term English test starts next week?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you volunteer to dust and clean the classroom window panes during the school cleaning campaign?
+  {
+    "modelAnswer": "Teacher, may I clean the classroom window panes for the school cleaning campaign today?",
+    "studentAnswer": "Teacher, may I clean the classroom window panes for the school cleaning campaign today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I clean the classroom window panes for the school cleaning campaign today?",
+    "studentAnswer": "Can I volunteer to clean the window glass today for the cleaning campaign, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I clean the classroom window panes for the school cleaning campaign today?",
+    "studentAnswer": "Teacher, let me dust and wipe the classroom windows today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I clean the classroom window panes for the school cleaning campaign today?",
+    "studentAnswer": "I will clean the windows for the school cleaning campaign, teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I clean the classroom window panes for the school cleaning campaign today?",
+    "studentAnswer": "Clean classroom windows today, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Teacher, may I clean the classroom window panes for the school cleaning campaign today?",
+    "studentAnswer": "Windows are made of glass and steel.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Teacher, may I clean the classroom window panes for the school cleaning campaign today?",
+    "studentAnswer": "The cleaning campaign starts at 9 am.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Teacher, may I clean the classroom window panes for the school cleaning campaign today?",
+    "studentAnswer": "Teacher, I want to clean the windows for the campaign.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Teacher, may I clean the classroom window panes for the school cleaning campaign today?",
+    "studentAnswer": "Clean window panes please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Teacher, may I clean the classroom window panes for the school cleaning campaign today?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you ask your classmate if they think visiting the Colombo Planetarium is a good class trip idea?
+  {
+    "modelAnswer": "Do you think visiting the Colombo Planetarium is a good idea for our annual class trip?",
+    "studentAnswer": "Do you think visiting the Colombo Planetarium is a good idea for our annual class trip?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you think visiting the Colombo Planetarium is a good idea for our annual class trip?",
+    "studentAnswer": "Is it a good idea to go to Colombo Planetarium for our class trip?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you think visiting the Colombo Planetarium is a good idea for our annual class trip?",
+    "studentAnswer": "What is your opinion on visiting the Planetarium for the school trip?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you think visiting the Colombo Planetarium is a good idea for our annual class trip?",
+    "studentAnswer": "Do you like the Colombo Planetarium trip idea?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Do you think visiting the Colombo Planetarium is a good idea for our annual class trip?",
+    "studentAnswer": "Planetarium class trip, good idea?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you think visiting the Colombo Planetarium is a good idea for our annual class trip?",
+    "studentAnswer": "Colombo is the commercial capital of Sri Lanka.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you think visiting the Colombo Planetarium is a good idea for our annual class trip?",
+    "studentAnswer": "The planetarium has a big dome shape.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you think visiting the Colombo Planetarium is a good idea for our annual class trip?",
+    "studentAnswer": "Do you think Colombo Planetarium is good for our class trip?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you think visiting the Colombo Planetarium is a good idea for our annual class trip?",
+    "studentAnswer": "Planetarium trip class?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you think visiting the Colombo Planetarium is a good idea for our annual class trip?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you suggest to a classmate to share their 2B pencil because you forgot yours for the art class?
+  {
+    "modelAnswer": "Could I please borrow your 2B pencil for a while? I forgot to bring mine for the art class today.",
+    "studentAnswer": "Could I please borrow your 2B pencil for a while? I forgot to bring mine for the art class today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could I please borrow your 2B pencil for a while? I forgot to bring mine for the art class today.",
+    "studentAnswer": "Can I borrow your 2B pencil today because I forgot mine for drawing?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could I please borrow your 2B pencil for a while? I forgot to bring mine for the art class today.",
+    "studentAnswer": "Can we share your 2B pencil? I forgot my pencil today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could I please borrow your 2B pencil for a while? I forgot to bring mine for the art class today.",
+    "studentAnswer": "Please lend me your 2B pencil for the art class.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could I please borrow your 2B pencil for a while? I forgot to bring mine for the art class today.",
+    "studentAnswer": "Lend 2B pencil today please, forgot mine.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could I please borrow your 2B pencil for a while? I forgot to bring mine for the art class today.",
+    "studentAnswer": "The drawing book has white papers.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could I please borrow your 2B pencil for a while? I forgot to bring mine for the art class today.",
+    "studentAnswer": "I have a blue pen in my bag.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could I please borrow your 2B pencil for a while? I forgot to bring mine for the art class today.",
+    "studentAnswer": "Can you lend me your 2B pencil for art class?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could I please borrow your 2B pencil for a while? I forgot to bring mine for the art class today.",
+    "studentAnswer": "Borrow 2B pencil please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Could I please borrow your 2B pencil for a while? I forgot to bring mine for the art class today.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you describe how a Kevum sweet looks and tastes to a foreign visitor?
+  {
+    "modelAnswer": "Kevum is a traditional Sri Lankan sweet made of rice flour and treacle, which has a dome-like shape and a sweet, oily taste.",
+    "studentAnswer": "Kevum is a traditional Sri Lankan sweet made of rice flour and treacle, which has a dome-like shape and a sweet, oily taste.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Kevum is a traditional Sri Lankan sweet made of rice flour and treacle, which has a dome-like shape and a sweet, oily taste.",
+    "studentAnswer": "It is a sweet Sri Lankan food. It is round with a small bump on top and tastes very sweet.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Kevum is a traditional Sri Lankan sweet made of rice flour and treacle, which has a dome-like shape and a sweet, oily taste.",
+    "studentAnswer": "Kevum is a sweet made from treacle. It has a dome shape and sweet taste.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Kevum is a traditional Sri Lankan sweet made of rice flour and treacle, which has a dome-like shape and a sweet, oily taste.",
+    "studentAnswer": "Kevum sweet is brown color and oily.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Kevum is a traditional Sri Lankan sweet made of rice flour and treacle, which has a dome-like shape and a sweet, oily taste.",
+    "studentAnswer": "I eat Kevum during the Sinhala and Hindu New Year.",
+    "maxMarks": 6,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Kevum is a traditional Sri Lankan sweet made of rice flour and treacle, which has a dome-like shape and a sweet, oily taste.",
+    "studentAnswer": "Kevum is deep fried in coconut oil.",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Kevum is a traditional Sri Lankan sweet made of rice flour and treacle, which has a dome-like shape and a sweet, oily taste.",
+    "studentAnswer": "It is a traditional sweet with a dome shape and very sweet taste.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Kevum is a traditional Sri Lankan sweet made of rice flour and treacle, which has a dome-like shape and a sweet, oily taste.",
+    "studentAnswer": "Sweet brown dome shape food.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Kevum is a traditional Sri Lankan sweet made of rice flour and treacle, which has a dome-like shape and a sweet, oily taste.",
+    "studentAnswer": "Kevum taste is sweet.",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Kevum is a traditional Sri Lankan sweet made of rice flour and treacle, which has a dome-like shape and a sweet, oily taste.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you warn a classmate to stay away from the classroom wall because it has just been painted and is wet?
+  {
+    "modelAnswer": "Don't touch that wall! It was just painted and the paint is still wet.",
+    "studentAnswer": "Don't touch that wall! It was just painted and the paint is still wet.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't touch that wall! It was just painted and the paint is still wet.",
+    "studentAnswer": "Please keep away from the wall. The paint is wet.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't touch that wall! It was just painted and the paint is still wet.",
+    "studentAnswer": "Be careful, the wall has wet paint, do not touch it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't touch that wall! It was just painted and the paint is still wet.",
+    "studentAnswer": "Do not touch, the wall paint is wet.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Don't touch that wall! It was just painted and the paint is still wet.",
+    "studentAnswer": "Wet paint wall, stay away.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Don't touch that wall! It was just painted and the paint is still wet.",
+    "studentAnswer": "The wall color is light blue.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Don't touch that wall! It was just painted and the paint is still wet.",
+    "studentAnswer": "I have paint brushes in my desk.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Don't touch that wall! It was just painted and the paint is still wet.",
+    "studentAnswer": "Watch out, the wall paint is wet.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't touch that wall! It was just painted and the paint is still wet.",
+    "studentAnswer": "Wet paint, don't touch.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Don't touch that wall! It was just painted and the paint is still wet.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you ask a friend which school club they joined this term and what they do there?
+  {
+    "modelAnswer": "Which school club did you join this term? What activities do you do in it?",
+    "studentAnswer": "Which school club did you join this term? What activities do you do in it?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Which school club did you join this term? What activities do you do in it?",
+    "studentAnswer": "What is the club you joined this term? What do you do there?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Which school club did you join this term? What activities do you do in it?",
+    "studentAnswer": "Can you tell me which club you joined and the activities you do?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Which school club did you join this term? What activities do you do in it?",
+    "studentAnswer": "Which school club did you join this time?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Which school club did you join this term? What activities do you do in it?",
+    "studentAnswer": "School club name and activities?",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Which school club did you join this term? What activities do you do in it?",
+    "studentAnswer": "The school has an environment club.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Which school club did you join this term? What activities do you do in it?",
+    "studentAnswer": "Clubs meet on Wednesdays.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Which school club did you join this term? What activities do you do in it?",
+    "studentAnswer": "What school club did you join and what do you do?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Which school club did you join this term? What activities do you do in it?",
+    "studentAnswer": "Which club activities?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Which school club did you join this term? What activities do you do in it?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you thank the teacher who selected you to represent the school in the upcoming English debate?
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me to be in the school debate team. I will work hard to win the debate.",
+    "studentAnswer": "Thank you so much, teacher, for choosing me to be in the school debate team. I will work hard to win the debate.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me to be in the school debate team. I will work hard to win the debate.",
+    "studentAnswer": "Thank you teacher for selecting me for the English debate. I will do my best.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me to be in the school debate team. I will work hard to win the debate.",
+    "studentAnswer": "I am very thankful to you teacher for selecting me to represent the school in the debate.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me to be in the school debate team. I will work hard to win the debate.",
+    "studentAnswer": "Thanks teacher for debate selection.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me to be in the school debate team. I will work hard to win the debate.",
+    "studentAnswer": "Thank you for the debate team post.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me to be in the school debate team. I will work hard to win the debate.",
+    "studentAnswer": "Debate topic is mobile phone usage.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me to be in the school debate team. I will work hard to win the debate.",
+    "studentAnswer": "I like to speak loudly in front of people.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me to be in the school debate team. I will work hard to win the debate.",
+    "studentAnswer": "Thank you teacher, I will do my best in the debate.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me to be in the school debate team. I will work hard to win the debate.",
+    "studentAnswer": "Debate selection thank you.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me to be in the school debate team. I will work hard to win the debate.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you apologize to a classmate after accidentally stepping on their foot while walking to the blackboard?
+  {
+    "modelAnswer": "I am really sorry. I accidentally stepped on your foot while walking. I hope it doesn't hurt too much.",
+    "studentAnswer": "I am really sorry. I accidentally stepped on your foot while walking. I hope it doesn't hurt too much.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally stepped on your foot while walking. I hope it doesn't hurt too much.",
+    "studentAnswer": "Sorry, I stepped on your foot by accident. Are you okay?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally stepped on your foot while walking. I hope it doesn't hurt too much.",
+    "studentAnswer": "I am very sorry for stepping on your foot while walking to the blackboard.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally stepped on your foot while walking. I hope it doesn't hurt too much.",
+    "studentAnswer": "Sorry I stepped on your foot just now.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally stepped on your foot while walking. I hope it doesn't hurt too much.",
+    "studentAnswer": "Sorry, stepped on foot.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally stepped on your foot while walking. I hope it doesn't hurt too much.",
+    "studentAnswer": "The blackboard is green color.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally stepped on your foot while walking. I hope it doesn't hurt too much.",
+    "studentAnswer": "I wear clean socks.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally stepped on your foot while walking. I hope it doesn't hurt too much.",
+    "studentAnswer": "I am sorry for stepping on your foot, hope you are okay.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally stepped on your foot while walking. I hope it doesn't hurt too much.",
+    "studentAnswer": "Sorry foot step.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally stepped on your foot while walking. I hope it doesn't hurt too much.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

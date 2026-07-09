@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a class prefect where the teacher's staffroom is because you need to hand in your books?
+  {
+    "modelAnswer": "Excuse me, could you please tell me where the teacher's staffroom is? I need to hand in these exercise books.",
+    "studentAnswer": "Excuse me, could you please tell me where the teacher's staffroom is? I need to hand in these exercise books.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me where the teacher's staffroom is? I need to hand in these exercise books.",
+    "studentAnswer": "Excuse me, where is the staffroom? I want to hand in these books.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me where the teacher's staffroom is? I need to hand in these exercise books.",
+    "studentAnswer": "Can you tell me where the teachers' staffroom is? I need to give these books.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me where the teacher's staffroom is? I need to hand in these exercise books.",
+    "studentAnswer": "Where is the staffroom to give these books?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me where the teacher's staffroom is? I need to hand in these exercise books.",
+    "studentAnswer": "Where is staffroom please?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me where the teacher's staffroom is? I need to hand in these exercise books.",
+    "studentAnswer": "The books are heavy.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me where the teacher's staffroom is? I need to hand in these exercise books.",
+    "studentAnswer": "I don't like reading books.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me where the teacher's staffroom is? I need to hand in these exercise books.",
+    "studentAnswer": "Excuse me, where can I find the staffroom to submit my books?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me where the teacher's staffroom is? I need to hand in these exercise books.",
+    "studentAnswer": "Staffroom location to give books please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me where the teacher's staffroom is? I need to hand in these exercise books.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you invite a classmate to come to your house for tea after school?
+  {
+    "modelAnswer": "Would you like to come over to my house for some tea and snacks this afternoon after school?",
+    "studentAnswer": "Would you like to come over to my house for some tea and snacks this afternoon after school?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to come over to my house for some tea and snacks this afternoon after school?",
+    "studentAnswer": "Can you come to my house for tea after school today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to come over to my house for some tea and snacks this afternoon after school?",
+    "studentAnswer": "Shall we go to my house for tea and snacks after school today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to come over to my house for some tea and snacks this afternoon after school?",
+    "studentAnswer": "Would you like to visit my house for tea after class?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to come over to my house for some tea and snacks this afternoon after school?",
+    "studentAnswer": "Come to my house for tea today.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Would you like to come over to my house for some tea and snacks this afternoon after school?",
+    "studentAnswer": "Tea is very hot.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Would you like to come over to my house for some tea and snacks this afternoon after school?",
+    "studentAnswer": "My house has a red gate.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Would you like to come over to my house for some tea and snacks this afternoon after school?",
+    "studentAnswer": "Do you want to come to my house to have tea after school?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to come over to my house for some tea and snacks this afternoon after school?",
+    "studentAnswer": "Tea at my house after school?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Would you like to come over to my house for some tea and snacks this afternoon after school?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you ask the school librarian how many books a student can borrow at one time?
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many books we are allowed to borrow at one time?",
+    "studentAnswer": "Excuse me, teacher. Could you please tell me how many books we are allowed to borrow at one time?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many books we are allowed to borrow at one time?",
+    "studentAnswer": "Excuse me teacher, how many books can I borrow at a time?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many books we are allowed to borrow at one time?",
+    "studentAnswer": "Can you tell me the number of books we can borrow from the library, please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many books we are allowed to borrow at one time?",
+    "studentAnswer": "How many books can we borrow, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many books we are allowed to borrow at one time?",
+    "studentAnswer": "Show me book borrowing rules.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many books we are allowed to borrow at one time?",
+    "studentAnswer": "The library is very quiet.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many books we are allowed to borrow at one time?",
+    "studentAnswer": "I have to return this book.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many books we are allowed to borrow at one time?",
+    "studentAnswer": "Excuse me, what is the book borrowing limit here?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many books we are allowed to borrow at one time?",
+    "studentAnswer": "Book borrowing count please?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many books we are allowed to borrow at one time?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you ask a teacher for permission to go to the sickroom because you have a stomach ache?
+  {
+    "modelAnswer": "Excuse me, teacher. May I please go to the sickroom? I have a severe stomach ache.",
+    "studentAnswer": "Excuse me, teacher. May I please go to the sickroom? I have a severe stomach ache.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. May I please go to the sickroom? I have a severe stomach ache.",
+    "studentAnswer": "Teacher, can I go to the sickroom? My stomach is hurting.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. May I please go to the sickroom? I have a severe stomach ache.",
+    "studentAnswer": "Excuse me teacher, I have a stomach ache. May I visit the sickroom?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. May I please go to the sickroom? I have a severe stomach ache.",
+    "studentAnswer": "I have a stomach pain, teacher. Can I go to the sickroom?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. May I please go to the sickroom? I have a severe stomach ache.",
+    "studentAnswer": "Stomach pain, going to sickroom.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. May I please go to the sickroom? I have a severe stomach ache.",
+    "studentAnswer": "The sickroom is near the office.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. May I please go to the sickroom? I have a severe stomach ache.",
+    "studentAnswer": "I have a new water bottle.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. May I please go to the sickroom? I have a severe stomach ache.",
+    "studentAnswer": "Teacher, I want to go to the sickroom because of my stomach ache.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. May I please go to the sickroom? I have a severe stomach ache.",
+    "studentAnswer": "Sickroom please, stomach ache.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. May I please go to the sickroom? I have a severe stomach ache.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you tell a friend about a film you watched last weekend?
+  {
+    "modelAnswer": "I watched an interesting film about wildlife conservation last Sunday, and the cinematography was amazing.",
+    "studentAnswer": "I watched an interesting film about wildlife conservation last Sunday, and the cinematography was amazing.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "I watched an interesting film about wildlife conservation last Sunday, and the cinematography was amazing.",
+    "studentAnswer": "I saw an interesting movie about wildlife conservation last Sunday. It was beautiful.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "I watched an interesting film about wildlife conservation last Sunday, and the cinematography was amazing.",
+    "studentAnswer": "I watched a film about wildlife conservation last Sunday and liked it very much.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I watched an interesting film about wildlife conservation last Sunday, and the cinematography was amazing.",
+    "studentAnswer": "I watched a movie about wildlife last weekend. It was nice.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I watched an interesting film about wildlife conservation last Sunday, and the cinematography was amazing.",
+    "studentAnswer": "I watched a film last weekend.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I watched an interesting film about wildlife conservation last Sunday, and the cinematography was amazing.",
+    "studentAnswer": "The cinema hall has a big screen.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I watched an interesting film about wildlife conservation last Sunday, and the cinematography was amazing.",
+    "studentAnswer": "Wild animals are very dangerous.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I watched an interesting film about wildlife conservation last Sunday, and the cinematography was amazing.",
+    "studentAnswer": "I watched a very interesting film about wildlife conservation.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I watched an interesting film about wildlife conservation last Sunday, and the cinematography was amazing.",
+    "studentAnswer": "Wildlife movie was good.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I watched an interesting film about wildlife conservation last Sunday, and the cinematography was amazing.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you express your opinion to a classmate on why plastic should be banned in school?
+  {
+    "modelAnswer": "I think we should ban plastic water bottles in school because they pollute our playground and damage the environment.",
+    "studentAnswer": "I think we should ban plastic water bottles in school because they pollute our playground and damage the environment.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I think we should ban plastic water bottles in school because they pollute our playground and damage the environment.",
+    "studentAnswer": "In my opinion, we should ban plastic bottles in school because they harm the environment.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I think we should ban plastic water bottles in school because they pollute our playground and damage the environment.",
+    "studentAnswer": "We must stop using plastic bottles in school because they pollute our playground.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I think we should ban plastic water bottles in school because they pollute our playground and damage the environment.",
+    "studentAnswer": "Plastic bottles pollute the school, so we should ban them.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I think we should ban plastic water bottles in school because they pollute our playground and damage the environment.",
+    "studentAnswer": "Ban plastic water bottles in school.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I think we should ban plastic water bottles in school because they pollute our playground and damage the environment.",
+    "studentAnswer": "Plastic bottles are cheap to buy.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I think we should ban plastic water bottles in school because they pollute our playground and damage the environment.",
+    "studentAnswer": "I have a steel water bottle.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I think we should ban plastic water bottles in school because they pollute our playground and damage the environment.",
+    "studentAnswer": "I think plastic water bottles are bad for our school environment.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I think we should ban plastic water bottles in school because they pollute our playground and damage the environment.",
+    "studentAnswer": "Plastic bottles pollute playground.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I think we should ban plastic water bottles in school because they pollute our playground and damage the environment.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you ask a shopkeeper if they have mapping pens in stock?
+  {
+    "modelAnswer": "Excuse me, do you have mapping pens in your shop, or are they out of stock?",
+    "studentAnswer": "Excuse me, do you have mapping pens in your shop, or are they out of stock?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, do you have mapping pens in your shop, or are they out of stock?",
+    "studentAnswer": "Excuse me, are mapping pens available in your shop today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, do you have mapping pens in your shop, or are they out of stock?",
+    "studentAnswer": "Do you have mapping pens in stock, please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, do you have mapping pens in your shop, or are they out of stock?",
+    "studentAnswer": "Excuse me, do you sell mapping pens here?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, do you have mapping pens in your shop, or are they out of stock?",
+    "studentAnswer": "Do you have mapping pens?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, do you have mapping pens in your shop, or are they out of stock?",
+    "studentAnswer": "Mapping pens are used to draw geography maps.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, do you have mapping pens in your shop, or are they out of stock?",
+    "studentAnswer": "I want to buy some geography books.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, do you have mapping pens in your shop, or are they out of stock?",
+    "studentAnswer": "Excuse me, are mapping pens in stock?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, do you have mapping pens in your shop, or are they out of stock?",
+    "studentAnswer": "Mapping pens please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Excuse me, do you have mapping pens in your shop, or are they out of stock?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you advise a classmate to study early for the term test to avoid getting low marks?
+  {
+    "modelAnswer": "You should start studying for the term test from now on so you won't have to rush at the last minute.",
+    "studentAnswer": "You should start studying for the term test from now on so you won't have to rush at the last minute.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "You should start studying for the term test from now on so you won't have to rush at the last minute.",
+    "studentAnswer": "Please study early for the term test. Don't wait until the last minute.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "You should start studying for the term test from now on so you won't have to rush at the last minute.",
+    "studentAnswer": "I suggest you study for the term test early to get high marks.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "You should start studying for the term test from now on so you won't have to rush at the last minute.",
+    "studentAnswer": "You must study now for the term test, otherwise you will get low marks.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "You should start studying for the term test from now on so you won't have to rush at the last minute.",
+    "studentAnswer": "Study for term test early.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "You should start studying for the term test from now on so you won't have to rush at the last minute.",
+    "studentAnswer": "Term test has many papers.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "You should start studying for the term test from now on so you won't have to rush at the last minute.",
+    "studentAnswer": "I got high marks last term.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "You should start studying for the term test from now on so you won't have to rush at the last minute.",
+    "studentAnswer": "You should study early for the term test to avoid rushing.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "You should start studying for the term test from now on so you won't have to rush at the last minute.",
+    "studentAnswer": "Study early for term test.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "You should start studying for the term test from now on so you won't have to rush at the last minute.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you thank a classmate for lending you their umbrella when it started raining heavily after school?
+  {
+    "modelAnswer": "Thank you so much for sharing your umbrella with me yesterday when it rained. Otherwise, I would have got wet!",
+    "studentAnswer": "Thank you so much for sharing your umbrella with me yesterday when it rained. Otherwise, I would have got wet!",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for sharing your umbrella with me yesterday when it rained. Otherwise, I would have got wet!",
+    "studentAnswer": "Thank you very much for sharing your umbrella yesterday. I didn't get wet.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for sharing your umbrella with me yesterday when it rained. Otherwise, I would have got wet!",
+    "studentAnswer": "Thanks a lot for lending me your umbrella in the rain yesterday.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for sharing your umbrella with me yesterday when it rained. Otherwise, I would have got wet!",
+    "studentAnswer": "Thanks for the umbrella yesterday when it rained.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you so much for sharing your umbrella with me yesterday when it rained. Otherwise, I would have got wet!",
+    "studentAnswer": "Thanks for umbrella help.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Thank you so much for sharing your umbrella with me yesterday when it rained. Otherwise, I would have got wet!",
+    "studentAnswer": "It rained heavily last evening.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much for sharing your umbrella with me yesterday when it rained. Otherwise, I would have got wet!",
+    "studentAnswer": "I have a blue umbrella at home.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much for sharing your umbrella with me yesterday when it rained. Otherwise, I would have got wet!",
+    "studentAnswer": "Thank you for sharing your umbrella with me when it rained.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you so much for sharing your umbrella with me yesterday when it rained. Otherwise, I would have got wet!",
+    "studentAnswer": "Umbrella sharing thank you.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much for sharing your umbrella with me yesterday when it rained. Otherwise, I would have got wet!",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you suggest to clean the classroom cupboard during the free period?
+  {
+    "modelAnswer": "Shall we clean and organize our classroom cupboard during this free period?",
+    "studentAnswer": "Shall we clean and organize our classroom cupboard during this free period?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we clean and organize our classroom cupboard during this free period?",
+    "studentAnswer": "Can we clean the classroom cupboard during this free period?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we clean and organize our classroom cupboard during this free period?",
+    "studentAnswer": "Let's clean and organize our classroom cupboard now.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we clean and organize our classroom cupboard during this free period?",
+    "studentAnswer": "Would you like to clean the classroom cupboard during this free period?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Shall we clean and organize our classroom cupboard during this free period?",
+    "studentAnswer": "Clean the classroom cupboard now?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall we clean and organize our classroom cupboard during this free period?",
+    "studentAnswer": "The cupboard has many books.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall we clean and organize our classroom cupboard during this free period?",
+    "studentAnswer": "I have to write on the blackboard.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall we clean and organize our classroom cupboard during this free period?",
+    "studentAnswer": "Shall we clean our classroom cupboard today during the free period?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we clean and organize our classroom cupboard during this free period?",
+    "studentAnswer": "Cupboard clean in free period?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall we clean and organize our classroom cupboard during this free period?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

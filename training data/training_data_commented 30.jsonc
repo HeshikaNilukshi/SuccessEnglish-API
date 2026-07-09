@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a classmate to borrow or share their science textbook because you forgot yours at home?
+  {
+    "modelAnswer": "Excuse me, I forgot my science textbook today. Could I please share yours or borrow it for this period?",
+    "studentAnswer": "Excuse me, I forgot my science textbook today. Could I please share yours or borrow it for this period?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my science textbook today. Could I please share yours or borrow it for this period?",
+    "studentAnswer": "I forgot my science textbook. Can I share yours for this period, please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my science textbook today. Could I please share yours or borrow it for this period?",
+    "studentAnswer": "Excuse me, can I borrow your science textbook? I left mine at home today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my science textbook today. Could I please share yours or borrow it for this period?",
+    "studentAnswer": "Please share your science textbook with me. I forgot mine.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my science textbook today. Could I please share yours or borrow it for this period?",
+    "studentAnswer": "Can I take your science textbook?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my science textbook today. Could I please share yours or borrow it for this period?",
+    "studentAnswer": "Science is very interesting to study.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my science textbook today. Could I please share yours or borrow it for this period?",
+    "studentAnswer": "I have a new workbook.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my science textbook today. Could I please share yours or borrow it for this period?",
+    "studentAnswer": "Excuse me, do you have a science textbook to share for this class?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my science textbook today. Could I please share yours or borrow it for this period?",
+    "studentAnswer": "Science book please, forgot mine.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my science textbook today. Could I please share yours or borrow it for this period?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you welcome a new student who has just joined your school chess club?
+  {
+    "modelAnswer": "Welcome to our chess club! We are very happy to have you join us and look forward to playing friendly matches together.",
+    "studentAnswer": "Welcome to our chess club! We are very happy to have you join us and look forward to playing friendly matches together.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Welcome to our chess club! We are very happy to have you join us and look forward to playing friendly matches together.",
+    "studentAnswer": "A warm welcome to our chess club! We are happy to play friendly chess matches with you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Welcome to our chess club! We are very happy to have you join us and look forward to playing friendly matches together.",
+    "studentAnswer": "Welcome to our chess club! We are excited to play chess together.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Welcome to our chess club! We are very happy to have you join us and look forward to playing friendly matches together.",
+    "studentAnswer": "Welcome to the chess club, we are happy you are here.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Welcome to our chess club! We are very happy to have you join us and look forward to playing friendly matches together.",
+    "studentAnswer": "Welcome to our chess club.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Welcome to our chess club! We are very happy to have you join us and look forward to playing friendly matches together.",
+    "studentAnswer": "The chess lab has many new chessboards.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Welcome to our chess club! We are very happy to have you join us and look forward to playing friendly matches together.",
+    "studentAnswer": "I like board games.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Welcome to our chess club! We are very happy to have you join us and look forward to playing friendly matches together.",
+    "studentAnswer": "Hello, welcome to our chess club. Glad to meet you.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Welcome to our chess club! We are very happy to have you join us and look forward to playing friendly matches together.",
+    "studentAnswer": "Welcome new player to chess club.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Welcome to our chess club! We are very happy to have you join us and look forward to playing friendly matches together.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you request a classmate to turn on the classroom fan because it is very hot?
+  {
+    "modelAnswer": "Could you please switch on that classroom fan? It is extremely hot today.",
+    "studentAnswer": "Could you please switch on that classroom fan? It is extremely hot today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please switch on that classroom fan? It is extremely hot today.",
+    "studentAnswer": "Can you please turn on the classroom fan? It's very hot.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please switch on that classroom fan? It is extremely hot today.",
+    "studentAnswer": "Please turn on the fan. It is very hot in the classroom today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please switch on that classroom fan? It is extremely hot today.",
+    "studentAnswer": "Would you mind switching on the classroom fan? It's hot.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please switch on that classroom fan? It is extremely hot today.",
+    "studentAnswer": "Turn on the fan please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could you please switch on that classroom fan? It is extremely hot today.",
+    "studentAnswer": "The classroom has thirty desks.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please switch on that classroom fan? It is extremely hot today.",
+    "studentAnswer": "I have completed my science writing.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please switch on that classroom fan? It is extremely hot today.",
+    "studentAnswer": "Can you turn on the fan please?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could you please switch on that classroom fan? It is extremely hot today.",
+    "studentAnswer": "Classroom fan please, very hot.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could you please switch on that classroom fan? It is extremely hot today.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you apologize to a teacher for not completing your homework because you were sick?
+  {
+    "modelAnswer": "I am very sorry, teacher. I could not complete my homework because I was suffering from a high fever yesterday.",
+    "studentAnswer": "I am very sorry, teacher. I could not complete my homework because I was suffering from a high fever yesterday.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I could not complete my homework because I was suffering from a high fever yesterday.",
+    "studentAnswer": "Sorry teacher, I did not do my homework because I had a high fever yesterday.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I could not complete my homework because I was suffering from a high fever yesterday.",
+    "studentAnswer": "Teacher, I am sorry. I forgot to do my homework because I was sick yesterday.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I could not complete my homework because I was suffering from a high fever yesterday.",
+    "studentAnswer": "I am sorry teacher, I could not do my homework because of fever.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I could not complete my homework because I was suffering from a high fever yesterday.",
+    "studentAnswer": "Sorry teacher, homework not done because sick.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I could not complete my homework because I was suffering from a high fever yesterday.",
+    "studentAnswer": "The medicine is very bitter.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I could not complete my homework because I was suffering from a high fever yesterday.",
+    "studentAnswer": "I went to the hospital yesterday.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I could not complete my homework because I was suffering from a high fever yesterday.",
+    "studentAnswer": "I could not do my homework because I had a fever, sorry teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I could not complete my homework because I was suffering from a high fever yesterday.",
+    "studentAnswer": "Homework not completed, sorry.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am very sorry, teacher. I could not complete my homework because I was suffering from a high fever yesterday.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you tell a friend about your plans to join the school scouting group?
+  {
+    "modelAnswer": "I am planning to join the school scouts because I want to learn camping skills and go on outdoor hikes.",
+    "studentAnswer": "I am planning to join the school scouts because I want to learn camping skills and go on outdoor hikes.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am planning to join the school scouts because I want to learn camping skills and go on outdoor hikes.",
+    "studentAnswer": "I want to join the school scouts. I want to learn camping and go on hikes.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am planning to join the school scouts because I want to learn camping skills and go on outdoor hikes.",
+    "studentAnswer": "I will join the scouts at school to learn camping and outdoor hikes.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am planning to join the school scouts because I want to learn camping skills and go on outdoor hikes.",
+    "studentAnswer": "I am going to join the school scouts because I like camping.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am planning to join the school scouts because I want to learn camping skills and go on outdoor hikes.",
+    "studentAnswer": "I want to join school scouts.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am planning to join the school scouts because I want to learn camping skills and go on outdoor hikes.",
+    "studentAnswer": "Scout uniforms are very smart.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am planning to join the school scouts because I want to learn camping skills and go on outdoor hikes.",
+    "studentAnswer": "I have scout badges at home.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am planning to join the school scouts because I want to learn camping skills and go on outdoor hikes.",
+    "studentAnswer": "I plan to join the scouts to learn how to camp.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am planning to join the school scouts because I want to learn camping skills and go on outdoor hikes.",
+    "studentAnswer": "Scouts group is good.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "I am planning to join the school scouts because I want to learn camping skills and go on outdoor hikes.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you ask a shopkeeper for the price of a box of colored chalk?
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this box of colored chalk costs?",
+    "studentAnswer": "Excuse me, could you please tell me how much this box of colored chalk costs?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this box of colored chalk costs?",
+    "studentAnswer": "Excuse me, how much is this colored chalk box?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this box of colored chalk costs?",
+    "studentAnswer": "Can you tell me the price of this colored chalk box, please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this box of colored chalk costs?",
+    "studentAnswer": "What is the price of this colored chalk box?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this box of colored chalk costs?",
+    "studentAnswer": "How much for this colored chalk?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this box of colored chalk costs?",
+    "studentAnswer": "The colored chalk is made of gypsum.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this box of colored chalk costs?",
+    "studentAnswer": "I want to buy some white board markers.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this box of colored chalk costs?",
+    "studentAnswer": "Excuse me, can you tell me the price of this chalk?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this box of colored chalk costs?",
+    "studentAnswer": "Colored chalk price please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how much this box of colored chalk costs?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you ask a parent for permission to go to a classmate's house to study for the science test?
+  {
+    "modelAnswer": "Amma, may I please go to my classmate's house this afternoon to study together for our science test?",
+    "studentAnswer": "Amma, may I please go to my classmate's house this afternoon to study together for our science test?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Amma, may I please go to my classmate's house this afternoon to study together for our science test?",
+    "studentAnswer": "Mother, can I go to my classmate's house today to study for the science test?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Amma, may I please go to my classmate's house this afternoon to study together for our science test?",
+    "studentAnswer": "Mother, please let me go to my classmate's house to study science.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Amma, may I please go to my classmate's house this afternoon to study together for our science test?",
+    "studentAnswer": "Can I stay back at my classmate's house to study science today?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Amma, may I please go to my classmate's house this afternoon to study together for our science test?",
+    "studentAnswer": "Can I go to my classmate's house to study?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Amma, may I please go to my classmate's house this afternoon to study together for our science test?",
+    "studentAnswer": "Science tests are very hard.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Amma, may I please go to my classmate's house this afternoon to study together for our science test?",
+    "studentAnswer": "I have to buy a new science notebook.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Amma, may I please go to my classmate's house this afternoon to study together for our science test?",
+    "studentAnswer": "Amma, can I go to my friend's house to study science today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Amma, may I please go to my classmate's house this afternoon to study together for our science test?",
+    "studentAnswer": "Go to friend's house to study today?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Amma, may I please go to my classmate's house this afternoon to study together for our science test?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you tell a friend about your favorite Sri Lankan historical place?
+  {
+    "modelAnswer": "My favorite historical place in Sri Lanka is Sigiriya because of the ancient palace on top of the rock and the beautiful frescoes.",
+    "studentAnswer": "My favorite historical place in Sri Lanka is Sigiriya because of the ancient palace on top of the rock and the beautiful frescoes.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "My favorite historical place in Sri Lanka is Sigiriya because of the ancient palace on top of the rock and the beautiful frescoes.",
+    "studentAnswer": "I like Sigiriya most because of the ancient palace on the rock and its frescoes.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "My favorite historical place in Sri Lanka is Sigiriya because of the ancient palace on top of the rock and the beautiful frescoes.",
+    "studentAnswer": "Sigiriya is my favorite historical place. I like the frescoes there.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "My favorite historical place in Sri Lanka is Sigiriya because of the ancient palace on top of the rock and the beautiful frescoes.",
+    "studentAnswer": "I like Sigiriya because it has an ancient palace on top.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "My favorite historical place in Sri Lanka is Sigiriya because of the ancient palace on top of the rock and the beautiful frescoes.",
+    "studentAnswer": "My favorite place is Sigiriya.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "My favorite historical place in Sri Lanka is Sigiriya because of the ancient palace on top of the rock and the beautiful frescoes.",
+    "studentAnswer": "Sigiriya is located in the Central Province.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "My favorite historical place in Sri Lanka is Sigiriya because of the ancient palace on top of the rock and the beautiful frescoes.",
+    "studentAnswer": "Sri Lanka has many historical ruins.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "My favorite historical place in Sri Lanka is Sigiriya because of the ancient palace on top of the rock and the beautiful frescoes.",
+    "studentAnswer": "Sigiriya is my favorite historical place in Sri Lanka.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "My favorite historical place in Sri Lanka is Sigiriya because of the ancient palace on top of the rock and the beautiful frescoes.",
+    "studentAnswer": "I like ancient Sigiriya rock.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "My favorite historical place in Sri Lanka is Sigiriya because of the ancient palace on top of the rock and the beautiful frescoes.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you thank a classmate for helping you study for a difficult mathematics test?
+  {
+    "modelAnswer": "Thank you so much for explaining the algebra lessons to me. I got very good marks on the mathematics test!",
+    "studentAnswer": "Thank you so much for explaining the algebra lessons to me. I got very good marks on the mathematics test!",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the algebra lessons to me. I got very good marks on the mathematics test!",
+    "studentAnswer": "Thank you very much for explaining the algebra lessons. I got good marks.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the algebra lessons to me. I got very good marks on the mathematics test!",
+    "studentAnswer": "Thanks a lot for helping me with algebra study. I passed the test.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the algebra lessons to me. I got very good marks on the mathematics test!",
+    "studentAnswer": "Thanks for explaining algebra, I got good marks.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the algebra lessons to me. I got very good marks on the mathematics test!",
+    "studentAnswer": "Thanks for mathematics study help.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the algebra lessons to me. I got very good marks on the mathematics test!",
+    "studentAnswer": "Mathematics test was yesterday afternoon.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the algebra lessons to me. I got very good marks on the mathematics test!",
+    "studentAnswer": "I like drawing algebra expressions.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the algebra lessons to me. I got very good marks on the mathematics test!",
+    "studentAnswer": "Thank you for explaining the algebra lessons to me.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the algebra lessons to me. I got very good marks on the mathematics test!",
+    "studentAnswer": "Mathematics test passed, thank you.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much for explaining the algebra lessons to me. I got very good marks on the mathematics test!",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you suggest to go for a run in the sports field this evening?
+  {
+    "modelAnswer": "Shall we go for a run in the school sports field this evening to get some exercise?",
+    "studentAnswer": "Shall we go for a run in the school sports field this evening to get some exercise?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go for a run in the school sports field this evening to get some exercise?",
+    "studentAnswer": "Can we go for a run in the school sports field this evening?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go for a run in the school sports field this evening to get some exercise?",
+    "studentAnswer": "Let's run in the school sports field this evening when it is cool.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go for a run in the school sports field this evening to get some exercise?",
+    "studentAnswer": "Would you like to run in the sports field this evening?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Shall we go for a run in the school sports field this evening to get some exercise?",
+    "studentAnswer": "Run in the sports field this evening?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall we go for a run in the school sports field this evening to get some exercise?",
+    "studentAnswer": "The school sports field is very dry.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall we go for a run in the school sports field this evening to get some exercise?",
+    "studentAnswer": "I have white running shoes.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall we go for a run in the school sports field this evening to get some exercise?",
+    "studentAnswer": "Shall we go to the sports field for a run today evening?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go for a run in the school sports field this evening to get some exercise?",
+    "studentAnswer": "Field run this evening?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall we go for a run in the school sports field this evening to get some exercise?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

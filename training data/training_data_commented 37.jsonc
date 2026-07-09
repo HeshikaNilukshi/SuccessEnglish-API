@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a school librarian how many days a student can keep a borrowed book?
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many days I am allowed to keep a library book?",
+    "studentAnswer": "Excuse me, teacher. Could you please tell me how many days I am allowed to keep a library book?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many days I am allowed to keep a library book?",
+    "studentAnswer": "Excuse me, do you know how many days we can keep a borrowed book from the library?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many days I am allowed to keep a library book?",
+    "studentAnswer": "Librarian teacher, can you tell me the duration we can keep a book?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many days I am allowed to keep a library book?",
+    "studentAnswer": "How many days can I keep the library book?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many days I am allowed to keep a library book?",
+    "studentAnswer": "Library book borrowing duration in days please?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many days I am allowed to keep a library book?",
+    "studentAnswer": "The library has five thousand novels.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many days I am allowed to keep a library book?",
+    "studentAnswer": "I returned my math book yesterday.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many days I am allowed to keep a library book?",
+    "studentAnswer": "Excuse me, when should I return the library book?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many days I am allowed to keep a library book?",
+    "studentAnswer": "Book return days limit?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please tell me how many days I am allowed to keep a library book?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you ask a classmate sitting next to you how heavy their schoolbag is?
+  {
+    "modelAnswer": "Do you know how many kilograms your schoolbag weighs? It looks very heavy.",
+    "studentAnswer": "Do you know how many kilograms your schoolbag weighs? It looks very heavy.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many kilograms your schoolbag weighs? It looks very heavy.",
+    "studentAnswer": "How heavy is your schoolbag? How many kilograms is it?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many kilograms your schoolbag weighs? It looks very heavy.",
+    "studentAnswer": "Can you tell me the weight of your schoolbag?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many kilograms your schoolbag weighs? It looks very heavy.",
+    "studentAnswer": "Is your schoolbag very heavy to carry?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Do you know how many kilograms your schoolbag weighs? It looks very heavy.",
+    "studentAnswer": "Schoolbag weight in kilograms?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you know how many kilograms your schoolbag weighs? It looks very heavy.",
+    "studentAnswer": "My schoolbag is blue color with straps.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you know how many kilograms your schoolbag weighs? It looks very heavy.",
+    "studentAnswer": "I have ten text books in my bag.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you know how many kilograms your schoolbag weighs? It looks very heavy.",
+    "studentAnswer": "Do you know the weight of your bag?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many kilograms your schoolbag weighs? It looks very heavy.",
+    "studentAnswer": "Bag weight kilograms?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you know how many kilograms your schoolbag weighs? It looks very heavy.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you volunteer to arrange the text books in the classroom cupboard?
+  {
+    "modelAnswer": "Teacher, may I help you arrange the textbooks inside the classroom cupboard?",
+    "studentAnswer": "Teacher, may I help you arrange the textbooks inside the classroom cupboard?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I help you arrange the textbooks inside the classroom cupboard?",
+    "studentAnswer": "Can I volunteer to organize the books in the cupboard today, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I help you arrange the textbooks inside the classroom cupboard?",
+    "studentAnswer": "Teacher, let me arrange the text books inside the classroom shelf.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I help you arrange the textbooks inside the classroom cupboard?",
+    "studentAnswer": "I will organize the cupboard books now, teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I help you arrange the textbooks inside the classroom cupboard?",
+    "studentAnswer": "Arrange cupboard textbooks today, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Teacher, may I help you arrange the textbooks inside the classroom cupboard?",
+    "studentAnswer": "The cupboard is made of grey metal and glass.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Teacher, may I help you arrange the textbooks inside the classroom cupboard?",
+    "studentAnswer": "We should lock the cupboard after class.",
+    "maxMarks": 5,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Teacher, may I help you arrange the textbooks inside the classroom cupboard?",
+    "studentAnswer": "Teacher, I want to arrange the textbooks.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Teacher, may I help you arrange the textbooks inside the classroom cupboard?",
+    "studentAnswer": "Arrange textbooks please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Teacher, may I help you arrange the textbooks inside the classroom cupboard?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you ask a friend for their opinion on the new blue paint color on our classroom wall?
+  {
+    "modelAnswer": "What do you think of the new blue paint color on our classroom wall? Do you like it?",
+    "studentAnswer": "What do you think of the new blue paint color on our classroom wall? Do you like it?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new blue paint color on our classroom wall? Do you like it?",
+    "studentAnswer": "How is the new blue wall paint? Do you prefer it?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new blue paint color on our classroom wall? Do you like it?",
+    "studentAnswer": "What is your opinion on the new blue color of our classroom walls?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new blue paint color on our classroom wall? Do you like it?",
+    "studentAnswer": "Do you like the new blue classroom wall paint?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "What do you think of the new blue paint color on our classroom wall? Do you like it?",
+    "studentAnswer": "Classroom wall blue color, good or bad?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you think of the new blue paint color on our classroom wall? Do you like it?",
+    "studentAnswer": "The classroom has four windows and a door.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you think of the new blue paint color on our classroom wall? Do you like it?",
+    "studentAnswer": "I hung a calendar on the wall.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you think of the new blue paint color on our classroom wall? Do you like it?",
+    "studentAnswer": "Do you think the new wall color looks beautiful?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new blue paint color on our classroom wall? Do you like it?",
+    "studentAnswer": "Wall paint color opinion?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you think of the new blue paint color on our classroom wall? Do you like it?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you suggest to a classmate to share their eraser because yours fell through a gap in the floorboard?
+  {
+    "modelAnswer": "Could we please share your eraser for this exam? I dropped mine through the floorboard gap.",
+    "studentAnswer": "Could we please share your eraser for this exam? I dropped mine through the floorboard gap.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your eraser for this exam? I dropped mine through the floorboard gap.",
+    "studentAnswer": "Can I share your eraser today because mine fell through the wooden floor gap?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your eraser for this exam? I dropped mine through the floorboard gap.",
+    "studentAnswer": "Can we share your eraser during the test? I lost mine in the floorboard gap.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your eraser for this exam? I dropped mine through the floorboard gap.",
+    "studentAnswer": "Please lend me your eraser since I dropped mine.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your eraser for this exam? I dropped mine through the floorboard gap.",
+    "studentAnswer": "Share eraser today please, dropped mine.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could we please share your eraser for this exam? I dropped mine through the floorboard gap.",
+    "studentAnswer": "The exam is one hour long.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could we please share your eraser for this exam? I dropped mine through the floorboard gap.",
+    "studentAnswer": "The floorboards are old teak wood.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could we please share your eraser for this exam? I dropped mine through the floorboard gap.",
+    "studentAnswer": "Can we share the eraser for a moment?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could we please share your eraser for this exam? I dropped mine through the floorboard gap.",
+    "studentAnswer": "Share eraser, dropped mine.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Could we please share your eraser for this exam? I dropped mine through the floorboard gap.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you describe Woodapple juice to a foreign visitor?
+  {
+    "modelAnswer": "Woodapple juice is a thick, brown, sweet and sour Sri Lankan drink made from the pulp of woodapple fruit mixed with water and sugar.",
+    "studentAnswer": "Woodapple juice is a thick, brown, sweet and sour Sri Lankan drink made from the pulp of woodapple fruit mixed with water and sugar.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Woodapple juice is a thick, brown, sweet and sour Sri Lankan drink made from the pulp of woodapple fruit mixed with water and sugar.",
+    "studentAnswer": "It is a sweet and sour brown juice. We mix woodapple pulp with sugar, salt, and water.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Woodapple juice is a thick, brown, sweet and sour Sri Lankan drink made from the pulp of woodapple fruit mixed with water and sugar.",
+    "studentAnswer": "Woodapple juice is a thick brown local beverage with a sweet-sour taste made from woodapple pulp.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Woodapple juice is a thick, brown, sweet and sour Sri Lankan drink made from the pulp of woodapple fruit mixed with water and sugar.",
+    "studentAnswer": "Woodapple juice has woodapple pulp and sugar.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Woodapple juice is a thick, brown, sweet and sour Sri Lankan drink made from the pulp of woodapple fruit mixed with water and sugar.",
+    "studentAnswer": "I drink woodapple juice with my lunch.",
+    "maxMarks": 6,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Woodapple juice is a thick, brown, sweet and sour Sri Lankan drink made from the pulp of woodapple fruit mixed with water and sugar.",
+    "studentAnswer": "Woodapple has a hard outer shell.",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Woodapple juice is a thick, brown, sweet and sour Sri Lankan drink made from the pulp of woodapple fruit mixed with water and sugar.",
+    "studentAnswer": "It is a thick brown local drink made of woodapple pulp, coconut milk, and sugar.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Woodapple juice is a thick, brown, sweet and sour Sri Lankan drink made from the pulp of woodapple fruit mixed with water and sugar.",
+    "studentAnswer": "Thick brown sweet sour fruit juice.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Woodapple juice is a thick, brown, sweet and sour Sri Lankan drink made from the pulp of woodapple fruit mixed with water and sugar.",
+    "studentAnswer": "Woodapple juice is very sour.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Woodapple juice is a thick, brown, sweet and sour Sri Lankan drink made from the pulp of woodapple fruit mixed with water and sugar.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you warn a classmate not to touch the school gate because it has just been painted green?
+  {
+    "modelAnswer": "Don't touch that gate! It was painted green just now and is still wet.",
+    "studentAnswer": "Don't touch that gate! It was painted green just now and is still wet.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't touch that gate! It was painted green just now and is still wet.",
+    "studentAnswer": "Please don't lean on the gate. The green paint is wet.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't touch that gate! It was painted green just now and is still wet.",
+    "studentAnswer": "Be careful, the school gate has wet green paint, do not touch it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't touch that gate! It was painted green just now and is still wet.",
+    "studentAnswer": "Do not touch, the gate paint is wet.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Don't touch that gate! It was painted green just now and is still wet.",
+    "studentAnswer": "Wet paint gate, stay away.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Don't touch that gate! It was painted green just now and is still wet.",
+    "studentAnswer": "The school gate is made of iron bars.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Don't touch that gate! It was painted green just now and is still wet.",
+    "studentAnswer": "I have green paint stains on my shirt.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Don't touch that gate! It was painted green just now and is still wet.",
+    "studentAnswer": "Watch out, the gate is wet from new green paint.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't touch that gate! It was painted green just now and is still wet.",
+    "studentAnswer": "Wet gate paint don't touch.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Don't touch that gate! It was painted green just now and is still wet.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you ask a classmate what theme they are painting for the upcoming school art competition?
+  {
+    "modelAnswer": "What theme are you painting for the upcoming school art competition? Can you describe your drawing?",
+    "studentAnswer": "What theme are you painting for the upcoming school art competition? Can you describe your drawing?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What theme are you painting for the upcoming school art competition? Can you describe your drawing?",
+    "studentAnswer": "What is the topic of your painting for the art competition?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What theme are you painting for the upcoming school art competition? Can you describe your drawing?",
+    "studentAnswer": "What are you drawing for the upcoming school art contest?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What theme are you painting for the upcoming school art competition? Can you describe your drawing?",
+    "studentAnswer": "What theme are you drawing?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "What theme are you painting for the upcoming school art competition? Can you describe your drawing?",
+    "studentAnswer": "Art competition drawing theme?",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "What theme are you painting for the upcoming school art competition? Can you describe your drawing?",
+    "studentAnswer": "The art competition is next Friday afternoon.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What theme are you painting for the upcoming school art competition? Can you describe your drawing?",
+    "studentAnswer": "I have color palettes and brushes.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What theme are you painting for the upcoming school art competition? Can you describe your drawing?",
+    "studentAnswer": "What project drawing are you painting?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What theme are you painting for the upcoming school art competition? Can you describe your drawing?",
+    "studentAnswer": "Art competition painting theme?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What theme are you painting for the upcoming school art competition? Can you describe your drawing?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you thank the sports coach who recommended you for the national junior athletic team?
+  {
+    "modelAnswer": "Thank you very much, coach, for recommending me to the junior athletic team. I am extremely grateful for your guidance and support.",
+    "studentAnswer": "Thank you very much, coach, for recommending me to the junior athletic team. I am extremely grateful for your guidance and support.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you very much, coach, for recommending me to the junior athletic team. I am extremely grateful for your guidance and support.",
+    "studentAnswer": "Thank you coach for recommending me for the national junior team. I appreciate your training.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you very much, coach, for recommending me to the junior athletic team. I am extremely grateful for your guidance and support.",
+    "studentAnswer": "I am very grateful to you coach for your recommendation to the junior team.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you very much, coach, for recommending me to the junior athletic team. I am extremely grateful for your guidance and support.",
+    "studentAnswer": "Thanks coach for recommending me to the national athletic team.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you very much, coach, for recommending me to the junior athletic team. I am extremely grateful for your guidance and support.",
+    "studentAnswer": "Thank you for the athletic recommendation.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you very much, coach, for recommending me to the junior athletic team. I am extremely grateful for your guidance and support.",
+    "studentAnswer": "The team trains in Colombo sports stadium.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you very much, coach, for recommending me to the junior athletic team. I am extremely grateful for your guidance and support.",
+    "studentAnswer": "I run hundred meters sprint races.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you very much, coach, for recommending me to the junior athletic team. I am extremely grateful for your guidance and support.",
+    "studentAnswer": "Thank you coach, your recommendation helped me join the team.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you very much, coach, for recommending me to the junior athletic team. I am extremely grateful for your guidance and support.",
+    "studentAnswer": "National athletic team recommendation thank you.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you very much, coach, for recommending me to the junior athletic team. I am extremely grateful for your guidance and support.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you apologize to a classmate after accidentally spilling glue on their new geometry book?
+  {
+    "modelAnswer": "I am really sorry. I accidentally spilled some glue on your geometry book. Let me help you wipe it off before it dries.",
+    "studentAnswer": "I am really sorry. I accidentally spilled some glue on your geometry book. Let me help you wipe it off before it dries.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally spilled some glue on your geometry book. Let me help you wipe it off before it dries.",
+    "studentAnswer": "Sorry, I accidentally spilled glue on your geometry book. Let me clean it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally spilled some glue on your geometry book. Let me help you wipe it off before it dries.",
+    "studentAnswer": "I am very sorry for spilling liquid glue on your new book. Let me wipe it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally spilled some glue on your geometry book. Let me help you wipe it off before it dries.",
+    "studentAnswer": "Sorry I spilled glue on your new geometry book.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally spilled some glue on your geometry book. Let me help you wipe it off before it dries.",
+    "studentAnswer": "Sorry, glue spilled.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally spilled some glue on your geometry book. Let me help you wipe it off before it dries.",
+    "studentAnswer": "Geometry has circles and triangles.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally spilled some glue on your geometry book. Let me help you wipe it off before it dries.",
+    "studentAnswer": "I have white adhesive glue.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally spilled some glue on your geometry book. Let me help you wipe it off before it dries.",
+    "studentAnswer": "I am sorry for spilling glue, let me help you wipe it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally spilled some glue on your geometry book. Let me help you wipe it off before it dries.",
+    "studentAnswer": "Sorry glue fell.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally spilled some glue on your geometry book. Let me help you wipe it off before it dries.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

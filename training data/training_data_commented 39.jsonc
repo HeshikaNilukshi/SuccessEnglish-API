@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a school prefect when the vaccination program for Grade 8 will happen?
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the Grade 8 vaccination program will take place?",
+    "studentAnswer": "Excuse me, could you please tell me which day the Grade 8 vaccination program will take place?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the Grade 8 vaccination program will take place?",
+    "studentAnswer": "Excuse me, do you know when Grade 8 students are getting their vaccination?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the Grade 8 vaccination program will take place?",
+    "studentAnswer": "Prefect, can you tell me the date for the Grade 8 vaccination program?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the Grade 8 vaccination program will take place?",
+    "studentAnswer": "When is the Grade 8 vaccination happening?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the Grade 8 vaccination program will take place?",
+    "studentAnswer": "Vaccination program date please?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the Grade 8 vaccination program will take place?",
+    "studentAnswer": "Vaccination is important for students' health.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the Grade 8 vaccination program will take place?",
+    "studentAnswer": "I don't like getting vaccines.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the Grade 8 vaccination program will take place?",
+    "studentAnswer": "Excuse me, when will the vaccination program start?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the Grade 8 vaccination program will take place?",
+    "studentAnswer": "Grade 8 vaccination date?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the Grade 8 vaccination program will take place?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you ask a classmate sitting next to you how many minutes their morning bus journey takes?
+  {
+    "modelAnswer": "Do you know how many minutes your school bus ride takes in the morning?",
+    "studentAnswer": "Do you know how many minutes your school bus ride takes in the morning?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many minutes your school bus ride takes in the morning?",
+    "studentAnswer": "How many minutes does your bus journey take every morning?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many minutes your school bus ride takes in the morning?",
+    "studentAnswer": "Can you tell me the time duration of your bus ride to school?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many minutes your school bus ride takes in the morning?",
+    "studentAnswer": "How long is your bus travel to school in minutes?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many minutes your school bus ride takes in the morning?",
+    "studentAnswer": "Bus travel time in minutes to school?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you know how many minutes your school bus ride takes in the morning?",
+    "studentAnswer": "The school bus is very crowded in the morning.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you know how many minutes your school bus ride takes in the morning?",
+    "studentAnswer": "I travel to school by walking.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you know how many minutes your school bus ride takes in the morning?",
+    "studentAnswer": "Do you know the bus ride duration to school?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many minutes your school bus ride takes in the morning?",
+    "studentAnswer": "Bus ride duration in minutes?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you know how many minutes your school bus ride takes in the morning?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you volunteer to sort and arrange the reading books on the classroom library shelf?
+  {
+    "modelAnswer": "Teacher, may I help you sort and arrange the books on the classroom library shelf today?",
+    "studentAnswer": "Teacher, may I help you sort and arrange the books on the classroom library shelf today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the books on the classroom library shelf today?",
+    "studentAnswer": "Can I volunteer to organize the library shelf books today, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the books on the classroom library shelf today?",
+    "studentAnswer": "Teacher, let me arrange the storybooks on the classroom shelf.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the books on the classroom library shelf today?",
+    "studentAnswer": "I will organize the classroom library shelf books now, teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the books on the classroom library shelf today?",
+    "studentAnswer": "Arrange library books today on shelf, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the books on the classroom library shelf today?",
+    "studentAnswer": "The library shelf has many fiction books.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the books on the classroom library shelf today?",
+    "studentAnswer": "We should read a lot of English books.",
+    "maxMarks": 5,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the books on the classroom library shelf today?",
+    "studentAnswer": "Teacher, I want to arrange the library books.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the books on the classroom library shelf today?",
+    "studentAnswer": "Pin books please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the books on the classroom library shelf today?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you ask a friend for their opinion on the new magnetic green board installed in the classroom?
+  {
+    "modelAnswer": "What do you think of our new magnetic green board? Is it easier to write on than the old blackboard?",
+    "studentAnswer": "What do you think of our new magnetic green board? Is it easier to write on than the old blackboard?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of our new magnetic green board? Is it easier to write on than the old blackboard?",
+    "studentAnswer": "How is the new green board in the class? Do you prefer it?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of our new magnetic green board? Is it easier to write on than the old blackboard?",
+    "studentAnswer": "What is your opinion on the new magnetic green board in our classroom?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of our new magnetic green board? Is it easier to write on than the old blackboard?",
+    "studentAnswer": "Do you like the new classroom green board?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "What do you think of our new magnetic green board? Is it easier to write on than the old blackboard?",
+    "studentAnswer": "Green board, good or bad?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you think of our new magnetic green board? Is it easier to write on than the old blackboard?",
+    "studentAnswer": "The green board uses white dustless chalk.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you think of our new magnetic green board? Is it easier to write on than the old blackboard?",
+    "studentAnswer": "I erased the board twice today.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you think of our new magnetic green board? Is it easier to write on than the old blackboard?",
+    "studentAnswer": "Do you think the new green board is better?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of our new magnetic green board? Is it easier to write on than the old blackboard?",
+    "studentAnswer": "Green board opinion?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you think of our new magnetic green board? Is it easier to write on than the old blackboard?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you suggest to a classmate to share their protractor because you forgot yours today?
+  {
+    "modelAnswer": "Could we please share your protractor for a few minutes to measure this angle? I forgot mine today.",
+    "studentAnswer": "Could we please share your protractor for a few minutes to measure this angle? I forgot mine today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your protractor for a few minutes to measure this angle? I forgot mine today.",
+    "studentAnswer": "Can I share your protractor today because I forgot mine at home?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your protractor for a few minutes to measure this angle? I forgot mine today.",
+    "studentAnswer": "Can we share this protractor today? I forgot mine.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your protractor for a few minutes to measure this angle? I forgot mine today.",
+    "studentAnswer": "Please share your protractor with me today for math class.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your protractor for a few minutes to measure this angle? I forgot mine today.",
+    "studentAnswer": "Share protractor today please, forgot mine.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could we please share your protractor for a few minutes to measure this angle? I forgot mine today.",
+    "studentAnswer": "Math is a very interesting subject.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could we please share your protractor for a few minutes to measure this angle? I forgot mine today.",
+    "studentAnswer": "The protractor is made of clear plastic.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could we please share your protractor for a few minutes to measure this angle? I forgot mine today.",
+    "studentAnswer": "Can we share the protractor today?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could we please share your protractor for a few minutes to measure this angle? I forgot mine today.",
+    "studentAnswer": "Share protractor, forgot mine.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Could we please share your protractor for a few minutes to measure this angle? I forgot mine today.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you describe how Kiribath is made and eaten to a foreign visitor?
+  {
+    "modelAnswer": "Kiribath is a traditional Sri Lankan dish made of rice cooked with thick coconut milk, cut into diamond shapes, and eaten with chili paste.",
+    "studentAnswer": "Kiribath is a traditional Sri Lankan dish made of rice cooked with thick coconut milk, cut into diamond shapes, and eaten with chili paste.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Kiribath is a traditional Sri Lankan dish made of rice cooked with thick coconut milk, cut into diamond shapes, and eaten with chili paste.",
+    "studentAnswer": "Kiribath is milk rice. It is made of rice and coconut milk, cut into diamonds, and eaten with lunu miris.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Kiribath is a traditional Sri Lankan dish made of rice cooked with thick coconut milk, cut into diamond shapes, and eaten with chili paste.",
+    "studentAnswer": "It is a milk rice dish made with rice and coconut milk. We eat it with hot onion paste.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Kiribath is a traditional Sri Lankan dish made of rice cooked with thick coconut milk, cut into diamond shapes, and eaten with chili paste.",
+    "studentAnswer": "Kiribath is made of rice and coconut milk.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Kiribath is a traditional Sri Lankan dish made of rice cooked with thick coconut milk, cut into diamond shapes, and eaten with chili paste.",
+    "studentAnswer": "I eat Kiribath for breakfast.",
+    "maxMarks": 6,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Kiribath is a traditional Sri Lankan dish made of rice cooked with thick coconut milk, cut into diamond shapes, and eaten with chili paste.",
+    "studentAnswer": "Kiribath is white color.",
+    "maxMarks": 6,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Kiribath is a traditional Sri Lankan dish made of rice cooked with thick coconut milk, cut into diamond shapes, and eaten with chili paste.",
+    "studentAnswer": "It is a traditional local breakfast made of rice and coconut milk with a savory taste.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Kiribath is a traditional Sri Lankan dish made of rice cooked with thick coconut milk, cut into diamond shapes, and eaten with chili paste.",
+    "studentAnswer": "Savory coconut rice Kiribath.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Kiribath is a traditional Sri Lankan dish made of rice cooked with thick coconut milk, cut into diamond shapes, and eaten with chili paste.",
+    "studentAnswer": "Kiribath is very savory.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Kiribath is a traditional Sri Lankan dish made of rice cooked with thick coconut milk, cut into diamond shapes, and eaten with chili paste.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you warn a classmate not to touch the playground fence because it was painted yellow this morning?
+  {
+    "modelAnswer": "Don't touch that fence! It was painted yellow just this morning and the paint is still wet.",
+    "studentAnswer": "Don't touch that fence! It was painted yellow just this morning and the paint is still wet.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't touch that fence! It was painted yellow just this morning and the paint is still wet.",
+    "studentAnswer": "Please don't touch the fence. The yellow paint is wet.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't touch that fence! It was painted yellow just this morning and the paint is still wet.",
+    "studentAnswer": "Be careful, the fence has wet yellow paint, do not touch it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't touch that fence! It was painted yellow just this morning and the paint is still wet.",
+    "studentAnswer": "Do not touch, the fence paint is wet.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Don't touch that fence! It was painted yellow just this morning and the paint is still wet.",
+    "studentAnswer": "Wet paint fence, stay away.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Don't touch that fence! It was painted yellow just this morning and the paint is still wet.",
+    "studentAnswer": "The fence is made of iron bars.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Don't touch that fence! It was painted yellow just this morning and the paint is still wet.",
+    "studentAnswer": "I have yellow paint stains on my shirt.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Don't touch that fence! It was painted yellow just this morning and the paint is still wet.",
+    "studentAnswer": "Watch out, the fence is wet from new yellow paint.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't touch that fence! It was painted yellow just this morning and the paint is still wet.",
+    "studentAnswer": "Wet fence paint don't touch.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Don't touch that fence! It was painted yellow just this morning and the paint is still wet.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you ask a classmate how they are preparing for their speech presentation next week?
+  {
+    "modelAnswer": "How are you preparing for your speech presentation next week? Have you practiced speaking in front of a mirror?",
+    "studentAnswer": "How are you preparing for your speech presentation next week? Have you practiced speaking in front of a mirror?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "How are you preparing for your speech presentation next week? Have you practiced speaking in front of a mirror?",
+    "studentAnswer": "What is your preparation for your speech presentation next week?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "How are you preparing for your speech presentation next week? Have you practiced speaking in front of a mirror?",
+    "studentAnswer": "How do you practice your speech for the upcoming presentation?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "How are you preparing for your speech presentation next week? Have you practiced speaking in front of a mirror?",
+    "studentAnswer": "How are you studying your speech for the presentation?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "How are you preparing for your speech presentation next week? Have you practiced speaking in front of a mirror?",
+    "studentAnswer": "Speech presentation practice details?",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "How are you preparing for your speech presentation next week? Have you practiced speaking in front of a mirror?",
+    "studentAnswer": "The presentation is held in the classroom.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "How are you preparing for your speech presentation next week? Have you practiced speaking in front of a mirror?",
+    "studentAnswer": "I have notes on small cards.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "How are you preparing for your speech presentation next week? Have you practiced speaking in front of a mirror?",
+    "studentAnswer": "What are you doing to practice for the presentation?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "How are you preparing for your speech presentation next week? Have you practiced speaking in front of a mirror?",
+    "studentAnswer": "Speech presentation practice plans?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "How are you preparing for your speech presentation next week? Have you practiced speaking in front of a mirror?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you thank the English teacher who proofread your story for the writing competition?
+  {
+    "modelAnswer": "Thank you so much, teacher, for proofreading my story. Your corrections helped me win the first place in the writing contest.",
+    "studentAnswer": "Thank you so much, teacher, for proofreading my story. Your corrections helped me win the first place in the writing contest.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for proofreading my story. Your corrections helped me win the first place in the writing contest.",
+    "studentAnswer": "Thank you teacher for proofreading my story for the writing competition. I appreciate it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for proofreading my story. Your corrections helped me win the first place in the writing contest.",
+    "studentAnswer": "I am very grateful to you teacher for your guidance in proofreading my story.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for proofreading my story. Your corrections helped me win the first place in the writing contest.",
+    "studentAnswer": "Thanks teacher for proofreading my writing competition story.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for proofreading my story. Your corrections helped me win the first place in the writing contest.",
+    "studentAnswer": "Thank you for proofreading my story.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for proofreading my story. Your corrections helped me win the first place in the writing contest.",
+    "studentAnswer": "The story was printed on white paper sheets.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for proofreading my story. Your corrections helped me win the first place in the writing contest.",
+    "studentAnswer": "I want to publish my book next year.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for proofreading my story. Your corrections helped me win the first place in the writing contest.",
+    "studentAnswer": "Thank you teacher, your proofreading helped me secure the first prize.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for proofreading my story. Your corrections helped me win the first place in the writing contest.",
+    "studentAnswer": "Story proofreading thank you.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for proofreading my story. Your corrections helped me win the first place in the writing contest.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you apologize to a classmate after accidentally scratching their wooden desk with the metal buckle of your schoolbag?
+  {
+    "modelAnswer": "I am so sorry. I accidentally scratched your wooden desk with my bag buckle. I will be more careful when moving my bag next time.",
+    "studentAnswer": "I am so sorry. I accidentally scratched your wooden desk with my bag buckle. I will be more careful when moving my bag next time.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry. I accidentally scratched your wooden desk with my bag buckle. I will be more careful when moving my bag next time.",
+    "studentAnswer": "Sorry, I scratched your wooden desk by mistake with my bag buckle. Apologies.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry. I accidentally scratched your wooden desk with my bag buckle. I will be more careful when moving my bag next time.",
+    "studentAnswer": "I am very sorry for scratching your desk. I didn't do it on purpose.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry. I accidentally scratched your wooden desk with my bag buckle. I will be more careful when moving my bag next time.",
+    "studentAnswer": "Sorry I scratched your desk with my schoolbag buckle.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am so sorry. I accidentally scratched your wooden desk with my bag buckle. I will be more careful when moving my bag next time.",
+    "studentAnswer": "Sorry, wooden desk scratch.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am so sorry. I accidentally scratched your wooden desk with my bag buckle. I will be more careful when moving my bag next time.",
+    "studentAnswer": "The wooden desk is brown wood.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am so sorry. I accidentally scratched your wooden desk with my bag buckle. I will be more careful when moving my bag next time.",
+    "studentAnswer": "The bag buckle is made of metal.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am so sorry. I accidentally scratched your wooden desk with my bag buckle. I will be more careful when moving my bag next time.",
+    "studentAnswer": "I am sorry for scratching your desk, I will be careful.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry. I accidentally scratched your wooden desk with my bag buckle. I will be more careful when moving my bag next time.",
+    "studentAnswer": "Sorry desk scratched.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am so sorry. I accidentally scratched your wooden desk with my bag buckle. I will be more careful when moving my bag next time.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a school prefect when the free school uniform material will be distributed?
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school uniform material will be distributed?",
+    "studentAnswer": "Excuse me, could you please tell me which day the school uniform material will be distributed?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school uniform material will be distributed?",
+    "studentAnswer": "Excuse me, do you know when we get the school uniform materials?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school uniform material will be distributed?",
+    "studentAnswer": "Prefect, can you tell me the date of the uniform distribution?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school uniform material will be distributed?",
+    "studentAnswer": "When are they distributing the free uniform materials?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school uniform material will be distributed?",
+    "studentAnswer": "Uniform material distribution date please?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school uniform material will be distributed?",
+    "studentAnswer": "The school uniform is white and blue.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school uniform material will be distributed?",
+    "studentAnswer": "I need to tailor my trousers.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school uniform material will be distributed?",
+    "studentAnswer": "Excuse me, when will uniform distribution start?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school uniform material will be distributed?",
+    "studentAnswer": "Uniform distribution day?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day the school uniform material will be distributed?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you ask a classmate sitting next to you what time their school bus usually arrives in the morning?
+  {
+    "modelAnswer": "Do you know what time your school bus arrives in the morning?",
+    "studentAnswer": "Do you know what time your school bus arrives in the morning?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what time your school bus arrives in the morning?",
+    "studentAnswer": "What time does your school bus come every morning?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what time your school bus arrives in the morning?",
+    "studentAnswer": "Can you tell me when your school bus arrives?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what time your school bus arrives in the morning?",
+    "studentAnswer": "When does your school bus reach the school?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what time your school bus arrives in the morning?",
+    "studentAnswer": "School bus arrival time morning?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you know what time your school bus arrives in the morning?",
+    "studentAnswer": "The school bus is painted yellow.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you know what time your school bus arrives in the morning?",
+    "studentAnswer": "I travel to school by walking.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you know what time your school bus arrives in the morning?",
+    "studentAnswer": "Do you know when the school bus comes?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what time your school bus arrives in the morning?",
+    "studentAnswer": "School bus time morning?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you know what time your school bus arrives in the morning?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you volunteer to sort and organize the books in the library's return box?
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the books in the library return box?",
+    "studentAnswer": "Teacher, may I help you sort and organize the books in the library return box?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the books in the library return box?",
+    "studentAnswer": "Can I volunteer to arrange the returned books today, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the books in the library return box?",
+    "studentAnswer": "Teacher, let me arrange the books from the return box on the shelves.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the books in the library return box?",
+    "studentAnswer": "I will organize the returned library books now, teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the books in the library return box?",
+    "studentAnswer": "Arrange returned books today, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the books in the library return box?",
+    "studentAnswer": "The library has five thousand novels.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the books in the library return box?",
+    "studentAnswer": "We should read books in absolute silence.",
+    "maxMarks": 5,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the books in the library return box?",
+    "studentAnswer": "Teacher, I want to arrange the library books.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the books in the library return box?",
+    "studentAnswer": "Sort library books please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Teacher, may I help you sort and organize the books in the library return box?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you ask a friend for their opinion on the school gate's new green paint color?
+  {
+    "modelAnswer": "What do you think of the new green color on the school gate? Do you like it?",
+    "studentAnswer": "What do you think of the new green color on the school gate? Do you like it?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new green color on the school gate? Do you like it?",
+    "studentAnswer": "How is the new green color on the school gate? Do you prefer it?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new green color on the school gate? Do you like it?",
+    "studentAnswer": "What is your opinion on the school gate's new green paint?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new green color on the school gate? Do you like it?",
+    "studentAnswer": "Do you like the new gate paint color?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "What do you think of the new green color on the school gate? Do you like it?",
+    "studentAnswer": "School gate green paint, good or bad?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you think of the new green color on the school gate? Do you like it?",
+    "studentAnswer": "The school gate is made of metal and iron.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you think of the new green color on the school gate? Do you like it?",
+    "studentAnswer": "I came to school early today.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you think of the new green color on the school gate? Do you like it?",
+    "studentAnswer": "Do you think the new green gate color looks beautiful?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new green color on the school gate? Do you like it?",
+    "studentAnswer": "Green gate color opinion?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you think of the new green color on the school gate? Do you like it?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you suggest to a classmate to share a concrete bench in the garden because there are no other places to sit?
+  {
+    "modelAnswer": "Shall we share this concrete bench in the garden since all the other seats are full?",
+    "studentAnswer": "Shall we share this concrete bench in the garden since all the other seats are full?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we share this concrete bench in the garden since all the other seats are full?",
+    "studentAnswer": "Can we share the garden concrete bench because all other seats are occupied?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we share this concrete bench in the garden since all the other seats are full?",
+    "studentAnswer": "Let's share this bench to sit down in the garden.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we share this concrete bench in the garden since all the other seats are full?",
+    "studentAnswer": "Sit with me on this bench since there are no other seats.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Shall we share this concrete bench in the garden since all the other seats are full?",
+    "studentAnswer": "Share concrete bench garden?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall we share this concrete bench in the garden since all the other seats are full?",
+    "studentAnswer": "The garden has red roses and yellow marigolds.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall we share this concrete bench in the garden since all the other seats are full?",
+    "studentAnswer": "The bench is made of grey cement.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall we share this concrete bench in the garden since all the other seats are full?",
+    "studentAnswer": "Shall we sit together on this concrete bench?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we share this concrete bench in the garden since all the other seats are full?",
+    "studentAnswer": "Sit concrete bench garden?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall we share this concrete bench in the garden since all the other seats are full?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you describe Aluwa sweet to a foreign visitor?
+  {
+    "modelAnswer": "Sri Lankan Aluwa is a flat, diamond-shaped sweet made with roasted rice flour, treacle, cashew nuts, and cardamom.",
+    "studentAnswer": "Sri Lankan Aluwa is a flat, diamond-shaped sweet made with roasted rice flour, treacle, cashew nuts, and cardamom.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Sri Lankan Aluwa is a flat, diamond-shaped sweet made with roasted rice flour, treacle, cashew nuts, and cardamom.",
+    "studentAnswer": "Aluwa is a diamond-shaped local sweet. It is made of rice flour, sugar or treacle, and cashews.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Sri Lankan Aluwa is a flat, diamond-shaped sweet made with roasted rice flour, treacle, cashew nuts, and cardamom.",
+    "studentAnswer": "It is a sweet made with roasted rice flour and hot treacle, cut into diamond shapes.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Sri Lankan Aluwa is a flat, diamond-shaped sweet made with roasted rice flour, treacle, cashew nuts, and cardamom.",
+    "studentAnswer": "Aluwa is a sweet made of rice flour and treacle.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Sri Lankan Aluwa is a flat, diamond-shaped sweet made with roasted rice flour, treacle, cashew nuts, and cardamom.",
+    "studentAnswer": "My mother makes Aluwa for Sinhala New Year.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Sri Lankan Aluwa is a flat, diamond-shaped sweet made with roasted rice flour, treacle, cashew nuts, and cardamom.",
+    "studentAnswer": "Aluwa is white and dusty with flour.",
+    "maxMarks": 6,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Sri Lankan Aluwa is a flat, diamond-shaped sweet made with roasted rice flour, treacle, cashew nuts, and cardamom.",
+    "studentAnswer": "It is a diamond-shaped local sweet made of roasted flour and coconut treacle.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Sri Lankan Aluwa is a flat, diamond-shaped sweet made with roasted rice flour, treacle, cashew nuts, and cardamom.",
+    "studentAnswer": "Sweet diamond-shaped rice flour food.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Sri Lankan Aluwa is a flat, diamond-shaped sweet made with roasted rice flour, treacle, cashew nuts, and cardamom.",
+    "studentAnswer": "Aluwa is very sweet.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Sri Lankan Aluwa is a flat, diamond-shaped sweet made with roasted rice flour, treacle, cashew nuts, and cardamom.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you warn a classmate not to run across the school lawn because it was watered just now and is muddy?
+  {
+    "modelAnswer": "Don't run across the lawn! It was watered just now and you might slip in the mud.",
+    "studentAnswer": "Don't run across the lawn! It was watered just now and you might slip in the mud.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't run across the lawn! It was watered just now and you might slip in the mud.",
+    "studentAnswer": "Please don't run on the grass. The soil is wet and muddy from watering.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't run across the lawn! It was watered just now and you might slip in the mud.",
+    "studentAnswer": "Be careful, the school lawn is muddy and wet, do not run there.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't run across the lawn! It was watered just now and you might slip in the mud.",
+    "studentAnswer": "Do not run, the grass lawn is watered.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Don't run across the lawn! It was watered just now and you might slip in the mud.",
+    "studentAnswer": "Muddy lawn, stay away.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Don't run across the lawn! It was watered just now and you might slip in the mud.",
+    "studentAnswer": "The lawn has green carpet grass.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Don't run across the lawn! It was watered just now and you might slip in the mud.",
+    "studentAnswer": "I have to wash my canvas shoes.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Don't run across the lawn! It was watered just now and you might slip in the mud.",
+    "studentAnswer": "Watch out, the grass floor is slippery from water.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't run across the lawn! It was watered just now and you might slip in the mud.",
+    "studentAnswer": "Muddy grass don't run.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Don't run across the lawn! It was watered just now and you might slip in the mud.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you ask a classmate how their plant germination experiment is going?
+  {
+    "modelAnswer": "How is your plant germination experiment going? Have the seeds sprouted yet?",
+    "studentAnswer": "How is your plant germination experiment going? Have the seeds sprouted yet?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "How is your plant germination experiment going? Have the seeds sprouted yet?",
+    "studentAnswer": "What is the progress of your science plant germination experiment?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "How is your plant germination experiment going? Have the seeds sprouted yet?",
+    "studentAnswer": "How does your plant grow in the germination experiment?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "How is your plant germination experiment going? Have the seeds sprouted yet?",
+    "studentAnswer": "How is your seed germination experiment?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "How is your plant germination experiment going? Have the seeds sprouted yet?",
+    "studentAnswer": "Germination experiment progress?",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "How is your plant germination experiment going? Have the seeds sprouted yet?",
+    "studentAnswer": "Plants need sunlight and carbon dioxide.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "How is your plant germination experiment going? Have the seeds sprouted yet?",
+    "studentAnswer": "The pot is made of red clay.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "How is your plant germination experiment going? Have the seeds sprouted yet?",
+    "studentAnswer": "How is your seed experiment going?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "How is your plant germination experiment going? Have the seeds sprouted yet?",
+    "studentAnswer": "Germination experiment seeds?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "How is your plant germination experiment going? Have the seeds sprouted yet?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you thank the class teacher who stayed after school to help you prepare for the scholarship exam?
+  {
+    "modelAnswer": "Thank you so much, teacher, for helping me prepare after school. Your guidance helped me pass the scholarship exam.",
+    "studentAnswer": "Thank you so much, teacher, for helping me prepare after school. Your guidance helped me pass the scholarship exam.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for helping me prepare after school. Your guidance helped me pass the scholarship exam.",
+    "studentAnswer": "Thank you art teacher for staying after school to guide me for the scholarship.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for helping me prepare after school. Your guidance helped me pass the scholarship exam.",
+    "studentAnswer": "I am very grateful to you teacher for your support after school hours.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for helping me prepare after school. Your guidance helped me pass the scholarship exam.",
+    "studentAnswer": "Thanks teacher for helping me pass the scholarship exam.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for helping me prepare after school. Your guidance helped me pass the scholarship exam.",
+    "studentAnswer": "Thank you for the scholarship guidance.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for helping me prepare after school. Your guidance helped me pass the scholarship exam.",
+    "studentAnswer": "The exam was very difficult and long.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for helping me prepare after school. Your guidance helped me pass the scholarship exam.",
+    "studentAnswer": "I got marks for my essay writing.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for helping me prepare after school. Your guidance helped me pass the scholarship exam.",
+    "studentAnswer": "Thank you teacher, your extra classes helped me pass.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for helping me prepare after school. Your guidance helped me pass the scholarship exam.",
+    "studentAnswer": "Scholarship preparation thank you.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for helping me prepare after school. Your guidance helped me pass the scholarship exam.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you apologize to a classmate after accidentally snapping their plastic ruler?
+  {
+    "modelAnswer": "I am really sorry. I accidentally snapped your plastic ruler while drawing. Let me buy a new one for you tomorrow.",
+    "studentAnswer": "I am really sorry. I accidentally snapped your plastic ruler while drawing. Let me buy a new one for you tomorrow.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally snapped your plastic ruler while drawing. Let me buy a new one for you tomorrow.",
+    "studentAnswer": "Sorry, I accidentally broke your plastic ruler. Let me get you a new one.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally snapped your plastic ruler while drawing. Let me buy a new one for you tomorrow.",
+    "studentAnswer": "I am very sorry for breaking your plastic ruler. I will replace it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally snapped your plastic ruler while drawing. Let me buy a new one for you tomorrow.",
+    "studentAnswer": "Sorry I broke your ruler while drawing lines.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally snapped your plastic ruler while drawing. Let me buy a new one for you tomorrow.",
+    "studentAnswer": "Sorry, plastic ruler broke.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally snapped your plastic ruler while drawing. Let me buy a new one for you tomorrow.",
+    "studentAnswer": "A ruler is thirty centimeters long.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally snapped your plastic ruler while drawing. Let me buy a new one for you tomorrow.",
+    "studentAnswer": "I have an iron ruler in my bag.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally snapped your plastic ruler while drawing. Let me buy a new one for you tomorrow.",
+    "studentAnswer": "I am sorry for breaking your plastic ruler, let me buy a new one.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally snapped your plastic ruler while drawing. Let me buy a new one for you tomorrow.",
+    "studentAnswer": "Sorry ruler broke.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally snapped your plastic ruler while drawing. Let me buy a new one for you tomorrow.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

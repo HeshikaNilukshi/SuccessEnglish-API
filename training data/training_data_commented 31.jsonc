@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a senior student for directions to the science laboratory from the canteen?
+  {
+    "modelAnswer": "Excuse me, could you please tell me the way to the science laboratory from the canteen?",
+    "studentAnswer": "Excuse me, could you please tell me the way to the science laboratory from the canteen?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me the way to the science laboratory from the canteen?",
+    "studentAnswer": "Excuse me, can you show me the way to the science lab from the canteen?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me the way to the science laboratory from the canteen?",
+    "studentAnswer": "Senior, where is the science lab from the canteen?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me the way to the science laboratory from the canteen?",
+    "studentAnswer": "Which way is the science laboratory from the canteen?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me the way to the science laboratory from the canteen?",
+    "studentAnswer": "Science lab way from canteen please?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me the way to the science laboratory from the canteen?",
+    "studentAnswer": "The canteen sells short eats.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me the way to the science laboratory from the canteen?",
+    "studentAnswer": "I have to do a chemistry test.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me the way to the science laboratory from the canteen?",
+    "studentAnswer": "Excuse me, can you show me the directions to the science laboratory?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me the way to the science laboratory from the canteen?",
+    "studentAnswer": "Directions to science lab from canteen?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me the way to the science laboratory from the canteen?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you ask a classmate when our school holidays for the second term will begin?
+  {
+    "modelAnswer": "Do you know what date our second term school holidays will begin?",
+    "studentAnswer": "Do you know what date our second term school holidays will begin?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what date our second term school holidays will begin?",
+    "studentAnswer": "When is the second term school holiday starting?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what date our second term school holidays will begin?",
+    "studentAnswer": "Can you tell me the starting date of the second term holidays?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what date our second term school holidays will begin?",
+    "studentAnswer": "When do we get holidays for second term?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what date our second term school holidays will begin?",
+    "studentAnswer": "Second term holiday date?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you know what date our second term school holidays will begin?",
+    "studentAnswer": "I am studying hard for exams.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you know what date our second term school holidays will begin?",
+    "studentAnswer": "The school term ends on Friday.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you know what date our second term school holidays will begin?",
+    "studentAnswer": "Do you know when the second term holidays start?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know what date our second term school holidays will begin?",
+    "studentAnswer": "Holiday starting date?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you know what date our second term school holidays will begin?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you offer to pick up a classmate's heavy schoolbag which fell off their desk?
+  {
+    "modelAnswer": "Let me help you pick up your schoolbag from the floor. It looks very heavy.",
+    "studentAnswer": "Let me help you pick up your schoolbag from the floor. It looks very heavy.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Let me help you pick up your schoolbag from the floor. It looks very heavy.",
+    "studentAnswer": "Can I help you pick up the heavy schoolbag from the floor?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Let me help you pick up your schoolbag from the floor. It looks very heavy.",
+    "studentAnswer": "Shall I lift your heavy schoolbag from the floor for you?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Let me help you pick up your schoolbag from the floor. It looks very heavy.",
+    "studentAnswer": "I will pick up your bag for you, friend.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Let me help you pick up your schoolbag from the floor. It looks very heavy.",
+    "studentAnswer": "Pick up heavy bag please?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Let me help you pick up your schoolbag from the floor. It looks very heavy.",
+    "studentAnswer": "The schoolbag is blue with a zipper.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Let me help you pick up your schoolbag from the floor. It looks very heavy.",
+    "studentAnswer": "I have many books inside my bag.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Let me help you pick up your schoolbag from the floor. It looks very heavy.",
+    "studentAnswer": "Shall I pick up your schoolbag from the floor?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Let me help you pick up your schoolbag from the floor. It looks very heavy.",
+    "studentAnswer": "Lift heavy bag please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Let me help you pick up your schoolbag from the floor. It looks very heavy.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you ask your classmate for their opinion on the new English grammar chart put up on the wall?
+  {
+    "modelAnswer": "What do you think of the new English grammar chart on the classroom wall? Do you find it useful?",
+    "studentAnswer": "What do you think of the new English grammar chart on the classroom wall? Do you find it useful?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new English grammar chart on the classroom wall? Do you find it useful?",
+    "studentAnswer": "How is the new English grammar chart on the wall? Do you like it?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new English grammar chart on the classroom wall? Do you find it useful?",
+    "studentAnswer": "What is your opinion on the English grammar chart on the wall?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new English grammar chart on the classroom wall? Do you find it useful?",
+    "studentAnswer": "Do you like the new wall grammar chart?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "What do you think of the new English grammar chart on the classroom wall? Do you find it useful?",
+    "studentAnswer": "Grammar chart opinion?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you think of the new English grammar chart on the classroom wall? Do you find it useful?",
+    "studentAnswer": "Grammar teaches us correct sentences.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you think of the new English grammar chart on the classroom wall? Do you find it useful?",
+    "studentAnswer": "The wall is painted light yellow.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you think of the new English grammar chart on the classroom wall? Do you find it useful?",
+    "studentAnswer": "Do you think the new grammar chart is helpful?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new English grammar chart on the classroom wall? Do you find it useful?",
+    "studentAnswer": "English chart useful?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you think of the new English grammar chart on the classroom wall? Do you find it useful?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you suggest to a classmate to share their compass because you forgot yours for the geometry class?
+  {
+    "modelAnswer": "Could I please borrow your compass for a few minutes to draw this circle? I forgot mine today.",
+    "studentAnswer": "Could I please borrow your compass for a few minutes to draw this circle? I forgot mine today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could I please borrow your compass for a few minutes to draw this circle? I forgot mine today.",
+    "studentAnswer": "Can I borrow your geometry compass to draw a circle? I forgot mine.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could I please borrow your compass for a few minutes to draw this circle? I forgot mine today.",
+    "studentAnswer": "Can we share your compass for a while? I forgot my instrument box today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could I please borrow your compass for a few minutes to draw this circle? I forgot mine today.",
+    "studentAnswer": "Please lend me your compass for drawing a circle.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could I please borrow your compass for a few minutes to draw this circle? I forgot mine today.",
+    "studentAnswer": "Lend compass today please, forgot mine.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could I please borrow your compass for a few minutes to draw this circle? I forgot mine today.",
+    "studentAnswer": "Geometry has many theorems and proofs.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could I please borrow your compass for a few minutes to draw this circle? I forgot mine today.",
+    "studentAnswer": "I have a wooden ruler.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could I please borrow your compass for a few minutes to draw this circle? I forgot mine today.",
+    "studentAnswer": "Can you lend me your compass for geometry class?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could I please borrow your compass for a few minutes to draw this circle? I forgot mine today.",
+    "studentAnswer": "Borrow compass please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Could I please borrow your compass for a few minutes to draw this circle? I forgot mine today.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you describe how a Mangosteen fruit looks and tastes to a foreign visitor?
+  {
+    "modelAnswer": "Mangosteen is a delicious tropical fruit with a thick purple outer rind and sweet, white, juicy segments inside.",
+    "studentAnswer": "Mangosteen is a delicious tropical fruit with a thick purple outer rind and sweet, white, juicy segments inside.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Mangosteen is a delicious tropical fruit with a thick purple outer rind and sweet, white, juicy segments inside.",
+    "studentAnswer": "It is a sweet fruit. It has purple outer skin and white sweet segments inside.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Mangosteen is a delicious tropical fruit with a thick purple outer rind and sweet, white, juicy segments inside.",
+    "studentAnswer": "Mangosteen is a purple tropical fruit. Inside it has sweet white juicy sections.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Mangosteen is a delicious tropical fruit with a thick purple outer rind and sweet, white, juicy segments inside.",
+    "studentAnswer": "Mangosteen is purple and very sweet.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Mangosteen is a delicious tropical fruit with a thick purple outer rind and sweet, white, juicy segments inside.",
+    "studentAnswer": "Mangosteen trees are found in Kalutara.",
+    "maxMarks": 6,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Mangosteen is a delicious tropical fruit with a thick purple outer rind and sweet, white, juicy segments inside.",
+    "studentAnswer": "I love eating Mangosteen.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Mangosteen is a delicious tropical fruit with a thick purple outer rind and sweet, white, juicy segments inside.",
+    "studentAnswer": "It is a round purple fruit with sweet white juicy pulp.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Mangosteen is a delicious tropical fruit with a thick purple outer rind and sweet, white, juicy segments inside.",
+    "studentAnswer": "Sweet purple outer skin fruit.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Mangosteen is a delicious tropical fruit with a thick purple outer rind and sweet, white, juicy segments inside.",
+    "studentAnswer": "Mangosteen is very sweet.",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Mangosteen is a delicious tropical fruit with a thick purple outer rind and sweet, white, juicy segments inside.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you warn a classmate not to touch the metal gate because it has been in the hot sun all day?
+  {
+    "modelAnswer": "Don't touch that metal gate! It is extremely hot from being in the sun all day.",
+    "studentAnswer": "Don't touch that metal gate! It is extremely hot from being in the sun all day.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't touch that metal gate! It is extremely hot from being in the sun all day.",
+    "studentAnswer": "Please don't touch the gate. It is very hot because of the sun.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't touch that metal gate! It is extremely hot from being in the sun all day.",
+    "studentAnswer": "Be careful, the metal gate is hot from the sun, don't touch it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't touch that metal gate! It is extremely hot from being in the sun all day.",
+    "studentAnswer": "Do not touch, the gate is hot.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Don't touch that metal gate! It is extremely hot from being in the sun all day.",
+    "studentAnswer": "Hot metal gate, stay away.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Don't touch that metal gate! It is extremely hot from being in the sun all day.",
+    "studentAnswer": "The gate is made of iron.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Don't touch that metal gate! It is extremely hot from being in the sun all day.",
+    "studentAnswer": "Today is a very sunny day.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Don't touch that metal gate! It is extremely hot from being in the sun all day.",
+    "studentAnswer": "Watch out, the iron gate is hot.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't touch that metal gate! It is extremely hot from being in the sun all day.",
+    "studentAnswer": "Hot gate don't touch.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Don't touch that metal gate! It is extremely hot from being in the sun all day.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you ask a friend where they are planning to travel with their family during the next school vacation?
+  {
+    "modelAnswer": "Are you planning to travel anywhere with your family during the next school vacation?",
+    "studentAnswer": "Are you planning to travel anywhere with your family during the next school vacation?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Are you planning to travel anywhere with your family during the next school vacation?",
+    "studentAnswer": "Where do you plan to travel in next school holidays with your family?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Are you planning to travel anywhere with your family during the next school vacation?",
+    "studentAnswer": "Do you have any family travel plans for the next school vacation?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Are you planning to travel anywhere with your family during the next school vacation?",
+    "studentAnswer": "Where are you going for holidays with family?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Are you planning to travel anywhere with your family during the next school vacation?",
+    "studentAnswer": "Holiday family travel plans?",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Are you planning to travel anywhere with your family during the next school vacation?",
+    "studentAnswer": "School vacation starts next Friday.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Are you planning to travel anywhere with your family during the next school vacation?",
+    "studentAnswer": "My family lives in Anuradhapura.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Are you planning to travel anywhere with your family during the next school vacation?",
+    "studentAnswer": "Where are you traveling during next school holidays?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Are you planning to travel anywhere with your family during the next school vacation?",
+    "studentAnswer": "Family vacation travel?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Are you planning to travel anywhere with your family during the next school vacation?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you thank the class teacher who selected you to be the class monitor for this term?
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me as the class monitor. I will do my best to keep the classroom quiet and organized.",
+    "studentAnswer": "Thank you so much, teacher, for choosing me as the class monitor. I will do my best to keep the classroom quiet and organized.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me as the class monitor. I will do my best to keep the classroom quiet and organized.",
+    "studentAnswer": "Thank you teacher for making me class monitor. I will maintain silence in the class.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me as the class monitor. I will do my best to keep the classroom quiet and organized.",
+    "studentAnswer": "I am very grateful to you teacher for selecting me as class monitor.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me as the class monitor. I will do my best to keep the classroom quiet and organized.",
+    "studentAnswer": "Thanks teacher for class monitor post.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me as the class monitor. I will do my best to keep the classroom quiet and organized.",
+    "studentAnswer": "Thank you for class monitor selection.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me as the class monitor. I will do my best to keep the classroom quiet and organized.",
+    "studentAnswer": "Class monitors write names on the board.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me as the class monitor. I will do my best to keep the classroom quiet and organized.",
+    "studentAnswer": "I like to sit on the front bench.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me as the class monitor. I will do my best to keep the classroom quiet and organized.",
+    "studentAnswer": "Thank you teacher, I will do my monitor duties properly.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me as the class monitor. I will do my best to keep the classroom quiet and organized.",
+    "studentAnswer": "Class monitor selection thank you.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for choosing me as the class monitor. I will do my best to keep the classroom quiet and organized.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you apologize to a classmate after accidentally knocking their lunchbox off the desk?
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking your lunchbox to the floor. Let me help you pick it up and check if it opened.",
+    "studentAnswer": "I am so sorry for accidentally knocking your lunchbox to the floor. Let me help you pick it up and check if it opened.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking your lunchbox to the floor. Let me help you pick it up and check if it opened.",
+    "studentAnswer": "Sorry, I knocked your lunchbox off the desk by mistake. Let me pick it up.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking your lunchbox to the floor. Let me help you pick it up and check if it opened.",
+    "studentAnswer": "I am very sorry for dropping your lunchbox. Let me clean the floor if food spilled.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking your lunchbox to the floor. Let me help you pick it up and check if it opened.",
+    "studentAnswer": "Sorry I knocked your lunchbox down.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking your lunchbox to the floor. Let me help you pick it up and check if it opened.",
+    "studentAnswer": "Sorry, lunchbox drop.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking your lunchbox to the floor. Let me help you pick it up and check if it opened.",
+    "studentAnswer": "Lunchbox has steel spoons.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking your lunchbox to the floor. Let me help you pick it up and check if it opened.",
+    "studentAnswer": "I eat bread and jam.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking your lunchbox to the floor. Let me help you pick it up and check if it opened.",
+    "studentAnswer": "I am sorry for dropping your lunchbox, let me help you pick it up.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking your lunchbox to the floor. Let me help you pick it up and check if it opened.",
+    "studentAnswer": "Sorry lunchbox fell.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally knocking your lunchbox to the floor. Let me help you pick it up and check if it opened.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

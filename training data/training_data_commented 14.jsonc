@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask the school canteen operator if they have vegetable roti and how much one costs?
+  {
+    "modelAnswer": "Excuse me, do you have vegetable roti today? If so, how much is one?",
+    "studentAnswer": "Excuse me, do you have vegetable roti today? If so, how much is one?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, do you have vegetable roti today? If so, how much is one?",
+    "studentAnswer": "Excuse me, do you have vegetable roti? How much is it?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, do you have vegetable roti today? If so, how much is one?",
+    "studentAnswer": "Is there vegetable roti today? How much does it cost?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, do you have vegetable roti today? If so, how much is one?",
+    "studentAnswer": "Vegetable roti price please? Do you have it today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, do you have vegetable roti today? If so, how much is one?",
+    "studentAnswer": "How much for vegetable roti?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, do you have vegetable roti today? If so, how much is one?",
+    "studentAnswer": "I like eating fish buns.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, do you have vegetable roti today? If so, how much is one?",
+    "studentAnswer": "Canteen is crowded today.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, do you have vegetable roti today? If so, how much is one?",
+    "studentAnswer": "Do you have vegetable roti today, please tell me the price.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, do you have vegetable roti today? If so, how much is one?",
+    "studentAnswer": "Vegetable roti have? How much?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, do you have vegetable roti today? If so, how much is one?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you ask a new classmate what job their father does?
+  {
+    "modelAnswer": "What does your father do for a living?",
+    "studentAnswer": "What does your father do for a living?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What does your father do for a living?",
+    "studentAnswer": "What is your father's job?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What does your father do for a living?",
+    "studentAnswer": "What does your father do?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What does your father do for a living?",
+    "studentAnswer": "Can you tell me what your father's occupation is?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What does your father do for a living?",
+    "studentAnswer": "Your father's job?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What does your father do for a living?",
+    "studentAnswer": "My father is a teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What does your father do for a living?",
+    "studentAnswer": "I have two sisters.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What does your father do for a living?",
+    "studentAnswer": "What is your father doing?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "What does your father do for a living?",
+    "studentAnswer": "Father's occupation?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What does your father do for a living?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you offer to help a classmate wipe the ink that accidentally spilled on their hand and desk?
+  {
+    "modelAnswer": "Do you want some tissue paper to clean that ink? Let me help you wipe the desk.",
+    "studentAnswer": "Do you want some tissue paper to clean that ink? Let me help you wipe the desk.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you want some tissue paper to clean that ink? Let me help you wipe the desk.",
+    "studentAnswer": "Let me help you clean the ink. I have some tissues.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you want some tissue paper to clean that ink? Let me help you wipe the desk.",
+    "studentAnswer": "I have tissue paper. Can I help you clean the ink from the desk?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you want some tissue paper to clean that ink? Let me help you wipe the desk.",
+    "studentAnswer": "Shall I help you wipe that ink from your hand?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Do you want some tissue paper to clean that ink? Let me help you wipe the desk.",
+    "studentAnswer": "Take my tissues to wipe ink.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you want some tissue paper to clean that ink? Let me help you wipe the desk.",
+    "studentAnswer": "Blue ink is very hard to wash.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you want some tissue paper to clean that ink? Let me help you wipe the desk.",
+    "studentAnswer": "I have a new desk in class.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you want some tissue paper to clean that ink? Let me help you wipe the desk.",
+    "studentAnswer": "Let me help you clean that ink spill.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Do you want some tissue paper to clean that ink? Let me help you wipe the desk.",
+    "studentAnswer": "Wipe ink please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Do you want some tissue paper to clean that ink? Let me help you wipe the desk.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you ask a friend for their opinion on the painting you drew for the art class?
+  {
+    "modelAnswer": "What do you think of this painting I drew? Does the sky look realistic?",
+    "studentAnswer": "What do you think of this painting I drew? Does the sky look realistic?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of this painting I drew? Does the sky look realistic?",
+    "studentAnswer": "How is my painting? Do you like the sky color?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of this painting I drew? Does the sky look realistic?",
+    "studentAnswer": "Can you give me your opinion on this drawing? Is it good?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of this painting I drew? Does the sky look realistic?",
+    "studentAnswer": "What do you think about my art class drawing?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "What do you think of this painting I drew? Does the sky look realistic?",
+    "studentAnswer": "Is this drawing good?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you think of this painting I drew? Does the sky look realistic?",
+    "studentAnswer": "Art class is on the second floor.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you think of this painting I drew? Does the sky look realistic?",
+    "studentAnswer": "The sky is blue and clean today.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you think of this painting I drew? Does the sky look realistic?",
+    "studentAnswer": "Do you like my painting of the sky?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of this painting I drew? Does the sky look realistic?",
+    "studentAnswer": "Opinion on my drawing?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you think of this painting I drew? Does the sky look realistic?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you suggest to a classmate to visit the school library during the free period to borrow a new storybook?
+  {
+    "modelAnswer": "Shall we go to the library during this free period to borrow some new storybooks?",
+    "studentAnswer": "Shall we go to the library during this free period to borrow some new storybooks?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go to the library during this free period to borrow some new storybooks?",
+    "studentAnswer": "Let's visit the school library in the free period to get a storybook.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go to the library during this free period to borrow some new storybooks?",
+    "studentAnswer": "Can we go to the library now in this free period and borrow books?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go to the library during this free period to borrow some new storybooks?",
+    "studentAnswer": "Would you like to go to the library in the free period to borrow books?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go to the library during this free period to borrow some new storybooks?",
+    "studentAnswer": "Go to library in free period?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall we go to the library during this free period to borrow some new storybooks?",
+    "studentAnswer": "The library has many tables.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall we go to the library during this free period to borrow some new storybooks?",
+    "studentAnswer": "I have to write an English essay.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall we go to the library during this free period to borrow some new storybooks?",
+    "studentAnswer": "Shall we borrow storybooks from the library during the free period?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go to the library during this free period to borrow some new storybooks?",
+    "studentAnswer": "Borrow storybook from library?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall we go to the library during this free period to borrow some new storybooks?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you describe the taste of a Rambutan fruit to a foreign visitor?
+  {
+    "modelAnswer": "Rambutan is a sweet and juicy tropical fruit with a hairy red outer skin and translucent white flesh inside.",
+    "studentAnswer": "Rambutan is a sweet and juicy tropical fruit with a hairy red outer skin and translucent white flesh inside.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Rambutan is a sweet and juicy tropical fruit with a hairy red outer skin and translucent white flesh inside.",
+    "studentAnswer": "Rambutan is a tropical fruit that is very sweet and juicy. It has hairy red skin.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Rambutan is a sweet and juicy tropical fruit with a hairy red outer skin and translucent white flesh inside.",
+    "studentAnswer": "It is a sweet fruit with hairy red skin and juicy white flesh.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Rambutan is a sweet and juicy tropical fruit with a hairy red outer skin and translucent white flesh inside.",
+    "studentAnswer": "Rambutan is sweet and juicy.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Rambutan is a sweet and juicy tropical fruit with a hairy red outer skin and translucent white flesh inside.",
+    "studentAnswer": "I love rambutan fruit.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Rambutan is a sweet and juicy tropical fruit with a hairy red outer skin and translucent white flesh inside.",
+    "studentAnswer": "Rambutan tree grows in Sri Lanka.",
+    "maxMarks": 6,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Rambutan is a sweet and juicy tropical fruit with a hairy red outer skin and translucent white flesh inside.",
+    "studentAnswer": "It is a hairy red fruit that is very sweet.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Rambutan is a sweet and juicy tropical fruit with a hairy red outer skin and translucent white flesh inside.",
+    "studentAnswer": "Sweet hairy red fruit.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Rambutan is a sweet and juicy tropical fruit with a hairy red outer skin and translucent white flesh inside.",
+    "studentAnswer": "Rambutan is sweet.",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Rambutan is a sweet and juicy tropical fruit with a hairy red outer skin and translucent white flesh inside.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you remind a classmate that we have to submit our English homework before the interval today?
+  {
+    "modelAnswer": "Just a reminder, we need to submit our English workbook to the teacher before the interval today.",
+    "studentAnswer": "Just a reminder, we need to submit our English workbook to the teacher before the interval today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Just a reminder, we need to submit our English workbook to the teacher before the interval today.",
+    "studentAnswer": "Don't forget, we must submit our English homework before interval today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Just a reminder, we need to submit our English workbook to the teacher before the interval today.",
+    "studentAnswer": "Remember to hand in the English homework before interval today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Just a reminder, we need to submit our English workbook to the teacher before the interval today.",
+    "studentAnswer": "Submit English homework before interval.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Just a reminder, we need to submit our English workbook to the teacher before the interval today.",
+    "studentAnswer": "Homework submission today.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Just a reminder, we need to submit our English workbook to the teacher before the interval today.",
+    "studentAnswer": "Interval is at 10:30 am.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Just a reminder, we need to submit our English workbook to the teacher before the interval today.",
+    "studentAnswer": "I finished my homework yesterday.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Just a reminder, we need to submit our English workbook to the teacher before the interval today.",
+    "studentAnswer": "Remember, English homework must be given before interval.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Just a reminder, we need to submit our English workbook to the teacher before the interval today.",
+    "studentAnswer": "English homework before interval reminder.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Just a reminder, we need to submit our English workbook to the teacher before the interval today.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you ask a friend what they like to do during their school holidays?
+  {
+    "modelAnswer": "What is your favorite hobby during the school holidays? Do you like going swimming?",
+    "studentAnswer": "What is your favorite hobby during the school holidays? Do you like going swimming?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What is your favorite hobby during the school holidays? Do you like going swimming?",
+    "studentAnswer": "What do you like to do in school holidays? Do you go for swimming?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What is your favorite hobby during the school holidays? Do you like going swimming?",
+    "studentAnswer": "What do you do in school holidays? Do you like swimming?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What is your favorite hobby during the school holidays? Do you like going swimming?",
+    "studentAnswer": "What is your holiday hobby? Swimming?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "What is your favorite hobby during the school holidays? Do you like going swimming?",
+    "studentAnswer": "Holiday hobbies?",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "What is your favorite hobby during the school holidays? Do you like going swimming?",
+    "studentAnswer": "Holidays are very fun for kids.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What is your favorite hobby during the school holidays? Do you like going swimming?",
+    "studentAnswer": "Swimming pool is blue.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What is your favorite hobby during the school holidays? Do you like going swimming?",
+    "studentAnswer": "What do you like to do on school holidays? Swimming?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What is your favorite hobby during the school holidays? Do you like going swimming?",
+    "studentAnswer": "Holidays swimming?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What is your favorite hobby during the school holidays? Do you like going swimming?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you politely tell a classmate that you are disappointed they could not come to your house to study yesterday?
+  {
+    "modelAnswer": "I was a bit sad that you couldn't come to study yesterday, but I hope you are feeling better now.",
+    "studentAnswer": "I was a bit sad that you couldn't come to study yesterday, but I hope you are feeling better now.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I was a bit sad that you couldn't come to study yesterday, but I hope you are feeling better now.",
+    "studentAnswer": "I felt disappointed that you didn't come to study yesterday. Hope you are fine.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I was a bit sad that you couldn't come to study yesterday, but I hope you are feeling better now.",
+    "studentAnswer": "I was sad you couldn't come to study yesterday. Is everything okay?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I was a bit sad that you couldn't come to study yesterday, but I hope you are feeling better now.",
+    "studentAnswer": "I was disappointed you did not come to study yesterday.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I was a bit sad that you couldn't come to study yesterday, but I hope you are feeling better now.",
+    "studentAnswer": "Sad you didn't come yesterday.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I was a bit sad that you couldn't come to study yesterday, but I hope you are feeling better now.",
+    "studentAnswer": "Yesterday was a rainy day.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I was a bit sad that you couldn't come to study yesterday, but I hope you are feeling better now.",
+    "studentAnswer": "My house is in Colombo.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I was a bit sad that you couldn't come to study yesterday, but I hope you are feeling better now.",
+    "studentAnswer": "I was sad you couldn't join study yesterday, hope you are okay.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I was a bit sad that you couldn't come to study yesterday, but I hope you are feeling better now.",
+    "studentAnswer": "No study yesterday, sad.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "I was a bit sad that you couldn't come to study yesterday, but I hope you are feeling better now.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you congratulate a classmate who passed their eastern music exam with a distinction?
+  {
+    "modelAnswer": "Congratulations on passing your eastern music exam with a distinction! I am very proud of you.",
+    "studentAnswer": "Congratulations on passing your eastern music exam with a distinction! I am very proud of you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on passing your eastern music exam with a distinction! I am very proud of you.",
+    "studentAnswer": "Congrats on the distinction in eastern music exam! Very happy for you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on passing your eastern music exam with a distinction! I am very proud of you.",
+    "studentAnswer": "Well done on getting distinction in eastern music! Proud of you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on passing your eastern music exam with a distinction! I am very proud of you.",
+    "studentAnswer": "Congratulations on distinction in eastern music exam.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Congratulations on passing your eastern music exam with a distinction! I am very proud of you.",
+    "studentAnswer": "Congrats distinction music.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Congratulations on passing your eastern music exam with a distinction! I am very proud of you.",
+    "studentAnswer": "Eastern music uses seraphina and violin.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Congratulations on passing your eastern music exam with a distinction! I am very proud of you.",
+    "studentAnswer": "Music room is near the gate.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Congratulations on passing your eastern music exam with a distinction! I am very proud of you.",
+    "studentAnswer": "Congratulations, you got distinction in music exam.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on passing your eastern music exam with a distinction! I am very proud of you.",
+    "studentAnswer": "Distinction in music, congrats.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Congratulations on passing your eastern music exam with a distinction! I am very proud of you.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

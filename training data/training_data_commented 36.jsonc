@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a school prefect when the next vaccination drive will happen for Grade 9 students?
+  {
+    "modelAnswer": "Excuse me, could you please tell me what date the Grade 9 vaccination program will take place?",
+    "studentAnswer": "Excuse me, could you please tell me what date the Grade 9 vaccination program will take place?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what date the Grade 9 vaccination program will take place?",
+    "studentAnswer": "Excuse me, do you know when Grade 9 students are getting their vaccination?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what date the Grade 9 vaccination program will take place?",
+    "studentAnswer": "Prefect, can you tell me the date of the vaccination program?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what date the Grade 9 vaccination program will take place?",
+    "studentAnswer": "When is the Grade 9 vaccination happening?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what date the Grade 9 vaccination program will take place?",
+    "studentAnswer": "Vaccination program date please?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what date the Grade 9 vaccination program will take place?",
+    "studentAnswer": "Vaccination keeps us safe from diseases.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what date the Grade 9 vaccination program will take place?",
+    "studentAnswer": "I don't like getting needles.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what date the Grade 9 vaccination program will take place?",
+    "studentAnswer": "Excuse me, when will the vaccination program start?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what date the Grade 9 vaccination program will take place?",
+    "studentAnswer": "Grade 9 vaccination date?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me what date the Grade 9 vaccination program will take place?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you ask a classmate sitting next to you how many kilometers they have to travel to get to school?
+  {
+    "modelAnswer": "Do you know how many kilometers you have to travel from your house to school?",
+    "studentAnswer": "Do you know how many kilometers you have to travel from your house to school?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many kilometers you have to travel from your house to school?",
+    "studentAnswer": "How many kilometers away is your home from school?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many kilometers you have to travel from your house to school?",
+    "studentAnswer": "Can you tell me the distance from your house to school?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many kilometers you have to travel from your house to school?",
+    "studentAnswer": "How far do you have to travel to get to school?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many kilometers you have to travel from your house to school?",
+    "studentAnswer": "School travel distance in kilometers?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you know how many kilometers you have to travel from your house to school?",
+    "studentAnswer": "I travel to school by van.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you know how many kilometers you have to travel from your house to school?",
+    "studentAnswer": "The road is very crowded in the morning.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you know how many kilometers you have to travel from your house to school?",
+    "studentAnswer": "Do you know the travel distance to school?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many kilometers you have to travel from your house to school?",
+    "studentAnswer": "Travel distance kilometers?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you know how many kilometers you have to travel from your house to school?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you volunteer to dust and clean the classroom window glass panes before the term ends?
+  {
+    "modelAnswer": "Teacher, may I help you dust and clean the classroom window panes today?",
+    "studentAnswer": "Teacher, may I help you dust and clean the classroom window panes today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I help you dust and clean the classroom window panes today?",
+    "studentAnswer": "Can I volunteer to clean the classroom window glass today, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I help you dust and clean the classroom window panes today?",
+    "studentAnswer": "Teacher, let me wipe the dusty window panes before the term ends.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I help you dust and clean the classroom window panes today?",
+    "studentAnswer": "I will clean the classroom window panes now, teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I help you dust and clean the classroom window panes today?",
+    "studentAnswer": "Clean window panes today, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Teacher, may I help you dust and clean the classroom window panes today?",
+    "studentAnswer": "The window glass is very transparent and clean.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Teacher, may I help you dust and clean the classroom window panes today?",
+    "studentAnswer": "We should keep our school environment clean.",
+    "maxMarks": 5,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Teacher, may I help you dust and clean the classroom window panes today?",
+    "studentAnswer": "Teacher, I want to wipe the window panes.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Teacher, may I help you dust and clean the classroom window panes today?",
+    "studentAnswer": "Wipe window panes please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Teacher, may I help you dust and clean the classroom window panes today?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you ask a friend for their opinion on the school athletic team's new blue and yellow jersey design?
+  {
+    "modelAnswer": "What do you think of the new blue and yellow sports jersey design? Does it look nice?",
+    "studentAnswer": "What do you think of the new blue and yellow sports jersey design? Does it look nice?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new blue and yellow sports jersey design? Does it look nice?",
+    "studentAnswer": "How is the new athletic team jersey design? Do you prefer it?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new blue and yellow sports jersey design? Does it look nice?",
+    "studentAnswer": "What is your opinion on our school athletic team's new blue-yellow jerseys?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new blue and yellow sports jersey design? Does it look nice?",
+    "studentAnswer": "Do you like the new sports jersey design?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "What do you think of the new blue and yellow sports jersey design? Does it look nice?",
+    "studentAnswer": "Sports jersey design, good or bad?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you think of the new blue and yellow sports jersey design? Does it look nice?",
+    "studentAnswer": "The school jersey is worn during sports meet.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you think of the new blue and yellow sports jersey design? Does it look nice?",
+    "studentAnswer": "I wear size medium jersey.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you think of the new blue and yellow sports jersey design? Does it look nice?",
+    "studentAnswer": "Do you think the new sports jersey looks beautiful?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new blue and yellow sports jersey design? Does it look nice?",
+    "studentAnswer": "Jersey color opinion?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you think of the new blue and yellow sports jersey design? Does it look nice?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you suggest to a classmate to share their box of color pencils because you forgot yours at home?
+  {
+    "modelAnswer": "Could we please share your color pencils today? I forgot mine and need to finish my drawing.",
+    "studentAnswer": "Could we please share your color pencils today? I forgot mine and need to finish my drawing.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your color pencils today? I forgot mine and need to finish my drawing.",
+    "studentAnswer": "Can I share your color pencils today because I forgot mine at home?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your color pencils today? I forgot mine and need to finish my drawing.",
+    "studentAnswer": "Can we share this box of color pencils today? I forgot mine.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your color pencils today? I forgot mine and need to finish my drawing.",
+    "studentAnswer": "Please share your color pencils with me today for drawing class.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your color pencils today? I forgot mine and need to finish my drawing.",
+    "studentAnswer": "Share color pencils today please, forgot mine.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could we please share your color pencils today? I forgot mine and need to finish my drawing.",
+    "studentAnswer": "Drawing is a very creative class.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could we please share your color pencils today? I forgot mine and need to finish my drawing.",
+    "studentAnswer": "The box has twelve color pencils.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could we please share your color pencils today? I forgot mine and need to finish my drawing.",
+    "studentAnswer": "Can we share the color pencils today?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could we please share your color pencils today? I forgot mine and need to finish my drawing.",
+    "studentAnswer": "Share color pencils, forgot mine.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Could we please share your color pencils today? I forgot mine and need to finish my drawing.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you describe Lunu Miris to a foreign visitor?
+  {
+    "modelAnswer": "Lunu Miris is a hot Sri Lankan paste made by grinding red onions, dried chili flakes, Maldives fish, lime juice, and salt.",
+    "studentAnswer": "Lunu Miris is a hot Sri Lankan paste made by grinding red onions, dried chili flakes, Maldives fish, lime juice, and salt.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Lunu Miris is a hot Sri Lankan paste made by grinding red onions, dried chili flakes, Maldives fish, lime juice, and salt.",
+    "studentAnswer": "Lunu Miris is a spicy onion paste. It is made of red onions, dry chili, Maldives fish, and lime.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Lunu Miris is a hot Sri Lankan paste made by grinding red onions, dried chili flakes, Maldives fish, lime juice, and salt.",
+    "studentAnswer": "It is a hot paste made with ground onions, dried chili flakes, Maldives fish, and lime juice.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Lunu Miris is a hot Sri Lankan paste made by grinding red onions, dried chili flakes, Maldives fish, lime juice, and salt.",
+    "studentAnswer": "Lunu Miris is a paste of onions and red chili.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Lunu Miris is a hot Sri Lankan paste made by grinding red onions, dried chili flakes, Maldives fish, lime juice, and salt.",
+    "studentAnswer": "I eat Lunu Miris with Milk Rice.",
+    "maxMarks": 6,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Lunu Miris is a hot Sri Lankan paste made by grinding red onions, dried chili flakes, Maldives fish, lime juice, and salt.",
+    "studentAnswer": "Lunu Miris is red color and very hot.",
+    "maxMarks": 6,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Lunu Miris is a hot Sri Lankan paste made by grinding red onions, dried chili flakes, Maldives fish, lime juice, and salt.",
+    "studentAnswer": "It is a traditional local condiment made of spicy ground onions and dry chilies.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Lunu Miris is a hot Sri Lankan paste made by grinding red onions, dried chili flakes, Maldives fish, lime juice, and salt.",
+    "studentAnswer": "Spicy ground onion chili paste.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Lunu Miris is a hot Sri Lankan paste made by grinding red onions, dried chili flakes, Maldives fish, lime juice, and salt.",
+    "studentAnswer": "Lunu Miris is very hot.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Lunu Miris is a hot Sri Lankan paste made by grinding red onions, dried chili flakes, Maldives fish, lime juice, and salt.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you warn a classmate not to lean against the wall because the cement mortar is still wet?
+  {
+    "modelAnswer": "Don't lean against that wall! The cement mortar was applied just now and it is still wet.",
+    "studentAnswer": "Don't lean against that wall! The cement mortar was applied just now and it is still wet.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't lean against that wall! The cement mortar was applied just now and it is still wet.",
+    "studentAnswer": "Please don't touch the wall. The cement plaster is wet.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't lean against that wall! The cement mortar was applied just now and it is still wet.",
+    "studentAnswer": "Be careful, the brick wall has wet cement, do not lean there.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't lean against that wall! The cement mortar was applied just now and it is still wet.",
+    "studentAnswer": "Do not touch, the wall cement is wet.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Don't lean against that wall! The cement mortar was applied just now and it is still wet.",
+    "studentAnswer": "Wet cement wall, stay away.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Don't lean against that wall! The cement mortar was applied just now and it is still wet.",
+    "studentAnswer": "The wall is built using red clay bricks.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Don't lean against that wall! The cement mortar was applied just now and it is still wet.",
+    "studentAnswer": "I have to wash my dirty uniform.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Don't lean against that wall! The cement mortar was applied just now and it is still wet.",
+    "studentAnswer": "Watch out, the wall is wet from new cement mortar.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't lean against that wall! The cement mortar was applied just now and it is still wet.",
+    "studentAnswer": "Wet wall cement don't touch.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Don't lean against that wall! The cement mortar was applied just now and it is still wet.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you ask a classmate what kind of science model they are building for the school exhibition?
+  {
+    "modelAnswer": "What kind of science model are you building for the upcoming school exhibition? Can you explain it?",
+    "studentAnswer": "What kind of science model are you building for the upcoming school exhibition? Can you explain it?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What kind of science model are you building for the upcoming school exhibition? Can you explain it?",
+    "studentAnswer": "What is the science model you are preparing for the exhibition?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What kind of science model are you building for the upcoming school exhibition? Can you explain it?",
+    "studentAnswer": "What project model are you building for the science exhibition?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What kind of science model are you building for the upcoming school exhibition? Can you explain it?",
+    "studentAnswer": "What science model are you building?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "What kind of science model are you building for the upcoming school exhibition? Can you explain it?",
+    "studentAnswer": "Science model project details?",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "What kind of science model are you building for the upcoming school exhibition? Can you explain it?",
+    "studentAnswer": "The science exhibition is held in the main hall.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What kind of science model are you building for the upcoming school exhibition? Can you explain it?",
+    "studentAnswer": "I have cardboard and glue guns.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What kind of science model are you building for the upcoming school exhibition? Can you explain it?",
+    "studentAnswer": "What science project model are you building?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What kind of science model are you building for the upcoming school exhibition? Can you explain it?",
+    "studentAnswer": "Science exhibition project model?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What kind of science model are you building for the upcoming school exhibition? Can you explain it?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you thank the class teacher who wrote a recommendation letter for your higher studies scholarship?
+  {
+    "modelAnswer": "Thank you very much, teacher, for writing the recommendation letter. I am extremely grateful for your support in getting this scholarship.",
+    "studentAnswer": "Thank you very much, teacher, for writing the recommendation letter. I am extremely grateful for your support in getting this scholarship.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for writing the recommendation letter. I am extremely grateful for your support in getting this scholarship.",
+    "studentAnswer": "Thank you teacher for writing the recommendation letter for my scholarship. I appreciate it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for writing the recommendation letter. I am extremely grateful for your support in getting this scholarship.",
+    "studentAnswer": "I am very grateful to you teacher for the scholarship recommendation letter you wrote.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for writing the recommendation letter. I am extremely grateful for your support in getting this scholarship.",
+    "studentAnswer": "Thanks teacher for the scholarship recommendation letter.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for writing the recommendation letter. I am extremely grateful for your support in getting this scholarship.",
+    "studentAnswer": "Thank you for the recommendation letter.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for writing the recommendation letter. I am extremely grateful for your support in getting this scholarship.",
+    "studentAnswer": "The letter was printed on white school letterhead.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for writing the recommendation letter. I am extremely grateful for your support in getting this scholarship.",
+    "studentAnswer": "I want to study engineering at university.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for writing the recommendation letter. I am extremely grateful for your support in getting this scholarship.",
+    "studentAnswer": "Thank you teacher, your recommendation letter helped me secure the scholarship.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for writing the recommendation letter. I am extremely grateful for your support in getting this scholarship.",
+    "studentAnswer": "Recommendation letter thank you.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for writing the recommendation letter. I am extremely grateful for your support in getting this scholarship.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you apologize to a classmate after accidentally scratching their wooden desk with your metal ruler?
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your wooden desk with my metal ruler. I will be more careful next time.",
+    "studentAnswer": "I am really sorry. I accidentally scratched your wooden desk with my metal ruler. I will be more careful next time.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your wooden desk with my metal ruler. I will be more careful next time.",
+    "studentAnswer": "Sorry, I scratched your wooden desk by mistake with my metal ruler. Apologies.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your wooden desk with my metal ruler. I will be more careful next time.",
+    "studentAnswer": "I am very sorry for scratching your desk. I didn't do it on purpose.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your wooden desk with my metal ruler. I will be more careful next time.",
+    "studentAnswer": "Sorry I scratched your desk with my ruler.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your wooden desk with my metal ruler. I will be more careful next time.",
+    "studentAnswer": "Sorry, wooden desk scratch.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your wooden desk with my metal ruler. I will be more careful next time.",
+    "studentAnswer": "The wooden desk is brown wood.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your wooden desk with my metal ruler. I will be more careful next time.",
+    "studentAnswer": "The metal ruler is thirty centimeters.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your wooden desk with my metal ruler. I will be more careful next time.",
+    "studentAnswer": "I am sorry for scratching your desk, I will be careful.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your wooden desk with my metal ruler. I will be more careful next time.",
+    "studentAnswer": "Sorry desk scratched.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your wooden desk with my metal ruler. I will be more careful next time.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

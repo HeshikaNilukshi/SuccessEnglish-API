@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a school prefect when the new student identity cards will be distributed?
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day our new student identity cards will be distributed?",
+    "studentAnswer": "Excuse me, could you please tell me which day our new student identity cards will be distributed?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day our new student identity cards will be distributed?",
+    "studentAnswer": "Excuse me, do you know when we can collect our new student identity cards?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day our new student identity cards will be distributed?",
+    "studentAnswer": "Prefect, can you tell me the date for student ID card distribution?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day our new student identity cards will be distributed?",
+    "studentAnswer": "When are they distributing the student ID cards?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day our new student identity cards will be distributed?",
+    "studentAnswer": "Student ID card distribution date please?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day our new student identity cards will be distributed?",
+    "studentAnswer": "The identity card has a blue background photo.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day our new student identity cards will be distributed?",
+    "studentAnswer": "I lost my ID card yesterday.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day our new student identity cards will be distributed?",
+    "studentAnswer": "Excuse me, when will ID card distribution start?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day our new student identity cards will be distributed?",
+    "studentAnswer": "ID card distribution day?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me which day our new student identity cards will be distributed?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you ask a classmate sitting next to you how many minutes it takes them to walk to school?
+  {
+    "modelAnswer": "Do you know how many minutes it takes you to walk from your home to school?",
+    "studentAnswer": "Do you know how many minutes it takes you to walk from your home to school?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many minutes it takes you to walk from your home to school?",
+    "studentAnswer": "How many minutes do you walk to reach school every day?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many minutes it takes you to walk from your home to school?",
+    "studentAnswer": "Can you tell me the walking time from your home to school?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many minutes it takes you to walk from your home to school?",
+    "studentAnswer": "How long is your walk to school in minutes?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many minutes it takes you to walk from your home to school?",
+    "studentAnswer": "Walking time in minutes to school?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you know how many minutes it takes you to walk from your home to school?",
+    "studentAnswer": "Walking is a very healthy exercise.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you know how many minutes it takes you to walk from your home to school?",
+    "studentAnswer": "The main road has a white zebra crossing.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Do you know how many minutes it takes you to walk from your home to school?",
+    "studentAnswer": "Do you know the walk duration to school?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Do you know how many minutes it takes you to walk from your home to school?",
+    "studentAnswer": "Walk duration in minutes?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Do you know how many minutes it takes you to walk from your home to school?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you volunteer to pin up and organize the new notices on the classroom notice board?
+  {
+    "modelAnswer": "Teacher, may I help you pin up and organize the new schedules on the notice board today?",
+    "studentAnswer": "Teacher, may I help you pin up and organize the new schedules on the notice board today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I help you pin up and organize the new schedules on the notice board today?",
+    "studentAnswer": "Can I volunteer to arrange the notices on the board today, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I help you pin up and organize the new schedules on the notice board today?",
+    "studentAnswer": "Teacher, let me pin the new exam timetables on the notice board.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I help you pin up and organize the new schedules on the notice board today?",
+    "studentAnswer": "I will organize the notice board notices now, teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Teacher, may I help you pin up and organize the new schedules on the notice board today?",
+    "studentAnswer": "Pin notices today on board, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Teacher, may I help you pin up and organize the new schedules on the notice board today?",
+    "studentAnswer": "The notice board is covered with green felt fabric.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Teacher, may I help you pin up and organize the new schedules on the notice board today?",
+    "studentAnswer": "We should read all notices every morning.",
+    "maxMarks": 5,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Teacher, may I help you pin up and organize the new schedules on the notice board today?",
+    "studentAnswer": "Teacher, I want to pin up the timetable.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Teacher, may I help you pin up and organize the new schedules on the notice board today?",
+    "studentAnswer": "Pin notices please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Teacher, may I help you pin up and organize the new schedules on the notice board today?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you ask a friend for their opinion on the new peacock wall painting in the class corridor?
+  {
+    "modelAnswer": "What do you think of the new peacock painting on the corridor wall? Does it look beautiful?",
+    "studentAnswer": "What do you think of the new peacock painting on the corridor wall? Does it look beautiful?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new peacock painting on the corridor wall? Does it look beautiful?",
+    "studentAnswer": "How is the new peacock painting in the corridor? Do you prefer it?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new peacock painting on the corridor wall? Does it look beautiful?",
+    "studentAnswer": "What is your opinion on the new peacock wall painting in the school corridor?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new peacock painting on the corridor wall? Does it look beautiful?",
+    "studentAnswer": "Do you like the new corridor peacock painting?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "What do you think of the new peacock painting on the corridor wall? Does it look beautiful?",
+    "studentAnswer": "Peacock wall painting, good or bad?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you think of the new peacock painting on the corridor wall? Does it look beautiful?",
+    "studentAnswer": "Peacocks have very colorful feathers.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you think of the new peacock painting on the corridor wall? Does it look beautiful?",
+    "studentAnswer": "I walked through the corridor twice today.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "What do you think of the new peacock painting on the corridor wall? Does it look beautiful?",
+    "studentAnswer": "Do you think the new peacock painting is beautiful?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "What do you think of the new peacock painting on the corridor wall? Does it look beautiful?",
+    "studentAnswer": "Peacock painting opinion?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "What do you think of the new peacock painting on the corridor wall? Does it look beautiful?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you suggest to a classmate to share their pencil sharpener because yours is broken?
+  {
+    "modelAnswer": "Could we please share your pencil sharpener today? Mine is broken and I need to sharpen my drawing pencils.",
+    "studentAnswer": "Could we please share your pencil sharpener today? Mine is broken and I need to sharpen my drawing pencils.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your pencil sharpener today? Mine is broken and I need to sharpen my drawing pencils.",
+    "studentAnswer": "Can I share your sharpener today because mine is broken?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your pencil sharpener today? Mine is broken and I need to sharpen my drawing pencils.",
+    "studentAnswer": "Can we share this pencil sharpener today? Mine is damaged.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your pencil sharpener today? Mine is broken and I need to sharpen my drawing pencils.",
+    "studentAnswer": "Please share your sharpener with me today for art class.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could we please share your pencil sharpener today? Mine is broken and I need to sharpen my drawing pencils.",
+    "studentAnswer": "Share sharpener today please, mine is broken.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could we please share your pencil sharpener today? Mine is broken and I need to sharpen my drawing pencils.",
+    "studentAnswer": "Art is a very creative subject.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could we please share your pencil sharpener today? Mine is broken and I need to sharpen my drawing pencils.",
+    "studentAnswer": "The sharpener has a steel blade.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could we please share your pencil sharpener today? Mine is broken and I need to sharpen my drawing pencils.",
+    "studentAnswer": "Can we share the sharpener today?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could we please share your pencil sharpener today? Mine is broken and I need to sharpen my drawing pencils.",
+    "studentAnswer": "Share sharpener, mine is broken.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Could we please share your pencil sharpener today? Mine is broken and I need to sharpen my drawing pencils.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you describe how a traditional Sri Lankan flatbread (Pol Roti) tastes to a foreign visitor?
+  {
+    "modelAnswer": "Sri Lankan Pol Roti is a savory flatbread made with grated coconut, wheat flour, and chopped onions, typically eaten with hot chili paste.",
+    "studentAnswer": "Sri Lankan Pol Roti is a savory flatbread made with grated coconut, wheat flour, and chopped onions, typically eaten with hot chili paste.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Sri Lankan Pol Roti is a savory flatbread made with grated coconut, wheat flour, and chopped onions, typically eaten with hot chili paste.",
+    "studentAnswer": "Pol Roti is coconut flatbread. It has a savory taste and is made of flour, grated coconut, and onions.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Sri Lankan Pol Roti is a savory flatbread made with grated coconut, wheat flour, and chopped onions, typically eaten with hot chili paste.",
+    "studentAnswer": "It is a savory flatbread made with grated coconut, flour, and green chilies. We eat it with lunu miris.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Sri Lankan Pol Roti is a savory flatbread made with grated coconut, wheat flour, and chopped onions, typically eaten with hot chili paste.",
+    "studentAnswer": "Pol Roti is made of flour and grated coconut.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Sri Lankan Pol Roti is a savory flatbread made with grated coconut, wheat flour, and chopped onions, typically eaten with hot chili paste.",
+    "studentAnswer": "I eat Pol Roti for dinner.",
+    "maxMarks": 6,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Sri Lankan Pol Roti is a savory flatbread made with grated coconut, wheat flour, and chopped onions, typically eaten with hot chili paste.",
+    "studentAnswer": "Pol Roti is cooked on a hot iron pan.",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Sri Lankan Pol Roti is a savory flatbread made with grated coconut, wheat flour, and chopped onions, typically eaten with hot chili paste.",
+    "studentAnswer": "It is a traditional local flatbread made of coconut and flour with a savory taste.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Sri Lankan Pol Roti is a savory flatbread made with grated coconut, wheat flour, and chopped onions, typically eaten with hot chili paste.",
+    "studentAnswer": "Savory coconut flatbread Pol Roti.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Sri Lankan Pol Roti is a savory flatbread made with grated coconut, wheat flour, and chopped onions, typically eaten with hot chili paste.",
+    "studentAnswer": "Pol Roti is very savory.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Sri Lankan Pol Roti is a savory flatbread made with grated coconut, wheat flour, and chopped onions, typically eaten with hot chili paste.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you warn a classmate not to sit on the garden bench because it was painted brown this morning?
+  {
+    "modelAnswer": "Don't sit on that garden bench! It was painted brown just this morning and the paint is still wet.",
+    "studentAnswer": "Don't sit on that garden bench! It was painted brown just this morning and the paint is still wet.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't sit on that garden bench! It was painted brown just this morning and the paint is still wet.",
+    "studentAnswer": "Please don't sit on the bench. The brown paint is wet.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't sit on that garden bench! It was painted brown just this morning and the paint is still wet.",
+    "studentAnswer": "Be careful, the garden bench has wet brown paint, do not sit there.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't sit on that garden bench! It was painted brown just this morning and the paint is still wet.",
+    "studentAnswer": "Do not sit, the bench paint is wet.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Don't sit on that garden bench! It was painted brown just this morning and the paint is still wet.",
+    "studentAnswer": "Wet paint bench, stay away.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Don't sit on that garden bench! It was painted brown just this morning and the paint is still wet.",
+    "studentAnswer": "The garden bench is made of timber wood.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Don't sit on that garden bench! It was painted brown just this morning and the paint is still wet.",
+    "studentAnswer": "I have brown paint stains on my trousers.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Don't sit on that garden bench! It was painted brown just this morning and the paint is still wet.",
+    "studentAnswer": "Watch out, the bench is wet from new brown paint.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Don't sit on that garden bench! It was painted brown just this morning and the paint is still wet.",
+    "studentAnswer": "Wet bench paint don't sit.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Don't sit on that garden bench! It was painted brown just this morning and the paint is still wet.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you ask a classmate how they are practicing for their role in the upcoming English drama?
+  {
+    "modelAnswer": "How are you practicing for your role in the school English drama? Have you memorized your dialogue?",
+    "studentAnswer": "How are you practicing for your role in the school English drama? Have you memorized your dialogue?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "How are you practicing for your role in the school English drama? Have you memorized your dialogue?",
+    "studentAnswer": "What is your preparation for your role in the school English drama?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "How are you practicing for your role in the school English drama? Have you memorized your dialogue?",
+    "studentAnswer": "How do you practice your dialogue for the upcoming English play?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "How are you practicing for your role in the school English drama? Have you memorized your dialogue?",
+    "studentAnswer": "How are you studying your script for the English drama?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "How are you practicing for your role in the school English drama? Have you memorized your dialogue?",
+    "studentAnswer": "English drama practice details?",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "How are you practicing for your role in the school English drama? Have you memorized your dialogue?",
+    "studentAnswer": "The drama is held in the main hall.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "How are you practicing for your role in the school English drama? Have you memorized your dialogue?",
+    "studentAnswer": "I have script books and costumes.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "How are you practicing for your role in the school English drama? Have you memorized your dialogue?",
+    "studentAnswer": "What are you doing to practice for the English drama?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "How are you practicing for your role in the school English drama? Have you memorized your dialogue?",
+    "studentAnswer": "English drama practice plans?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "How are you practicing for your role in the school English drama? Have you memorized your dialogue?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you thank the teacher who trained you for the inter-school debating tournament?
+  {
+    "modelAnswer": "Thank you so much, teacher, for training me for the debate. Your guidance helped us win the inter-school tournament.",
+    "studentAnswer": "Thank you so much, teacher, for training me for the debate. Your guidance helped us win the inter-school tournament.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for training me for the debate. Your guidance helped us win the inter-school tournament.",
+    "studentAnswer": "Thank you teacher for training me to win the inter-school debate competition.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for training me for the debate. Your guidance helped us win the inter-school tournament.",
+    "studentAnswer": "I am very grateful to you teacher for your guidance in the debating tournament.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for training me for the debate. Your guidance helped us win the inter-school tournament.",
+    "studentAnswer": "Thanks teacher for training me to win the debate prize.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for training me for the debate. Your guidance helped us win the inter-school tournament.",
+    "studentAnswer": "Thank you for the debate training.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for training me for the debate. Your guidance helped us win the inter-school tournament.",
+    "studentAnswer": "The debate topic was about technology in school.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for training me for the debate. Your guidance helped us win the inter-school tournament.",
+    "studentAnswer": "I spoke for five minutes during my speech.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for training me for the debate. Your guidance helped us win the inter-school tournament.",
+    "studentAnswer": "Thank you teacher, your advice helped us win the debating cup.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for training me for the debate. Your guidance helped us win the inter-school tournament.",
+    "studentAnswer": "Debate tournament training thank you.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much, teacher, for training me for the debate. Your guidance helped us win the inter-school tournament.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you apologize to a classmate after accidentally scratching their plastic pencil box with your compass?
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your pencil box with my compass. I will be very careful with my geometry tools next time.",
+    "studentAnswer": "I am really sorry. I accidentally scratched your pencil box with my compass. I will be very careful with my geometry tools next time.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your pencil box with my compass. I will be very careful with my geometry tools next time.",
+    "studentAnswer": "Sorry, I scratched your pencil box by mistake with my compass. Apologies.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your pencil box with my compass. I will be very careful with my geometry tools next time.",
+    "studentAnswer": "I am very sorry for scratching your pencil box. I didn't do it on purpose.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your pencil box with my compass. I will be very careful with my geometry tools next time.",
+    "studentAnswer": "Sorry I scratched your pencil box with my compass.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your pencil box with my compass. I will be very careful with my geometry tools next time.",
+    "studentAnswer": "Sorry, plastic pencil box scratch.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your pencil box with my compass. I will be very careful with my geometry tools next time.",
+    "studentAnswer": "The pencil box is green color.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your pencil box with my compass. I will be very careful with my geometry tools next time.",
+    "studentAnswer": "The compass is made of steel.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your pencil box with my compass. I will be very careful with my geometry tools next time.",
+    "studentAnswer": "I am sorry for scratching your pencil box, I will be careful.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your pencil box with my compass. I will be very careful with my geometry tools next time.",
+    "studentAnswer": "Sorry pencil box scratched.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am really sorry. I accidentally scratched your pencil box with my compass. I will be very careful with my geometry tools next time.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]
