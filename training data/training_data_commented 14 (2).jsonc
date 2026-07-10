@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a school security guard to let you in because you forgot your ID card?
+  {
+    "modelAnswer": "Excuse me, sir, I forgot my school ID card at home today. Could you please let me enter the school?",
+    "studentAnswer": "Excuse me, sir, I forgot my school ID card at home today. Could you please let me enter the school?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, sir, I forgot my school ID card at home today. Could you please let me enter the school?",
+    "studentAnswer": "Excuse me sir, I left my ID card at home today. Can you please allow me to go inside?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, sir, I forgot my school ID card at home today. Could you please let me enter the school?",
+    "studentAnswer": "Sir, please let me enter the school today. I forgot to bring my ID card.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, sir, I forgot my school ID card at home today. Could you please let me enter the school?",
+    "studentAnswer": "Sir, can I go inside? I forgot my school ID card.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, sir, I forgot my school ID card at home today. Could you please let me enter the school?",
+    "studentAnswer": "Forgot ID card, let me in please sir.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, sir, I forgot my school ID card at home today. Could you please let me enter the school?",
+    "studentAnswer": "I wear a blue tie.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, sir, I forgot my school ID card at home today. Could you please let me enter the school?",
+    "studentAnswer": "The school gate is painted blue.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, sir, I forgot my school ID card at home today. Could you please let me enter the school?",
+    "studentAnswer": "Sir, I forgot my school ID today. Please let me go in.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, sir, I forgot my school ID card at home today. Could you please let me enter the school?",
+    "studentAnswer": "Let me in sir, forgot ID.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Excuse me, sir, I forgot my school ID card at home today. Could you please let me enter the school?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you congratulate a friend on scoring the highest marks in the English test?
+  {
+    "modelAnswer": "Congratulations on scoring the highest marks in our English test! I am so happy for your success.",
+    "studentAnswer": "Congratulations on scoring the highest marks in our English test! I am so happy for your success.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on scoring the highest marks in our English test! I am so happy for your success.",
+    "studentAnswer": "Well done on getting the top marks in the English exam! You studied very hard.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on scoring the highest marks in our English test! I am so happy for your success.",
+    "studentAnswer": "Congratulations on getting the highest marks for the English test!",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on scoring the highest marks in our English test! I am so happy for your success.",
+    "studentAnswer": "Congrats for scoring top marks in English test.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Congratulations on scoring the highest marks in our English test! I am so happy for your success.",
+    "studentAnswer": "Congratulations on highest English marks.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Congratulations on scoring the highest marks in our English test! I am so happy for your success.",
+    "studentAnswer": "English is my favorite subject.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Congratulations on scoring the highest marks in our English test! I am so happy for your success.",
+    "studentAnswer": "The test paper had many pages.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Congratulations on scoring the highest marks in our English test! I am so happy for your success.",
+    "studentAnswer": "Congratulations for getting the highest marks in the English test!",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on scoring the highest marks in our English test! I am so happy for your success.",
+    "studentAnswer": "Congrats on English marks.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Congratulations on scoring the highest marks in our English test! I am so happy for your success.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you request a friend to return your calculator before the maths class?
+  {
+    "modelAnswer": "Could you please return my calculator before the maths class starts? I need it to do the sums.",
+    "studentAnswer": "Could you please return my calculator before the maths class starts? I need it to do the sums.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please return my calculator before the maths class starts? I need it to do the sums.",
+    "studentAnswer": "Can you please give back my calculator before the maths lesson? I want it for class work.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please return my calculator before the maths class starts? I need it to do the sums.",
+    "studentAnswer": "Please return my calculator before the maths class, I have to do maths sums.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please return my calculator before the maths class starts? I need it to do the sums.",
+    "studentAnswer": "Can you return my calculator before maths class?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could you please return my calculator before the maths class starts? I need it to do the sums.",
+    "studentAnswer": "Give calculator back before maths class.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could you please return my calculator before the maths class starts? I need it to do the sums.",
+    "studentAnswer": "Maths is a compulsory subject.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please return my calculator before the maths class starts? I need it to do the sums.",
+    "studentAnswer": "I have a pen in my pocket.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please return my calculator before the maths class starts? I need it to do the sums.",
+    "studentAnswer": "Can you give me my calculator back before the maths class starts?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please return my calculator before the maths class starts? I need it to do the sums.",
+    "studentAnswer": "Return calculator please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Could you please return my calculator before the maths class starts? I need it to do the sums.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you apologize to a teacher for talking in class during the lesson?
+  {
+    "modelAnswer": "I am very sorry for talking during the lesson, teacher. I will pay attention and remain quiet.",
+    "studentAnswer": "I am very sorry for talking during the lesson, teacher. I will pay attention and remain quiet.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry for talking during the lesson, teacher. I will pay attention and remain quiet.",
+    "studentAnswer": "Excuse me teacher, I apologize for talking while you were teaching. I will not repeat it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry for talking during the lesson, teacher. I will pay attention and remain quiet.",
+    "studentAnswer": "Sorry teacher for talking in class during the lesson.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry for talking during the lesson, teacher. I will pay attention and remain quiet.",
+    "studentAnswer": "I am sorry teacher, I talked in the class.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am very sorry for talking during the lesson, teacher. I will pay attention and remain quiet.",
+    "studentAnswer": "Sorry for talk teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "I am very sorry for talking during the lesson, teacher. I will pay attention and remain quiet.",
+    "studentAnswer": "The lesson is about history.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am very sorry for talking during the lesson, teacher. I will pay attention and remain quiet.",
+    "studentAnswer": "My friend was sitting near me.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am very sorry for talking during the lesson, teacher. I will pay attention and remain quiet.",
+    "studentAnswer": "Sorry teacher for talking while you were teaching.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry for talking during the lesson, teacher. I will pay attention and remain quiet.",
+    "studentAnswer": "Sorry talked teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "I am very sorry for talking during the lesson, teacher. I will pay attention and remain quiet.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you tell a friend about a book you read and really enjoyed?
+  {
+    "modelAnswer": "I read a book called Madol Doova last week, and I really enjoyed the adventures of Upali and Jinna.",
+    "studentAnswer": "I read a book called Madol Doova last week, and I really enjoyed the adventures of Upali and Jinna.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I read a book called Madol Doova last week, and I really enjoyed the adventures of Upali and Jinna.",
+    "studentAnswer": "Last week I finished reading Madol Doova. I loved the adventure stories of Upali and Jinna.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I read a book called Madol Doova last week, and I really enjoyed the adventures of Upali and Jinna.",
+    "studentAnswer": "I read Madol Doova book recently, and it was a very interesting adventure story.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I read a book called Madol Doova last week, and I really enjoyed the adventures of Upali and Jinna.",
+    "studentAnswer": "I read a book named Madol Doova. I liked it very much.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I read a book called Madol Doova last week, and I really enjoyed the adventures of Upali and Jinna.",
+    "studentAnswer": "Read Madol Doova book, enjoyed it.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I read a book called Madol Doova last week, and I really enjoyed the adventures of Upali and Jinna.",
+    "studentAnswer": "The library has many books to read.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I read a book called Madol Doova last week, and I really enjoyed the adventures of Upali and Jinna.",
+    "studentAnswer": "Martin Wickramasinghe is a writer.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I read a book called Madol Doova last week, and I really enjoyed the adventures of Upali and Jinna.",
+    "studentAnswer": "I read the book Madol Doova, it has a very nice adventure story.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I read a book called Madol Doova last week, and I really enjoyed the adventures of Upali and Jinna.",
+    "studentAnswer": "Madol Doova book was good.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I read a book called Madol Doova last week, and I really enjoyed the adventures of Upali and Jinna.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you complain to a friend that the school lunch was too spicy today?
+  {
+    "modelAnswer": "The school lunch was too spicy today. I could hardly eat the dhal curry and pol sambol.",
+    "studentAnswer": "The school lunch was too spicy today. I could hardly eat the dhal curry and pol sambol.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "The school lunch was too spicy today. I could hardly eat the dhal curry and pol sambol.",
+    "studentAnswer": "Today's school lunch was very hot and spicy. I couldn't eat the dhal curry.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "The school lunch was too spicy today. I could hardly eat the dhal curry and pol sambol.",
+    "studentAnswer": "The lunch at school today was too spicy, the dhal curry was burning my mouth.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "The school lunch was too spicy today. I could hardly eat the dhal curry and pol sambol.",
+    "studentAnswer": "Today lunch was too spicy, I didn't eat it.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "The school lunch was too spicy today. I could hardly eat the dhal curry and pol sambol.",
+    "studentAnswer": "Lunch too spicy today.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "The school lunch was too spicy today. I could hardly eat the dhal curry and pol sambol.",
+    "studentAnswer": "I drink water during interval.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "The school lunch was too spicy today. I could hardly eat the dhal curry and pol sambol.",
+    "studentAnswer": "My mother makes good food.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "The school lunch was too spicy today. I could hardly eat the dhal curry and pol sambol.",
+    "studentAnswer": "The school lunch was very spicy today, especially the pol sambol.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "The school lunch was too spicy today. I could hardly eat the dhal curry and pol sambol.",
+    "studentAnswer": "Spicy lunch today.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "The school lunch was too spicy today. I could hardly eat the dhal curry and pol sambol.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you describe Kandy Perahera to someone who has never seen it?
+  {
+    "modelAnswer": "Kandy Perahera is a grand cultural festival with beautifully decorated elephants, traditional dancers, whip-crackers, and fire-dancers marching through the streets.",
+    "studentAnswer": "Kandy Perahera is a grand cultural festival with beautifully decorated elephants, traditional dancers, whip-crackers, and fire-dancers marching through the streets.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Kandy Perahera is a grand cultural festival with beautifully decorated elephants, traditional dancers, whip-crackers, and fire-dancers marching through the streets.",
+    "studentAnswer": "The Kandy Perahera has decorated elephants, traditional dancers, and fire-dancers marching on streets. It is a grand festival.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Kandy Perahera is a grand cultural festival with beautifully decorated elephants, traditional dancers, whip-crackers, and fire-dancers marching through the streets.",
+    "studentAnswer": "Kandy Perahera is a big festival with decorated elephants and traditional dances on the road.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Kandy Perahera is a grand cultural festival with beautifully decorated elephants, traditional dancers, whip-crackers, and fire-dancers marching through the streets.",
+    "studentAnswer": "In Kandy Perahera, we can see many elephants and traditional dances.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Kandy Perahera is a grand cultural festival with beautifully decorated elephants, traditional dancers, whip-crackers, and fire-dancers marching through the streets.",
+    "studentAnswer": "Perahera has elephants and dancers.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Kandy Perahera is a grand cultural festival with beautifully decorated elephants, traditional dancers, whip-crackers, and fire-dancers marching through the streets.",
+    "studentAnswer": "Kandy is in the hills.",
+    "maxMarks": 6,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Kandy Perahera is a grand cultural festival with beautifully decorated elephants, traditional dancers, whip-crackers, and fire-dancers marching through the streets.",
+    "studentAnswer": "I visited Kandy last year.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Kandy Perahera is a grand cultural festival with beautifully decorated elephants, traditional dancers, whip-crackers, and fire-dancers marching through the streets.",
+    "studentAnswer": "Kandy Perahera has many decorated elephants and traditional dancers in the streets.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Kandy Perahera is a grand cultural festival with beautifully decorated elephants, traditional dancers, whip-crackers, and fire-dancers marching through the streets.",
+    "studentAnswer": "Perahera elephants and dancers.",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Kandy Perahera is a grand cultural festival with beautifully decorated elephants, traditional dancers, whip-crackers, and fire-dancers marching through the streets.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you invite a teacher to your school's cultural show?
+  {
+    "modelAnswer": "Excuse me teacher, we are hosting a school cultural show next Friday. We would be honored if you could attend.",
+    "studentAnswer": "Excuse me teacher, we are hosting a school cultural show next Friday. We would be honored if you could attend.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Excuse me teacher, we are hosting a school cultural show next Friday. We would be honored if you could attend.",
+    "studentAnswer": "Teacher, we invite you to attend our school cultural show next Friday. Please come.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Excuse me teacher, we are hosting a school cultural show next Friday. We would be honored if you could attend.",
+    "studentAnswer": "Excuse me teacher, we would like to invite you to our school cultural show next Friday.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me teacher, we are hosting a school cultural show next Friday. We would be honored if you could attend.",
+    "studentAnswer": "Please come to our school cultural show next Friday, teacher.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me teacher, we are hosting a school cultural show next Friday. We would be honored if you could attend.",
+    "studentAnswer": "Come to school cultural show next Friday, teacher.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me teacher, we are hosting a school cultural show next Friday. We would be honored if you could attend.",
+    "studentAnswer": "I am dancing in the cultural show.",
+    "maxMarks": 6,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Excuse me teacher, we are hosting a school cultural show next Friday. We would be honored if you could attend.",
+    "studentAnswer": "The school stage is large.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me teacher, we are hosting a school cultural show next Friday. We would be honored if you could attend.",
+    "studentAnswer": "Excuse me teacher, can you come to our school cultural show next week?",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me teacher, we are hosting a school cultural show next Friday. We would be honored if you could attend.",
+    "studentAnswer": "Cultural show next Friday teacher.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me teacher, we are hosting a school cultural show next Friday. We would be honored if you could attend.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you thank a friend for teaching you how to play a new card game?
+  {
+    "modelAnswer": "Thank you for teaching me how to play this new card game. I had a lot of fun playing it with you.",
+    "studentAnswer": "Thank you for teaching me how to play this new card game. I had a lot of fun playing it with you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you for teaching me how to play this new card game. I had a lot of fun playing it with you.",
+    "studentAnswer": "Thanks for showing me how to play the card game. It was really fun playing together.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you for teaching me how to play this new card game. I had a lot of fun playing it with you.",
+    "studentAnswer": "Thank you for teaching me the new card game, I enjoyed it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you for teaching me how to play this new card game. I had a lot of fun playing it with you.",
+    "studentAnswer": "Thanks for teaching me how to play cards.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you for teaching me how to play this new card game. I had a lot of fun playing it with you.",
+    "studentAnswer": "Thanks for card game help.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Thank you for teaching me how to play this new card game. I had a lot of fun playing it with you.",
+    "studentAnswer": "The cards are on the table.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you for teaching me how to play this new card game. I had a lot of fun playing it with you.",
+    "studentAnswer": "I have fifty-two cards.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you for teaching me how to play this new card game. I had a lot of fun playing it with you.",
+    "studentAnswer": "Thank you for teaching me the card game, I had fun.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you for teaching me how to play this new card game. I had a lot of fun playing it with you.",
+    "studentAnswer": "Cards thank you.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Thank you for teaching me how to play this new card game. I had a lot of fun playing it with you.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you suggest to a classmate to plant trees in the school garden?
+  {
+    "modelAnswer": "Why don't we plant some trees in the school garden to make it look green and beautiful?",
+    "studentAnswer": "Why don't we plant some trees in the school garden to make it look green and beautiful?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Why don't we plant some trees in the school garden to make it look green and beautiful?",
+    "studentAnswer": "Shall we plant some trees in the school garden? It will make it green and nice.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Why don't we plant some trees in the school garden to make it look green and beautiful?",
+    "studentAnswer": "Let's plant some trees in our school garden to make it beautiful.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Why don't we plant some trees in the school garden to make it look green and beautiful?",
+    "studentAnswer": "Can we plant some trees in the school garden?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Why don't we plant some trees in the school garden to make it look green and beautiful?",
+    "studentAnswer": "Plant trees in school garden?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Why don't we plant some trees in the school garden to make it look green and beautiful?",
+    "studentAnswer": "The trees give us oxygen.",
+    "maxMarks": 5,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Why don't we plant some trees in the school garden to make it look green and beautiful?",
+    "studentAnswer": "I have a green watering can.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Why don't we plant some trees in the school garden to make it look green and beautiful?",
+    "studentAnswer": "Why don't we plant trees in the school garden?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Why don't we plant some trees in the school garden to make it look green and beautiful?",
+    "studentAnswer": "Plant trees school garden.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Why don't we plant some trees in the school garden to make it look green and beautiful?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

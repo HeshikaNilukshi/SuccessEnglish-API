@@ -35,7 +35,11 @@ export const createCourse = async (req: Request, res: Response): Promise<void> =
 
 export const getAllCourses = async (req: Request, res: Response): Promise<void> => {
   try {
-    const courses = await prisma.course.findMany();
+    const courses = await prisma.course.findMany({
+      orderBy: {
+        createdAt: 'desc',
+      },
+    });
     res.status(200).json(courses);
   } catch (error) {
     console.error('Get all courses error:', error);
@@ -194,6 +198,9 @@ export const getStudentsByCourse = async (req: Request, res: Response): Promise<
             email: true,
           },
         },
+      },
+      orderBy: {
+        createdAt: 'desc',
       },
     });
 

@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a classmate to borrow their sharpener because your pencil broke?
+  {
+    "modelAnswer": "Excuse me, my pencil point broke. Could I please borrow your sharpener for a moment?",
+    "studentAnswer": "Excuse me, my pencil point broke. Could I please borrow your sharpener for a moment?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, my pencil point broke. Could I please borrow your sharpener for a moment?",
+    "studentAnswer": "My pencil broke. Can I borrow your sharpener for a minute, please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, my pencil point broke. Could I please borrow your sharpener for a moment?",
+    "studentAnswer": "Can you lend me your sharpener please? My pencil broke.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, my pencil point broke. Could I please borrow your sharpener for a moment?",
+    "studentAnswer": "Excuse me, please give me your sharpener. Pencil broke.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, my pencil point broke. Could I please borrow your sharpener for a moment?",
+    "studentAnswer": "Can I take your sharpener?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, my pencil point broke. Could I please borrow your sharpener for a moment?",
+    "studentAnswer": "Pencils are cheap to buy.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, my pencil point broke. Could I please borrow your sharpener for a moment?",
+    "studentAnswer": "I have a new pencil box.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, my pencil point broke. Could I please borrow your sharpener for a moment?",
+    "studentAnswer": "My pencil is broken, can I use your sharpener please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, my pencil point broke. Could I please borrow your sharpener for a moment?",
+    "studentAnswer": "Sharpener please, pencil broke.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, my pencil point broke. Could I please borrow your sharpener for a moment?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you congratulate a friend on winning a story writing contest?
+  {
+    "modelAnswer": "Congratulations on winning first prize in the story writing contest! I really enjoyed reading your story.",
+    "studentAnswer": "Congratulations on winning first prize in the story writing contest! I really enjoyed reading your story.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on winning first prize in the story writing contest! I really enjoyed reading your story.",
+    "studentAnswer": "Well done on winning the story writing contest! Your story was excellent.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on winning first prize in the story writing contest! I really enjoyed reading your story.",
+    "studentAnswer": "Congrats for the first prize in story writing!",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Congratulations on winning first prize in the story writing contest! I really enjoyed reading your story.",
+    "studentAnswer": "I am so happy you won the story contest. It was a great story.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on winning first prize in the story writing contest! I really enjoyed reading your story.",
+    "studentAnswer": "You won the story writing competition, congratulations.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Congratulations on winning first prize in the story writing contest! I really enjoyed reading your story.",
+    "studentAnswer": "I like writing stories too.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Congratulations on winning first prize in the story writing contest! I really enjoyed reading your story.",
+    "studentAnswer": "The library has many storybooks.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Congratulations on winning first prize in the story writing contest! I really enjoyed reading your story.",
+    "studentAnswer": "Congratulations, your story won first prize today!",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on winning first prize in the story writing contest! I really enjoyed reading your story.",
+    "studentAnswer": "Congrats on the story competition win.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Congratulations on winning first prize in the story writing contest! I really enjoyed reading your story.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you invite a classmate to eat lunch together during the interval?
+  {
+    "modelAnswer": "Would you like to sit with me and eat lunch together during the interval today?",
+    "studentAnswer": "Would you like to sit with me and eat lunch together during the interval today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to sit with me and eat lunch together during the interval today?",
+    "studentAnswer": "Do you want to eat lunch together during the interval today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to sit with me and eat lunch together during the interval today?",
+    "studentAnswer": "Shall we eat our lunch together in the interval?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to sit with me and eat lunch together during the interval today?",
+    "studentAnswer": "Come and share lunch with me in the interval.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Would you like to sit with me and eat lunch together during the interval today?",
+    "studentAnswer": "Eat lunch together in interval?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Would you like to sit with me and eat lunch together during the interval today?",
+    "studentAnswer": "I brought rice and curry today.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Would you like to sit with me and eat lunch together during the interval today?",
+    "studentAnswer": "The canteen sells delicious rolls.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Would you like to sit with me and eat lunch together during the interval today?",
+    "studentAnswer": "Would you like to join me for lunch at the interval?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to sit with me and eat lunch together during the interval today?",
+    "studentAnswer": "Lunch in interval together?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Would you like to sit with me and eat lunch together during the interval today?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you tell your teacher you have a headache and need to go to the sickroom?
+  {
+    "modelAnswer": "Excuse me, teacher. I have a bad headache. May I please go to the sickroom?",
+    "studentAnswer": "Excuse me, teacher. I have a bad headache. May I please go to the sickroom?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I have a bad headache. May I please go to the sickroom?",
+    "studentAnswer": "Teacher, I have a headache. Can I go to the sickroom please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I have a bad headache. May I please go to the sickroom?",
+    "studentAnswer": "Excuse me teacher, I am not feeling well because of a headache. Can I go to the sickroom?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I have a bad headache. May I please go to the sickroom?",
+    "studentAnswer": "I have a headache, teacher. May I go home or sickroom?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I have a bad headache. May I please go to the sickroom?",
+    "studentAnswer": "Headache teacher, go to sickroom?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I have a bad headache. May I please go to the sickroom?",
+    "studentAnswer": "The sickroom has two beds.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I have a bad headache. May I please go to the sickroom?",
+    "studentAnswer": "I don't have any medicine.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I have a bad headache. May I please go to the sickroom?",
+    "studentAnswer": "Teacher, I have a bad headache, can I visit the sickroom?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I have a bad headache. May I please go to the sickroom?",
+    "studentAnswer": "Go to sickroom please, headache.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I have a bad headache. May I please go to the sickroom?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you ask a friend for their opinion on your new drawing?
+  {
+    "modelAnswer": "I just finished this drawing. Could you please tell me what you think of it?",
+    "studentAnswer": "I just finished this drawing. Could you please tell me what you think of it?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I just finished this drawing. Could you please tell me what you think of it?",
+    "studentAnswer": "I drew this picture. How is it? Can you tell me?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I just finished this drawing. Could you please tell me what you think of it?",
+    "studentAnswer": "Do you like my new drawing? Please give me your opinion.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I just finished this drawing. Could you please tell me what you think of it?",
+    "studentAnswer": "Look at my new drawing. Is it good?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I just finished this drawing. Could you please tell me what you think of it?",
+    "studentAnswer": "How is my drawing?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I just finished this drawing. Could you please tell me what you think of it?",
+    "studentAnswer": "I used color pencils for this drawing.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I just finished this drawing. Could you please tell me what you think of it?",
+    "studentAnswer": "Art is a very nice hobby.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I just finished this drawing. Could you please tell me what you think of it?",
+    "studentAnswer": "Can you check my drawing and tell your opinion?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I just finished this drawing. Could you please tell me what you think of it?",
+    "studentAnswer": "My drawing good or bad?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I just finished this drawing. Could you please tell me what you think of it?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you tell a friend about your favorite subject?
+  {
+    "modelAnswer": "My favorite subject is History because I love learning about ancient kings and ruins.",
+    "studentAnswer": "My favorite subject is History because I love learning about ancient kings and ruins.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "My favorite subject is History because I love learning about ancient kings and ruins.",
+    "studentAnswer": "I like History most because we can learn about old kings and historical places.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "My favorite subject is History because I love learning about ancient kings and ruins.",
+    "studentAnswer": "History is my favorite subject. I like to know about ancient kings.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "My favorite subject is History because I love learning about ancient kings and ruins.",
+    "studentAnswer": "My favorite subject is History because it tells about kings.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "My favorite subject is History because I love learning about ancient kings and ruins.",
+    "studentAnswer": "I like History subject.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "My favorite subject is History because I love learning about ancient kings and ruins.",
+    "studentAnswer": "History textbook is very thick.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "My favorite subject is History because I love learning about ancient kings and ruins.",
+    "studentAnswer": "I got high marks for Science.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "My favorite subject is History because I love learning about ancient kings and ruins.",
+    "studentAnswer": "My favorite subject is History because I like learning about ruins.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "My favorite subject is History because I love learning about ancient kings and ruins.",
+    "studentAnswer": "History is best subject.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "My favorite subject is History because I love learning about ancient kings and ruins.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you order food and a drink at a food stall?
+  {
+    "modelAnswer": "Could I please have one egg roti and a bottle of mineral water?",
+    "studentAnswer": "Could I please have one egg roti and a bottle of mineral water?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could I please have one egg roti and a bottle of mineral water?",
+    "studentAnswer": "Can I get one egg roti and a bottle of water, please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could I please have one egg roti and a bottle of mineral water?",
+    "studentAnswer": "I want one egg roti and one mineral water bottle.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could I please have one egg roti and a bottle of mineral water?",
+    "studentAnswer": "Please give me an egg roti and a bottle of water.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could I please have one egg roti and a bottle of mineral water?",
+    "studentAnswer": "One egg roti and water.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could I please have one egg roti and a bottle of mineral water?",
+    "studentAnswer": "The food stall is closed.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could I please have one egg roti and a bottle of mineral water?",
+    "studentAnswer": "I like cheese roti.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could I please have one egg roti and a bottle of mineral water?",
+    "studentAnswer": "Can I have egg roti and mineral water bottle please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could I please have one egg roti and a bottle of mineral water?",
+    "studentAnswer": "Egg roti and water bottle please.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could I please have one egg roti and a bottle of mineral water?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you invite a classmate to join the school chess club?
+  {
+    "modelAnswer": "Would you be interested in joining the school chess club with me this Friday?",
+    "studentAnswer": "Would you be interested in joining the school chess club with me this Friday?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you be interested in joining the school chess club with me this Friday?",
+    "studentAnswer": "Do you want to join the school chess club with me this Friday?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you be interested in joining the school chess club with me this Friday?",
+    "studentAnswer": "Shall we join the school chess club together this Friday?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you be interested in joining the school chess club with me this Friday?",
+    "studentAnswer": "Would you like to join the chess club on Friday?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Would you be interested in joining the school chess club with me this Friday?",
+    "studentAnswer": "Join chess club this Friday?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Would you be interested in joining the school chess club with me this Friday?",
+    "studentAnswer": "Chess is an indoor game.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Would you be interested in joining the school chess club with me this Friday?",
+    "studentAnswer": "I have a chess board at home.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Would you be interested in joining the school chess club with me this Friday?",
+    "studentAnswer": "Are you coming to the chess club on Friday?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Would you be interested in joining the school chess club with me this Friday?",
+    "studentAnswer": "Chess club on Friday?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Would you be interested in joining the school chess club with me this Friday?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you apologize to a friend for accidentally tearing their notebook page?
+  {
+    "modelAnswer": "I am so sorry for accidentally tearing your notebook page. Let me help you tape it.",
+    "studentAnswer": "I am so sorry for accidentally tearing your notebook page. Let me help you tape it.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally tearing your notebook page. Let me help you tape it.",
+    "studentAnswer": "Sorry for tearing your notebook page by mistake, I will help to tape it.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally tearing your notebook page. Let me help you tape it.",
+    "studentAnswer": "I am really sorry I tore your notebook page.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally tearing your notebook page. Let me help you tape it.",
+    "studentAnswer": "Sorry I tore your book page.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally tearing your notebook page. Let me help you tape it.",
+    "studentAnswer": "Sorry about the torn page.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally tearing your notebook page. Let me help you tape it.",
+    "studentAnswer": "My notebook has eighty pages.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally tearing your notebook page. Let me help you tape it.",
+    "studentAnswer": "I need to buy a cello tape.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally tearing your notebook page. Let me help you tape it.",
+    "studentAnswer": "I am sorry for tearing your book page, I will tape it.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally tearing your notebook page. Let me help you tape it.",
+    "studentAnswer": "Tear book page sorry.",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "I am so sorry for accidentally tearing your notebook page. Let me help you tape it.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you describe a famous landmark (Sigiriya) to a foreigner?
+  {
+    "modelAnswer": "Sigiriya is a massive ancient rock fortress famous for its beautiful frescoes and lion paw entrance.",
+    "studentAnswer": "Sigiriya is a massive ancient rock fortress famous for its beautiful frescoes and lion paw entrance.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Sigiriya is a massive ancient rock fortress famous for its beautiful frescoes and lion paw entrance.",
+    "studentAnswer": "Sigiriya is a big rock fortress with nice paintings and a lion paw gate.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Sigiriya is a massive ancient rock fortress famous for its beautiful frescoes and lion paw entrance.",
+    "studentAnswer": "Sigiriya is a famous rock fortress in Sri Lanka.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Sigiriya is a massive ancient rock fortress famous for its beautiful frescoes and lion paw entrance.",
+    "studentAnswer": "It is an ancient rock fortress with lion paw.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Sigiriya is a massive ancient rock fortress famous for its beautiful frescoes and lion paw entrance.",
+    "studentAnswer": "Sigiriya is a big rock.",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Sigiriya is a massive ancient rock fortress famous for its beautiful frescoes and lion paw entrance.",
+    "studentAnswer": "I climbed Sigiriya last year.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Sigiriya is a massive ancient rock fortress famous for its beautiful frescoes and lion paw entrance.",
+    "studentAnswer": "Sri Lanka has many historic places.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Sigiriya is a massive ancient rock fortress famous for its beautiful frescoes and lion paw entrance.",
+    "studentAnswer": "Sigiriya is a rock fortress famous for frescoes.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Sigiriya is a massive ancient rock fortress famous for its beautiful frescoes and lion paw entrance.",
+    "studentAnswer": "Sigiriya rock fortress.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Sigiriya is a massive ancient rock fortress famous for its beautiful frescoes and lion paw entrance.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  }
+]

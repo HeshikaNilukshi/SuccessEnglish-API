@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a classmate to help you carry your sports equipment to the field?
+  {
+    "modelAnswer": "Could you please help me carry this sports equipment to the field? It is too heavy for me.",
+    "studentAnswer": "Could you please help me carry this sports equipment to the field? It is too heavy for me.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please help me carry this sports equipment to the field? It is too heavy for me.",
+    "studentAnswer": "Can you please help me to take these sports items to the playground? It's heavy.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please help me carry this sports equipment to the field? It is too heavy for me.",
+    "studentAnswer": "Please help me carry the sports things to the field. I cannot carry all of it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please help me carry this sports equipment to the field? It is too heavy for me.",
+    "studentAnswer": "Can you carry sports equipment to the field with me?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could you please help me carry this sports equipment to the field? It is too heavy for me.",
+    "studentAnswer": "Help carry sports equipment to field.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could you please help me carry this sports equipment to the field? It is too heavy for me.",
+    "studentAnswer": "I like playing cricket.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please help me carry this sports equipment to the field? It is too heavy for me.",
+    "studentAnswer": "The field is very muddy.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please help me carry this sports equipment to the field? It is too heavy for me.",
+    "studentAnswer": "Could you help me carry these heavy sports equipment to the field?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please help me carry this sports equipment to the field? It is too heavy for me.",
+    "studentAnswer": "Carry sports items please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Could you please help me carry this sports equipment to the field? It is too heavy for me.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you welcome a new principal to the school?
+  {
+    "modelAnswer": "We are honored to welcome you as our new principal, sir! We wish you a successful time at our school.",
+    "studentAnswer": "We are honored to welcome you as our new principal, sir! We wish you a successful time at our school.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "We are honored to welcome you as our new principal, sir! We wish you a successful time at our school.",
+    "studentAnswer": "A warm welcome to our school, sir! We are happy to have you as our new principal.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "We are honored to welcome you as our new principal, sir! We wish you a successful time at our school.",
+    "studentAnswer": "Welcome to our school, sir. We are glad that you are our new principal.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "We are honored to welcome you as our new principal, sir! We wish you a successful time at our school.",
+    "studentAnswer": "Welcome sir, we are happy you are our new principal.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "We are honored to welcome you as our new principal, sir! We wish you a successful time at our school.",
+    "studentAnswer": "Welcome to our new principal, sir.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "We are honored to welcome you as our new principal, sir! We wish you a successful time at our school.",
+    "studentAnswer": "Our principal's office is big.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "We are honored to welcome you as our new principal, sir! We wish you a successful time at our school.",
+    "studentAnswer": "I wear a clean uniform.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "We are honored to welcome you as our new principal, sir! We wish you a successful time at our school.",
+    "studentAnswer": "Welcome to our school sir! We wish you a happy time as our principal.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "We are honored to welcome you as our new principal, sir! We wish you a successful time at our school.",
+    "studentAnswer": "Welcome principal sir.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "We are honored to welcome you as our new principal, sir! We wish you a successful time at our school.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you request a bus conductor to stop at your bus halt?
+  {
+    "modelAnswer": "Excuse me, conductor, could you please stop the bus at the next halt? I need to get off there.",
+    "studentAnswer": "Excuse me, conductor, could you please stop the bus at the next halt? I need to get off there.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, conductor, could you please stop the bus at the next halt? I need to get off there.",
+    "studentAnswer": "Conductor, please stop at the next bus halt. I want to get down.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, conductor, could you please stop the bus at the next halt? I need to get off there.",
+    "studentAnswer": "Excuse me, can you stop the bus at the next stop, please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, conductor, could you please stop the bus at the next halt? I need to get off there.",
+    "studentAnswer": "Conductor, please stop at next halt.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, conductor, could you please stop the bus at the next halt? I need to get off there.",
+    "studentAnswer": "Stop at next halt conductor.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, conductor, could you please stop the bus at the next halt? I need to get off there.",
+    "studentAnswer": "The bus ticket is twenty rupees.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, conductor, could you please stop the bus at the next halt? I need to get off there.",
+    "studentAnswer": "The bus is very crowded today.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, conductor, could you please stop the bus at the next halt? I need to get off there.",
+    "studentAnswer": "Conductor, can you stop the bus at next halt please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, conductor, could you please stop the bus at the next halt? I need to get off there.",
+    "studentAnswer": "Stop the bus conductor.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Excuse me, conductor, could you please stop the bus at the next halt? I need to get off there.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you apologize to a sibling for breaking their favorite toy?
+  {
+    "modelAnswer": "I am really sorry for breaking your favorite toy. It was an accident, and I will try to fix it.",
+    "studentAnswer": "I am really sorry for breaking your favorite toy. It was an accident, and I will try to fix it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry for breaking your favorite toy. It was an accident, and I will try to fix it.",
+    "studentAnswer": "Sorry for breaking your favorite toy. I did not mean to do it. I will get it repaired.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry for breaking your favorite toy. It was an accident, and I will try to fix it.",
+    "studentAnswer": "I am sorry I broke your toy. I will buy you a new one.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry for breaking your favorite toy. It was an accident, and I will try to fix it.",
+    "studentAnswer": "Sorry I broke your favorite toy.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am really sorry for breaking your favorite toy. It was an accident, and I will try to fix it.",
+    "studentAnswer": "Broke your toy, sorry.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am really sorry for breaking your favorite toy. It was an accident, and I will try to fix it.",
+    "studentAnswer": "I have a new toy car.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really sorry for breaking your favorite toy. It was an accident, and I will try to fix it.",
+    "studentAnswer": "My brother is older than me.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really sorry for breaking your favorite toy. It was an accident, and I will try to fix it.",
+    "studentAnswer": "Sorry for breaking your toy, I will fix it soon.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry for breaking your favorite toy. It was an accident, and I will try to fix it.",
+    "studentAnswer": "Toy broke, sorry.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "I am really sorry for breaking your favorite toy. It was an accident, and I will try to fix it.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you tell a friend about a new movie you watched recently?
+  {
+    "modelAnswer": "I watched a new movie called Lion King yesterday, and it had amazing animation and a great story.",
+    "studentAnswer": "I watched a new movie called Lion King yesterday, and it had amazing animation and a great story.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I watched a new movie called Lion King yesterday, and it had amazing animation and a great story.",
+    "studentAnswer": "Recently I saw the new movie Lion King. It was very interesting with good animation.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I watched a new movie called Lion King yesterday, and it had amazing animation and a great story.",
+    "studentAnswer": "I watched the movie Lion King yesterday. It is a very good film.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I watched a new movie called Lion King yesterday, and it had amazing animation and a great story.",
+    "studentAnswer": "I saw a new movie called Lion King. I liked it.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I watched a new movie called Lion King yesterday, and it had amazing animation and a great story.",
+    "studentAnswer": "Watched new movie Lion King.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I watched a new movie called Lion King yesterday, and it had amazing animation and a great story.",
+    "studentAnswer": "The cinema hall is in Colombo.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I watched a new movie called Lion King yesterday, and it had amazing animation and a great story.",
+    "studentAnswer": "I eat popcorn at the theater.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I watched a new movie called Lion King yesterday, and it had amazing animation and a great story.",
+    "studentAnswer": "I watched the new Lion King movie, it has a very nice story.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I watched a new movie called Lion King yesterday, and it had amazing animation and a great story.",
+    "studentAnswer": "Lion King movie was good.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I watched a new movie called Lion King yesterday, and it had amazing animation and a great story.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you ask a shopkeeper if they have colored pencils in stock?
+  {
+    "modelAnswer": "Excuse me, do you have colored pencils? I need a box of twelve colors.",
+    "studentAnswer": "Excuse me, do you have colored pencils? I need a box of twelve colors.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, do you have colored pencils? I need a box of twelve colors.",
+    "studentAnswer": "Excuse me, do you sell colored pencils here? I want a pack of twelve.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, do you have colored pencils? I need a box of twelve colors.",
+    "studentAnswer": "Can I buy a box of colored pencils from your shop?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, do you have colored pencils? I need a box of twelve colors.",
+    "studentAnswer": "Do you have colored pencils in your shop?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, do you have colored pencils? I need a box of twelve colors.",
+    "studentAnswer": "Colored pencils have you?",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Excuse me, do you have colored pencils? I need a box of twelve colors.",
+    "studentAnswer": "I like drawing trees.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, do you have colored pencils? I need a box of twelve colors.",
+    "studentAnswer": "The shop is open now.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, do you have colored pencils? I need a box of twelve colors.",
+    "studentAnswer": "Excuse me, can I get colored pencils please?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, do you have colored pencils? I need a box of twelve colors.",
+    "studentAnswer": "Colored pencils please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, do you have colored pencils? I need a box of twelve colors.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you describe a trip to the Pinnawala Elephant Orphanage to a pen pal?
+  {
+    "modelAnswer": "I visited the Pinnawala Elephant Orphanage, where I saw many baby elephants being bottle-fed and bathing in the Ma Oya river.",
+    "studentAnswer": "I visited the Pinnawala Elephant Orphanage, where I saw many baby elephants being bottle-fed and bathing in the Ma Oya river.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "I visited the Pinnawala Elephant Orphanage, where I saw many baby elephants being bottle-fed and bathing in the Ma Oya river.",
+    "studentAnswer": "I went to Pinnawala Elephant Orphanage. I watched baby elephants drinking milk and bathing in the river.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "I visited the Pinnawala Elephant Orphanage, where I saw many baby elephants being bottle-fed and bathing in the Ma Oya river.",
+    "studentAnswer": "We visited Pinnawala Elephant Orphanage and saw elephants bathing in the river.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I visited the Pinnawala Elephant Orphanage, where I saw many baby elephants being bottle-fed and bathing in the Ma Oya river.",
+    "studentAnswer": "I went to Pinnawala Orphanage. There are many elephants.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I visited the Pinnawala Elephant Orphanage, where I saw many baby elephants being bottle-fed and bathing in the Ma Oya river.",
+    "studentAnswer": "Visited Pinnawala elephant orphanage.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I visited the Pinnawala Elephant Orphanage, where I saw many baby elephants being bottle-fed and bathing in the Ma Oya river.",
+    "studentAnswer": "Elephants are very big animals.",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "I visited the Pinnawala Elephant Orphanage, where I saw many baby elephants being bottle-fed and bathing in the Ma Oya river.",
+    "studentAnswer": "I write letters every week.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I visited the Pinnawala Elephant Orphanage, where I saw many baby elephants being bottle-fed and bathing in the Ma Oya river.",
+    "studentAnswer": "Sri Lanka has many wild animals.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I visited the Pinnawala Elephant Orphanage, where I saw many baby elephants being bottle-fed and bathing in the Ma Oya river.",
+    "studentAnswer": "I went to Pinnawala, and saw baby elephants bottle-feeding.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I visited the Pinnawala Elephant Orphanage, where I saw many baby elephants being bottle-fed and bathing in the Ma Oya river.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you congratulate your school team on winning the inter-school debating competition?
+  {
+    "modelAnswer": "Congratulations to our debating team on winning the championship! Your arguments were very powerful and well-prepared.",
+    "studentAnswer": "Congratulations to our debating team on winning the championship! Your arguments were very powerful and well-prepared.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Congratulations to our debating team on winning the championship! Your arguments were very powerful and well-prepared.",
+    "studentAnswer": "Well done on winning the inter-school debating contest! You all spoke extremely well.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Congratulations to our debating team on winning the championship! Your arguments were very powerful and well-prepared.",
+    "studentAnswer": "Congratulations to our debating team! I am proud of your victory in the competition.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations to our debating team on winning the championship! Your arguments were very powerful and well-prepared.",
+    "studentAnswer": "Congrats for winning the debating competition school team.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Congratulations to our debating team on winning the championship! Your arguments were very powerful and well-prepared.",
+    "studentAnswer": "Congratulations debating team.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Congratulations to our debating team on winning the championship! Your arguments were very powerful and well-prepared.",
+    "studentAnswer": "The debate was in English language.",
+    "maxMarks": 6,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Congratulations to our debating team on winning the championship! Your arguments were very powerful and well-prepared.",
+    "studentAnswer": "I did not speak in the debate.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Congratulations to our debating team on winning the championship! Your arguments were very powerful and well-prepared.",
+    "studentAnswer": "Debating is very interesting.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Congratulations to our debating team on winning the championship! Your arguments were very powerful and well-prepared.",
+    "studentAnswer": "Congratulations on winning the debate! You did very well.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations to our debating team on winning the championship! Your arguments were very powerful and well-prepared.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you thank your class teacher for writing you a recommendation letter?
+  {
+    "modelAnswer": "Thank you very much, teacher, for writing the recommendation letter for me. I appreciate your kind support.",
+    "studentAnswer": "Thank you very much, teacher, for writing the recommendation letter for me. I appreciate your kind support.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for writing the recommendation letter for me. I appreciate your kind support.",
+    "studentAnswer": "Thank you, teacher, for your recommendation letter. It was very helpful for my application.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for writing the recommendation letter for me. I appreciate your kind support.",
+    "studentAnswer": "Thank you for the recommendation letter, teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for writing the recommendation letter for me. I appreciate your kind support.",
+    "studentAnswer": "Thanks for writing recommendation letter teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for writing the recommendation letter for me. I appreciate your kind support.",
+    "studentAnswer": "Thanks for letter teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for writing the recommendation letter for me. I appreciate your kind support.",
+    "studentAnswer": "The letter is on white paper.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for writing the recommendation letter for me. I appreciate your kind support.",
+    "studentAnswer": "I am applying to a new course.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for writing the recommendation letter for me. I appreciate your kind support.",
+    "studentAnswer": "Thank you teacher for writing a nice recommendation letter.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for writing the recommendation letter for me. I appreciate your kind support.",
+    "studentAnswer": "Letter thank you teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you very much, teacher, for writing the recommendation letter for me. I appreciate your kind support.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you suggest to your family to visit Galle Fort during the holidays?
+  {
+    "modelAnswer": "Shall we go on a trip to visit Galle Fort during the upcoming school holidays?",
+    "studentAnswer": "Shall we go on a trip to visit Galle Fort during the upcoming school holidays?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go on a trip to visit Galle Fort during the upcoming school holidays?",
+    "studentAnswer": "Why don't we visit Galle Fort in the holidays? It is a beautiful place.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go on a trip to visit Galle Fort during the upcoming school holidays?",
+    "studentAnswer": "Let's visit Galle Fort in these school holidays.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go on a trip to visit Galle Fort during the upcoming school holidays?",
+    "studentAnswer": "Can we go to Galle Fort during school holidays?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Shall we go on a trip to visit Galle Fort during the upcoming school holidays?",
+    "studentAnswer": "Go to Galle Fort in holidays?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall we go on a trip to visit Galle Fort during the upcoming school holidays?",
+    "studentAnswer": "Galle is in the southern province.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall we go on a trip to visit Galle Fort during the upcoming school holidays?",
+    "studentAnswer": "I have two weeks holiday.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall we go on a trip to visit Galle Fort during the upcoming school holidays?",
+    "studentAnswer": "Why don't we go to Galle Fort during holidays?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go on a trip to visit Galle Fort during the upcoming school holidays?",
+    "studentAnswer": "Galle Fort trip please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Shall we go on a trip to visit Galle Fort during the upcoming school holidays?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

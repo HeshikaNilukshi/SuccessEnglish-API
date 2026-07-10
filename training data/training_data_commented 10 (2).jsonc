@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a classmate to borrow their eraser because you made a mistake?
+  {
+    "modelAnswer": "Excuse me, I made a mistake in my notebook. Could I please borrow your eraser for a moment?",
+    "studentAnswer": "Excuse me, I made a mistake in my notebook. Could I please borrow your eraser for a moment?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I made a mistake in my notebook. Could I please borrow your eraser for a moment?",
+    "studentAnswer": "I made a mistake. Can I borrow your eraser for a minute, please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I made a mistake in my notebook. Could I please borrow your eraser for a moment?",
+    "studentAnswer": "Can you lend me your eraser please? I drew a wrong line.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I made a mistake in my notebook. Could I please borrow your eraser for a moment?",
+    "studentAnswer": "Excuse me, please give me your eraser. Made a mistake.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, I made a mistake in my notebook. Could I please borrow your eraser for a moment?",
+    "studentAnswer": "Can I take your eraser?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, I made a mistake in my notebook. Could I please borrow your eraser for a moment?",
+    "studentAnswer": "Erasers are very small.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, I made a mistake in my notebook. Could I please borrow your eraser for a moment?",
+    "studentAnswer": "I have a new pencil box.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, I made a mistake in my notebook. Could I please borrow your eraser for a moment?",
+    "studentAnswer": "I did a mistake in drawing, can I use your eraser please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I made a mistake in my notebook. Could I please borrow your eraser for a moment?",
+    "studentAnswer": "Eraser please, to clean my mistake.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, I made a mistake in my notebook. Could I please borrow your eraser for a moment?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you welcome a guest speaker to the school assembly?
+  {
+    "modelAnswer": "Welcome to our school, sir! We are very honored to have you speak to us today.",
+    "studentAnswer": "Welcome to our school, sir! We are very honored to have you speak to us today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Welcome to our school, sir! We are very honored to have you speak to us today.",
+    "studentAnswer": "A warm welcome to our school, sir! We are happy to have you at our assembly today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Welcome to our school, sir! We are very honored to have you speak to us today.",
+    "studentAnswer": "Welcome, sir! We are honored to listen to your speech today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Welcome to our school, sir! We are very honored to have you speak to us today.",
+    "studentAnswer": "Welcome to our school, sir. We are happy to have you here today.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Welcome to our school, sir! We are very honored to have you speak to us today.",
+    "studentAnswer": "Welcome to our school, sir.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Welcome to our school, sir! We are very honored to have you speak to us today.",
+    "studentAnswer": "The school assembly starts at 8 am.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Welcome to our school, sir! We are very honored to have you speak to us today.",
+    "studentAnswer": "The hall has many chairs.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Welcome to our school, sir! We are very honored to have you speak to us today.",
+    "studentAnswer": "Sir, welcome to our school today.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Welcome to our school, sir! We are very honored to have you speak to us today.",
+    "studentAnswer": "Welcome speaker to our school.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Welcome to our school, sir! We are very honored to have you speak to us today.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you request a friend to pass the water bottle at PE class?
+  {
+    "modelAnswer": "Could you please pass that water bottle to me? I am very thirsty.",
+    "studentAnswer": "Could you please pass that water bottle to me? I am very thirsty.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please pass that water bottle to me? I am very thirsty.",
+    "studentAnswer": "Can you please pass the water bottle to me? I am thirsty.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please pass that water bottle to me? I am very thirsty.",
+    "studentAnswer": "Please pass the water bottle. I am very thirsty.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please pass that water bottle to me? I am very thirsty.",
+    "studentAnswer": "Would you mind passing me the water bottle? I am thirsty.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please pass that water bottle to me? I am very thirsty.",
+    "studentAnswer": "Pass the water bottle please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could you please pass that water bottle to me? I am very thirsty.",
+    "studentAnswer": "The PE class is very interesting today.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please pass that water bottle to me? I am very thirsty.",
+    "studentAnswer": "I like playing football.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please pass that water bottle to me? I am very thirsty.",
+    "studentAnswer": "Can you pass me that water bottle please?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could you please pass that water bottle to me? I am very thirsty.",
+    "studentAnswer": "Water bottle please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Could you please pass that water bottle to me? I am very thirsty.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you apologize to a teacher for coming late to class?
+  {
+    "modelAnswer": "I am very sorry for coming late, teacher. I missed my usual school bus today.",
+    "studentAnswer": "I am very sorry for coming late, teacher. I missed my usual school bus today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry for coming late, teacher. I missed my usual school bus today.",
+    "studentAnswer": "Sorry teacher I am late today. I missed the school bus.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry for coming late, teacher. I missed my usual school bus today.",
+    "studentAnswer": "Teacher, I am sorry for being late. My school bus went without me.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry for coming late, teacher. I missed my usual school bus today.",
+    "studentAnswer": "I am sorry teacher, I came late because of the bus.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am very sorry for coming late, teacher. I missed my usual school bus today.",
+    "studentAnswer": "Sorry teacher, I am late today.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am very sorry for coming late, teacher. I missed my usual school bus today.",
+    "studentAnswer": "The school bus is yellow in color.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am very sorry for coming late, teacher. I missed my usual school bus today.",
+    "studentAnswer": "I wake up at 6 am every morning.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am very sorry for coming late, teacher. I missed my usual school bus today.",
+    "studentAnswer": "I am sorry I am late, teacher. I missed the bus.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am very sorry for coming late, teacher. I missed my usual school bus today.",
+    "studentAnswer": "Missed the school bus, sorry teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am very sorry for coming late, teacher. I missed my usual school bus today.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you tell a friend you want to join the school science club?
+  {
+    "modelAnswer": "I am planning to join the school science club because I want to do fun science experiments.",
+    "studentAnswer": "I am planning to join the school science club because I want to do fun science experiments.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am planning to join the school science club because I want to do fun science experiments.",
+    "studentAnswer": "I want to join the school science club. I like doing science experiments.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am planning to join the school science club because I want to do fun science experiments.",
+    "studentAnswer": "I will join the science club at school as I want to do fun experiments.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am planning to join the school science club because I want to do fun science experiments.",
+    "studentAnswer": "I am going to join the school science club for experiments.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am planning to join the school science club because I want to do fun science experiments.",
+    "studentAnswer": "I want to join school science club.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am planning to join the school science club because I want to do fun science experiments.",
+    "studentAnswer": "Science lab has many glass bottles.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am planning to join the school science club because I want to do fun science experiments.",
+    "studentAnswer": "My science teacher is very kind.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am planning to join the school science club because I want to do fun science experiments.",
+    "studentAnswer": "I plan to join the science club because I want to do experiments.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am planning to join the school science club because I want to do fun science experiments.",
+    "studentAnswer": "Science club is very good.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "I am planning to join the school science club because I want to do fun science experiments.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you ask a shopkeeper for the price of an English-Sinhala dictionary?
+  {
+    "modelAnswer": "Excuse me, could you please tell me the price of this English-Sinhala dictionary?",
+    "studentAnswer": "Excuse me, could you please tell me the price of this English-Sinhala dictionary?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me the price of this English-Sinhala dictionary?",
+    "studentAnswer": "Excuse me, how much is this English-Sinhala dictionary?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me the price of this English-Sinhala dictionary?",
+    "studentAnswer": "Can you tell me the price of this English-Sinhala dictionary, please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me the price of this English-Sinhala dictionary?",
+    "studentAnswer": "What is the price of this English-Sinhala dictionary?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me the price of this English-Sinhala dictionary?",
+    "studentAnswer": "How much for this English-Sinhala dictionary?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me the price of this English-Sinhala dictionary?",
+    "studentAnswer": "The dictionary has many English words.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me the price of this English-Sinhala dictionary?",
+    "studentAnswer": "I need to learn new English words.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me the price of this English-Sinhala dictionary?",
+    "studentAnswer": "Excuse me, can you tell me the price of this dictionary?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me the price of this English-Sinhala dictionary?",
+    "studentAnswer": "Price of English-Sinhala dictionary please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me the price of this English-Sinhala dictionary?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you ask a parent for permission to go to the school library after class?
+  {
+    "modelAnswer": "Amma, may I please stay back at the school library today afternoon to read some books?",
+    "studentAnswer": "Amma, may I please stay back at the school library today afternoon to read some books?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Amma, may I please stay back at the school library today afternoon to read some books?",
+    "studentAnswer": "Mother, can I stay in the school library after class to read books?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Amma, may I please stay back at the school library today afternoon to read some books?",
+    "studentAnswer": "Mother, please let me go to the school library after class to read books.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Amma, may I please stay back at the school library today afternoon to read some books?",
+    "studentAnswer": "Can I stay in the school library this afternoon to read books?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Amma, may I please stay back at the school library today afternoon to read some books?",
+    "studentAnswer": "Can I stay in the school library?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Amma, may I please stay back at the school library today afternoon to read some books?",
+    "studentAnswer": "The school library has many storybooks.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Amma, may I please stay back at the school library today afternoon to read some books?",
+    "studentAnswer": "I have to return a library book.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Amma, may I please stay back at the school library today afternoon to read some books?",
+    "studentAnswer": "Amma, can I go to the library to read after class today?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Amma, may I please stay back at the school library today afternoon to read some books?",
+    "studentAnswer": "Stay in library after class please?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Amma, may I please stay back at the school library today afternoon to read some books?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you tell a friend about your favorite flower?
+  {
+    "modelAnswer": "My favorite flower is the blue water lily because it is the national flower of Sri Lanka and grows beautifully in ponds.",
+    "studentAnswer": "My favorite flower is the blue water lily because it is the national flower of Sri Lanka and grows beautifully in ponds.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "My favorite flower is the blue water lily because it is the national flower of Sri Lanka and grows beautifully in ponds.",
+    "studentAnswer": "I like the blue water lily most. It is the national flower of Sri Lanka and grows in ponds.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "My favorite flower is the blue water lily because it is the national flower of Sri Lanka and grows beautifully in ponds.",
+    "studentAnswer": "My favorite flower is the blue water lily because it is our national flower.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "My favorite flower is the blue water lily because it is the national flower of Sri Lanka and grows beautifully in ponds.",
+    "studentAnswer": "I like blue water lilies because they grow in ponds.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "My favorite flower is the blue water lily because it is the national flower of Sri Lanka and grows beautifully in ponds.",
+    "studentAnswer": "My favorite flower is the water lily.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "My favorite flower is the blue water lily because it is the national flower of Sri Lanka and grows beautifully in ponds.",
+    "studentAnswer": "Water lilies are blue and pink.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "My favorite flower is the blue water lily because it is the national flower of Sri Lanka and grows beautifully in ponds.",
+    "studentAnswer": "Sri Lanka has beautiful flowers.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "My favorite flower is the blue water lily because it is the national flower of Sri Lanka and grows beautifully in ponds.",
+    "studentAnswer": "The blue water lily is my favorite flower because it is the national flower.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "My favorite flower is the blue water lily because it is the national flower of Sri Lanka and grows beautifully in ponds.",
+    "studentAnswer": "I like national flower water lily.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "My favorite flower is the blue water lily because it is the national flower of Sri Lanka and grows beautifully in ponds.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you thank a classmate for helping you carry a heavy pile of books?
+  {
+    "modelAnswer": "Thank you so much for helping me carry these heavy books to the staffroom. I appreciate it!",
+    "studentAnswer": "Thank you so much for helping me carry these heavy books to the staffroom. I appreciate it!",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for helping me carry these heavy books to the staffroom. I appreciate it!",
+    "studentAnswer": "Thank you very much for helping me carry the heavy books to the staffroom.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for helping me carry these heavy books to the staffroom. I appreciate it!",
+    "studentAnswer": "Thanks a lot for helping me with these heavy books.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for helping me carry these heavy books to the staffroom. I appreciate it!",
+    "studentAnswer": "Thanks for carrying the books to the staffroom.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you so much for helping me carry these heavy books to the staffroom. I appreciate it!",
+    "studentAnswer": "Thanks for books help.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Thank you so much for helping me carry these heavy books to the staffroom. I appreciate it!",
+    "studentAnswer": "The books are for Grade 9 English class.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much for helping me carry these heavy books to the staffroom. I appreciate it!",
+    "studentAnswer": "The staffroom is far away.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much for helping me carry these heavy books to the staffroom. I appreciate it!",
+    "studentAnswer": "Thank you for helping me to carry these heavy books.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you so much for helping me carry these heavy books to the staffroom. I appreciate it!",
+    "studentAnswer": "Carried books, thank you.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much for helping me carry these heavy books to the staffroom. I appreciate it!",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you suggest to go for a run in the sports field this evening?
+  {
+    "modelAnswer": "Shall we go for a run in the sports field this evening to practice our running?",
+    "studentAnswer": "Shall we go for a run in the sports field this evening to practice our running?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go for a run in the sports field this evening to practice our running?",
+    "studentAnswer": "Can we go for a run in the sports field this evening?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go for a run in the sports field this evening to practice our running?",
+    "studentAnswer": "Let's go for a run in the school sports field this evening.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go for a run in the sports field this evening to practice our running?",
+    "studentAnswer": "Would you like to run in the sports field this evening?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Shall we go for a run in the sports field this evening to practice our running?",
+    "studentAnswer": "Run in sports field this evening?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall we go for a run in the sports field this evening to practice our running?",
+    "studentAnswer": "The sports field is very dry.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall we go for a run in the sports field this evening to practice our running?",
+    "studentAnswer": "I have white running shoes.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall we go for a run in the sports field this evening to practice our running?",
+    "studentAnswer": "Shall we go to run in the school field this evening?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we go for a run in the sports field this evening to practice our running?",
+    "studentAnswer": "Field run this evening?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall we go for a run in the sports field this evening to practice our running?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

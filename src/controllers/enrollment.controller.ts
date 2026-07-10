@@ -84,6 +84,9 @@ export const getAllEnrollments = async (req: Request, res: Response): Promise<vo
           },
         },
       },
+      orderBy: {
+        createdAt: 'desc',
+      },
     });
     res.status(200).json(enrollments);
   } catch (error) {
@@ -110,6 +113,9 @@ export const getMyEnrollments = async (req: Request, res: Response): Promise<voi
             createdAt: true,
           },
         },
+      },
+      orderBy: {
+        createdAt: 'desc',
       },
     });
     res.status(200).json(enrollments);

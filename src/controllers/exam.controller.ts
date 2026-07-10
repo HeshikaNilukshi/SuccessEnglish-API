@@ -102,6 +102,9 @@ export const getExamsByCourse = async (req: Request, res: Response): Promise<voi
           select: { questions: true },
         },
       },
+      orderBy: {
+        createdAt: 'desc',
+      },
     });
 
     res.status(200).json(exams);

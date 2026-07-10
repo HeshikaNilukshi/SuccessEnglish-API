@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a friend for their phone number to call them later?
+  {
+    "modelAnswer": "Could you please give me your phone number so I can call you this evening?",
+    "studentAnswer": "Could you please give me your phone number so I can call you this evening?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please give me your phone number so I can call you this evening?",
+    "studentAnswer": "Can I have your phone number? I want to call you tonight.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please give me your phone number so I can call you this evening?",
+    "studentAnswer": "Please give me your mobile number to call you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please give me your phone number so I can call you this evening?",
+    "studentAnswer": "Give me your phone number to call this evening.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could you please give me your phone number so I can call you this evening?",
+    "studentAnswer": "What is your phone number?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could you please give me your phone number so I can call you this evening?",
+    "studentAnswer": "I have a new mobile phone.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please give me your phone number so I can call you this evening?",
+    "studentAnswer": "Calling friends is good.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please give me your phone number so I can call you this evening?",
+    "studentAnswer": "Can you give me your contact number to talk tonight?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please give me your phone number so I can call you this evening?",
+    "studentAnswer": "Your phone number please?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could you please give me your phone number so I can call you this evening?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you request a teacher to repeat an explanation?
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please explain this grammar rule once again?",
+    "studentAnswer": "Excuse me, teacher. Could you please explain this grammar rule once again?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please explain this grammar rule once again?",
+    "studentAnswer": "Teacher, can you please explain this grammar rule one more time?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please explain this grammar rule once again?",
+    "studentAnswer": "Excuse me teacher, I didn't understand this grammar part. Can you explain it again?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please explain this grammar rule once again?",
+    "studentAnswer": "Please explain this grammar rule again, teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please explain this grammar rule once again?",
+    "studentAnswer": "Explain this again teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please explain this grammar rule once again?",
+    "studentAnswer": "Grammar is very difficult for me.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please explain this grammar rule once again?",
+    "studentAnswer": "I have completed the grammar exercises.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please explain this grammar rule once again?",
+    "studentAnswer": "Teacher, can you teach this grammar rule again please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please explain this grammar rule once again?",
+    "studentAnswer": "Teacher, repeat this please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. Could you please explain this grammar rule once again?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you congratulate a friend on winning first place in an art competition?
+  {
+    "modelAnswer": "Congratulations on winning first place in the school art competition! Your painting was beautiful.",
+    "studentAnswer": "Congratulations on winning first place in the school art competition! Your painting was beautiful.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on winning first place in the school art competition! Your painting was beautiful.",
+    "studentAnswer": "Well done on winning the art competition! Your drawing was amazing.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on winning first place in the school art competition! Your painting was beautiful.",
+    "studentAnswer": "Congrats for the first place in the art competition!",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Congratulations on winning first place in the school art competition! Your painting was beautiful.",
+    "studentAnswer": "I am so happy you won the art competition first prize.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on winning first place in the school art competition! Your painting was beautiful.",
+    "studentAnswer": "You won the art competition, congratulations.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Congratulations on winning first place in the school art competition! Your painting was beautiful.",
+    "studentAnswer": "I also like drawing pictures.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Congratulations on winning first place in the school art competition! Your painting was beautiful.",
+    "studentAnswer": "The art room is on the second floor.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Congratulations on winning first place in the school art competition! Your painting was beautiful.",
+    "studentAnswer": "Congratulations, your painting won first place!",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on winning first place in the school art competition! Your painting was beautiful.",
+    "studentAnswer": "Congrats on the painting first prize.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Congratulations on winning first place in the school art competition! Your painting was beautiful.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you invite a classmate to join a group study session?
+  {
+    "modelAnswer": "Would you like to join our study group to prepare for the term test tomorrow?",
+    "studentAnswer": "Would you like to join our study group to prepare for the term test tomorrow?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to join our study group to prepare for the term test tomorrow?",
+    "studentAnswer": "Do you want to join our group study to prepare for the term test?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to join our study group to prepare for the term test tomorrow?",
+    "studentAnswer": "Shall we study together in our group for the term test tomorrow?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to join our study group to prepare for the term test tomorrow?",
+    "studentAnswer": "Come and study with us for the term test tomorrow.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Would you like to join our study group to prepare for the term test tomorrow?",
+    "studentAnswer": "Join our study group?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Would you like to join our study group to prepare for the term test tomorrow?",
+    "studentAnswer": "I have to buy some books.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Would you like to join our study group to prepare for the term test tomorrow?",
+    "studentAnswer": "The exam starts at 8 am.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Would you like to join our study group to prepare for the term test tomorrow?",
+    "studentAnswer": "Do you like to study in our group tonight?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Would you like to join our study group to prepare for the term test tomorrow?",
+    "studentAnswer": "Study group for term test?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Would you like to join our study group to prepare for the term test tomorrow?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you tell your teacher that you cannot attend school tomorrow?
+  {
+    "modelAnswer": "Excuse me, teacher. I will not be able to attend school tomorrow as I have to visit a doctor.",
+    "studentAnswer": "Excuse me, teacher. I will not be able to attend school tomorrow as I have to visit a doctor.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I will not be able to attend school tomorrow as I have to visit a doctor.",
+    "studentAnswer": "Teacher, I cannot come to school tomorrow because I have to see a doctor.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I will not be able to attend school tomorrow as I have to visit a doctor.",
+    "studentAnswer": "Excuse me teacher, I am going to the doctor tomorrow so I cannot come to school.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I will not be able to attend school tomorrow as I have to visit a doctor.",
+    "studentAnswer": "I am not coming to school tomorrow, teacher. I am visiting the doctor.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I will not be able to attend school tomorrow as I have to visit a doctor.",
+    "studentAnswer": "Not coming school tomorrow. Going to doctor.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I will not be able to attend school tomorrow as I have to visit a doctor.",
+    "studentAnswer": "The doctor's clinic is near the bus stand.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I will not be able to attend school tomorrow as I have to visit a doctor.",
+    "studentAnswer": "I was absent yesterday too.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I will not be able to attend school tomorrow as I have to visit a doctor.",
+    "studentAnswer": "Teacher, I can't attend school tomorrow. Going to doctor.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I will not be able to attend school tomorrow as I have to visit a doctor.",
+    "studentAnswer": "Cannot come to school tomorrow, going to doctor.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, teacher. I will not be able to attend school tomorrow as I have to visit a doctor.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you ask a friend to return a book they borrowed last week?
+  {
+    "modelAnswer": "Could you please return the storybook I lent you last week? I need to read it again.",
+    "studentAnswer": "Could you please return the storybook I lent you last week? I need to read it again.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please return the storybook I lent you last week? I need to read it again.",
+    "studentAnswer": "Can you please return my storybook that you borrowed last week?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please return the storybook I lent you last week? I need to read it again.",
+    "studentAnswer": "Please return the book I gave you last week, I need it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please return the storybook I lent you last week? I need to read it again.",
+    "studentAnswer": "I want my storybook back which you took last week.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could you please return the storybook I lent you last week? I need to read it again.",
+    "studentAnswer": "Give my storybook back.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could you please return the storybook I lent you last week? I need to read it again.",
+    "studentAnswer": "I am reading another storybook now.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please return the storybook I lent you last week? I need to read it again.",
+    "studentAnswer": "The library book is on my table.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please return the storybook I lent you last week? I need to read it again.",
+    "studentAnswer": "Can you give my book back today?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could you please return the storybook I lent you last week? I need to read it again.",
+    "studentAnswer": "Return book please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could you please return the storybook I lent you last week? I need to read it again.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you order tea and biscuits at a tea shop?
+  {
+    "modelAnswer": "Could I please get one cup of milk tea and two ginger biscuits?",
+    "studentAnswer": "Could I please get one cup of milk tea and two ginger biscuits?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could I please get one cup of milk tea and two ginger biscuits?",
+    "studentAnswer": "Can I have a cup of milk tea and two ginger biscuits, please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could I please get one cup of milk tea and two ginger biscuits?",
+    "studentAnswer": "I would like to order one milk tea and two ginger biscuits.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could I please get one cup of milk tea and two ginger biscuits?",
+    "studentAnswer": "Please give me one milk tea and two ginger biscuits.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could I please get one cup of milk tea and two ginger biscuits?",
+    "studentAnswer": "One milk tea and two biscuits.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could I please get one cup of milk tea and two ginger biscuits?",
+    "studentAnswer": "The tea shop is very nice.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could I please get one cup of milk tea and two ginger biscuits?",
+    "studentAnswer": "I don't like ginger biscuits.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could I please get one cup of milk tea and two ginger biscuits?",
+    "studentAnswer": "Can you give me milk tea and two biscuits?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could I please get one cup of milk tea and two ginger biscuits?",
+    "studentAnswer": "Milk tea and ginger biscuits please.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could I please get one cup of milk tea and two ginger biscuits?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you invite a friend to play table tennis after school?
+  {
+    "modelAnswer": "Shall we play a game of table tennis in the school sports room after class?",
+    "studentAnswer": "Shall we play a game of table tennis in the school sports room after class?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we play a game of table tennis in the school sports room after class?",
+    "studentAnswer": "Do you want to play table tennis after school in the sports room?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we play a game of table tennis in the school sports room after class?",
+    "studentAnswer": "Would you like to play table tennis with me after school?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we play a game of table tennis in the school sports room after class?",
+    "studentAnswer": "Let's play table tennis after class today.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Shall we play a game of table tennis in the school sports room after class?",
+    "studentAnswer": "Play table tennis after school?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall we play a game of table tennis in the school sports room after class?",
+    "studentAnswer": "I have to go home by school van.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall we play a game of table tennis in the school sports room after class?",
+    "studentAnswer": "The sports room is closed today.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Shall we play a game of table tennis in the school sports room after class?",
+    "studentAnswer": "Can we play table tennis after school?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Shall we play a game of table tennis in the school sports room after class?",
+    "studentAnswer": "Table tennis after school?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Shall we play a game of table tennis in the school sports room after class?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you apologize to a classmate for accidentally knocking over their water bottle?
+  {
+    "modelAnswer": "I am really sorry for knocking over your water bottle. Let me help you clean it up.",
+    "studentAnswer": "I am really sorry for knocking over your water bottle. Let me help you clean it up.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "I am really sorry for knocking over your water bottle. Let me help you clean it up.",
+    "studentAnswer": "Sorry for dropping your water bottle, I will help you to clean.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "I am really sorry for knocking over your water bottle. Let me help you clean it up.",
+    "studentAnswer": "I am so sorry I knocked your water bottle down.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry for knocking over your water bottle. Let me help you clean it up.",
+    "studentAnswer": "Sorry I dropped your water bottle.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am really sorry for knocking over your water bottle. Let me help you clean it up.",
+    "studentAnswer": "Sorry about your bottle.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am really sorry for knocking over your water bottle. Let me help you clean it up.",
+    "studentAnswer": "My water bottle is blue.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really sorry for knocking over your water bottle. Let me help you clean it up.",
+    "studentAnswer": "I am very thirsty now.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really sorry for knocking over your water bottle. Let me help you clean it up.",
+    "studentAnswer": "I am sorry for knocking your bottle, let's clean it.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "I am really sorry for knocking over your water bottle. Let me help you clean it up.",
+    "studentAnswer": "Drop water bottle sorry.",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "I am really sorry for knocking over your water bottle. Let me help you clean it up.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you describe your favorite place in Sri Lanka to a visitor?
+  {
+    "modelAnswer": "My favorite place in Sri Lanka is Galle because of the historic Dutch Fort and the beautiful beach.",
+    "studentAnswer": "My favorite place in Sri Lanka is Galle because of the historic Dutch Fort and the beautiful beach.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "My favorite place in Sri Lanka is Galle because of the historic Dutch Fort and the beautiful beach.",
+    "studentAnswer": "I like Galle most in Sri Lanka because there is a beautiful beach and the old Dutch Fort.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "My favorite place in Sri Lanka is Galle because of the historic Dutch Fort and the beautiful beach.",
+    "studentAnswer": "My favorite place is Galle with the Dutch Fort and the beach.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "My favorite place in Sri Lanka is Galle because of the historic Dutch Fort and the beautiful beach.",
+    "studentAnswer": "Galle is my favorite place. It has a beach.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "My favorite place in Sri Lanka is Galle because of the historic Dutch Fort and the beautiful beach.",
+    "studentAnswer": "I like Galle beach.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "My favorite place in Sri Lanka is Galle because of the historic Dutch Fort and the beautiful beach.",
+    "studentAnswer": "Sri Lanka is in South Asia.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "My favorite place in Sri Lanka is Galle because of the historic Dutch Fort and the beautiful beach.",
+    "studentAnswer": "Visitors like beaches.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "My favorite place in Sri Lanka is Galle because of the historic Dutch Fort and the beautiful beach.",
+    "studentAnswer": "Galle is the best place in Sri Lanka with a Dutch Fort.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "My favorite place in Sri Lanka is Galle because of the historic Dutch Fort and the beautiful beach.",
+    "studentAnswer": "I love Galle.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "My favorite place in Sri Lanka is Galle because of the historic Dutch Fort and the beautiful beach.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  }
+]

@@ -176,6 +176,9 @@ export const getExamResults = async (req: Request, res: Response): Promise<void>
           },
         },
       },
+      orderBy: {
+        createdAt: 'desc',
+      },
     });
 
     res.status(200).json(attempts);
@@ -271,6 +274,9 @@ export const getAllResultsByCourse = async (req: Request, res: Response): Promis
           },
         },
       },
+      orderBy: {
+        createdAt: 'desc',
+      },
     });
 
     res.status(200).json(attempts);
@@ -319,6 +325,9 @@ export const getStudentResultsByCourse = async (req: Request, res: Response): Pr
           },
         },
       },
+      orderBy: {
+        createdAt: 'desc',
+      },
     });
 
     res.status(200).json(attempts);
@@ -361,6 +370,9 @@ export const getMyResultsByCourse = async (req: Request, res: Response): Promise
             title: true,
           },
         },
+      },
+      orderBy: {
+        createdAt: 'desc',
       },
     });
 

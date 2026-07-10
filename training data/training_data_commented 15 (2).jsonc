@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a classmate to share their glue stick for a craft project?
+  {
+    "modelAnswer": "Excuse me, I need to paste some pictures. Could you please share your glue stick with me for a moment?",
+    "studentAnswer": "Excuse me, I need to paste some pictures. Could you please share your glue stick with me for a moment?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I need to paste some pictures. Could you please share your glue stick with me for a moment?",
+    "studentAnswer": "Can I borrow your glue stick to paste pictures, please? I forgot to bring mine.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I need to paste some pictures. Could you please share your glue stick with me for a moment?",
+    "studentAnswer": "Please share your glue stick with me, I have to stick some photos on my book.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I need to paste some pictures. Could you please share your glue stick with me for a moment?",
+    "studentAnswer": "Can you give me your glue stick for a minute?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, I need to paste some pictures. Could you please share your glue stick with me for a moment?",
+    "studentAnswer": "Give glue stick please, pasting pictures.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, I need to paste some pictures. Could you please share your glue stick with me for a moment?",
+    "studentAnswer": "I have scissors and paper.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, I need to paste some pictures. Could you please share your glue stick with me for a moment?",
+    "studentAnswer": "The craft project is very colorful.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, I need to paste some pictures. Could you please share your glue stick with me for a moment?",
+    "studentAnswer": "Excuse me, could you share your glue stick please?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, I need to paste some pictures. Could you please share your glue stick with me for a moment?",
+    "studentAnswer": "Glue stick please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Excuse me, I need to paste some pictures. Could you please share your glue stick with me for a moment?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you welcome exchange students visiting from another school?
+  {
+    "modelAnswer": "Welcome to our school, friends! We are very excited to show you around and study together.",
+    "studentAnswer": "Welcome to our school, friends! We are very excited to show you around and study together.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Welcome to our school, friends! We are very excited to show you around and study together.",
+    "studentAnswer": "A warm welcome to all the exchange students! We hope you have a great time at our school.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Welcome to our school, friends! We are very excited to show you around and study together.",
+    "studentAnswer": "Welcome to our school! We are glad you came to study with us.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Welcome to our school, friends! We are very excited to show you around and study together.",
+    "studentAnswer": "Welcome to school friends, we will show you around.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Welcome to our school, friends! We are very excited to show you around and study together.",
+    "studentAnswer": "Welcome to our school.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Welcome to our school, friends! We are very excited to show you around and study together.",
+    "studentAnswer": "The school starts at 7:30 am.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Welcome to our school, friends! We are very excited to show you around and study together.",
+    "studentAnswer": "Our school has a big library.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Welcome to our school, friends! We are very excited to show you around and study together.",
+    "studentAnswer": "Welcome to our school today! We are very happy to meet you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Welcome to our school, friends! We are very excited to show you around and study together.",
+    "studentAnswer": "Welcome friends.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Welcome to our school, friends! We are very excited to show you around and study together.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you request a parent to pack you a lunch with your favorite food tomorrow?
+  {
+    "modelAnswer": "Amma, could you please pack me some fried rice for lunch tomorrow? It is my favorite food.",
+    "studentAnswer": "Amma, could you please pack me some fried rice for lunch tomorrow? It is my favorite food.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Amma, could you please pack me some fried rice for lunch tomorrow? It is my favorite food.",
+    "studentAnswer": "Mother, can you make some fried rice for my lunch box tomorrow, please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Amma, could you please pack me some fried rice for lunch tomorrow? It is my favorite food.",
+    "studentAnswer": "Amma, please cook fried rice for my lunch tomorrow.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Amma, could you please pack me some fried rice for lunch tomorrow? It is my favorite food.",
+    "studentAnswer": "Amma, I want fried rice for tomorrow lunch.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Amma, could you please pack me some fried rice for lunch tomorrow? It is my favorite food.",
+    "studentAnswer": "Fried rice tomorrow lunch Amma.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Amma, could you please pack me some fried rice for lunch tomorrow? It is my favorite food.",
+    "studentAnswer": "I eat lunch with my friends.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Amma, could you please pack me some fried rice for lunch tomorrow? It is my favorite food.",
+    "studentAnswer": "My water bottle is blue.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Amma, could you please pack me some fried rice for lunch tomorrow? It is my favorite food.",
+    "studentAnswer": "Amma, can you please pack fried rice for me tomorrow?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Amma, could you please pack me some fried rice for lunch tomorrow? It is my favorite food.",
+    "studentAnswer": "Fried rice tomorrow please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Amma, could you please pack me some fried rice for lunch tomorrow? It is my favorite food.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you apologize to a friend for accidentally spilling water on their homework?
+  {
+    "modelAnswer": "I am so sorry! I accidentally spilled water on your homework. Let me help you rewrite it.",
+    "studentAnswer": "I am so sorry! I accidentally spilled water on your homework. Let me help you rewrite it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry! I accidentally spilled water on your homework. Let me help you rewrite it.",
+    "studentAnswer": "Sorry! I spilled water on your homework by accident. I will help you write it again.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry! I accidentally spilled water on your homework. Let me help you rewrite it.",
+    "studentAnswer": "I am really sorry, I ruined your homework with water. I can help rewrite it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry! I accidentally spilled water on your homework. Let me help you rewrite it.",
+    "studentAnswer": "Sorry, I spilled water on your homework sheet.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am so sorry! I accidentally spilled water on your homework. Let me help you rewrite it.",
+    "studentAnswer": "Spilled water on homework, sorry.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am so sorry! I accidentally spilled water on your homework. Let me help you rewrite it.",
+    "studentAnswer": "I have a new water bottle.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am so sorry! I accidentally spilled water on your homework. Let me help you rewrite it.",
+    "studentAnswer": "Homework is due tomorrow.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am so sorry! I accidentally spilled water on your homework. Let me help you rewrite it.",
+    "studentAnswer": "I am really sorry for spilling water on your homework book.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am so sorry! I accidentally spilled water on your homework. Let me help you rewrite it.",
+    "studentAnswer": "Water spilled, sorry.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "I am so sorry! I accidentally spilled water on your homework. Let me help you rewrite it.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you tell a friend you are nervous about the upcoming English speech?
+  {
+    "modelAnswer": "I am feeling very nervous about our English speech contest tomorrow. I hope I don't forget my words.",
+    "studentAnswer": "I am feeling very nervous about our English speech contest tomorrow. I hope I don't forget my words.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am feeling very nervous about our English speech contest tomorrow. I hope I don't forget my words.",
+    "studentAnswer": "I am so scared about the English speech tomorrow. I hope I do well.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am feeling very nervous about our English speech contest tomorrow. I hope I don't forget my words.",
+    "studentAnswer": "I am nervous about tomorrow's English speech competition, my heart is beating fast.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am feeling very nervous about our English speech contest tomorrow. I hope I don't forget my words.",
+    "studentAnswer": "I am very nervous for the English speech contest.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am feeling very nervous about our English speech contest tomorrow. I hope I don't forget my words.",
+    "studentAnswer": "Nervous about English speech.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am feeling very nervous about our English speech contest tomorrow. I hope I don't forget my words.",
+    "studentAnswer": "The speech hall has many fans.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am feeling very nervous about our English speech contest tomorrow. I hope I don't forget my words.",
+    "studentAnswer": "I write my speech in my notebook.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am feeling very nervous about our English speech contest tomorrow. I hope I don't forget my words.",
+    "studentAnswer": "I am nervous about the English speech tomorrow afternoon.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am feeling very nervous about our English speech contest tomorrow. I hope I don't forget my words.",
+    "studentAnswer": "Scared for speech tomorrow.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "I am feeling very nervous about our English speech contest tomorrow. I hope I don't forget my words.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you ask a shopkeeper for directions to the nearest pharmacy?
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the nearest pharmacy from here?",
+    "studentAnswer": "Excuse me, could you please tell me how to get to the nearest pharmacy from here?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the nearest pharmacy from here?",
+    "studentAnswer": "Excuse me, can you tell me the way to the nearest pharmacy, please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the nearest pharmacy from here?",
+    "studentAnswer": "How do I walk to the nearest pharmacy from your shop?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the nearest pharmacy from here?",
+    "studentAnswer": "Where is the nearest pharmacy please?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the nearest pharmacy from here?",
+    "studentAnswer": "Pharmacy where, please?",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the nearest pharmacy from here?",
+    "studentAnswer": "I want to buy some medicine.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the nearest pharmacy from here?",
+    "studentAnswer": "The pharmacy is open twenty-four hours.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the nearest pharmacy from here?",
+    "studentAnswer": "Excuse me, please tell me the way to a pharmacy nearby.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the nearest pharmacy from here?",
+    "studentAnswer": "Pharmacy way please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the nearest pharmacy from here?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you describe the importance of Independence Day to a younger student?
+  {
+    "modelAnswer": "Independence Day is on February fourth, and we celebrate our freedom from British rule by hoisting the national flag and singing the national anthem.",
+    "studentAnswer": "Independence Day is on February fourth, and we celebrate our freedom from British rule by hoisting the national flag and singing the national anthem.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Independence Day is on February fourth, and we celebrate our freedom from British rule by hoisting the national flag and singing the national anthem.",
+    "studentAnswer": "We celebrate Independence Day on February fourth. It is the day Sri Lanka got freedom from British rule, and we hoist the lion flag.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Independence Day is on February fourth, and we celebrate our freedom from British rule by hoisting the national flag and singing the national anthem.",
+    "studentAnswer": "Independence Day is on February fourth, we celebrate freedom and hoist the national flag.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Independence Day is on February fourth, and we celebrate our freedom from British rule by hoisting the national flag and singing the national anthem.",
+    "studentAnswer": "Independence Day is when Sri Lanka got freedom. We hoist flag on February fourth.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Independence Day is on February fourth, and we celebrate our freedom from British rule by hoisting the national flag and singing the national anthem.",
+    "studentAnswer": "We celebrate Independence Day on fourth February.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Independence Day is on February fourth, and we celebrate our freedom from British rule by hoisting the national flag and singing the national anthem.",
+    "studentAnswer": "Independence Day is a national holiday.",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Independence Day is on February fourth, and we celebrate our freedom from British rule by hoisting the national flag and singing the national anthem.",
+    "studentAnswer": "I love Sri Lanka very much.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Independence Day is on February fourth, and we celebrate our freedom from British rule by hoisting the national flag and singing the national anthem.",
+    "studentAnswer": "My school has a flag hoisting ceremony.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Independence Day is on February fourth, and we celebrate our freedom from British rule by hoisting the national flag and singing the national anthem.",
+    "studentAnswer": "We celebrate Independence Day on February fourth by hoisting our national flag.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Independence Day is on February fourth, and we celebrate our freedom from British rule by hoisting the national flag and singing the national anthem.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you congratulate a sibling on getting into university?
+  {
+    "modelAnswer": "Congratulations on getting selected for university! All your hard work for the A/L exam has finally paid off.",
+    "studentAnswer": "Congratulations on getting selected for university! All your hard work for the A/L exam has finally paid off.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Congratulations on getting selected for university! All your hard work for the A/L exam has finally paid off.",
+    "studentAnswer": "Well done on getting university admission! I am so proud of your excellent A/L results.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Congratulations on getting selected for university! All your hard work for the A/L exam has finally paid off.",
+    "studentAnswer": "Congratulations on getting selected to the university! You did very well in A/L.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on getting selected for university! All your hard work for the A/L exam has finally paid off.",
+    "studentAnswer": "Congrats for getting selected to the university, brother.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Congratulations on getting selected for university! All your hard work for the A/L exam has finally paid off.",
+    "studentAnswer": "Congratulations, you are going to university now.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Congratulations on getting selected for university! All your hard work for the A/L exam has finally paid off.",
+    "studentAnswer": "The university is in Colombo city.",
+    "maxMarks": 6,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Congratulations on getting selected for university! All your hard work for the A/L exam has finally paid off.",
+    "studentAnswer": "My brother studies engineering.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Congratulations on getting selected for university! All your hard work for the A/L exam has finally paid off.",
+    "studentAnswer": "A/L exam was very competitive.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Congratulations on getting selected for university! All your hard work for the A/L exam has finally paid off.",
+    "studentAnswer": "Congratulations on getting into university! I am very happy for you.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on getting selected for university! All your hard work for the A/L exam has finally paid off.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you thank a school janitor for keeping the classroom clean?
+  {
+    "modelAnswer": "Thank you so much for sweeping and cleaning our classroom every day. We really appreciate your hard work.",
+    "studentAnswer": "Thank you so much for sweeping and cleaning our classroom every day. We really appreciate your hard work.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for sweeping and cleaning our classroom every day. We really appreciate your hard work.",
+    "studentAnswer": "Thanks a lot for keeping our classroom clean and tidy. It makes studying very comfortable for us.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for sweeping and cleaning our classroom every day. We really appreciate your hard work.",
+    "studentAnswer": "Thank you for cleaning our classroom every day, it looks very neat.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for sweeping and cleaning our classroom every day. We really appreciate your hard work.",
+    "studentAnswer": "Thanks for cleaning the classroom every morning.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you so much for sweeping and cleaning our classroom every day. We really appreciate your hard work.",
+    "studentAnswer": "Thanks for classroom clean.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much for sweeping and cleaning our classroom every day. We really appreciate your hard work.",
+    "studentAnswer": "We have a green dustbin in class.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much for sweeping and cleaning our classroom every day. We really appreciate your hard work.",
+    "studentAnswer": "The broom is behind the door.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much for sweeping and cleaning our classroom every day. We really appreciate your hard work.",
+    "studentAnswer": "Thank you for keeping our school classroom clean.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for sweeping and cleaning our classroom every day. We really appreciate your hard work.",
+    "studentAnswer": "Clean classroom thank you.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Thank you so much for sweeping and cleaning our classroom every day. We really appreciate your hard work.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you suggest to friends to organize a surprise birthday party for a classmate?
+  {
+    "modelAnswer": "Why don't we organize a surprise birthday party for Nimal in the classroom during the interval tomorrow?",
+    "studentAnswer": "Why don't we organize a surprise birthday party for Nimal in the classroom during the interval tomorrow?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Why don't we organize a surprise birthday party for Nimal in the classroom during the interval tomorrow?",
+    "studentAnswer": "Shall we plan a surprise birthday party for Nimal tomorrow during the interval? We can get a cake.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Why don't we organize a surprise birthday party for Nimal in the classroom during the interval tomorrow?",
+    "studentAnswer": "Let's organize a surprise birthday party for Nimal in our class tomorrow.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Why don't we organize a surprise birthday party for Nimal in the classroom during the interval tomorrow?",
+    "studentAnswer": "Can we make a surprise party for Nimal tomorrow in interval?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Why don't we organize a surprise birthday party for Nimal in the classroom during the interval tomorrow?",
+    "studentAnswer": "Surprise party for Nimal tomorrow?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Why don't we organize a surprise birthday party for Nimal in the classroom during the interval tomorrow?",
+    "studentAnswer": "Nimal is turning fifteen years old.",
+    "maxMarks": 5,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Why don't we organize a surprise birthday party for Nimal in the classroom during the interval tomorrow?",
+    "studentAnswer": "The cake is very sweet.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Why don't we organize a surprise birthday party for Nimal in the classroom during the interval tomorrow?",
+    "studentAnswer": "Why don't we do a surprise birthday party for Nimal tomorrow?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Why don't we organize a surprise birthday party for Nimal in the classroom during the interval tomorrow?",
+    "studentAnswer": "Surprise party tomorrow please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Why don't we organize a surprise birthday party for Nimal in the classroom during the interval tomorrow?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a friend to save you a seat in the school hall for the concert?
+  {
+    "modelAnswer": "Could you please save a seat for me in the school hall? I might be a few minutes late for the concert.",
+    "studentAnswer": "Could you please save a seat for me in the school hall? I might be a few minutes late for the concert.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please save a seat for me in the school hall? I might be a few minutes late for the concert.",
+    "studentAnswer": "Can you please keep a seat for me at the concert? I will be late.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please save a seat for me in the school hall? I might be a few minutes late for the concert.",
+    "studentAnswer": "Please save a chair for me in the hall, I am coming late to the concert.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please save a seat for me in the school hall? I might be a few minutes late for the concert.",
+    "studentAnswer": "Can you save a seat for me at the concert?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could you please save a seat for me in the school hall? I might be a few minutes late for the concert.",
+    "studentAnswer": "Save seat in hall please.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could you please save a seat for me in the school hall? I might be a few minutes late for the concert.",
+    "studentAnswer": "The concert is starting.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please save a seat for me in the school hall? I might be a few minutes late for the concert.",
+    "studentAnswer": "I sing in the school choir.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could you please save a seat for me in the school hall? I might be a few minutes late for the concert.",
+    "studentAnswer": "Please save me a seat in the school hall for the concert.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could you please save a seat for me in the school hall? I might be a few minutes late for the concert.",
+    "studentAnswer": "Save seat please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Could you please save a seat for me in the school hall? I might be a few minutes late for the concert.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you wish a classmate a speedy recovery when they are sick?
+  {
+    "modelAnswer": "I heard that you are not well and missed school. I wish you a very speedy recovery!",
+    "studentAnswer": "I heard that you are not well and missed school. I wish you a very speedy recovery!",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I heard that you are not well and missed school. I wish you a very speedy recovery!",
+    "studentAnswer": "Hope you get well soon! We miss you at school.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I heard that you are not well and missed school. I wish you a very speedy recovery!",
+    "studentAnswer": "I heard you are sick. Get well soon, my friend!",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I heard that you are not well and missed school. I wish you a very speedy recovery!",
+    "studentAnswer": "Get well soon from your sickness.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I heard that you are not well and missed school. I wish you a very speedy recovery!",
+    "studentAnswer": "Get well soon, friend.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I heard that you are not well and missed school. I wish you a very speedy recovery!",
+    "studentAnswer": "The doctor gave me vitamins.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I heard that you are not well and missed school. I wish you a very speedy recovery!",
+    "studentAnswer": "Today is very hot.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I heard that you are not well and missed school. I wish you a very speedy recovery!",
+    "studentAnswer": "Get well soon! I hope you can come to school soon.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I heard that you are not well and missed school. I wish you a very speedy recovery!",
+    "studentAnswer": "Get well soon.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I heard that you are not well and missed school. I wish you a very speedy recovery!",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you request the school librarian to keep a book aside for you?
+  {
+    "modelAnswer": "Excuse me madam, could you please keep this science book aside for me? I will borrow it tomorrow.",
+    "studentAnswer": "Excuse me madam, could you please keep this science book aside for me? I will borrow it tomorrow.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me madam, could you please keep this science book aside for me? I will borrow it tomorrow.",
+    "studentAnswer": "Madam, can you please save this science book for me? I will return tomorrow to take it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me madam, could you please keep this science book aside for me? I will borrow it tomorrow.",
+    "studentAnswer": "Excuse me, please keep this science book aside. I will borrow it tomorrow morning.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me madam, could you please keep this science book aside for me? I will borrow it tomorrow.",
+    "studentAnswer": "Madam, please keep this book for me until tomorrow.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me madam, could you please keep this science book aside for me? I will borrow it tomorrow.",
+    "studentAnswer": "Keep book aside for me, madam.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me madam, could you please keep this science book aside for me? I will borrow it tomorrow.",
+    "studentAnswer": "I have two library cards.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me madam, could you please keep this science book aside for me? I will borrow it tomorrow.",
+    "studentAnswer": "The library has many shelves.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me madam, could you please keep this science book aside for me? I will borrow it tomorrow.",
+    "studentAnswer": "Madam, could you keep this science book aside? I'll borrow it tomorrow.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me madam, could you please keep this science book aside for me? I will borrow it tomorrow.",
+    "studentAnswer": "Keep book please madam.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Excuse me madam, could you please keep this science book aside for me? I will borrow it tomorrow.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you apologize to a classmate for losing the pen they lent you?
+  {
+    "modelAnswer": "I am so sorry, but I accidentally lost the blue pen you lent me. I will buy you a new one tomorrow.",
+    "studentAnswer": "I am so sorry, but I accidentally lost the blue pen you lent me. I will buy you a new one tomorrow.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry, but I accidentally lost the blue pen you lent me. I will buy you a new one tomorrow.",
+    "studentAnswer": "Sorry, I lost the pen you gave me. I will replace it tomorrow.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry, but I accidentally lost the blue pen you lent me. I will buy you a new one tomorrow.",
+    "studentAnswer": "I am really sorry, I lost your blue pen. I'll get you another one.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry, but I accidentally lost the blue pen you lent me. I will buy you a new one tomorrow.",
+    "studentAnswer": "Sorry I lost the pen you lent me.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am so sorry, but I accidentally lost the blue pen you lent me. I will buy you a new one tomorrow.",
+    "studentAnswer": "Lost your pen, sorry.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am so sorry, but I accidentally lost the blue pen you lent me. I will buy you a new one tomorrow.",
+    "studentAnswer": "My pen is black color.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am so sorry, but I accidentally lost the blue pen you lent me. I will buy you a new one tomorrow.",
+    "studentAnswer": "I write very fast.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am so sorry, but I accidentally lost the blue pen you lent me. I will buy you a new one tomorrow.",
+    "studentAnswer": "I lost your pen, sorry about that.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am so sorry, but I accidentally lost the blue pen you lent me. I will buy you a new one tomorrow.",
+    "studentAnswer": "Sorry for lost pen.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "I am so sorry, but I accidentally lost the blue pen you lent me. I will buy you a new one tomorrow.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you tell a teacher about a project idea you want to work on?
+  {
+    "modelAnswer": "Excuse me teacher, I have an idea to create a model of a solar system for our science project.",
+    "studentAnswer": "Excuse me teacher, I have an idea to create a model of a solar system for our science project.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me teacher, I have an idea to create a model of a solar system for our science project.",
+    "studentAnswer": "Teacher, I want to make a solar system model for the science project. Is it okay?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me teacher, I have an idea to create a model of a solar system for our science project.",
+    "studentAnswer": "Excuse me teacher, I plan to build a solar system model for my project.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me teacher, I have an idea to create a model of a solar system for our science project.",
+    "studentAnswer": "Teacher, my project idea is making a solar system.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me teacher, I have an idea to create a model of a solar system for our science project.",
+    "studentAnswer": "I want to do solar system project.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me teacher, I have an idea to create a model of a solar system for our science project.",
+    "studentAnswer": "The sun is a very big star.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me teacher, I have an idea to create a model of a solar system for our science project.",
+    "studentAnswer": "I have cardboards and paint.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me teacher, I have an idea to create a model of a solar system for our science project.",
+    "studentAnswer": "Teacher, I want to work on a solar system model project.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me teacher, I have an idea to create a model of a solar system for our science project.",
+    "studentAnswer": "Solar system project idea.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Excuse me teacher, I have an idea to create a model of a solar system for our science project.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you ask a parent for permission to stay overnight at a friend's house for a school project?
+  {
+    "modelAnswer": "Thatha, can I please stay overnight at Nimal's house tonight to finish our school group project?",
+    "studentAnswer": "Thatha, can I please stay overnight at Nimal's house tonight to finish our school group project?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thatha, can I please stay overnight at Nimal's house tonight to finish our school group project?",
+    "studentAnswer": "Father, may I stay at my friend Nimal's home tonight? We need to complete our project.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thatha, can I please stay overnight at Nimal's house tonight to finish our school group project?",
+    "studentAnswer": "Thatha, please let me sleep at Nimal's house tonight for the school project.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thatha, can I please stay overnight at Nimal's house tonight to finish our school group project?",
+    "studentAnswer": "Can I stay at Nimal's house tonight for the project?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thatha, can I please stay overnight at Nimal's house tonight to finish our school group project?",
+    "studentAnswer": "Stay at Nimal's house tonight Thatha.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thatha, can I please stay overnight at Nimal's house tonight to finish our school group project?",
+    "studentAnswer": "Nimal has a computer at home.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thatha, can I please stay overnight at Nimal's house tonight to finish our school group project?",
+    "studentAnswer": "I will go to school tomorrow morning.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thatha, can I please stay overnight at Nimal's house tonight to finish our school group project?",
+    "studentAnswer": "Thatha, can I sleep at Nimal's house tonight for school work?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thatha, can I please stay overnight at Nimal's house tonight to finish our school group project?",
+    "studentAnswer": "Stay overnight at friend's house please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Thatha, can I please stay overnight at Nimal's house tonight to finish our school group project?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you describe what you want to become when you grow up?
+  {
+    "modelAnswer": "When I grow up, I want to become a doctor so that I can treat sick people and serve my country.",
+    "studentAnswer": "When I grow up, I want to become a doctor so that I can treat sick people and serve my country.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "When I grow up, I want to become a doctor so that I can treat sick people and serve my country.",
+    "studentAnswer": "I want to be a doctor in the future to help sick people get well and help my nation.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "When I grow up, I want to become a doctor so that I can treat sick people and serve my country.",
+    "studentAnswer": "I want to be a doctor when I grow up. I want to cure sick patients.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "When I grow up, I want to become a doctor so that I can treat sick people and serve my country.",
+    "studentAnswer": "My dream is to become a doctor and treat sick people.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "When I grow up, I want to become a doctor so that I can treat sick people and serve my country.",
+    "studentAnswer": "I want to become a doctor.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "When I grow up, I want to become a doctor so that I can treat sick people and serve my country.",
+    "studentAnswer": "Doctors wear white coats.",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "When I grow up, I want to become a doctor so that I can treat sick people and serve my country.",
+    "studentAnswer": "My school is very big.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "When I grow up, I want to become a doctor so that I can treat sick people and serve my country.",
+    "studentAnswer": "I like science subject.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "When I grow up, I want to become a doctor so that I can treat sick people and serve my country.",
+    "studentAnswer": "When I grow up, I will be a doctor to help people.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "When I grow up, I want to become a doctor so that I can treat sick people and serve my country.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you invite your neighbors to a Vesak lantern competition?
+  {
+    "modelAnswer": "We are organizing a Vesak lantern competition in our garden this Friday. Would you like to come and join us?",
+    "studentAnswer": "We are organizing a Vesak lantern competition in our garden this Friday. Would you like to come and join us?",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "We are organizing a Vesak lantern competition in our garden this Friday. Would you like to come and join us?",
+    "studentAnswer": "Would you like to participate in the Vesak lantern contest in our garden this Friday?",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "We are organizing a Vesak lantern competition in our garden this Friday. Would you like to come and join us?",
+    "studentAnswer": "Please come to our Vesak lantern competition in the garden this Friday.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "We are organizing a Vesak lantern competition in our garden this Friday. Would you like to come and join us?",
+    "studentAnswer": "We have a Vesak lantern competition this Friday, can you come?",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "We are organizing a Vesak lantern competition in our garden this Friday. Would you like to come and join us?",
+    "studentAnswer": "Come to Vesak lantern contest this Friday.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "We are organizing a Vesak lantern competition in our garden this Friday. Would you like to come and join us?",
+    "studentAnswer": "Vesak is in the month of May.",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "We are organizing a Vesak lantern competition in our garden this Friday. Would you like to come and join us?",
+    "studentAnswer": "Lanterns are colorful.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "We are organizing a Vesak lantern competition in our garden this Friday. Would you like to come and join us?",
+    "studentAnswer": "I like eating sweets.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "We are organizing a Vesak lantern competition in our garden this Friday. Would you like to come and join us?",
+    "studentAnswer": "We invite you to our Vesak lantern competition this Friday in our garden.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "We are organizing a Vesak lantern competition in our garden this Friday. Would you like to come and join us?",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you thank your mother for packing a special lunch for you?
+  {
+    "modelAnswer": "Thank you so much, Amma, for packing my favorite lunch today. It was extremely delicious!",
+    "studentAnswer": "Thank you so much, Amma, for packing my favorite lunch today. It was extremely delicious!",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, Amma, for packing my favorite lunch today. It was extremely delicious!",
+    "studentAnswer": "Thanks a lot Amma for preparing this special lunch for me today. I loved it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, Amma, for packing my favorite lunch today. It was extremely delicious!",
+    "studentAnswer": "Thank you Amma for the special lunch you packed today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, Amma, for packing my favorite lunch today. It was extremely delicious!",
+    "studentAnswer": "Thanks Amma for packing my favorite food for lunch.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you so much, Amma, for packing my favorite lunch today. It was extremely delicious!",
+    "studentAnswer": "Thanks for lunch Amma.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much, Amma, for packing my favorite lunch today. It was extremely delicious!",
+    "studentAnswer": "I ate my lunch in the interval.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much, Amma, for packing my favorite lunch today. It was extremely delicious!",
+    "studentAnswer": "My lunch box is red.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much, Amma, for packing my favorite lunch today. It was extremely delicious!",
+    "studentAnswer": "Thank you Amma, the lunch was very delicious today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much, Amma, for packing my favorite lunch today. It was extremely delicious!",
+    "studentAnswer": "Special lunch thank you Amma.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Thank you so much, Amma, for packing my favorite lunch today. It was extremely delicious!",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you suggest to classmates to organize a class talent show?
+  {
+    "modelAnswer": "Why don't we organize a class talent show to display everyone's skills next month?",
+    "studentAnswer": "Why don't we organize a class talent show to display everyone's skills next month?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Why don't we organize a class talent show to display everyone's skills next month?",
+    "studentAnswer": "Shall we plan a class talent show for next month? It will be very fun.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Why don't we organize a class talent show to display everyone's skills next month?",
+    "studentAnswer": "Let's organize a talent show in our class next month.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Why don't we organize a class talent show to display everyone's skills next month?",
+    "studentAnswer": "Can we make a class talent show next month?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Why don't we organize a class talent show to display everyone's skills next month?",
+    "studentAnswer": "Organize class talent show next month?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Why don't we organize a class talent show to display everyone's skills next month?",
+    "studentAnswer": "I can play the guitar.",
+    "maxMarks": 5,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Why don't we organize a class talent show to display everyone's skills next month?",
+    "studentAnswer": "The teacher is inside the class.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Why don't we organize a class talent show to display everyone's skills next month?",
+    "studentAnswer": "Why don't we do a talent show in class next month?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Why don't we organize a class talent show to display everyone's skills next month?",
+    "studentAnswer": "Talent show in class next month?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Why don't we organize a class talent show to display everyone's skills next month?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

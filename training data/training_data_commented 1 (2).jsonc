@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you politely invite a friend to watch the school cricket match?
+  {
+    "modelAnswer": "Would you like to come and watch the inter-school big match with me this weekend?",
+    "studentAnswer": "Would you like to come and watch the inter-school big match with me this weekend?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to come and watch the inter-school big match with me this weekend?",
+    "studentAnswer": "Do you want to come and watch the big match with me this weekend?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to come and watch the inter-school big match with me this weekend?",
+    "studentAnswer": "Are you coming to watch the big match this weekend?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to come and watch the inter-school big match with me this weekend?",
+    "studentAnswer": "Would you like to come for the big match?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Would you like to come and watch the inter-school big match with me this weekend?",
+    "studentAnswer": "Come watch match with me?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Would you like to come and watch the inter-school big match with me this weekend?",
+    "studentAnswer": "Do you like cricket?",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Would you like to come and watch the inter-school big match with me this weekend?",
+    "studentAnswer": "I play cricket in the school team.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Would you like to come and watch the inter-school big match with me this weekend?",
+    "studentAnswer": "Let's go watch the match.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Would you like to come and watch the inter-school big match with me this weekend?",
+    "studentAnswer": "Will you coming to the match?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Would you like to come and watch the inter-school big match with me this weekend?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you ask a stranger for directions to the railway station?
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the nearest railway station from here?",
+    "studentAnswer": "Excuse me, could you please tell me how to get to the nearest railway station from here?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the nearest railway station from here?",
+    "studentAnswer": "Excuse me, can you tell me the way to the railway station?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the nearest railway station from here?",
+    "studentAnswer": "How can I go to the railway station from here?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the nearest railway station from here?",
+    "studentAnswer": "Where is the railway station?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the nearest railway station from here?",
+    "studentAnswer": "Railway station where?",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the nearest railway station from here?",
+    "studentAnswer": "I want to go to the railway station.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the nearest railway station from here?",
+    "studentAnswer": "I am waiting for the train.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the nearest railway station from here?",
+    "studentAnswer": "Can I buy a ticket here?",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the nearest railway station from here?",
+    "studentAnswer": "Please tell me way to railway station.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, could you please tell me how to get to the nearest railway station from here?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you apologize to a teacher for coming late to class?
+  {
+    "modelAnswer": "I am really sorry for being late to class today, teacher. I missed my usual bus.",
+    "studentAnswer": "I am really sorry for being late to class today, teacher. I missed my usual bus.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry for being late to class today, teacher. I missed my usual bus.",
+    "studentAnswer": "Sorry for coming late, teacher. My bus was delayed.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am really sorry for being late to class today, teacher. I missed my usual bus.",
+    "studentAnswer": "I apologize for being late today, teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am really sorry for being late to class today, teacher. I missed my usual bus.",
+    "studentAnswer": "Sorry teacher, I am late.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am really sorry for being late to class today, teacher. I missed my usual bus.",
+    "studentAnswer": "Sorry I late.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "I am really sorry for being late to class today, teacher. I missed my usual bus.",
+    "studentAnswer": "Teacher, I am present today.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really sorry for being late to class today, teacher. I missed my usual bus.",
+    "studentAnswer": "I like this class.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really sorry for being late to class today, teacher. I missed my usual bus.",
+    "studentAnswer": "Please excuse me for being late, teacher.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am really sorry for being late to class today, teacher. I missed my usual bus.",
+    "studentAnswer": "I am coming late to the class, sorry.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am really sorry for being late to class today, teacher. I missed my usual bus.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: Describe how you celebrated the Sinhala and Tamil New Year.
+  {
+    "modelAnswer": "We celebrated the New Year by making traditional sweetmeats, visiting our relatives, and sharing gifts.",
+    "studentAnswer": "We celebrated the New Year by making traditional sweetmeats, visiting our relatives, and sharing gifts.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "We celebrated the New Year by making traditional sweetmeats, visiting our relatives, and sharing gifts.",
+    "studentAnswer": "For the New Year, we made traditional sweets and visited our family members.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "We celebrated the New Year by making traditional sweetmeats, visiting our relatives, and sharing gifts.",
+    "studentAnswer": "We made sweetmeats and visited our relatives for the New Year.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "We celebrated the New Year by making traditional sweetmeats, visiting our relatives, and sharing gifts.",
+    "studentAnswer": "We ate kavum and kokis and played games.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "We celebrated the New Year by making traditional sweetmeats, visiting our relatives, and sharing gifts.",
+    "studentAnswer": "I celebrated New Year with my family.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "We celebrated the New Year by making traditional sweetmeats, visiting our relatives, and sharing gifts.",
+    "studentAnswer": "We visited relatives.",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "We celebrated the New Year by making traditional sweetmeats, visiting our relatives, and sharing gifts.",
+    "studentAnswer": "New Year is a holiday.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "We celebrated the New Year by making traditional sweetmeats, visiting our relatives, and sharing gifts.",
+    "studentAnswer": "I don't go to school on New Year.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "We celebrated the New Year by making traditional sweetmeats, visiting our relatives, and sharing gifts.",
+    "studentAnswer": "We made sweets and share gifts with friends.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "We celebrated the New Year by making traditional sweetmeats, visiting our relatives, and sharing gifts.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you ask permission from the class teacher to leave school early?
+  {
+    "modelAnswer": "Excuse me teacher, may I please leave school early today because I am not feeling well?",
+    "studentAnswer": "Excuse me teacher, may I please leave school early today because I am not feeling well?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me teacher, may I please leave school early today because I am not feeling well?",
+    "studentAnswer": "Teacher, can I leave school early today as I am sick?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me teacher, may I please leave school early today because I am not feeling well?",
+    "studentAnswer": "Please teacher, may I go home early today?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me teacher, may I please leave school early today because I am not feeling well?",
+    "studentAnswer": "Teacher, I want to go home early.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me teacher, may I please leave school early today because I am not feeling well?",
+    "studentAnswer": "Can I go home now?",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Excuse me teacher, may I please leave school early today because I am not feeling well?",
+    "studentAnswer": "I am going home.",
+    "maxMarks": 5,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Excuse me teacher, may I please leave school early today because I am not feeling well?",
+    "studentAnswer": "The school is very big.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me teacher, may I please leave school early today because I am not feeling well?",
+    "studentAnswer": "I will come to school tomorrow.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me teacher, may I please leave school early today because I am not feeling well?",
+    "studentAnswer": "May I leave early today teacher, I am sick.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me teacher, may I please leave school early today because I am not feeling well?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you order food and a drink at the school canteen?
+  {
+    "modelAnswer": "Could I please have a fish bun and a bottle of fruit juice?",
+    "studentAnswer": "Could I please have a fish bun and a bottle of fruit juice?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could I please have a fish bun and a bottle of fruit juice?",
+    "studentAnswer": "Can I get a fish bun and some fruit juice, please?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Could I please have a fish bun and a bottle of fruit juice?",
+    "studentAnswer": "I would like a fish bun and a fruit juice.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could I please have a fish bun and a bottle of fruit juice?",
+    "studentAnswer": "Please give me a fish bun and a drink.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Could I please have a fish bun and a bottle of fruit juice?",
+    "studentAnswer": "One fish bun and juice.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Could I please have a fish bun and a bottle of fruit juice?",
+    "studentAnswer": "Fish bun juice.",
+    "maxMarks": 5,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Could I please have a fish bun and a bottle of fruit juice?",
+    "studentAnswer": "The canteen is crowded.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could I please have a fish bun and a bottle of fruit juice?",
+    "studentAnswer": "I bring my own lunch.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Could I please have a fish bun and a bottle of fruit juice?",
+    "studentAnswer": "Can you give me a fish bun and juice please?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Could I please have a fish bun and a bottle of fruit juice?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you describe your hometown to a new student?
+  {
+    "modelAnswer": "My hometown is Kandy, which is a beautiful city surrounded by mountains and famous for the Temple of the Tooth.",
+    "studentAnswer": "My hometown is Kandy, which is a beautiful city surrounded by mountains and famous for the Temple of the Tooth.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "My hometown is Kandy, which is a beautiful city surrounded by mountains and famous for the Temple of the Tooth.",
+    "studentAnswer": "I live in Kandy. It is a very beautiful city with mountains and the Temple of the Tooth.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "My hometown is Kandy, which is a beautiful city surrounded by mountains and famous for the Temple of the Tooth.",
+    "studentAnswer": "My hometown is a beautiful city called Kandy.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "My hometown is Kandy, which is a beautiful city surrounded by mountains and famous for the Temple of the Tooth.",
+    "studentAnswer": "Kandy is my hometown and it has mountains.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "My hometown is Kandy, which is a beautiful city surrounded by mountains and famous for the Temple of the Tooth.",
+    "studentAnswer": "I am from Kandy.",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "My hometown is Kandy, which is a beautiful city surrounded by mountains and famous for the Temple of the Tooth.",
+    "studentAnswer": "My home is very big.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "My hometown is Kandy, which is a beautiful city surrounded by mountains and famous for the Temple of the Tooth.",
+    "studentAnswer": "I like my new school.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "My hometown is Kandy, which is a beautiful city surrounded by mountains and famous for the Temple of the Tooth.",
+    "studentAnswer": "My hometown is Kandy, it is famous for the Temple.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "My hometown is Kandy, which is a beautiful city surrounded by mountains and famous for the Temple of the Tooth.",
+    "studentAnswer": "Kandy is my hometown, surrounded by beautiful mountains.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "My hometown is Kandy, which is a beautiful city surrounded by mountains and famous for the Temple of the Tooth.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 8: Discuss the upcoming school educational trip to Sigiriya.
+  {
+    "modelAnswer": "I am really excited about our school trip to Sigiriya next week to see the ancient rock fortress.",
+    "studentAnswer": "I am really excited about our school trip to Sigiriya next week to see the ancient rock fortress.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "I am really excited about our school trip to Sigiriya next week to see the ancient rock fortress.",
+    "studentAnswer": "I am looking forward to our educational trip to see the Sigiriya rock fortress next week.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "I am really excited about our school trip to Sigiriya next week to see the ancient rock fortress.",
+    "studentAnswer": "I am excited to go on the school trip to Sigiriya.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am really excited about our school trip to Sigiriya next week to see the ancient rock fortress.",
+    "studentAnswer": "We are going to Sigiriya for our school trip.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am really excited about our school trip to Sigiriya next week to see the ancient rock fortress.",
+    "studentAnswer": "Sigiriya school trip is next week.",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "I am really excited about our school trip to Sigiriya next week to see the ancient rock fortress.",
+    "studentAnswer": "Sigiriya is a rock.",
+    "maxMarks": 6,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "I am really excited about our school trip to Sigiriya next week to see the ancient rock fortress.",
+    "studentAnswer": "I have a new bag for school.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really excited about our school trip to Sigiriya next week to see the ancient rock fortress.",
+    "studentAnswer": "My father went to Sigiriya.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am really excited about our school trip to Sigiriya next week to see the ancient rock fortress.",
+    "studentAnswer": "I am very happy about the Sigiriya trip next week.",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am really excited about our school trip to Sigiriya next week to see the ancient rock fortress.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you offer to help a teacher carry books to the staffroom?
+  {
+    "modelAnswer": "Excuse me teacher, those books look heavy. Shall I help you carry them to the staffroom?",
+    "studentAnswer": "Excuse me teacher, those books look heavy. Shall I help you carry them to the staffroom?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me teacher, those books look heavy. Shall I help you carry them to the staffroom?",
+    "studentAnswer": "Teacher, can I help you carry those books to the staffroom?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me teacher, those books look heavy. Shall I help you carry them to the staffroom?",
+    "studentAnswer": "Would you like me to help carry these books, teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me teacher, those books look heavy. Shall I help you carry them to the staffroom?",
+    "studentAnswer": "I can take these books to the staffroom for you.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me teacher, those books look heavy. Shall I help you carry them to the staffroom?",
+    "studentAnswer": "Can I carry books?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me teacher, those books look heavy. Shall I help you carry them to the staffroom?",
+    "studentAnswer": "Give me books.",
+    "maxMarks": 5,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Excuse me teacher, those books look heavy. Shall I help you carry them to the staffroom?",
+    "studentAnswer": "I am going to the staffroom.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me teacher, those books look heavy. Shall I help you carry them to the staffroom?",
+    "studentAnswer": "The books are on the table.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me teacher, those books look heavy. Shall I help you carry them to the staffroom?",
+    "studentAnswer": "Shall I help you take the books teacher?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me teacher, those books look heavy. Shall I help you carry them to the staffroom?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you congratulate a friend on winning a medal at the sports meet?
+  {
+    "modelAnswer": "Congratulations on winning the gold medal at the sports meet! You ran incredibly fast.",
+    "studentAnswer": "Congratulations on winning the gold medal at the sports meet! You ran incredibly fast.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on winning the gold medal at the sports meet! You ran incredibly fast.",
+    "studentAnswer": "Well done on winning a medal at the sports meet! I am so happy for you.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on winning the gold medal at the sports meet! You ran incredibly fast.",
+    "studentAnswer": "Congratulations for winning the medal!",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Congratulations on winning the gold medal at the sports meet! You ran incredibly fast.",
+    "studentAnswer": "Great job winning the race at the sports meet!",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Congratulations on winning the gold medal at the sports meet! You ran incredibly fast.",
+    "studentAnswer": "You won the medal, good job.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Congratulations on winning the gold medal at the sports meet! You ran incredibly fast.",
+    "studentAnswer": "Happy for your medal.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Congratulations on winning the gold medal at the sports meet! You ran incredibly fast.",
+    "studentAnswer": "I did not run in the sports meet.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Congratulations on winning the gold medal at the sports meet! You ran incredibly fast.",
+    "studentAnswer": "The sports meet was yesterday.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Congratulations on winning the gold medal at the sports meet! You ran incredibly fast.",
+    "studentAnswer": "Congrats on your win at the sports meet!",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Congratulations on winning the gold medal at the sports meet! You ran incredibly fast.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]

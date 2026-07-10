@@ -1,0 +1,621 @@
+[
+  // Question 1: How do you ask a friend to lend you their compass during a geometry class?
+  {
+    "modelAnswer": "Excuse me, I forgot my compass today. Could you please lend me yours for the geometry class?",
+    "studentAnswer": "Excuse me, I forgot my compass today. Could you please lend me yours for the geometry class?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my compass today. Could you please lend me yours for the geometry class?",
+    "studentAnswer": "Can I please borrow your compass for geometry class? I forgot to bring mine.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my compass today. Could you please lend me yours for the geometry class?",
+    "studentAnswer": "Please lend me your compass for the geometry class. I don't have mine today.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my compass today. Could you please lend me yours for the geometry class?",
+    "studentAnswer": "Can you give me your compass for geometry? I forgot mine.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my compass today. Could you please lend me yours for the geometry class?",
+    "studentAnswer": "Lend me your compass please, forgot mine.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my compass today. Could you please lend me yours for the geometry class?",
+    "studentAnswer": "I want compass.",
+    "maxMarks": 5,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my compass today. Could you please lend me yours for the geometry class?",
+    "studentAnswer": "Geometry class is very difficult.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my compass today. Could you please lend me yours for the geometry class?",
+    "studentAnswer": "I have a blue pencil box.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my compass today. Could you please lend me yours for the geometry class?",
+    "studentAnswer": "Excuse me, could you lend me your compass? I forgot my compass.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, I forgot my compass today. Could you please lend me yours for the geometry class?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 2: How do you congratulate a classmate on being selected as the school prefect?
+  {
+    "modelAnswer": "Congratulations on being selected as a school prefect! I am sure you will do a wonderful job.",
+    "studentAnswer": "Congratulations on being selected as a school prefect! I am sure you will do a wonderful job.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on being selected as a school prefect! I am sure you will do a wonderful job.",
+    "studentAnswer": "Well done on becoming a school prefect! I know you will do a great job.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on being selected as a school prefect! I am sure you will do a wonderful job.",
+    "studentAnswer": "Congratulations on being chosen as a school prefect! You deserve it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on being selected as a school prefect! I am sure you will do a wonderful job.",
+    "studentAnswer": "Congrats for becoming a prefect, you will do well.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Congratulations on being selected as a school prefect! I am sure you will do a wonderful job.",
+    "studentAnswer": "Congratulations, you are a prefect now.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Congratulations on being selected as a school prefect! I am sure you will do a wonderful job.",
+    "studentAnswer": "Prefects wear white badges.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Congratulations on being selected as a school prefect! I am sure you will do a wonderful job.",
+    "studentAnswer": "I want to be a prefect too.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Congratulations on being selected as a school prefect! I am sure you will do a wonderful job.",
+    "studentAnswer": "Congratulations on being selected as a prefect! I am sure you will do great.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Congratulations on being selected as a school prefect! I am sure you will do a wonderful job.",
+    "studentAnswer": "Congrats on being prefect.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Congratulations on being selected as a school prefect! I am sure you will do a wonderful job.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 3: How do you request a teacher to give extra time for a difficult exam?
+  {
+    "modelAnswer": "Excuse me teacher, this paper is quite long. Could you please give us ten more minutes to complete it?",
+    "studentAnswer": "Excuse me teacher, this paper is quite long. Could you please give us ten more minutes to complete it?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me teacher, this paper is quite long. Could you please give us ten more minutes to complete it?",
+    "studentAnswer": "Teacher, can you please give us a little more time? The paper is very long.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me teacher, this paper is quite long. Could you please give us ten more minutes to complete it?",
+    "studentAnswer": "Excuse me teacher, please give us ten minutes extra time to finish this exam.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me teacher, this paper is quite long. Could you please give us ten more minutes to complete it?",
+    "studentAnswer": "Teacher, can we get extra time to do this paper?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me teacher, this paper is quite long. Could you please give us ten more minutes to complete it?",
+    "studentAnswer": "Give extra time please, paper is long.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me teacher, this paper is quite long. Could you please give us ten more minutes to complete it?",
+    "studentAnswer": "I wrote five answers.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me teacher, this paper is quite long. Could you please give us ten more minutes to complete it?",
+    "studentAnswer": "Exams are very stressful.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me teacher, this paper is quite long. Could you please give us ten more minutes to complete it?",
+    "studentAnswer": "Excuse me teacher, can you give us ten more minutes to finish?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me teacher, this paper is quite long. Could you please give us ten more minutes to complete it?",
+    "studentAnswer": "Teacher, extra time please.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Excuse me teacher, this paper is quite long. Could you please give us ten more minutes to complete it?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 4: How do you apologize to a classmate for stepping on their foot by accident?
+  {
+    "modelAnswer": "I am so sorry! I did not see you standing there and accidentally stepped on your foot.",
+    "studentAnswer": "I am so sorry! I did not see you standing there and accidentally stepped on your foot.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry! I did not see you standing there and accidentally stepped on your foot.",
+    "studentAnswer": "Sorry! I stepped on your foot by accident. I hope you are okay.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry! I did not see you standing there and accidentally stepped on your foot.",
+    "studentAnswer": "I am sorry for stepping on your foot, I did not do it on purpose.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry! I did not see you standing there and accidentally stepped on your foot.",
+    "studentAnswer": "Sorry I stepped on your foot.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am so sorry! I did not see you standing there and accidentally stepped on your foot.",
+    "studentAnswer": "Stepped on your foot, sorry.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am so sorry! I did not see you standing there and accidentally stepped on your foot.",
+    "studentAnswer": "My shoes are dirty.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am so sorry! I did not see you standing there and accidentally stepped on your foot.",
+    "studentAnswer": "We are walking to class.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am so sorry! I did not see you standing there and accidentally stepped on your foot.",
+    "studentAnswer": "I am really sorry, I stepped on your foot by accident.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am so sorry! I did not see you standing there and accidentally stepped on your foot.",
+    "studentAnswer": "Sorry, hurt your foot.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "I am so sorry! I did not see you standing there and accidentally stepped on your foot.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 5: How do you tell a parent you need new white shoes for school?
+  {
+    "modelAnswer": "Amma, my school shoes are too small for me now. Could you please buy me a new pair of white shoes?",
+    "studentAnswer": "Amma, my school shoes are too small for me now. Could you please buy me a new pair of white shoes?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Amma, my school shoes are too small for me now. Could you please buy me a new pair of white shoes?",
+    "studentAnswer": "Mother, I need new white school shoes because my current ones are tight.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Amma, my school shoes are too small for me now. Could you please buy me a new pair of white shoes?",
+    "studentAnswer": "Amma, please buy me new white shoes for school. These are very old.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Amma, my school shoes are too small for me now. Could you please buy me a new pair of white shoes?",
+    "studentAnswer": "Amma, I want new white shoes for school.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Amma, my school shoes are too small for me now. Could you please buy me a new pair of white shoes?",
+    "studentAnswer": "Need new white shoes Amma.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Amma, my school shoes are too small for me now. Could you please buy me a new pair of white shoes?",
+    "studentAnswer": "I polish my shoes every day.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Amma, my school shoes are too small for me now. Could you please buy me a new pair of white shoes?",
+    "studentAnswer": "My uniform is white.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Amma, my school shoes are too small for me now. Could you please buy me a new pair of white shoes?",
+    "studentAnswer": "Amma, my school shoes are torn, I need new white shoes.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Amma, my school shoes are too small for me now. Could you please buy me a new pair of white shoes?",
+    "studentAnswer": "Buy white shoes Amma.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Amma, my school shoes are too small for me now. Could you please buy me a new pair of white shoes?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 6: How do you complain to the school office about a leaking tap in the washroom?
+  {
+    "modelAnswer": "Excuse me, I noticed that a tap is leaking in the boys' washroom. Could you please get it fixed?",
+    "studentAnswer": "Excuse me, I noticed that a tap is leaking in the boys' washroom. Could you please get it fixed?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I noticed that a tap is leaking in the boys' washroom. Could you please get it fixed?",
+    "studentAnswer": "Excuse me, there is a leaking tap in the washroom. Please repair it.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I noticed that a tap is leaking in the boys' washroom. Could you please get it fixed?",
+    "studentAnswer": "I saw a washroom tap leaking. Can you please tell the worker to fix it?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Excuse me, I noticed that a tap is leaking in the boys' washroom. Could you please get it fixed?",
+    "studentAnswer": "The tap in the washroom is leaking, please repair.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, I noticed that a tap is leaking in the boys' washroom. Could you please get it fixed?",
+    "studentAnswer": "Washroom tap leaking.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Excuse me, I noticed that a tap is leaking in the boys' washroom. Could you please get it fixed?",
+    "studentAnswer": "I washed my hands.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, I noticed that a tap is leaking in the boys' washroom. Could you please get it fixed?",
+    "studentAnswer": "The school office is near the gate.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Excuse me, I noticed that a tap is leaking in the boys' washroom. Could you please get it fixed?",
+    "studentAnswer": "Excuse me, there is a leaking water tap in the school washroom.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Excuse me, I noticed that a tap is leaking in the boys' washroom. Could you please get it fixed?",
+    "studentAnswer": "Tap leaking, fix it.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Excuse me, I noticed that a tap is leaking in the boys' washroom. Could you please get it fixed?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 7: How do you describe a Poson celebration to a foreign friend?
+  {
+    "modelAnswer": "Poson is a festival celebrating the arrival of Buddhism in Sri Lanka, where we light lanterns, make dansalas, and climb Mihintale rock.",
+    "studentAnswer": "Poson is a festival celebrating the arrival of Buddhism in Sri Lanka, where we light lanterns, make dansalas, and climb Mihintale rock.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Poson is a festival celebrating the arrival of Buddhism in Sri Lanka, where we light lanterns, make dansalas, and climb Mihintale rock.",
+    "studentAnswer": "We celebrate Poson to mark Buddhism coming to Sri Lanka. We light lanterns and go to Mihintale.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "Poson is a festival celebrating the arrival of Buddhism in Sri Lanka, where we light lanterns, make dansalas, and climb Mihintale rock.",
+    "studentAnswer": "Poson festival is for Buddhism in Sri Lanka. We light lanterns and visit temples.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Poson is a festival celebrating the arrival of Buddhism in Sri Lanka, where we light lanterns, make dansalas, and climb Mihintale rock.",
+    "studentAnswer": "Poson is a Buddhist festival in Sri Lanka, we have dansal and lanterns.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Poson is a festival celebrating the arrival of Buddhism in Sri Lanka, where we light lanterns, make dansalas, and climb Mihintale rock.",
+    "studentAnswer": "We celebrate Poson with lanterns.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Poson is a festival celebrating the arrival of Buddhism in Sri Lanka, where we light lanterns, make dansalas, and climb Mihintale rock.",
+    "studentAnswer": "Poson is in June.",
+    "maxMarks": 6,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Poson is a festival celebrating the arrival of Buddhism in Sri Lanka, where we light lanterns, make dansalas, and climb Mihintale rock.",
+    "studentAnswer": "Sri Lanka has beautiful beaches.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Poson is a festival celebrating the arrival of Buddhism in Sri Lanka, where we light lanterns, make dansalas, and climb Mihintale rock.",
+    "studentAnswer": "I went to Anuradhapura.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Poson is a festival celebrating the arrival of Buddhism in Sri Lanka, where we light lanterns, make dansalas, and climb Mihintale rock.",
+    "studentAnswer": "Poson is when Buddhism came to Sri Lanka, we climb Mihintale rock.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Poson is a festival celebrating the arrival of Buddhism in Sri Lanka, where we light lanterns, make dansalas, and climb Mihintale rock.",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 8: How do you invite a friend to attend the school prize-giving ceremony?
+  {
+    "modelAnswer": "I am receiving an award at the school prize-giving next Tuesday. Would you like to come and watch?",
+    "studentAnswer": "I am receiving an award at the school prize-giving next Tuesday. Would you like to come and watch?",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "I am receiving an award at the school prize-giving next Tuesday. Would you like to come and watch?",
+    "studentAnswer": "Would you like to attend our school prize-giving ceremony next Tuesday? I am getting a prize.",
+    "maxMarks": 6,
+    "teacherMarks": 6
+  },
+  {
+    "modelAnswer": "I am receiving an award at the school prize-giving next Tuesday. Would you like to come and watch?",
+    "studentAnswer": "Please come to our school prize-giving next Tuesday, I am winning a prize.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am receiving an award at the school prize-giving next Tuesday. Would you like to come and watch?",
+    "studentAnswer": "Can you come to my school prize-giving next week?",
+    "maxMarks": 6,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "I am receiving an award at the school prize-giving next Tuesday. Would you like to come and watch?",
+    "studentAnswer": "Come to school prize-giving next Tuesday.",
+    "maxMarks": 6,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "I am receiving an award at the school prize-giving next Tuesday. Would you like to come and watch?",
+    "studentAnswer": "I got a certificate.",
+    "maxMarks": 6,
+    "teacherMarks": 1
+  },
+  {
+    "modelAnswer": "I am receiving an award at the school prize-giving next Tuesday. Would you like to come and watch?",
+    "studentAnswer": "The school hall is decorated.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am receiving an award at the school prize-giving next Tuesday. Would you like to come and watch?",
+    "studentAnswer": "My class teacher is very happy.",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "I am receiving an award at the school prize-giving next Tuesday. Would you like to come and watch?",
+    "studentAnswer": "I want to invite you to the school prize-giving ceremony next Tuesday.",
+    "maxMarks": 6,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "I am receiving an award at the school prize-giving next Tuesday. Would you like to come and watch?",
+    "studentAnswer": "",
+    "maxMarks": 6,
+    "teacherMarks": 0
+  },
+
+  // Question 9: How do you thank a neighbor for watering your plants while you were away?
+  {
+    "modelAnswer": "Thank you so much for watering my plants while I was on holiday. I really appreciate your help.",
+    "studentAnswer": "Thank you so much for watering my plants while I was on holiday. I really appreciate your help.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for watering my plants while I was on holiday. I really appreciate your help.",
+    "studentAnswer": "Thanks a lot for watering the plants while I was away. They look very healthy.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for watering my plants while I was on holiday. I really appreciate your help.",
+    "studentAnswer": "Thank you for watering my garden plants while I was not at home.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for watering my plants while I was on holiday. I really appreciate your help.",
+    "studentAnswer": "Thanks for watering the plants when I went on holiday.",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Thank you so much for watering my plants while I was on holiday. I really appreciate your help.",
+    "studentAnswer": "Thanks for watering my plants.",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Thank you so much for watering my plants while I was on holiday. I really appreciate your help.",
+    "studentAnswer": "I went to Nuwara Eliya.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much for watering my plants while I was on holiday. I really appreciate your help.",
+    "studentAnswer": "My neighbor has a big dog.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Thank you so much for watering my plants while I was on holiday. I really appreciate your help.",
+    "studentAnswer": "Thank you so much for watering my plants while I was away.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Thank you so much for watering my plants while I was on holiday. I really appreciate your help.",
+    "studentAnswer": "Watered plants, thank you.",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Thank you so much for watering my plants while I was on holiday. I really appreciate your help.",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+
+  // Question 10: How do you suggest to a friend to join a book reading group at the library?
+  {
+    "modelAnswer": "Why don't you join the book reading group at the public library with me this Friday?",
+    "studentAnswer": "Why don't you join the book reading group at the public library with me this Friday?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Why don't you join the book reading group at the public library with me this Friday?",
+    "studentAnswer": "Shall we join the library book reading club this Friday?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Why don't you join the book reading group at the public library with me this Friday?",
+    "studentAnswer": "Let's join the book reading group at the library this Friday.",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Why don't you join the book reading group at the public library with me this Friday?",
+    "studentAnswer": "Would you like to join the library reading group this Friday?",
+    "maxMarks": 5,
+    "teacherMarks": 4
+  },
+  {
+    "modelAnswer": "Why don't you join the book reading group at the public library with me this Friday?",
+    "studentAnswer": "Join library reading group with me?",
+    "maxMarks": 5,
+    "teacherMarks": 3
+  },
+  {
+    "modelAnswer": "Why don't you join the book reading group at the public library with me this Friday?",
+    "studentAnswer": "I have many storybooks at home.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Why don't you join the book reading group at the public library with me this Friday?",
+    "studentAnswer": "The library is closed on Sundays.",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  },
+  {
+    "modelAnswer": "Why don't you join the book reading group at the public library with me this Friday?",
+    "studentAnswer": "Why don't we join the book reading club at the library this Friday?",
+    "maxMarks": 5,
+    "teacherMarks": 5
+  },
+  {
+    "modelAnswer": "Why don't you join the book reading group at the public library with me this Friday?",
+    "studentAnswer": "Read books at library group?",
+    "maxMarks": 5,
+    "teacherMarks": 2
+  },
+  {
+    "modelAnswer": "Why don't you join the book reading group at the public library with me this Friday?",
+    "studentAnswer": "",
+    "maxMarks": 5,
+    "teacherMarks": 0
+  }
+]
