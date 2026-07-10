@@ -9,6 +9,7 @@ import examRoutes from './routes/exam.routes';
 import attemptRoutes from './routes/attempt.routes';
 import gradingRoutes from './routes/grading.routes';
 import videoRoutes from './routes/video.routes';
+import studentResultsRoutes from './routes/studentResults.routes';
 
 dotenv.config();
 
@@ -27,6 +28,8 @@ app.use('/api/exams', examRoutes);
 app.use('/api/exams', attemptRoutes);
 app.use('/api/exams', gradingRoutes);
 app.use('/api/videos', videoRoutes);
+app.use('/api/student', studentResultsRoutes);
+
 
 
 // Health check
