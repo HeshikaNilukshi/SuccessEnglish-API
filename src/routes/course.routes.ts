@@ -19,6 +19,7 @@ router.post(
 
 router.get('/', courseController.getAllCourses);
 router.get('/:id', auth, courseController.getCourse);
+router.get('/:id/stats', auth, courseController.getCourseStats);
 router.get('/:id/students', auth, role('ADMIN', 'TEACHER'), courseController.getStudentsByCourse);
 
 router.put(

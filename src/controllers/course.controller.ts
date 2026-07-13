@@ -210,3 +210,61 @@ export const getStudentsByCourse = async (req: Request, res: Response): Promise<
     res.status(500).json({ message: 'Internal server error' });
   }
 };
+
+export const getCourseStats = async (req: Request, res: Response): Promise<void> => {
+  if (!req.user) {
+    res.status(401).json({ message: 'Unauthorized' });
+    return;
+  }
+
+  const courseId = parseInt(req.params.id as string, 10);
+  if (isNaN(courseId)) {
+    res.status(400).json({ message: 'Invalid Course ID' });
+    return;
+  }
+
+  try {
+    const course = await prisma.course.findUnique({
+      where: { id: courseId },
+    });
+
+    if (!course) {
+      res.status(404).json({ message: 'Course not found' });
+      return;
+    }
+
+    const [videoCount, examCount, studentCount, resultsCount] = await Promise.all([
+      prisma.video.count({
+        where: { courseId }
+      }),
+      prisma.exam.count({
+        where: { courseId }
+      }),
+      prisma.enrollment.count({
+        where: { courseId, verified: true }
+      }),
+      req.user.role === 'STUDENT'
+        ? prisma.examAttempt.count({
+            where: {
+              studentId: req.user.id,
+              exam: { courseId }
+            }
+          })
+        : prisma.examAttempt.count({
+            where: {
+              exam: { courseId }
+            }
+          })
+    ]);
+
+    res.status(200).json({
+      videoCount,
+      examCount,
+      studentCount,
+      resultsCount
+    });
+  } catch (error) {
+    console.error('Get course stats error:', error);
+    res.status(500).json({ message: 'Internal server error' });
+  }
+};
