@@ -36,6 +36,14 @@ export const createCourse = async (req: Request, res: Response): Promise<void> =
 export const getAllCourses = async (req: Request, res: Response): Promise<void> => {
   try {
     const courses = await prisma.course.findMany({
+      include: {
+        creator: {
+          select: {
+            id: true,
+            name: true,
+          }
+        }
+      },
       orderBy: {
         createdAt: 'desc',
       },
