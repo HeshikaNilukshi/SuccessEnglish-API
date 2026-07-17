@@ -70,8 +70,8 @@ export const getCourse = async (req: Request, res: Response): Promise<void> => {
         _count: {
           select: {
             enrollments: true,
-            exams: true,
-            videos: true,
+            exams: req.user.role === 'STUDENT' ? { where: { isAdminApproved: true } } : true,
+            videos: req.user.role === 'STUDENT' ? { where: { isAdminApproved: true } } : true,
           },
         },
       },
@@ -241,12 +241,17 @@ export const getCourseStats = async (req: Request, res: Response): Promise<void>
       return;
     }
 
+    const contentWhere: any = { courseId };
+    if (req.user.role === 'STUDENT') {
+      contentWhere.isAdminApproved = true;
+    }
+
     const [videoCount, examCount, studentCount, resultsCount] = await Promise.all([
       prisma.video.count({
-        where: { courseId }
+        where: contentWhere
       }),
       prisma.exam.count({
-        where: { courseId }
+        where: contentWhere
       }),
       prisma.enrollment.count({
         where: { courseId, verified: true }

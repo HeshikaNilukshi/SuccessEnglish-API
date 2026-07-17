@@ -45,4 +45,6 @@ router.put(
 
 router.delete('/:id', auth, role('ADMIN', 'TEACHER'), examController.deleteExam);
 
+router.patch('/:id/toggle-approval', auth, role('ADMIN'), examController.toggleExamApproval);
+
 export default router;

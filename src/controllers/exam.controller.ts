@@ -95,8 +95,13 @@ export const getExamsByCourse = async (req: Request, res: Response): Promise<voi
       }
     }
 
+    const whereClause: any = { courseId };
+    if (req.user.role === 'STUDENT') {
+      whereClause.isAdminApproved = true;
+    }
+
     const exams = await prisma.exam.findMany({
-      where: { courseId },
+      where: whereClause,
       include: {
         _count: {
           select: { questions: true },
@@ -137,6 +142,11 @@ export const getExam = async (req: Request, res: Response): Promise<void> => {
 
     if (!exam) {
       res.status(404).json({ message: 'Exam not found' });
+      return;
+    }
+
+    if (req.user.role === 'STUDENT' && !exam.isAdminApproved) {
+      res.status(403).json({ message: 'Access denied: Exam is not approved' });
       return;
     }
 
@@ -317,3 +327,38 @@ export const deleteExam = async (req: Request, res: Response): Promise<void> => 
   }
 };
 
+export const toggleExamApproval = async (req: Request, res: Response): Promise<void> => {
+  if (!req.user || req.user.role !== 'ADMIN') {
+    res.status(401).json({ message: 'Unauthorized' });
+    return;
+  }
+
+  const id = parseInt(req.params.id as string, 10);
+  const { isAdminApproved } = req.body;
+
+  if (typeof isAdminApproved !== 'boolean') {
+    res.status(400).json({ message: 'isAdminApproved must be a boolean' });
+    return;
+  }
+
+  try {
+    const examExists = await prisma.exam.findUnique({
+      where: { id },
+    });
+
+    if (!examExists) {
+      res.status(404).json({ message: 'Exam not found' });
+      return;
+    }
+
+    const updatedExam = await prisma.exam.update({
+      where: { id },
+      data: { isAdminApproved },
+    });
+
+    res.status(200).json(updatedExam);
+  } catch (error) {
+    console.error('Toggle exam approval error:', error);
+    res.status(500).json({ message: 'Internal server error' });
+  }
+};

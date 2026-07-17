@@ -93,8 +93,13 @@ export const getVideosByCourse = async (req: Request, res: Response): Promise<vo
       }
     }
 
+    const whereClause: any = { courseId };
+    if (req.user.role === 'STUDENT') {
+      whereClause.isAdminApproved = true;
+    }
+
     const videos = await prisma.video.findMany({
-      where: { courseId },
+      where: whereClause,
       orderBy: { createdAt: 'desc' },
     });
 
@@ -124,6 +129,11 @@ export const getVideo = async (req: Request, res: Response): Promise<void> => {
 
     if (!video) {
       res.status(404).json({ message: 'Video not found' });
+      return;
+    }
+
+    if (req.user.role === 'STUDENT' && !video.isAdminApproved) {
+      res.status(403).json({ message: 'Access denied: Video is not approved' });
       return;
     }
 
@@ -243,6 +253,47 @@ export const deleteVideo = async (req: Request, res: Response): Promise<void> =>
     res.status(200).json({ message: 'Video deleted successfully' });
   } catch (error) {
     console.error('Delete video error:', error);
+    res.status(500).json({ message: 'Internal server error' });
+  }
+};
+
+export const toggleVideoApproval = async (req: Request, res: Response): Promise<void> => {
+  if (!req.user || req.user.role !== 'ADMIN') {
+    res.status(401).json({ message: 'Unauthorized' });
+    return;
+  }
+
+  const id = parseInt(req.params.id as string, 10);
+  if (isNaN(id)) {
+    res.status(400).json({ message: 'Invalid ID' });
+    return;
+  }
+
+  const { isAdminApproved } = req.body;
+
+  if (typeof isAdminApproved !== 'boolean') {
+    res.status(400).json({ message: 'isAdminApproved must be a boolean' });
+    return;
+  }
+
+  try {
+    const existingVideo = await prisma.video.findUnique({
+      where: { id },
+    });
+
+    if (!existingVideo) {
+      res.status(404).json({ message: 'Video not found' });
+      return;
+    }
+
+    const updatedVideo = await prisma.video.update({
+      where: { id },
+      data: { isAdminApproved },
+    });
+
+    res.status(200).json(updatedVideo);
+  } catch (error) {
+    console.error('Toggle video approval error:', error);
     res.status(500).json({ message: 'Internal server error' });
   }
 };

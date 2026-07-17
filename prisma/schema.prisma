@@ -65,6 +65,7 @@ model Exam {
   passMark  Int      @default(0)
   courseId   Int
   createdBy Int
+  isAdminApproved Boolean @default(true)
   createdAt DateTime @default(now())
 
   course    Course    @relation(fields: [courseId], references: [id])
@@ -118,6 +119,7 @@ model Video {
   title     String
   videoUrl  String   @db.Text
   publicId  String   @db.Text
+  isAdminApproved Boolean @default(true)
   createdAt DateTime @default(now())
 
   course Course @relation(fields: [courseId], references: [id], onDelete: Cascade)

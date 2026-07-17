@@ -39,4 +39,6 @@ router.put(
 
 router.delete('/:id', auth, role('ADMIN', 'TEACHER'), videoController.deleteVideo);
 
+router.patch('/:id/toggle-approval', auth, role('ADMIN'), videoController.toggleVideoApproval);
+
 export default router;
