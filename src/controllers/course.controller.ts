@@ -196,8 +196,27 @@ export const getStudentsByCourse = async (req: Request, res: Response): Promise<
       return;
     }
 
+    const search = req.query.search as string;
+    const whereClause: any = { courseId };
+
+    if (search) {
+      const searchNum = parseInt(search, 10);
+      const isNumeric = !isNaN(searchNum);
+
+      whereClause.user = {
+        OR: [
+          { name: { contains: search } },
+          { email: { contains: search } }
+        ]
+      };
+
+      if (isNumeric) {
+        whereClause.user.OR.push({ id: searchNum });
+      }
+    }
+
     const enrollments = await prisma.enrollment.findMany({
-      where: { courseId },
+      where: whereClause,
       include: {
         user: {
           select: {

@@ -95,9 +95,23 @@ export const getExamsByCourse = async (req: Request, res: Response): Promise<voi
       }
     }
 
+    const search = req.query.search as string;
     const whereClause: any = { courseId };
     if (req.user.role === 'STUDENT') {
       whereClause.isAdminApproved = true;
+    }
+
+    if (search) {
+      const searchNum = parseInt(search, 10);
+      const isNumeric = !isNaN(searchNum);
+
+      whereClause.OR = [
+        { title: { contains: search } }
+      ];
+
+      if (isNumeric) {
+        whereClause.OR.push({ id: searchNum });
+      }
     }
 
     const exams = await prisma.exam.findMany({

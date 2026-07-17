@@ -253,12 +253,37 @@ export const getAllResultsByCourse = async (req: Request, res: Response): Promis
       return;
     }
 
-    const attempts = await prisma.examAttempt.findMany({
-      where: {
-        exam: {
-          courseId,
-        },
+    const search = req.query.search as string;
+    const whereClause: any = {
+      exam: {
+        courseId,
       },
+    };
+
+    if (search) {
+      const searchNum = parseInt(search, 10);
+      const isNumeric = !isNaN(searchNum);
+
+      whereClause.OR = [
+        {
+          student: {
+            name: { contains: search },
+          },
+        },
+        {
+          exam: {
+            title: { contains: search },
+          },
+        },
+      ];
+
+      if (isNumeric) {
+        whereClause.OR.push({ id: searchNum });
+      }
+    }
+
+    const attempts = await prisma.examAttempt.findMany({
+      where: whereClause,
       include: {
         student: {
           select: {
@@ -356,13 +381,33 @@ export const getMyResultsByCourse = async (req: Request, res: Response): Promise
       return;
     }
 
-    const attempts = await prisma.examAttempt.findMany({
-      where: {
-        studentId,
-        exam: {
-          courseId,
-        },
+    const search = req.query.search as string;
+    const whereClause: any = {
+      studentId,
+      exam: {
+        courseId,
       },
+    };
+
+    if (search) {
+      const searchNum = parseInt(search, 10);
+      const isNumeric = !isNaN(searchNum);
+
+      whereClause.OR = [
+        {
+          exam: {
+            title: { contains: search },
+          },
+        },
+      ];
+
+      if (isNumeric) {
+        whereClause.OR.push({ id: searchNum });
+      }
+    }
+
+    const attempts = await prisma.examAttempt.findMany({
+      where: whereClause,
       include: {
         exam: {
           select: {

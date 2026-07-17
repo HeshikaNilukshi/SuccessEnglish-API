@@ -93,9 +93,23 @@ export const getVideosByCourse = async (req: Request, res: Response): Promise<vo
       }
     }
 
+    const search = req.query.search as string;
     const whereClause: any = { courseId };
     if (req.user.role === 'STUDENT') {
       whereClause.isAdminApproved = true;
+    }
+
+    if (search) {
+      const searchNum = parseInt(search, 10);
+      const isNumeric = !isNaN(searchNum);
+
+      whereClause.OR = [
+        { title: { contains: search } }
+      ];
+
+      if (isNumeric) {
+        whereClause.OR.push({ id: searchNum });
+      }
     }
 
     const videos = await prisma.video.findMany({

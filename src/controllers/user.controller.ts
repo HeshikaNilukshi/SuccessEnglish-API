@@ -51,10 +51,30 @@ export const createUser = async (req: Request, res: Response): Promise<void> => 
 
 export const getAllUsers = async (req: Request, res: Response): Promise<void> => {
   const role = req.query.role as string;
+  const search = req.query.search as string;
 
   try {
+    const where: any = {};
+    if (role) {
+      where.role = role as any;
+    }
+
+    if (search) {
+      const searchNum = parseInt(search, 10);
+      const isNumeric = !isNaN(searchNum);
+
+      where.OR = [
+        { name: { contains: search } },
+        { email: { contains: search } },
+      ];
+
+      if (isNumeric) {
+        where.OR.push({ id: searchNum });
+      }
+    }
+
     const users = await prisma.user.findMany({
-      where: role ? { role: role as any } : undefined,
+      where,
       select: userSelect,
       orderBy: {
         createdAt: 'desc',
