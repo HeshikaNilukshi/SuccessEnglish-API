@@ -117,10 +117,23 @@ model Video {
   id        Int      @id @default(autoincrement())
   courseId   Int
   title     String
+  description String? @db.Text
   videoUrl  String   @db.Text
   publicId  String   @db.Text
   isAdminApproved Boolean @default(true)
   createdAt DateTime @default(now())
 
   course Course @relation(fields: [courseId], references: [id], onDelete: Cascade)
+  materials Material[]
+}
+
+model Material {
+  id        Int      @id @default(autoincrement())
+  videoId   Int
+  name      String
+  url       String   @db.Text
+  publicId  String   @db.Text
+  createdAt DateTime @default(now())
+
+  video Video @relation(fields: [videoId], references: [id], onDelete: Cascade)
 }

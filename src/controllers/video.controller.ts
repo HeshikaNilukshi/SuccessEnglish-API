@@ -25,7 +25,7 @@ export const saveVideo = async (req: Request, res: Response): Promise<void> => {
     return;
   }
 
-  const { title, videoUrl, publicId } = req.body;
+  const { title, description, videoUrl, publicId } = req.body;
   const courseId = parseInt(req.body.courseId, 10);
 
   try {
@@ -47,6 +47,7 @@ export const saveVideo = async (req: Request, res: Response): Promise<void> => {
       data: {
         courseId,
         title,
+        description,
         videoUrl,
         publicId,
       },
@@ -191,7 +192,7 @@ export const updateVideo = async (req: Request, res: Response): Promise<void> =>
     res.status(400).json({ message: 'Invalid ID' });
     return;
   }
-  const { title, videoUrl, publicId } = req.body;
+  const { title, description, videoUrl, publicId } = req.body;
 
   try {
     const existingVideo = await prisma.video.findUnique({
@@ -211,6 +212,7 @@ export const updateVideo = async (req: Request, res: Response): Promise<void> =>
 
     const updateData: any = {};
     if (title !== undefined) updateData.title = title;
+    if (description !== undefined) updateData.description = description;
 
     if (videoUrl && publicId) {
       await deleteFromCloudinary(existingVideo.publicId);
