@@ -10,7 +10,6 @@ export const getStudentDashboardData = async (req: Request, res: Response): Prom
       return;
     }
 
-    // Fetch the student user first to get their name
     const student = await prisma.user.findUnique({
       where: { id: studentId },
       select: { name: true }
@@ -21,7 +20,6 @@ export const getStudentDashboardData = async (req: Request, res: Response): Prom
       return;
     }
 
-    // Fetch all graded exam attempts for the student
     const attempts = await prisma.examAttempt.findMany({
       where: {
         studentId,
@@ -35,11 +33,10 @@ export const getStudentDashboardData = async (req: Request, res: Response): Prom
         }
       },
       orderBy: {
-        createdAt: 'asc', // Timeline from oldest to latest
+        createdAt: 'asc',
       }
     });
 
-    // Area Chart Data (Timeline of final marks)
     const areaChartData = attempts.map(attempt => ({
       attemptId: attempt.id,
       examTitle: attempt.exam.title,

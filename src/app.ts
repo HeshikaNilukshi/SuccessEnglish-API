@@ -33,8 +33,6 @@ app.use('/api/student', studentResultsRoutes);
 app.use('/api/materials', materialRoutes);
 
 
-
-// Health check
 app.get('/api/health', (req, res) => {
   res.json({ status: 'ok' });
 });

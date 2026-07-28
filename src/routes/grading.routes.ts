@@ -20,7 +20,6 @@ router.put(
   gradingController.updateAttemptMarks
 );
 
-// AI Evaluation Route
 router.post(
   '/answer/:answerId/evaluate-ai',
   auth,
@@ -28,7 +27,6 @@ router.post(
   gradingController.evaluateAnswerWithAI
 );
 
-// AI Batch Evaluation Route for an entire Attempt
 router.post(
   '/attempt/:attemptId/evaluate-ai',
   auth,
