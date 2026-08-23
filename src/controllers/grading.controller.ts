@@ -4,6 +4,8 @@ import { spawn } from 'child_process';
 import path from 'path';
 import prisma from '../config/db';
 
+const pythonExecutable = 'python';
+
 export const updateAttemptMarks = async (req: Request, res: Response): Promise<void> => {
   if (!req.user) {
     res.status(401).json({ message: 'Unauthorized' });
@@ -125,9 +127,6 @@ export const evaluateAnswerWithAI = async (req: Request, res: Response): Promise
       maxMarks: answer.question.marks
     };
 
-    const isWindows = process.platform === 'win32';
-
-    const pythonExecutable = process.env.PYTHON_VENV_PATH || path.join(__dirname, '..', '..', 'venv', isWindows ? 'Scripts' : 'bin', 'python');
     const scriptPath = path.join(__dirname, '..', 'ml', 'evaluate.py');
 
     const pythonProcess = spawn(pythonExecutable, [scriptPath, JSON.stringify(evaluationData)], {
@@ -207,8 +206,6 @@ export const evaluateAttemptWithAI = async (req: Request, res: Response): Promis
       return;
     }
 
-    const isWindows = process.platform === 'win32';
-    const pythonExecutable = path.join(__dirname, '..', '..', 'venv', isWindows ? 'Scripts' : 'bin', 'python');
     const scriptPath = path.join(__dirname, '..', 'ml', 'evaluate.py');
 
     const pythonProcess = spawn(pythonExecutable, [scriptPath, JSON.stringify(evaluationData)], {
